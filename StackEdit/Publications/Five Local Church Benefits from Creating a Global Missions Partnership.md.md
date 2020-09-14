@@ -2,7 +2,7 @@
 ---
 Type: [[Blog]]
 
-Topics: [[Missions]] | [[International Missions]] | [[Sending Pathways]]
+Topics: [[Christian Missions]] | [[International Missions]] | [[Sending Pathways]]
 
 Published at: [[Peoples Next Door]]
 
@@ -36,5 +36,5 @@ Clearly church partnerships with missionary teams are a key component in develop
 
 Of course, once a church is convinced of the need to develop these partnerships, the next is figuring our how to find the right partners. And in the next article, I will provide five simple questions to guided a church in finding the right missionary partners.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjYxNTc3MV19
+eyJoaXN0b3J5IjpbLTE2MDI2NTQwNjAsMTYzNjYxNTc3MV19
 -->
