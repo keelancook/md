@@ -44,5 +44,7 @@ In fact, persistent sin issues will always follow you to the field. They are har
 All three of these reasons point to one overarching issue: character. Paul writes to the church in Ephesus saying, “I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called” (Eph 4:1). Yes, we need more missionaries. And yes, you need to search your heart and determine if you are one. But Godly character must come before the plane ticket.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0OTcwMTU1XX0=
+eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTY0Mzk2Mjc1Nl19
+
 -->
