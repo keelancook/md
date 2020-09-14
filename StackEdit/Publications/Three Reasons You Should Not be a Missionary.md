@@ -1,7 +1,7 @@
 # Three Reasons You Should Not be a Missionary
 ---
 
-Type: [[Blog]]
+Type: [[Blog]] | [[Test]]
 
 Topics: [[Missions]] | [[International Missions]]
 
@@ -45,6 +45,6 @@ All three of these reasons point to one overarching issue: character. Paul write
 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoiZXh0ZW5zaW9uczpcbiAgcHJlc2V0Oi
-Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbMTY0Mzk2Mjc1Nl19
-
+Bjb21tb25tYXJrXG4iLCJoaXN0b3J5IjpbLTEzNjEzODU1MzYs
+MTY0Mzk2Mjc1Nl19
 -->
