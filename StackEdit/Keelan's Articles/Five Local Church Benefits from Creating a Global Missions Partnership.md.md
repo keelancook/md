@@ -36,12 +36,7 @@ Clearly church partnerships with missionary teams are a key component in develop
 
 Of course, once a church is convinced of the need to develop these partnerships, the next step is figuring ou how to find the right partners. And in the next article, I will provide five simple questions to guiding a church in finding the right missionary partners.
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJBVFdQb2toRE55OEJRaTFSIjp7In
-RleHQiOiJTZW5kaW5nIiwic3RhcnQiOjIxOCwiZW5kIjoyMjV9
-fSwiY29tbWVudHMiOnsiMlJvdEg0SThKdnRaNmo5WSI6eyJkaX
-NjdXNzaW9uSWQiOiJBVFdQb2toRE55OEJRaTFSIiwic3ViIjoi
-Z2g6NzEyOTM5ODciLCJ0ZXh0IjoiY29tbWVudCIsImNyZWF0ZW
-QiOjE2MDAxOTQyOTU0NzV9fSwiaGlzdG9yeSI6Wy02MTYxNjY0
-NDUsLTEwMTM2Mzc0NjIsMzkwNTE5Nzg2LDc5NzIzMTExMiwtMT
-YwMjY1NDA2MF19
+eyJoaXN0b3J5IjpbLTIwNzUzMTEyNiwtNjE2MTY2NDQ1LC0xMD
+EzNjM3NDYyLDM5MDUxOTc4Niw3OTcyMzExMTIsLTE2MDI2NTQw
+NjBdfQ==
 -->
