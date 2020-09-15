@@ -1,6 +1,6 @@
 # Five Local Church Benefits from Creating a Global Missions Partnership
 ---
-Type: [[Blog]] test test
+Type: [[Blog]]
 
 Topics: [[Christian Missions]] | [[International Missions]] | [[Sending Pathways]]
 
@@ -36,6 +36,6 @@ Clearly church partnerships with missionary teams are a key component in develop
 
 Of course, once a church is convinced of the need to develop these partnerships, the next is figuring our how to find the right partners. And in the next article, I will provide five simple questions to guiding a church in finding the right missionary partners.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNTE5Nzg2LDc5NzIzMTExMiwtMTYwMj
-Y1NDA2MF19
+eyJoaXN0b3J5IjpbLTEwMTM2Mzc0NjIsMzkwNTE5Nzg2LDc5Nz
+IzMTExMiwtMTYwMjY1NDA2MF19
 -->
