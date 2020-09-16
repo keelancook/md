@@ -1,6 +1,6 @@
 # Ask these four questions to know what someone really believes.
 
-*The following article covers one of several important topics we will be disccussing in the upcoming webinar originally ran at the [Peoples Next Door](https://keelancook.com/2016/04/22/how-to-ask-someone-about-their-religion-and-actually-discover-what-they-really-believe/)*
+*The following article covers one of several important topics we will be disccussing in the upcoming webinar, [Who's My Neighbor?] originally ran at the [Peoples Next Door](https://keelancook.com/2016/04/22/how-to-ask-someone-about-their-religion-and-actually-discover-what-they-really-believe/)*
 
 I get this question a lot, so I thought it fitting to address it in a post.
 
@@ -44,5 +44,5 @@ Finally, a full understanding of someone’s beliefs is not complete without kno
 
 Certainly, the gospel story has much to say concerning the end of all things. While many worldviews have a grim finish line, the Christian story is one that ends in great victory. The ultimate restoration of all things under the total lordship of Christ himself is the glorious promise of the gospel. The Christian has unwavering hope, because we know that the current sin-sickness is not the end of the story. We await a king and a glorious kingdom that will have no end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzU2MzU0MiwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTQ2MTc1ODA2NSwtMTY3OTY3OTI4MV19
 -->
