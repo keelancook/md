@@ -1,4 +1,6 @@
-# 
+# Ask these four questions to know what someone really believes.
+
+*The following post originally ran at the Peoples Next Door*
 
 I get this question a lot, so I thought it fitting to address it in a post.
 
@@ -37,18 +39,10 @@ In my experience, most non-Christians find this question hard to answer. Many wo
 
 The gospel story tells us there is only one thing that can remove the stain of sin, and that one thing is  ultimately nothing that we can do. Humanity’s problem is bigger than any manmade solution. It took God himself stepping into his creation in order to redeem it. The life, death, burial, and resurrection of Christ ultimately crushes evil. It fixes the brokenness, both in society and in our own hearts.
 
-**What will happen when this is all over?**
--------------------------------------------
-
+## What will happen when this is all over?
 Finally, a full understanding of someone’s beliefs is not complete without knowing their understanding of eternity. They may not believe in eternity. They may think life is over when they shut their eyes for the last time, or they may believe in reincarnation. However, everyone has to come to grips with both their individual destiny and the destiny of all of the universe. Those are big questions, and they will usually get someone thinking.
 
 Certainly, the gospel story has much to say concerning the end of all things. While many worldviews have a grim finish line, the Christian story is one that ends in great victory. The ultimate restoration of all things under the total lordship of Christ himself is the glorious promise of the gospel. The Christian has unwavering hope, because we know that the current sin-sickness is not the end of the story. We await a king and a glorious kingdom that will have no end.
-
-### Further Reading
-
-***
-
-[![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0825444284&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=keelancook-20)](https://www.amazon.com/gp/product/0825444284/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0825444284&linkCode=as2&tag=keelancook-20&linkId=070f09c2cda80884b37b8a3d6993b491) [![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=1535968958&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=keelancook-20)](https://www.amazon.com/gp/product/1535968958/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1535968958&linkCode=as2&tag=keelancook-20&linkId=9ed4092d6d3db9d97f65e39b45c2395b) [![](https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=US&ASIN=0801027055&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=keelancook-20)](https://www.amazon.com/gp/product/0801027055/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0801027055&linkCode=as2&tag=keelancook-20&linkId=c21faacd2eadd17d27f072e64181ebea)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMjI5Mjk4NSwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbNDk0MjQzMDE5LC0xNjc5Njc5MjgxXX0=
 -->
