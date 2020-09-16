@@ -1,6 +1,6 @@
 # Ask these four questions to know what someone really believes.
 
-*The following article covers one of several important topics we will be disccussing in the upcoming webinar, [Who's My Neighbor?](https://www.eventbrite.com/e/whos-my-neighbor-tickets-118380207387). Ironically, the circumstances of the pandemic have provided new opportunities for many to meet their neighbors. With this comes the potential of being faithful to our calling to speak the gospel to others, but if you are like me, you live in an increasingly diverse neighbor with people from all over the world. How do we understand what people believe from very different cultures and religions and then  originally ran at the [Peoples Next Door](https://keelancook.com/2016/04/22/how-to-ask-someone-about-their-religion-and-actually-discover-what-they-really-believe/)*
+*The following article covers one of several important topics we will be disccussing in the upcoming webinar, [Who's My Neighbor?](https://www.eventbrite.com/e/whos-my-neighbor-tickets-118380207387). Ironically, the circumstances of the pandemic have provided new opportunities for many to meet their neighbors. With this comes the potential of being faithful to our calling to speak the gospel to others, but if you are like me, you live in an increasingly diverse neighborhood with people from all over the world. How do we understand what people believe from very different cultures and religions and then speak the gospel in a way that makes sense to them? That's the originally ran at the [Peoples Next Door](https://keelancook.com/2016/04/22/how-to-ask-someone-about-their-religion-and-actually-discover-what-they-really-believe/)*
 
 I get this question a lot, so I thought it fitting to address it in a post.
 
@@ -44,5 +44,6 @@ Finally, a full understanding of someone’s beliefs is not complete without kno
 
 Certainly, the gospel story has much to say concerning the end of all things. While many worldviews have a grim finish line, the Christian story is one that ends in great victory. The ultimate restoration of all things under the total lordship of Christ himself is the glorious promise of the gospel. The Christian has unwavering hope, because we know that the current sin-sickness is not the end of the story. We await a king and a glorious kingdom that will have no end.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTQxNjQwMCwtMTY3OTY3OTI4MV19
+eyJoaXN0b3J5IjpbMTMzOTc1ODg4OCwtNjYxNDE2NDAwLC0xNj
+c5Njc5MjgxXX0=
 -->
