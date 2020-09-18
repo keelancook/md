@@ -7,7 +7,7 @@ Much to my surprise, this is far from the truth. When I started floating the ide
 
 And then came the questions. Church leaders began to start asking about the ways they could get their churches involved in global missions partnerships. With little direct connection to specific missionaries, churches often don't know where to start.
 
-If you find your church in a similar position, having a desire to begin healthy overseas missions engagement and not knowing where to start, then here are four questions to help guide you to your first healthy international partnership.
+If you find your church in a similar position—having a desire to begin healthy overseas missions engagement and not knowing where to start—then here are four questions to help guide you to your first healthy international partnership.
 
 ## Do we already have missionaries on the field?
 The first place for any church to turn when it comes to international missions partnerships is their own membership. If a church has members, or past members, on the field serving with a missionary team, entering into partnership with their ongoing work is an excellent way to support them and involve the broader church in a missions vision.
@@ -35,5 +35,5 @@ Finally, consider the local opportunities for cross-cultural engagement right ar
 
 Connecting your work with local unreached groups of Hindu or Muslim background peoples with an international missions partnership to those same areas overseas can produce a really healthy missions vision for your church. For instance, here in Houston we have over 75,000 Urdu-speaking Pakistanis. Many of these people are completely unreached with the gospel, and gospel ministry is perhaps even more pressing back in their home country. A local church can work to reach them both here and there with wise partnerships overseas and active gospel-centered engagement here in town.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2MzY5ODQzXX0=
+eyJoaXN0b3J5IjpbLTE1Mjg5MTA1MjEsNDU2MzY5ODQzXX0=
 -->
