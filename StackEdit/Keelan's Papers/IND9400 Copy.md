@@ -197,6 +197,42 @@ Building off of Ritschl's thought, von Harnack made a lasting impact on Protesta
 
 In the Ritschlian school, American Protestants would find a theological foundation for a kingdom of God that was entirely immanent, and a means of securing it through ethical and social activity.
 
+## An American Adaptation
+An ocean away, Protestant ministers and theologians in the United States were in the midst a similar conversations concerning the nature and means of the kingdom. While it must be noted that cultural and circumstantial similarities existed between European and American Protestants, it is insufficient to assign coincidence as the driving force behind the concurrence of dialog about kingdom theology. These were not two separate but coincidental developments. A history of shared interaction on the nature of means of the kingdom demonstrates an American reliance on the European conversation.
+
+Phillips, A Kingdom on Earth, xxvi, 19, repeatedly references correspondence with or citation of European theologians concerning issues of social Christianity. On page 11, Phillips notes that many Americans went to Germany to study directly under Ritschl and von Harnack. See also Handy, A Christian America, 87, where he notes the number of Americans who studied in Germany under these men and Handy, Undermined Establishment, 59, where he generally asserts a strong reliance by American Protestants on Christian Socialism from England in developing the American Protestant versions of social Christianity.
+
+A brief examination demonstrates the relationship between European scholarship and presuppositions developing in the United States among Protestants concerning the kingdom of God. As noted above, the majority of American Protestants were increasingly committed to a postmillennial eschatology. This prior commitment proved fertile ground for an optimistic and immanent vision of the kingdom that could be established through human initiative.
+
+Though American Protestants were less likely to use the term Christian Socialist, the ideas of F.D. Maurice plainly influenced the development of kingdom theology in the United States. A clear reliance on Maurice is evident for some of the most influential American Protestants during the end of the nineteenth century. Richard Ely, an Episcopal lay leader and economist, made a tremendous impact on the spread of social Christianity, and like many others, Ely was influenced by the parallel movement occurring in England.
+
+Handy, Undermined Establishment, 61-62.
+
+Washington Gladden, labeled by many as the father of the American Social Gospel movement, wrote of Maurice, "They gentleness hath made me great."
+
+Phillips, A Kingdom on Earth, 18.  `Find original source in Phillips.`
+
+Perhaps none are so clearly tied to Maurice's influence though as Horace Bushnell, the noted Congregational minister and theologian. Bushnell shared Maurice's optimism concerning humanity, and believed morality was the result of social evolution.
+
+Phillips, A Kingdom on Earth, 5.
+
+Like Maurice, Bushnell was a polarizing and often controversial figure. Phillips notes that both Maurice and Horace Bushnell were the targets of a good bit of controversy in their own generation, but both men seemed to enjoy a subsequent admiration of their thought in later decades. By the end of the nineteenth century, the Protestant mainstream more readily accepted their concepts concerning progress and the kingdom.
+
+Phillips, A Kingdom on Earth, 4-6.
+
+While the influence of both had a liberalizing tendency on Protestantism, most who advocated for Bushnell, or Maurice did not claim to be liberal Protestants. Their appeal was broader than purely liberal corners of Protestantism, and their ideas pervaded in the fabric of developing theology on the kingdom of God.
+
+Phillips, A Kingdom on Earth, 6, notes that many would defend Bushnell's conservative roots in order to advocate for his positions.
+
+Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left it's mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."
+
+Evans, Social Gospel in America, 60.
+
+Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.
+
+Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `Find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surface both earlier and broader than the social gospel movement.
+
+The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium. If American Protestants were tasked with ushering in the kingdom, then Ritschl gave shape to this idea for many, even if they did not know the concepts were gleaned from German liberal theology. As the nineteenth century moved through its final decades, many found appealing Ritschl's propensity for linking religion and civilization as twins engines of progress and advancing the kingdom.^[Handy, A Christian America, 87.] Handy notes that even as the emerging liberal segments within evangelicalism were elevating Ritschl's concepts of the kingdom to a central place in their own theology, they were doing so in broad language that could, and would, be easily accepted by a much wider spectrum Protestants.^[Handy, A Christian America, 87.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDMwNzY0Ml19
+eyJoaXN0b3J5IjpbLTIwNjMyMTQyNzEsMTgzMDMwNzY0Ml19
 -->
