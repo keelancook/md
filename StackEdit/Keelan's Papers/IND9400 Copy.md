@@ -220,13 +220,12 @@ Like Maurice, Bushnell was a polarizing and often controversial figure. Phillips
 
 Phillips, A Kingdom on Earth, 4-6.
 
-While the influence of both had a liberalizing tendency on Protestantism, most who advocated for Bushnell, or Maurice did not claim to be liberal Protestants. Their appeal was broader than purely liberal corners of Protestantism, and their ideas pervaded in the fabric of developing theology on the kingdom of God.
-
-Phillips, A Kingdom on Earth, 6, notes that many would defend Bushnell's conservative roots in order to advocate for his positions.
+While the influence of both had a liberalizing tendency on Protestantism, most who advocated for Bushnell, or Maurice did not claim to be liberal Protestants. Their appeal was broader than purely liberal corners of Protestantism, and their ideas pervaded in the fabric of developing theology on the kingdom of God.^[Phillips, A Kingdom on Earth, 6, notes that many would defend Bushnell's conservative roots in order to advocate for his positions.]
 
 Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left it's mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `Find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surface both earlier and broader than the social gospel movement.
 
 The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium. If American Protestants were tasked with ushering in the kingdom, then Ritschl gave shape to this idea for many, even if they did not know the concepts were gleaned from German liberal theology. As the nineteenth century moved through its final decades, many found appealing Ritschl's propensity for linking religion and civilization as twins engines of progress and advancing the kingdom.^[Handy, A Christian America, 87.] Handy notes that even as the emerging liberal segments within evangelicalism were elevating Ritschl's concepts of the kingdom to a central place in their own theology, they were doing so in broad language that could, and would, be easily accepted by a much wider spectrum Protestants.^[Handy, A Christian America, 87.]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0OTgyODk4LDE4MzAzMDc2NDJdfQ==
+eyJoaXN0b3J5IjpbLTY5OTA5NDMyMiw3MzQ5ODI4OTgsMTgzMD
+MwNzY0Ml19
 -->
