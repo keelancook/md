@@ -262,19 +262,11 @@ In  _The Social Gospel in America, 1870-1920_, Handy writes:
 > 
 > Handy, The Social Gospel in America, 5.
 
-After the turn of the century, social gospel would increasingly become a watchword, and by the 1920s it would strain the fabric of Protestant America. However, the concepts of social Christianity were prior to and broader than the social gospel movement that it would produce and served as an umbrella for Protestant social concern. By the 1890s, Social Christianity played a significant role in the life of most major Protestant denominations.
+After the turn of the century, social gospel would increasingly become a watchword, and by the 1920s it would strain the fabric of Protestant America. However, the concepts of social Christianity were prior to and broader than the social gospel movement that it would produce and served as an umbrella for Protestant social concern. By the 1890s, Social Christianity played a significant role in the life of most major Protestant denominations.^[Handy, Undermined Establishment, 58-59.]
 
-Handy, Undermined Establishment, 58-59.
+Though many American Protestants were swept up into progressive politics, and the movement itself mostly consisted of evangelical Protestants, not all who were influence by social Christian concepts could be label political progressives. The idea of social Christianity was even broader still.^[Handy, Undermined Establishment, 104.] In the decades prior to the turn of the century, the question was not primarily one of theological liberalism or conservatism as it would later become. In  _Protestant Churches and Industrial America_, Henry May provides a nuanced framework that explains the multivalenct nature of social Christianity. May writes,
 
-Though many American Protestants were swept up into progressive politics, and the movement itself mostly consisted of evangelical Protestants, not all who were influence by social Christian concepts could be label political progressives. The idea of social Christianity was even broader still.
-
-Handy, Undermined Establishment, 104.
-
-In the decades prior to the turn of the century, the question was not primarily one of theological liberalism or conservatism as it would later become. In  _Protestant Churches and Industrial America_, Henry May provides a nuanced framework that explains the multivalenct nature of social Christianity. May writes,
-
-> Naturally, preachers of social Christianity spoke in different terms, influenced by various theologies, reaching different diagnoses for the ills of society. They shared, however, two characteristics: all were moved by a sense of social crisis, and all believed in the necessity and possibility of a Christian solution."
-> 
-> May, Protestant Church and Industrial America, 163.
+> Naturally, preachers of social Christianity spoke in different terms, influenced by various theologies, reaching different diagnoses for the ills of society. They shared, however, two characteristics: all were moved by a sense of social crisis, and all believed in the necessity and possibility of a Christian solution."^[May, Protestant Church and Industrial America, 163.]
 
 The social Christian movement, as defined by May, contained three primary strands: conservative, progressive, and radical social Christianity during the end of the nineteenth century.
 
@@ -286,6 +278,6 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 
 Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk1NTAzMzksMTQ1NTAyNzcwMiw3Mz
-Q5ODI4OTgsMTgzMDMwNzY0Ml19
+eyJoaXN0b3J5IjpbLTM1MDI3MzI5NywxNDU1MDI3NzAyLDczND
+k4Mjg5OCwxODMwMzA3NjQyXX0=
 -->
