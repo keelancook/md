@@ -208,23 +208,11 @@ Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom the
 
 The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium. If American Protestants were tasked with ushering in the kingdom, then Ritschl gave shape to this idea for many, even if they did not know the concepts were gleaned from German liberal theology. As the nineteenth century moved through its final decades, many found appealing Ritschl's propensity for linking religion and civilization as twins engines of progress and advancing the kingdom.^[Handy, A Christian America, 87.] Handy notes that even as the emerging liberal segments within evangelicalism were elevating Ritschl's concepts of the kingdom to a central place in their own theology, they were doing so in broad language that could, and would, be easily accepted by a much wider spectrum Protestants.^[Handy, A Christian America, 87.]
 
-Samuel Harris is one such example. Handy writes, "Such men as Harris and others like him were not crusading for liberalism but were trying to state views that represented an evangelical consensus."
+Samuel Harris is one such example. Handy writes, "Such men as Harris and others like him were not crusading for liberalism but were trying to state views that represented an evangelical consensus."^[Handy, A Christian America, 87.] Evangelicals across a broad spectrum in America were gaining interest in the doctrine of the kingdom of God, because certain kingdom theologies provided a pathway for the discussion of the church's role in civilization.^[Handy, A Christian America, 84, 87.] Harris writes,
 
-Handy, A Christian America, 87.
+> The idea of a kingdom of God on earth and the prophecy of its realization are present in modern thought and among the forces that determine modern progress and civilization. The idea is so complete as a solution of the problem of man’s history and destiny, so sufficient, if realized, to constitute the perfection and blessedness of society, and as a conception of the ways of God with man so comprehensive and sublime, that in itself it demonstrates that it is from God.^[Harris, Kingdom of Christ, 18.]
 
-Evangelicals across a broad spectrum in America were gaining interest in the doctrine of the kingdom of God, because certain kingdom theologies provided a pathway for the discussion of the church's role in civilization.
-
-Handy, A Christian America, 84, 87.
-
-Harris writes,
-
-> The idea of a kingdom of God on earth and the prophecy of its realization are present in modern thought and among the forces that determine modern progress and civilization. The idea is so complete as a solution of the problem of man’s history and destiny, so sufficient, if realized, to constitute the perfection and blessedness of society, and as a conception of the ways of God with man so comprehensive and sublime, that in itself it demonstrates that it is from God.
-> 
-> Harris, Kingdom of Christ, 18.
-
-Harris himself was a committed postmillennialist and he spoke confidently of the complete Christianization of society.
-
-Handy, A Christian America, 86.
+Harris himself was a committed postmillennialist and he spoke confidently of the complete Christianization of society.^[Handy, A Christian America, 86.]
 
 Though not directly promoting a theologically liberal Protestant vision, Harris was nevertheless influenced by key aspects of European liberal theology on the nature and means of the kingdom. Tuveson writes of Harris, "He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness."^[Tuveson, Redeemer Nation, 82] Handy notes a dependence by Harris on Bushnell, which exhibited a heavy reliance on Maurice and Christian Socialism.^[Handy, A Christian America, 85.] Furthermore, Harris's kingdom lectures demonstrate a reliance on theological concepts popularized through the work of Ritschl and von Harnack. Even if Harris would reject many of Ritschl's claims on doctrines such as the nature of Christ and the need for atonement, he was conversant in Ritschl's kingdom language. Throughout his kingdom lectures, Harris borrows on the kingdom shorthand coined by von Harnack concerning the fatherhood of God and the brotherhood of man.^[Harris, Kingdom of Christ, 2, 13.] In his introductory lecture, Harris makes the claim:
 
@@ -255,6 +243,6 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 
 Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzYzMDYzNSwxNDU1MDI3NzAyLDczND
-k4Mjg5OCwxODMwMzA3NjQyXX0=
+eyJoaXN0b3J5IjpbMTQ1OTcxMTMzLDE0NTUwMjc3MDIsNzM0OT
+gyODk4LDE4MzAzMDc2NDJdfQ==
 -->
