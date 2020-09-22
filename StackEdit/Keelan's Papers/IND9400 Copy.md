@@ -8,7 +8,7 @@ During certain eras in missions history, the eschatological thread becomes clear
  
 By the turn of the twentieth century, postmillennialism was the dominant eschatological position concerning the millennium. Furthermore, the millennial expectation was increasingly tied to human initiative and the ideal of progress. Moorhead writes, "Although the union of progress with the symbols of the Apocalypse may strike the contemporary reader as awkward or quaint, its widespread popularity suggests that postmillennialism-with all its antinomies-must be taken seriously if one wishes to understand the world as it appeared to many persons only a few generations ago."^[Moorhead, Between Progress, 525-526.] For the overwhelming majority of Protestants during the era, America civilization was conflated with the coming kingdom of God. Therefore, home missions to immigrants was cast as a dual mission to Christianize and Americanize those coming from abroad. For some Protestants, these new immigrants from different cultures were seen as a threat to the developing American civilization, which made them a threat for Protestants laboring to build the kingdom of God. For others, the arrival of these immigrants was an opportunity to showcase the superiority of Christian and American civilization, as it converted them to both. Regardless, both conflated the Christian mission with the cultural mission of American assimilation.
  
-This paper will first consider the development of the dominant Protestant understanding of the millennium by tracing its origins, outlining its growth and entrenchment in the American Protestant conscience, and demonstrating its significance at the turn of the twentieth century. If American Protestants' eschatological presuppositions grounded a mission of optimistically building the coming kingdom, then the content of that kingdom ideal comes to the fore in any applied theology. This paper will subsequently examine certain theologies of the kingdom, especially those influenced by Alrbecht Ritschl, and their role in crafting missionary missionary methods. Finally, the paper will survey missionary methods toward immigrants during the Gilded Age and early Progressive Era to showcase their reliance on Protestant eschatological commitments.
+This paper will first consider the development of the dominant Protestant understanding of the millennium by tracing its origins, outlining its growth and entrenchment in the American Protestant conscience, and demonstrating its significance at the turn of the twentieth century. If American Protestants' eschatological presuppositions grounded a mission of optimistically building the coming kingdom, then the content of that kingdom ideal comes to the fore in any applied theology. This paper will subsequently examine certain theologies of the kingdom, especially those influenced by Albrecht Ritschl, and their role in crafting missionary missionary methods. Finally, the paper will survey missionary methods toward immigrants during the Gilded Age and early Progressive Era to showcase their reliance on Protestant eschatological commitments.
  
 # Presupposition 1: The Development of the American Protestant Postmillennial Mindset
 
@@ -264,8 +264,8 @@ NnIjp7ImRpc2N1c3Npb25JZCI6InFOOHRlZmRZWlVYQTk3N3Yi
 LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJ0aGlzIGlzIG
 Jhc2ljYWxseSB0aGUgZXhhY3Qgc2FtZSBzZW50ZW5jZSBhdCB0
 aGUgZW5kIG9mIHRoZSBwYXJhZ3JhcGggYWJvdmUiLCJjcmVhdG
-VkIjoxNjAwODAwMTA4OTEwfX0sImhpc3RvcnkiOls5NDE1Njg0
-MjksNTcxODk4NDI4LDExOTMwNzMxMTYsMjEwNDQyOTU2MCwxND
-U5NzExMzMsMTQ1NTAyNzcwMiw3MzQ5ODI4OTgsMTgzMDMwNzY0
-Ml19
+VkIjoxNjAwODAwMTA4OTEwfX0sImhpc3RvcnkiOlstMTkxNTY0
+NjAwMyw1NzE4OTg0MjgsMTE5MzA3MzExNiwyMTA0NDI5NTYwLD
+E0NTk3MTEzMywxNDU1MDI3NzAyLDczNDk4Mjg5OCwxODMwMzA3
+NjQyXX0=
 -->
