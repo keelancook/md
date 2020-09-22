@@ -278,32 +278,14 @@ In the decades prior to the turn of the century, the question was not primarily 
 
 The social Christian movement, as defined by May, contained three primary strands: conservative, progressive, and radical social Christianity during the end of the nineteenth century.
 
-May's categories do not align neatly with theological distinctions, even during the era in discussion. Handy notes, however, that May's conservative strand of social Christianity consisted of churches and individuals who continued to identify as conservative evangelical Protestants. Most of these stayed within their existing denominational framework, and supported socially oriented home missions and rescue mission efforts.
-
-Handy, Undermined Establishment, 105. See also May, Protestant Churches and Industrial America, 163-169 and Phillips, A Kingdom on Earth, xvii.
-
-The radical strand was essentially a fringe, largely rejected by American Protestants, who were proponents of radical restructuring and socialist positions. The middle, or progressive strand, essentially became the social gospel movement of later decades.
-
-May, Protestant Churches and Industrial America, 170-181.
-
-Despite the problems inherent in classifying the spectrum of approaches to social Christianity, May's framework demonstrates a narrow or fringe understanding of social Christianity does not represent the extent to which issues of social concern and activity became embedded in the Protestant conversation of the church's mission. At the end of the nineteenth century, most Protestant Americans knew it was their job to do something to shape the course of human civilization.
+May's categories do not align neatly with theological distinctions, even during the era in discussion. Handy notes, however, that May's conservative strand of social Christianity consisted of churches and individuals who continued to identify as conservative evangelical Protestants. Most of these stayed within their existing denominational framework, and supported socially oriented home missions and rescue mission efforts.^[Handy, Undermined Establishment, 105. See also May, Protestant Churches and Industrial America, 163-169 and Phillips, A Kingdom on Earth, xvii.] The radical strand was essentially a fringe, largely rejected by American Protestants, who were proponents of radical restructuring and socialist positions. The middle, or progressive strand, essentially became the social gospel movement of later decades.^[May, Protestant Churches and Industrial America, 170-181.] Despite the problems inherent in classifying the spectrum of approaches to social Christianity, May's framework demonstrates a narrow or fringe understanding of social Christianity does not represent the extent to which issues of social concern and activity became embedded in the Protestant conversation of the church's mission. At the end of the nineteenth century, most Protestant Americans knew it was their job to do something to shape the course of human civilization.
 
 From the 1880s onward, social Christianity worked its way into the fabric of American Protestantism and shaped the contours of Christian mission. Relating this to kingdom theology, Handy writes,
 
-> The kingdom idea was in many respects a spiritualized and idealized restatement of the search for a specifically Christian society in an age of freedom and progress. Protestants with somewhat different theological perspectives concerning the kingdom of God could nevertheless find sufficient in common to work together for its coming.
-> 
-> Handy, A Christian America, 87.
+> The kingdom idea was in many respects a spiritualized and idealized restatement of the search for a specifically Christian society in an age of freedom and progress. Protestants with somewhat different theological perspectives concerning the kingdom of God could nevertheless find sufficient in common to work together for its coming.^[Handy, A Christian America, 87.]
 
-Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.
-
-Handy, Undermined Establishment, 10.
-
-Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.
-
-May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase,
-
-Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
+Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDExMTUwNTIsMTQ1NTAyNzcwMiw3Mz
+eyJoaXN0b3J5IjpbLTE1Mjk1NTAzMzksMTQ1NTAyNzcwMiw3Mz
 Q5ODI4OTgsMTgzMDMwNzY0Ml19
 -->
