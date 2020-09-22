@@ -23,7 +23,7 @@ Brown's assertion concerning the prominence of the postmillennial position in th
 
 > "As a distinct philosophy of history, postmillennialism dates from the late eighteenth and early nineteenth centuries. Although the notion that Jesus would return after the millennium had been advanced much earlier, it had not been made the key to the meaning of time. During that period, however, postmillennialism became more than a matter of dating the Second Coming: It came to denote an understanding of history as gradual improvement according to rational laws that human beings could learn and use."^[Moorhead, [Between Progress](https://www.notion.so/keelan/Between-Progress-and-Apocalypse-95850055e4ef495daa76aadcd6ce63c8#3dd9eace416d4cf4bf88bfa648743d20), 526.]
 
-This theological optimism and confidence in the gears of progress roots deep into the religious history of the nation, and finds it's beginnings prior to the nineteenth century.
+This theological optimism and confidence in the gears of progress roots deep into the religious history of the nation, and finds its beginnings prior to the nineteenth century.
 
 ## British Beginnings (Prior to 1800)
 The Protestant conversation concerning the millennium certainly predates American Protestantism. In fact, a robust dialogue was occurring in England that laid much of the groundwork for the theological presuppositions which would support the American mindset. A divergence developed between those who believed the physical return of Christ was necessary for entering the millennium and those who felt history and human initiative would propel humanity toward the coming kingdom and a millennial reign of peace and prosperity. In 1703, Daniel Whitby authored the significant  _Paraphrase and Commentary on the New Testament_, in which he delivered a lengthy and systematic rebuttal to what he called the millenarian position, instead arguing for a millennialist position that would today be described as postmillennialism.^[Whitby, Paraphrase and Commentary on the New Testament, London: W. Bowyer, 1703, 247-278, provides a multiple-chapter treatise on the millennium, which is a very long and detailed refutation of a premillennialist (millenarian) position. In this section, he specifically addresses the doctrine from historical and biblical perspective, providing both a detailed history of interpretation for the early church on the issue and a survey of biblical material on the issue. He negatively refutes certain positions of the millenarian view, he positively affirms others, and he concludes with his own understanding that serves as one of the earliest Protestant systematic treatments in favor of a postmillennialist position.] However, consistent nomenclature for these divergent views alludes wide acceptance.
@@ -250,22 +250,28 @@ JlbmQiOjYyMCwidGV4dCI6InRlbG9zIn0sInFOOHRlZmRZWlVY
 QTk3N3YiOnsic3RhcnQiOjI1MjgsImVuZCI6MjcwNCwidGV4dC
 I6IktleSBkb2N0cmluZXMsIHN1Y2ggYXMgbWlsbGVubmlhbCB2
 aWV3cyBhbmQgb25lJ3MgdW5kZXJzdGFuZGluZyBvZiB0aGUga2
-luZ2RvbeKApiJ9fSwiY29tbWVudHMiOnsiNllheHBQUjhmU0Iw
-a0xJSCI6eyJkaXNjdXNzaW9uSWQiOiJmZmRORlczMU9tWE9jSk
-5EIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiaXMgdGhp
-cyBhIG5vdW4gb3IgaXMgaXQgc3VwcG9zZWQgdG8gYmUgZGVzY3
-JpYmluZyBzb21ldGhpbmcgbGlrZSBcImFwb2NhbHlwdGljIGxp
-dGVyYXR1cmVcIiIsImNyZWF0ZWQiOjE2MDA3OTk2OTA1NDl9LC
-JOMTcwdDQwNnB4cDlvRk9tIjp7ImRpc2N1c3Npb25JZCI6InY0
-WlFSSEFYSXRnbVFROTQiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsIn
-RleHQiOiJzaG91bGQgdGhpcyBiZSBpdGFsaWNpemVkPyIsImNy
-ZWF0ZWQiOjE2MDA3OTk4OTkxODJ9LCJRRmR4S041RVdtQTUyUj
-NnIjp7ImRpc2N1c3Npb25JZCI6InFOOHRlZmRZWlVYQTk3N3Yi
-LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJ0aGlzIGlzIG
-Jhc2ljYWxseSB0aGUgZXhhY3Qgc2FtZSBzZW50ZW5jZSBhdCB0
-aGUgZW5kIG9mIHRoZSBwYXJhZ3JhcGggYWJvdmUiLCJjcmVhdG
-VkIjoxNjAwODAwMTA4OTEwfX0sImhpc3RvcnkiOlsxOTgwMzM1
-NzQ4LDEyNjIzNTM0NjUsLTE5MTU2NDYwMDMsNTcxODk4NDI4LD
-ExOTMwNzMxMTYsMjEwNDQyOTU2MCwxNDU5NzExMzMsMTQ1NTAy
-NzcwMiw3MzQ5ODI4OTgsMTgzMDMwNzY0Ml19
+luZ2RvbeKApiJ9LCIzS0l5bmtVMWRhU1VoZkJiIjp7InN0YXJ0
+Ijo5NzI0LCJlbmQiOjk3MjUsInRleHQiOiI6In19LCJjb21tZW
+50cyI6eyI2WWF4cFBSOGZTQjBrTElIIjp7ImRpc2N1c3Npb25J
+ZCI6ImZmZE5GVzMxT21YT2NKTkQiLCJzdWIiOiJnaDo3MTI5Mz
+k4NyIsInRleHQiOiJpcyB0aGlzIGEgbm91biBvciBpcyBpdCBz
+dXBwb3NlZCB0byBiZSBkZXNjcmliaW5nIHNvbWV0aGluZyBsaW
+tlIFwiYXBvY2FseXB0aWMgbGl0ZXJhdHVyZVwiIiwiY3JlYXRl
+ZCI6MTYwMDc5OTY5MDU0OX0sIk4xNzB0NDA2cHhwOW9GT20iOn
+siZGlzY3Vzc2lvbklkIjoidjRaUVJIQVhJdGdtUVE5NCIsInN1
+YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6InNob3VsZCB0aGlzIG
+JlIGl0YWxpY2l6ZWQ/IiwiY3JlYXRlZCI6MTYwMDc5OTg5OTE4
+Mn0sIlFGZHhLTjVFV21BNTJSM2ciOnsiZGlzY3Vzc2lvbklkIj
+oicU44dGVmZFlaVVhBOTc3diIsInN1YiI6ImdoOjcxMjkzOTg3
+IiwidGV4dCI6InRoaXMgaXMgYmFzaWNhbGx5IHRoZSBleGFjdC
+BzYW1lIHNlbnRlbmNlIGF0IHRoZSBlbmQgb2YgdGhlIHBhcmFn
+cmFwaCBhYm92ZSIsImNyZWF0ZWQiOjE2MDA4MDAxMDg5MTB9LC
+J3ODdGeWo4M0E4MkhOMUtiIjp7ImRpc2N1c3Npb25JZCI6IjNL
+SXlua1UxZGFTVWhmQmIiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsIn
+RleHQiOiJpcyB0aGlzIHN1cHBvc2VkIHRvIGJlIGEgY29sb24/
+IiwiY3JlYXRlZCI6MTYwMDgwMTYxNTU4NH19LCJoaXN0b3J5Ij
+pbLTM5NzkxMjI5MywxMjYyMzUzNDY1LC0xOTE1NjQ2MDAzLDU3
+MTg5ODQyOCwxMTkzMDczMTE2LDIxMDQ0Mjk1NjAsMTQ1OTcxMT
+MzLDE0NTUwMjc3MDIsNzM0OTgyODk4LDE4MzAzMDc2NDJdfQ==
+
 -->
