@@ -226,41 +226,18 @@ Harris himself was a committed postmillennialist and he spoke confidently of the
 
 Handy, A Christian America, 86.
 
-Though not directly promoting a theologically liberal Protestant vision, Harris was nevertheless influenced by key aspects of European liberal theology on the nature and means of the kingdom. Tuveson writes of Harris, "He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness."
+Though not directly promoting a theologically liberal Protestant vision, Harris was nevertheless influenced by key aspects of European liberal theology on the nature and means of the kingdom. Tuveson writes of Harris, "He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness."^[Tuveson, Redeemer Nation, 82] Handy notes a dependence by Harris on Bushnell, which exhibited a heavy reliance on Maurice and Christian Socialism.^[Handy, A Christian America, 85.] Furthermore, Harris's kingdom lectures demonstrate a reliance on theological concepts popularized through the work of Ritschl and von Harnack. Even if Harris would reject many of Ritschl's claims on doctrines such as the nature of Christ and the need for atonement, he was conversant in Ritschl's kingdom language. Throughout his kingdom lectures, Harris borrows on the kingdom shorthand coined by von Harnack concerning the fatherhood of God and the brotherhood of man.^[Harris, Kingdom of Christ, 2, 13.] In his introductory lecture, Harris makes the claim:
 
-Tuveson, Redeemer Nation, 82
-
-Handy notes a dependence by Harris on Bushnell, which exhibited a heavy reliance on Maurice and Christian Socialism.
-
-Handy, A Christian America, 85.
-
-Furthermore, Harris's kingdom lectures demonstrate a reliance on theological concepts popularized through the work of Ritschl and von Harnack. Even if Harris would reject many of Ritschl's claims on doctrines such as the nature of Christ and the need for atonement, he was conversant in Ritschl's kingdom language. Throughout his kingdom lectures, Harris borrows on the kingdom shorthand coined by von Harnack concerning the fatherhood of God and the brotherhood of man.
-
-Harris, Kingdom of Christ, 2, 13.
-
-In his introductory lecture, Harris makes the claim:
-
-> Besides this direct interest in the conversion of the world, modern civilization is characterized by ideas derived from the gospel of the kingdom; the brotherhood of man and the fatherhood of God; philanthropy; the promise of human progress; the rights of man; the removal of oppression; the reign of justice and love displacing the reign of force.
-> 
-> Harris, A Kingdom on Earth, 2.
+> Besides this direct interest in the conversion of the world, modern civilization is characterized by ideas derived from the gospel of the kingdom; the brotherhood of man and the fatherhood of God; philanthropy; the promise of human progress; the rights of man; the removal of oppression; the reign of justice and love displacing the reign of force.^[Harris, A Kingdom on Earth, 2.]
 
 For this understanding, Harris and other American Protestants were indebted to Ritschl and von Harnack.
 
-**The Result: A Social Christianity?**
-
-Unlike England and other regions of Europe, the term Christian Socialist was not widely and consistently received in the United States. Initially intended by Maurice as a specifically religious moniker, as opposed to creating ties toward a political philosophy, he eventually refuted the term himself. In the United States, the term fell largely out of favor with the majority of Protestants and became associated with a more radical fringe and carried a hint of militancy.
-
-Phillips, A Kingdom on Earth, xvi
-
-Instead, the term social Christianity gained favor around the year 1880 and enjoyed increased usage through the turn of the century.
-
-`Do I cite NGram here? If so, how?`
+#### The Result: A Social Christianity?
+Unlike England and other regions of Europe, the term Christian Socialist was not widely and consistently received in the United States. Initially intended by Maurice as a specifically religious moniker, as opposed to creating ties toward a political philosophy, he eventually refuted the term himself. In the United States, the term fell largely out of favor with the majority of Protestants and became associated with a more radical fringe and carried a hint of militancy.^[Phillips, A Kingdom on Earth, xvi] Instead, the term social Christianity gained favor around the year 1880 and enjoyed increased usage through the turn of the century.^[`Do I cite NGram here? If so, how?`]
 
 In  _The Social Gospel in America, 1870-1920_, Handy writes:
 
-> ... the designation most widely used was "social Christianity." The new term came to be applied chiefly to a particular kind of protestant social concern. There was, on the one hand, a social Christianity which was cast in a "conservative mold." Its exponents recognized social problems but sought to deal with them without sharply challenging the dominant individualism... At the other extreme were those who tended to reject existing social and economic institutions in favor of sweeping reconstruction.
-> 
-> Handy, The Social Gospel in America, 5.
+> ... the designation most widely used was "social Christianity." The new term came to be applied chiefly to a particular kind of protestant social concern. There was, on the one hand, a social Christianity which was cast in a "conservative mold." Its exponents recognized social problems but sought to deal with them without sharply challenging the dominant individualism... At the other extreme were those who tended to reject existing social and economic institutions in favor of sweeping reconstruction.^[Handy, The Social Gospel in America, 5.]
 
 After the turn of the century, social gospel would increasingly become a watchword, and by the 1920s it would strain the fabric of Protestant America. However, the concepts of social Christianity were prior to and broader than the social gospel movement that it would produce and served as an umbrella for Protestant social concern. By the 1890s, Social Christianity played a significant role in the life of most major Protestant denominations.^[Handy, Undermined Establishment, 58-59.]
 
@@ -278,6 +255,6 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 
 Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDI3MzI5NywxNDU1MDI3NzAyLDczND
+eyJoaXN0b3J5IjpbMTMyNzYzMDYzNSwxNDU1MDI3NzAyLDczND
 k4Mjg5OCwxODMwMzA3NjQyXX0=
 -->
