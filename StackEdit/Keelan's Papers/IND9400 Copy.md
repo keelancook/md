@@ -207,7 +207,103 @@ Perhaps none are so clearly tied to Maurice's influence though as Horace Bushnel
 Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left it's mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `Find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surface both earlier and broader than the social gospel movement.
 
 The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium. If American Protestants were tasked with ushering in the kingdom, then Ritschl gave shape to this idea for many, even if they did not know the concepts were gleaned from German liberal theology. As the nineteenth century moved through its final decades, many found appealing Ritschl's propensity for linking religion and civilization as twins engines of progress and advancing the kingdom.^[Handy, A Christian America, 87.] Handy notes that even as the emerging liberal segments within evangelicalism were elevating Ritschl's concepts of the kingdom to a central place in their own theology, they were doing so in broad language that could, and would, be easily accepted by a much wider spectrum Protestants.^[Handy, A Christian America, 87.]
+
+Samuel Harris is one such example. Handy writes, "Such men as Harris and others like him were not crusading for liberalism but were trying to state views that represented an evangelical consensus."
+
+Handy, A Christian America, 87.
+
+Evangelicals across a broad spectrum in America were gaining interest in the doctrine of the kingdom of God, because certain kingdom theologies provided a pathway for the discussion of the church's role in civilization.
+
+Handy, A Christian America, 84, 87.
+
+Harris writes,
+
+> The idea of a kingdom of God on earth and the prophecy of its realization are present in modern thought and among the forces that determine modern progress and civilization. The idea is so complete as a solution of the problem of man’s history and destiny, so sufficient, if realized, to constitute the perfection and blessedness of society, and as a conception of the ways of God with man so comprehensive and sublime, that in itself it demonstrates that it is from God.
+> 
+> Harris, Kingdom of Christ, 18.
+
+Harris himself was a committed postmillennialist and he spoke confidently of the complete Christianization of society.
+
+Handy, A Christian America, 86.
+
+Though not directly promoting a theologically liberal Protestant vision, Harris was nevertheless influenced by key aspects of European liberal theology on the nature and means of the kingdom. Tuveson writes of Harris, "He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness."
+
+Tuveson, Redeemer Nation, 82
+
+Handy notes a dependence by Harris on Bushnell, which exhibited a heavy reliance on Maurice and Christian Socialism.
+
+Handy, A Christian America, 85.
+
+Furthermore, Harris's kingdom lectures demonstrate a reliance on theological concepts popularized through the work of Ritschl and von Harnack. Even if Harris would reject many of Ritschl's claims on doctrines such as the nature of Christ and the need for atonement, he was conversant in Ritschl's kingdom language. Throughout his kingdom lectures, Harris borrows on the kingdom shorthand coined by von Harnack concerning the fatherhood of God and the brotherhood of man.
+
+Harris, Kingdom of Christ, 2, 13.
+
+In his introductory lecture, Harris makes the claim:
+
+> Besides this direct interest in the conversion of the world, modern civilization is characterized by ideas derived from the gospel of the kingdom; the brotherhood of man and the fatherhood of God; philanthropy; the promise of human progress; the rights of man; the removal of oppression; the reign of justice and love displacing the reign of force.
+> 
+> Harris, A Kingdom on Earth, 2.
+
+For this understanding, Harris and other American Protestants were indebted to Ritschl and von Harnack.
+
+**The Result: A Social Christianity?**
+
+Unlike England and other regions of Europe, the term Christian Socialist was not widely and consistently received in the United States. Initially intended by Maurice as a specifically religious moniker, as opposed to creating ties toward a political philosophy, he eventually refuted the term himself. In the United States, the term fell largely out of favor with the majority of Protestants and became associated with a more radical fringe and carried a hint of militancy.
+
+Phillips, A Kingdom on Earth, xvi
+
+Instead, the term social Christianity gained favor around the year 1880 and enjoyed increased usage through the turn of the century.
+
+`Do I cite NGram here? If so, how?`
+
+In  _The Social Gospel in America, 1870-1920_, Handy writes:
+
+> ... the designation most widely used was "social Christianity." The new term came to be applied chiefly to a particular kind of protestant social concern. There was, on the one hand, a social Christianity which was cast in a "conservative mold." Its exponents recognized social problems but sought to deal with them without sharply challenging the dominant individualism... At the other extreme were those who tended to reject existing social and economic institutions in favor of sweeping reconstruction.
+> 
+> Handy, The Social Gospel in America, 5.
+
+After the turn of the century, social gospel would increasingly become a watchword, and by the 1920s it would strain the fabric of Protestant America. However, the concepts of social Christianity were prior to and broader than the social gospel movement that it would produce and served as an umbrella for Protestant social concern. By the 1890s, Social Christianity played a significant role in the life of most major Protestant denominations.
+
+Handy, Undermined Establishment, 58-59.
+
+Though many American Protestants were swept up into progressive politics, and the movement itself mostly consisted of evangelical Protestants, not all who were influence by social Christian concepts could be label political progressives. The idea of social Christianity was even broader still.
+
+Handy, Undermined Establishment, 104.
+
+In the decades prior to the turn of the century, the question was not primarily one of theological liberalism or conservatism as it would later become. In  _Protestant Churches and Industrial America_, Henry May provides a nuanced framework that explains the multivalenct nature of social Christianity. May writes,
+
+> Naturally, preachers of social Christianity spoke in different terms, influenced by various theologies, reaching different diagnoses for the ills of society. They shared, however, two characteristics: all were moved by a sense of social crisis, and all believed in the necessity and possibility of a Christian solution."
+> 
+> May, Protestant Church and Industrial America, 163.
+
+The social Christian movement, as defined by May, contained three primary strands: conservative, progressive, and radical social Christianity during the end of the nineteenth century.
+
+May's categories do not align neatly with theological distinctions, even during the era in discussion. Handy notes, however, that May's conservative strand of social Christianity consisted of churches and individuals who continued to identify as conservative evangelical Protestants. Most of these stayed within their existing denominational framework, and supported socially oriented home missions and rescue mission efforts.
+
+Handy, Undermined Establishment, 105. See also May, Protestant Churches and Industrial America, 163-169 and Phillips, A Kingdom on Earth, xvii.
+
+The radical strand was essentially a fringe, largely rejected by American Protestants, who were proponents of radical restructuring and socialist positions. The middle, or progressive strand, essentially became the social gospel movement of later decades.
+
+May, Protestant Churches and Industrial America, 170-181.
+
+Despite the problems inherent in classifying the spectrum of approaches to social Christianity, May's framework demonstrates a narrow or fringe understanding of social Christianity does not represent the extent to which issues of social concern and activity became embedded in the Protestant conversation of the church's mission. At the end of the nineteenth century, most Protestant Americans knew it was their job to do something to shape the course of human civilization.
+
+From the 1880s onward, social Christianity worked its way into the fabric of American Protestantism and shaped the contours of Christian mission. Relating this to kingdom theology, Handy writes,
+
+> The kingdom idea was in many respects a spiritualized and idealized restatement of the search for a specifically Christian society in an age of freedom and progress. Protestants with somewhat different theological perspectives concerning the kingdom of God could nevertheless find sufficient in common to work together for its coming.
+> 
+> Handy, A Christian America, 87.
+
+Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.
+
+Handy, Undermined Establishment, 10.
+
+Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.
+
+May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase,
+
+Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTAyNzcwMiw3MzQ5ODI4OTgsMTgzMD
-MwNzY0Ml19
+eyJoaXN0b3J5IjpbLTE5MDExMTUwNTIsMTQ1NTAyNzcwMiw3Mz
+Q5ODI4OTgsMTgzMDMwNzY0Ml19
 -->
