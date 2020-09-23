@@ -57,9 +57,9 @@ Despite its British origins, however, the new world provided a unique context to
 
 While it was the natural laws of human civilization and progress that would bring about the change for many in England, it was the intentional spread of the gospel that would cover the entire earth through missions emanating outward from America. Speaking of the first Great Awakening, Handy writes, "Yet there was a pervasive sense among the awakeners and those whom they influenced that the future belonged to them and their way. They felt they were witnesses to the coming of the millennium, which God would bring to fulfillment in the not too distant future."^[Handy, A Christian America, 18.] Edwards served as the fountainhead of a distinctly American Protestant postmillennialism. His influence cannot be overstated when considering the rise of the New Divinity movement, which traces its roots back into Edwards.
 
-While it is widely accepted that the Protestant American missionary fervor found it's early voice through the influence of New Divinity, so did the closely intertwined issue of eschatology. In many ways, millennialism was the basis for this missionary fervor.^[Kling,  [New Divinity](https://www.notion.so/keelan/The-New-Divinity-and-the-Origins-of-the-American-Board-of-Commissioners-of-Foreign-Missions-f4fab75d89dc4a7d8915b5bffa8d787f#66b85365c4af49db8dcdbc0e93c5064a), Loc. 160.  _NEED TO SEE HIS FOOTNOTE FOR THIS STATEMENT. SURELY HE GOES INTO DETAIL ABOUT SOURCES WHEN MAKING SUCH A CLAIM._]
+While it is widely accepted that the Protestant American missionary fervor found its early voice through the influence of New Divinity, so did the closely intertwined issue of eschatology. In many ways, millennialism was the basis for this missionary fervor.^[Kling,  [New Divinity](https://www.notion.so/keelan/The-New-Divinity-and-the-Origins-of-the-American-Board-of-Commissioners-of-Foreign-Missions-f4fab75d89dc4a7d8915b5bffa8d787f#66b85365c4af49db8dcdbc0e93c5064a), Loc. 160.  _NEED TO SEE HIS FOOTNOTE FOR THIS STATEMENT. SURELY HE GOES INTO DETAIL ABOUT SOURCES WHEN MAKING SUCH A CLAIM._]
 
-Samuel Hopkins, for instance, was one of Edwards closest companions and disciples. Hopkins too was convinced of the imminent dawn of the millennium through the spread of the gospel. (_CONSIDER CITING HOPKINS DIRECTLY_) De Jong writes, "For Hopkins missions would bring the millennium and the millennium would be characterized by heightened mission work."^[De Jong, As the Waters, 208.]
+Samuel Hopkins, for instance, was one of Edwards's closest companions and disciples. Hopkins too was convinced of the imminent dawn of the millennium through the spread of the gospel. (_CONSIDER CITING HOPKINS DIRECTLY_) De Jong writes, "For Hopkins missions would bring the millennium and the millennium would be characterized by heightened mission work."^[De Jong, As the Waters, 208.]
 
 This activist understanding of millennialism relied on human initiative to usher in the millennium, as opposed to either natural catastrophes or other impersonal events. Edwards was one of the first in the colonies to base millennial advance on human initiative, and the characteristic was continued through the influence of New Divinity men.^[Davidson, Logic, 270.] It would be the sacrificial spread of the gospel throughout the entire world that would finally bring to fruition the new kingdom of God.^[De Jong, As the Waters, 211.]
 
@@ -298,9 +298,9 @@ tlRCI6eyJkaXNjdXNzaW9uSWQiOiJINGNsNVlBcE1OUjdsek5P
 Iiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG8geW91IH
 dhbnQgdG8gdXNlIGluZGVmaW5pdGUgb3IgZGVmaW5pdGUgYXJ0
 aWNsZSBoZXJlPyIsImNyZWF0ZWQiOjE2MDA4ODg0MDcwMDd9fS
-wiaGlzdG9yeSI6Wzk4MjU2MTE2MywxNDk0MjA3Njg0LDg2MTkw
-OTEyMCw2OTU0MjY1MTksMTI2MjM1MzQ2NSwtMTkxNTY0NjAwMy
-w1NzE4OTg0MjgsMTE5MzA3MzExNiwyMTA0NDI5NTYwLDE0NTk3
-MTEzMywxNDU1MDI3NzAyLDczNDk4Mjg5OCwxODMwMzA3NjQyXX
-0=
+wiaGlzdG9yeSI6Wy01NTg3NzUwMzAsOTgyNTYxMTYzLDE0OTQy
+MDc2ODQsODYxOTA5MTIwLDY5NTQyNjUxOSwxMjYyMzUzNDY1LC
+0xOTE1NjQ2MDAzLDU3MTg5ODQyOCwxMTkzMDczMTE2LDIxMDQ0
+Mjk1NjAsMTQ1OTcxMTMzLDE0NTUwMjc3MDIsNzM0OTgyODk4LD
+E4MzAzMDc2NDJdfQ==
 -->
