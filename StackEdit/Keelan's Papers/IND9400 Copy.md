@@ -122,7 +122,7 @@ By the end of the century, postmillennialism achieved a virtual hegemony on the 
 The first half of the nineteenth century witnessed the crystallization of a majority Protestant view in favor of postmillennialism. Davidson writes, ""By the 1820s the perspective had changed considerably. Postmillennialism had become a well-established, coherent position..."^[Davidson, 270.] The events that transpired over the course of the century only increased the dominance of the postmillennial position. By the last half of the century, postmillennialism was assumed for most Protestants, reaching the level of a theological presupposition upon which rested the applied theology of the era. This dominance gave Brown the confidence to write only a few decades later of how the majority of the Church, "looks for a future period of prosperity, preceding the second advent of Christ."^[Brown, Millennium, Dictionary, 373.] Though only one of many presuppositions, postmillennialism shaded both the theological questions and answers as the Gilded Age and Progressive Era approached.
 
 # Presupposition 2: A Conditional Manifest Destiny: American Protestant Kingdom Theology
-On a winter day in December, 1870, students entered a lecture hall at Andover Theological Seminary to hear a series of lectures by Samuel Harris, then president of Bowdoin College. This lecture series would later be published as a book under the title, The Kingdom of Christ on Earth. If postmillennialism addressed the manner in which this kingdom would come, then kingdom theology provided an understanding of its nature and means. As the Gilded Age gained steam, postmillennial optimism and European influence fueld a renewed zeal in the kingdom of God, a factor that would weigh heavy in the formation of applied theology and missionary methods toward immigrants in the decades to come.
+On a winter day in December, 1870, students entered a lecture hall at Andover Theological Seminary to hear a series of lectures by Samuel Harris, then president of Bowdoin College. This lecture series would later be published as a book under the title, _The Kingdom of Christ on Earth_. If postmillennialism addressed the manner in which this kingdom would come, then kingdom theology provided an understanding of its nature and means. As the Gilded Age gained steam, postmillennial optimism and European influence fueled a renewed zeal in the kingdom of God, a factor that would weigh heavy in the formation of applied theology and missionary methods toward immigrants in the decades to come.
 
 Near the beginning of his first lecture, Harris sets the tone and trajectory, claiming:
 
@@ -341,10 +341,11 @@ LCJ0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQxOTk1MTcxfS
 wiNGdYU3FEaDhvczlXUmtDWCI6eyJkaXNjdXNzaW9uSWQiOiJo
 eWlWcmptQlhZeDhJaU9zIiwic3ViIjoiZ2g6MzcwNDA4NDEiLC
 J0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQyMDA1MDYxfX0s
-Imhpc3RvcnkiOlstNDYyNjQ5NjUsMjExNjI1MzAyMiwtMjk5NT
-UzOTI4LC0xMTI2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAz
-MCw5ODI1NjExNjMsMTQ5NDIwNzY4NCw4NjE5MDkxMjAsNjk1ND
-I2NTE5LDEyNjIzNTM0NjUsLTE5MTU2NDYwMDMsNTcxODk4NDI4
-LDExOTMwNzMxMTYsMjEwNDQyOTU2MCwxNDU5NzExMzMsMTQ1NT
-AyNzcwMiw3MzQ5ODI4OTgsMTgzMDMwNzY0Ml19
+Imhpc3RvcnkiOlsyOTMxOTkzNDYsLTQ2MjY0OTY1LDIxMTYyNT
+MwMjIsLTI5OTU1MzkyOCwtMTEyNjM1OTkxNSwxNjI2NTkwOTA0
+LC01NTg3NzUwMzAsOTgyNTYxMTYzLDE0OTQyMDc2ODQsODYxOT
+A5MTIwLDY5NTQyNjUxOSwxMjYyMzUzNDY1LC0xOTE1NjQ2MDAz
+LDU3MTg5ODQyOCwxMTkzMDczMTE2LDIxMDQ0Mjk1NjAsMTQ1OT
+cxMTMzLDE0NTUwMjc3MDIsNzM0OTgyODk4LDE4MzAzMDc2NDJd
+fQ==
 -->
