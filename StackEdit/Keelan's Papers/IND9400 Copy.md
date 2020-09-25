@@ -107,15 +107,13 @@ Conferences on the second coming of Christ began in 1840.^[Himes, J. V. “A Gen
 
 As these conferences gained momentum, churches from across denominations began to coalesce into a parallel Millerite coalition that looked much like a denomination itself. The group began to publish its own newspaper and developed their own hymnal.^[See Joshua Vaughan Himes, Millennial Harp: Designed for Meetings on the Second Coming of Christ (Boston: J.V. Himes, 1843) as well as Himes, Signs of the Times.]
 
-With the supposed event drawing close, pressure mounted and many of the leaders of the movement were removed from their respective denominations. Sandeen writes, "But on 22 October 1844 the sun sank as it had on every other day since creation, and Christ had not come. In retrospect the Millerite movement appears to have virtually destroyed premillennialism in America for a generation."^[Sandeen, Roots, 54.]
+With the supposed event drawing close, pressure mounted and many of the leaders of the movement were removed from their respective denominations. Sandeen writes, "But on 22 October 1844 the sun sank as it had on every other day since creation, and Christ had not come. In retrospect the Millerite movement appears to have virtually destroyed premillennialism in America for a generation."^[Sandeen, Roots, 54.] As premillennialism lost favor, postmillennial optimism grew with adherence to the latter eventually eclipsing the former.
 
-As premillennialism lost favor, postmillennial optimism grew with adherence to the latter eventually eclipsing the former.
-
-Those still maintaining a premillennialist commitment moved into the margins of Protestant thought. Preaching before a gathering of the First Synod of New Jersey in 1849, Presbyterian minister Charles Imbrie pleaded for the church not be swayed by the majority thinking concerning postmillennialism and used his address to expound differences between the competing views. Imbrie recognized the similarities shared by the divergent millennial views in the beginning, moving on to note disparities and their significance to missions. Of chief concern to Imbrie were the postmillennial assertions of a spiritual kingdom instead of the physical return of Christ and the optimistic means through which this will occur. Imbrie writes, "In some day when the gospel shall be proclaimed, it will not, as now, bring in only a part, but will convert every hearer. A new law of success is suddenly to arise, and the church is gradually, or towards the last perhaps, more rapidly, to be transfused into the millennial state."^[Imbrie, Charles K. Kingdom of God: A Discourse Preached Before the Synod of New Jersey, October 17, 1849. New York: Franklin Knight, 1850.]
-
-Nevertheless, Imbrie's address takes the form of a plea, as he admits postmillennialism to be the pervading view of the era.^[Imbrie, 51.]
+Those still maintaining a premillennialist commitment moved into the margins of Protestant thought. Preaching before a gathering of the First Synod of New Jersey in 1849, Presbyterian minister Charles Imbrie pleaded for the church not be swayed by the majority thinking concerning postmillennialism and used his address to expound differences between the competing views. Imbrie recognized the similarities shared by the divergent millennial views in the beginning, moving on to note disparities and their significance to missions. Of chief concern to Imbrie were the postmillennial assertions of a spiritual kingdom instead of the physical return of Christ and the optimistic means through which this will occur. Imbrie writes, "In some day when the gospel shall be proclaimed, it will not, as now, bring in only a part, but will convert every hearer. A new law of success is suddenly to arise, and the church is gradually, or towards the last perhaps, more rapidly, to be transfused into the millennial state."^[Imbrie, Charles K. Kingdom of God: A Discourse Preached Before the Synod of New Jersey, October 17, 1849. New York: Franklin Knight, 1850.] Nevertheless, Imbrie's address takes the form of a plea, as he admits postmillennialism to be the pervading view of the era.^[Imbrie, 51.]
 
 In fact, the postmillennial vision of Christianizing the social order in order to usher in the millennium gained so much traction that its social influence was eventually assumed across the spectrum of millennial views. Handy writes, "Even those who stressed premillennialist or millenarian views, however, often saw the work of Christianizing society as a preparation for the coming of the Lord."^[Handy, A Christian America, 31.] For many, the idea of creating a Christian society was attainable after decades of revivals and Protestant expansion across the growing frontier. This optimism coincided with the malaise produced by the miscalculations of Millerites and other premillennial groups, pushing the mainstream of American Protestantism toward postmillennial convictions. Handy continues, "For them, the religious quest and the civil process, though clearly distinct, moved toward the same happy climax."^[Handy, A Christian America, 31.] By the middle of the century, however, the distinction between civilizing and Christianizing began to diminish as the two ideas merged into an overarching mission for Protestant America.
+
+
 
 The first half of the nineteenth century witnessed the crystallization of a majority Protestant view in favor of postmillennialism. Davidson writes, ""By the 1820s the perspective had changed considerably. Postmillennialism had become a well-established, coherent position..."^[Davidson, 270.] The events that transpired over the course of the century only increased the dominance of the postmillennial position. By the last half of the century, postmillennialism was assumed for most Protestants, reaching the level of a theological presupposition upon which rested the applied theology of the era. This dominance gave Brown the confidence to write only a few decades later of how the majority of the Church, "looks for a future period of prosperity, preceding the second advent of Christ."^[Brown, Millennium, Dictionary, 373.] Though only one of many presuppositions, postmillennialism shaded both the theological questions and answers as the Gilded Age and Progressive Era approached.
 
@@ -263,9 +261,9 @@ Z0NVNndWS2RkSnoiOnsidGV4dCI6InRoZSIsInN0YXJ0IjoyNz
 kwOCwiZW5kIjoyNzkxMX0sIlFCWDVuOEEwMFI3MEVFMnAiOnsi
 dGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI5MDQ4LCJlbm
 QiOjI5MDU5fSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZXh0Ijoi
-cHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjozMDA1NiwiZW5kIj
-ozMDA3Mn0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dCI6Ik5l
-dmVydGhlbGVzcyIsInN0YXJ0IjozMTMzMiwiZW5kIjozMTM0NH
+cHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjozMDA1NSwiZW5kIj
+ozMDA3MX0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dCI6Ik5l
+dmVydGhlbGVzcyIsInN0YXJ0IjozMTMzMCwiZW5kIjozMTM0Mn
 19LCJjb21tZW50cyI6eyI2WWF4cFBSOGZTQjBrTElIIjp7ImRp
 c2N1c3Npb25JZCI6ImZmZE5GVzMxT21YT2NKTkQiLCJzdWIiOi
 JnaDo3MTI5Mzk4NyIsInRleHQiOiJpcyB0aGlzIGEgbm91biBv
@@ -333,10 +331,16 @@ OFBoZWpWM1d4ZGlOTFBpNCI6eyJkaXNjdXNzaW9uSWQiOiJoeW
 lWcmptQlhZeDhJaU9zIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0
 ZXh0IjoiaXMgdGhpcyBzdXBwb3NlZCB0byBiZSBhIHNlcGFyYX
 RlIHBhcmFncmFwaD8iLCJjcmVhdGVkIjoxNjAwODkwNDU5NDY0
-fX0sImhpc3RvcnkiOlsyMTE2MjUzMDIyLC0yOTk1NTM5MjgsLT
-ExMjYzNTk5MTUsMTYyNjU5MDkwNCwtNTU4Nzc1MDMwLDk4MjU2
-MTE2MywxNDk0MjA3Njg0LDg2MTkwOTEyMCw2OTU0MjY1MTksMT
-I2MjM1MzQ2NSwtMTkxNTY0NjAwMyw1NzE4OTg0MjgsMTE5MzA3
-MzExNiwyMTA0NDI5NTYwLDE0NTk3MTEzMywxNDU1MDI3NzAyLD
-czNDk4Mjg5OCwxODMwMzA3NjQyXX0=
+fSwidnR2YmY4Q1B2aW80VlpsSyI6eyJkaXNjdXNzaW9uSWQiOi
+JKbEszNk01Qm5zUWNXSDQ0Iiwic3ViIjoiZ2g6MzcwNDA4NDEi
+LCJ0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQxOTk1MTcxfS
+wiNGdYU3FEaDhvczlXUmtDWCI6eyJkaXNjdXNzaW9uSWQiOiJo
+eWlWcmptQlhZeDhJaU9zIiwic3ViIjoiZ2g6MzcwNDA4NDEiLC
+J0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQyMDA1MDYxfX0s
+Imhpc3RvcnkiOlstNTQxMTg3MTE4LDIxMTYyNTMwMjIsLTI5OT
+U1MzkyOCwtMTEyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUw
+MzAsOTgyNTYxMTYzLDE0OTQyMDc2ODQsODYxOTA5MTIwLDY5NT
+QyNjUxOSwxMjYyMzUzNDY1LC0xOTE1NjQ2MDAzLDU3MTg5ODQy
+OCwxMTkzMDczMTE2LDIxMDQ0Mjk1NjAsMTQ1OTcxMTMzLDE0NT
+UwMjc3MDIsNzM0OTgyODk4LDE4MzAzMDc2NDJdfQ==
 -->
