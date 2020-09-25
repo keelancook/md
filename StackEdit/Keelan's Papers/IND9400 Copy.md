@@ -68,9 +68,7 @@ By the second half of the eighteenth century, human activity under the providenc
 `ADD PARAGRAPH 
 that notes the work of Ruth Boch, Visionary Republic, and her central thesis.In this paragraph, note her central thesis.Also point out that it was millennialism jumbled into pre-post confusion at this time._`
 
-Many American Protestants entered the revolutionary period longing to see the hand of providence orchestrating their millennial vision. Kling writes, "America's revolutionary and postrevolutionary period (1776-1800) - a dramatic time indeed - unleashed a torrent of millennialist predictions, some premillennial, others postmillennial."^[Kling, New Divinity, Loc. 316.]
-
-For many, America's short history proved fertile ground for millennial speculation. The establishment of the new world was, itself, seen as a sign of divine providence. In the wake of the war, American Protestants possessed the common sentiment that the results of the war were in fact a significant eschatological development. De Jong writes, "Their country was regarded as the potential seat of Christ's rule in that era, and evangelicals were compared with Cromwell's Roundheads for their consciousness of being divine instruments in realizing that day."^[De Jong, As the Waters, 201-202.] American Protestants increasingly claimed a unique and elevated role in hastening the millennium.
+Many American Protestants entered the revolutionary period longing to see the hand of providence orchestrating their millennial vision. Kling writes, "America's revolutionary and postrevolutionary period (1776-1800) - a dramatic time indeed - unleashed a torrent of millennialist predictions, some premillennial, others postmillennial."^[Kling, New Divinity, Loc. 316.] For many, America's short history proved fertile ground for millennial speculation. The establishment of the new world was, itself, seen as a sign of divine providence. In the wake of the war, American Protestants possessed the common sentiment that the results of the war were in fact a significant eschatological development.^[Noll, Mark A., The Search for Christian America (Westchester, Ill.: Crossway Books, 1983), 61-62 expounds upon a misplaced millennial expectation that was birthed out of the Puritan vision of Edwards and developed into support for the American Revolution.] De Jong writes, "Their country was regarded as the potential seat of Christ's rule in that era, and evangelicals were compared with Cromwell's Roundheads for their consciousness of being divine instruments in realizing that day."^[De Jong, As the Waters, 201-202.] American Protestants increasingly claimed a unique and elevated role in hastening the millennium.
 
 Already optimistic concerning the global spread of the gospel, Protestants in America were increasingly certain the millennium was fast approaching. Kling writes, "However, as revivals of the Second Great Awakening (ca. 1790-1835) advanced in both intensity and duration, a confidence grew that the millennium was an approaching reality. The apocalyptic element of millennial thought, which was associated with the destruction of the world prior to Christ's return, gave way to more hopeful millennial expectations."^[Kling, New Divinity, Loc. 316.]
 
@@ -260,14 +258,14 @@ FwTU5SN2x6Tk8iOnsidGV4dCI6InRoZSIsInN0YXJ0IjoxNDY2
 MiwiZW5kIjoxNDY2NX0sIjg0U3ZOY2U4TmtCR0owRjMiOnsidG
 V4dCI6IlBBUkFHUkFQSCIsInN0YXJ0IjoyMTk0NCwiZW5kIjoy
 MTk1M30sIlF4NVNqY2dOUTVUamRyVzAiOnsidGV4dCI6Indvcm
-RseSIsInN0YXJ0IjoyNDI0MiwiZW5kIjoyNDI0OH0sIkZrOWw4
-Z0NVNndWS2RkSnoiOnsidGV4dCI6InRoZSIsInN0YXJ0IjoyNz
-kwOCwiZW5kIjoyNzkxMX0sIlFCWDVuOEEwMFI3MEVFMnAiOnsi
-dGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI5MDQ4LCJlbm
-QiOjI5MDU5fSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZXh0Ijoi
-cHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjozMDA1NSwiZW5kIj
-ozMDA3MX0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dCI6Ik5l
-dmVydGhlbGVzcyIsInN0YXJ0IjozMTMzMCwiZW5kIjozMTM0Mn
+RseSIsInN0YXJ0IjoyNDUwMCwiZW5kIjoyNDUwNn0sIkZrOWw4
+Z0NVNndWS2RkSnoiOnsidGV4dCI6InRoZSIsInN0YXJ0IjoyOD
+E2NiwiZW5kIjoyODE2OX0sIlFCWDVuOEEwMFI3MEVFMnAiOnsi
+dGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI5MzA2LCJlbm
+QiOjI5MzE3fSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZXh0Ijoi
+cHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjozMDMxMywiZW5kIj
+ozMDMyOX0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dCI6Ik5l
+dmVydGhlbGVzcyIsInN0YXJ0IjozMTU4OCwiZW5kIjozMTYwMH
 19LCJjb21tZW50cyI6eyI2WWF4cFBSOGZTQjBrTElIIjp7ImRp
 c2N1c3Npb25JZCI6ImZmZE5GVzMxT21YT2NKTkQiLCJzdWIiOi
 JnaDo3MTI5Mzk4NyIsInRleHQiOiJpcyB0aGlzIGEgbm91biBv
@@ -341,7 +339,7 @@ LCJ0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQxOTk1MTcxfS
 wiNGdYU3FEaDhvczlXUmtDWCI6eyJkaXNjdXNzaW9uSWQiOiJo
 eWlWcmptQlhZeDhJaU9zIiwic3ViIjoiZ2g6MzcwNDA4NDEiLC
 J0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQyMDA1MDYxfX0s
-Imhpc3RvcnkiOlsxMjAyODYwMjIsMjkzMTk5MzQ2LDIxMTYyNT
+Imhpc3RvcnkiOlszNTQ4NDg0MTAsMjkzMTk5MzQ2LDIxMTYyNT
 MwMjIsLTI5OTU1MzkyOCwtMTEyNjM1OTkxNSwxNjI2NTkwOTA0
 LC01NTg3NzUwMzAsOTgyNTYxMTYzLDE0OTQyMDc2ODQsODYxOT
 A5MTIwLDY5NTQyNjUxOSwxMjYyMzUzNDY1LC0xOTE1NjQ2MDAz
