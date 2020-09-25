@@ -206,7 +206,9 @@ Perhaps none are so clearly tied to Maurice's influence though as Horace Bushnel
 
 Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left it's mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `Find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surface both earlier and broader than the social gospel movement.
 
-The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium. If American Protestants were tasked with ushering in the kingdom, then Ritschl gave shape to this idea for many, even if they did not know the concepts were gleaned from German liberal theology. As the nineteenth century moved through its final decades, many found appealing Ritschl's propensity for linking religion and civilization as twins engines of progress and advancing the kingdom.^[Handy, A Christian America, 87.] Handy notes that even as the emerging liberal segments within evangelicalism were elevating Ritschl's concepts of the kingdom to a central place in their own theology, they were doing so in broad language that could, and would, be easily accepted by a much wider spectrum Protestants.^[Handy, A Christian America, 87.]
+The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium, though it required a removing an empahsis on supernatural and apocalyptic elements of the millennium in favor of an ethical conception of the kingdom. The kingdom became a present, ethical reality instead of a coming apocalyptic society. The postmillennial optimism adjusted further still to rest on laws of evolution and growth for a gradual advance of society into this moralized understanding of the kingdom.
+
+If American Protestants were tasked with ushering in the kingdom, then Ritschl gave shape to this idea for many, even if they did not know the concepts were gleaned from German liberal theology. As the nineteenth century moved through its final decades, many found appealing Ritschl's propensity for linking religion and civilization as twins engines of progress and advancing the kingdom.^[Handy, A Christian America, 87.] Handy notes that even as the emerging liberal segments within evangelicalism were elevating Ritschl's concepts of the kingdom to a central place in their own theology, they were doing so in broad language that could, and would, be easily accepted by a much wider spectrum Protestants.^[Handy, A Christian America, 87.]
 
 Samuel Harris is one such example. Handy writes, "Such men as Harris and others like him were not crusading for liberalism but were trying to state views that represented an evangelical consensus."^[Handy, A Christian America, 87.] Evangelicals across a broad spectrum in America were gaining interest in the doctrine of the kingdom of God, because certain kingdom theologies provided a pathway for the discussion of the church's role in civilization.^[Handy, A Christian America, 84, 87.] Harris writes,
 
@@ -252,18 +254,18 @@ MgbWlsbGVubmlhbCB2aWV3cyBhbmQgb25lJ3MgdW5kZXJzdGFu
 ZGluZyBvZiB0aGUga2luZ2RvbeKApiIsInN0YXJ0IjoyNTI4LC
 JlbmQiOjI3MDR9LCIzS0l5bmtVMWRhU1VoZkJiIjp7InRleHQi
 OiI6Iiwic3RhcnQiOjk3MjQsImVuZCI6OTcyNX0sIkg0Y2w1WU
-FwTU5SN2x6Tk8iOnsic3RhcnQiOjE0NjYyLCJlbmQiOjE0NjY1
-LCJ0ZXh0IjoidGhlIn0sIjg0U3ZOY2U4TmtCR0owRjMiOnsic3
-RhcnQiOjIxOTQ0LCJlbmQiOjIxOTUzLCJ0ZXh0IjoiUEFSQUdS
-QVBIIn0sIlF4NVNqY2dOUTVUamRyVzAiOnsic3RhcnQiOjI0Mj
-QyLCJlbmQiOjI0MjQ4LCJ0ZXh0Ijoid29yZGx5In0sIkZrOWw4
-Z0NVNndWS2RkSnoiOnsic3RhcnQiOjI3OTA4LCJlbmQiOjI3OT
-ExLCJ0ZXh0IjoidGhlIn0sIlFCWDVuOEEwMFI3MEVFMnAiOnsi
-c3RhcnQiOjI5MDQ4LCJlbmQiOjI5MDU5LCJ0ZXh0IjoiQ29uZm
-VyZW5jZXMifSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJzdGFydCI6
-MzAwNTYsImVuZCI6MzAwNzIsInRleHQiOiJwcmVtaWxsZW5uaW
-FsaXNtIn0sImh5aVZyam1CWFl4OElpT3MiOnsic3RhcnQiOjMx
-MzMyLCJlbmQiOjMxMzQ0LCJ0ZXh0IjoiTmV2ZXJ0aGVsZXNzIn
+FwTU5SN2x6Tk8iOnsidGV4dCI6InRoZSIsInN0YXJ0IjoxNDY2
+MiwiZW5kIjoxNDY2NX0sIjg0U3ZOY2U4TmtCR0owRjMiOnsidG
+V4dCI6IlBBUkFHUkFQSCIsInN0YXJ0IjoyMTk0NCwiZW5kIjoy
+MTk1M30sIlF4NVNqY2dOUTVUamRyVzAiOnsidGV4dCI6Indvcm
+RseSIsInN0YXJ0IjoyNDI0MiwiZW5kIjoyNDI0OH0sIkZrOWw4
+Z0NVNndWS2RkSnoiOnsidGV4dCI6InRoZSIsInN0YXJ0IjoyNz
+kwOCwiZW5kIjoyNzkxMX0sIlFCWDVuOEEwMFI3MEVFMnAiOnsi
+dGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI5MDQ4LCJlbm
+QiOjI5MDU5fSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZXh0Ijoi
+cHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjozMDA1NiwiZW5kIj
+ozMDA3Mn0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dCI6Ik5l
+dmVydGhlbGVzcyIsInN0YXJ0IjozMTMzMiwiZW5kIjozMTM0NH
 19LCJjb21tZW50cyI6eyI2WWF4cFBSOGZTQjBrTElIIjp7ImRp
 c2N1c3Npb25JZCI6ImZmZE5GVzMxT21YT2NKTkQiLCJzdWIiOi
 JnaDo3MTI5Mzk4NyIsInRleHQiOiJpcyB0aGlzIGEgbm91biBv
@@ -331,10 +333,10 @@ OFBoZWpWM1d4ZGlOTFBpNCI6eyJkaXNjdXNzaW9uSWQiOiJoeW
 lWcmptQlhZeDhJaU9zIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0
 ZXh0IjoiaXMgdGhpcyBzdXBwb3NlZCB0byBiZSBhIHNlcGFyYX
 RlIHBhcmFncmFwaD8iLCJjcmVhdGVkIjoxNjAwODkwNDU5NDY0
-fX0sImhpc3RvcnkiOlstMjk5NTUzOTI4LC0xMTI2MzU5OTE1LD
-E2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1NjExNjMsMTQ5NDIw
-NzY4NCw4NjE5MDkxMjAsNjk1NDI2NTE5LDEyNjIzNTM0NjUsLT
-E5MTU2NDYwMDMsNTcxODk4NDI4LDExOTMwNzMxMTYsMjEwNDQy
-OTU2MCwxNDU5NzExMzMsMTQ1NTAyNzcwMiw3MzQ5ODI4OTgsMT
-gzMDMwNzY0Ml19
+fX0sImhpc3RvcnkiOlsxMjE4ODQxODY3LC0yOTk1NTM5MjgsLT
+ExMjYzNTk5MTUsMTYyNjU5MDkwNCwtNTU4Nzc1MDMwLDk4MjU2
+MTE2MywxNDk0MjA3Njg0LDg2MTkwOTEyMCw2OTU0MjY1MTksMT
+I2MjM1MzQ2NSwtMTkxNTY0NjAwMyw1NzE4OTg0MjgsMTE5MzA3
+MzExNiwyMTA0NDI5NTYwLDE0NTk3MTEzMywxNDU1MDI3NzAyLD
+czNDk4Mjg5OCwxODMwMzA3NjQyXX0=
 -->
