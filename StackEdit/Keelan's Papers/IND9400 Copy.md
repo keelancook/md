@@ -113,7 +113,11 @@ Those still maintaining a premillennialist commitment moved into the margins of 
 
 In fact, the postmillennial vision of Christianizing the social order in order to usher in the millennium gained so much traction that its social influence was eventually assumed across the spectrum of millennial views. Handy writes, "Even those who stressed premillennialist or millenarian views, however, often saw the work of Christianizing society as a preparation for the coming of the Lord."^[Handy, A Christian America, 31.] For many, the idea of creating a Christian society was attainable after decades of revivals and Protestant expansion across the growing frontier. This optimism coincided with the malaise produced by the miscalculations of Millerites and other premillennial groups, pushing the mainstream of American Protestantism toward postmillennial convictions. Handy continues, "For them, the religious quest and the civil process, though clearly distinct, moved toward the same happy climax."^[Handy, A Christian America, 31.] By the middle of the century, however, the distinction between civilizing and Christianizing began to diminish as the two ideas merged into an overarching mission for Protestant America.
 
+In the final decades of the nineteenth century, Christianizing and civilizing were increasingly indistinguishable, though hopes of a future, perhaps already present, period of peace and prosperity were still alive and well. As the more traditional apocalyptic vision of a coming millennium came in contact with German scholarship and the rise of social scientific theories, postmillennial commitments adjusted. Scholars began to strip away aspects of the doctrine, such as a literal return of Christ at the end of the millennium.^[Merrill, S.M.,  The  Second  Coming  of Christ  (Cincinnati,  1879), pp.  13, 282. See also William  N.  Clarke,  An  Outline  of  Christian   Theology  (New  York,  1909),  p.  444.] The nature of the millennium was revised in increasingly ethical terms and transcendence even further removed, with an overall principle of natural continuity vying for dominance in the definition of the postmillennial vision. Moorhead writes,
 
+>That perspective informed the dismissal of traditional "artificial" readings of prophecy; it motivated the rejection of apocalypticism and of the sharp dichotomies between the lost and the saved, heaven and hell, time and eternity; and it lay behind faith in a Kingdom of God advancing by rational planning. In a word, the erosion of postmillennialism was part of the waning of supernaturalism.^[Moorhead, Erosion, 76.]
+
+By the end of the century, postmillennialism achieved a virtual hegemony on the Protestant American grasp of the future, yet moves to erode and revise in light of modernist theology began to chip away at the fullness of the doctrine. These shifts would not take effect at once, but within a matter of decades these revisions would untangle the position and by the 1930s lead to its widespread dismissal.^[Moorhead, Erosion, 61 takes as his thesis the slow decline of postmillennialism after the Civil War, noting that it would move from the solid majority position to virtually dismissed by the 1930s. Though the seeds of this erosion emerged in the academy in the decades after the Civil War, it would take the turmoil of the Fundamentalist and Modernist controversies at the end of the Progressive era to unseat postmillennialism, or some adjusted version, from its position.] Nevertheless, a solid belief in a immanent period of social peace and prosperity, a millennial reign, buoyed the American Protestant mission and instilled a solid faith in progress in the Progressive Era.
 
 The first half of the nineteenth century witnessed the crystallization of a majority Protestant view in favor of postmillennialism. Davidson writes, ""By the 1820s the perspective had changed considerably. Postmillennialism had become a well-established, coherent position..."^[Davidson, 270.] The events that transpired over the course of the century only increased the dominance of the postmillennial position. By the last half of the century, postmillennialism was assumed for most Protestants, reaching the level of a theological presupposition upon which rested the applied theology of the era. This dominance gave Brown the confidence to write only a few decades later of how the majority of the Church, "looks for a future period of prosperity, preceding the second advent of Christ."^[Brown, Millennium, Dictionary, 373.] Though only one of many presuppositions, postmillennialism shaded both the theological questions and answers as the Gilded Age and Progressive Era approached.
 
@@ -337,10 +341,10 @@ LCJ0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQxOTk1MTcxfS
 wiNGdYU3FEaDhvczlXUmtDWCI6eyJkaXNjdXNzaW9uSWQiOiJo
 eWlWcmptQlhZeDhJaU9zIiwic3ViIjoiZ2g6MzcwNDA4NDEiLC
 J0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQyMDA1MDYxfX0s
-Imhpc3RvcnkiOlstNTQxMTg3MTE4LDIxMTYyNTMwMjIsLTI5OT
-U1MzkyOCwtMTEyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUw
-MzAsOTgyNTYxMTYzLDE0OTQyMDc2ODQsODYxOTA5MTIwLDY5NT
-QyNjUxOSwxMjYyMzUzNDY1LC0xOTE1NjQ2MDAzLDU3MTg5ODQy
-OCwxMTkzMDczMTE2LDIxMDQ0Mjk1NjAsMTQ1OTcxMTMzLDE0NT
-UwMjc3MDIsNzM0OTgyODk4LDE4MzAzMDc2NDJdfQ==
+Imhpc3RvcnkiOlstNDYyNjQ5NjUsMjExNjI1MzAyMiwtMjk5NT
+UzOTI4LC0xMTI2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAz
+MCw5ODI1NjExNjMsMTQ5NDIwNzY4NCw4NjE5MDkxMjAsNjk1ND
+I2NTE5LDEyNjIzNTM0NjUsLTE5MTU2NDYwMDMsNTcxODk4NDI4
+LDExOTMwNzMxMTYsMjEwNDQyOTU2MCwxNDU5NzExMzMsMTQ1NT
+AyNzcwMiw3MzQ5ODI4OTgsMTgzMDMwNzY0Ml19
 -->
