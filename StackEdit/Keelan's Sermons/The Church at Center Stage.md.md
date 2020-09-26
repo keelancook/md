@@ -40,7 +40,7 @@ After telling the Ephesian church members that he was made a minister of this go
 
 Paul outlines that ministry in **two specific tasks and one very important outcome**.
 
- ## First, let’s look at the tasks.
+## First, let’s look at the tasks.
 
  **We find the first task in verse 8:** *to preach to the Gentiles the unsearchable riches of Christ (Eph. 3:8)*
 
@@ -198,6 +198,6 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNz
-c5OTI5MDI1XX0=
+eyJoaXN0b3J5IjpbMjAwNDM4MTU5NSwxOTEwMjQzOTE1LDIwOD
+Y3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
 -->
