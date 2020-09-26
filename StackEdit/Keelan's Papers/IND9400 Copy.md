@@ -177,7 +177,7 @@ Though Maurice died in 1872, his legacy of Christian Socialism thrived into the 
 
 As noted by Phillips, this movement would also make an impression on American Protestant thought concerning the kingdom of God.
 
-Christian Socialism in England was not the only influence on kingdom theology coming from Europe. German scholarship during the era also played a significant role in the formation of the American Protestant vision for the kingdom of God. The most significant voices coming from Germany were those of Alrbecht Ritschl and Adolf von Harnack.^[Evans, The Social Gospel in American Religion, 60. See also Phillips, A Kingdom on Earth, 11 and Handy, A Christian America, 87.] In 1898, Stuckenberg writes,
+Christian Socialism in England was not the only influence on kingdom theology coming from Europe. German scholarship during the era also played a significant role in the formation of the American Protestant vision for the kingdom of God. The most significant voices coming from Germany were those of Albrecht Ritschl and Adolf von Harnack.^[Evans, The Social Gospel in American Religion, 60. See also Phillips, A Kingdom on Earth, 11 and Handy, A Christian America, 87.] In 1898, Stuckenberg writes,
 
 > To Ritschl belongs the credit for giving prominence to the kingdom of God, which had long been neglected by theologians. The prominence given to this subject almost warrants us in calling his system the theology of the kingdom.^[Stuckenberg, 286.]
 
@@ -374,11 +374,11 @@ plZCIsImNyZWF0ZWQiOjE2MDExNDY5NjEzMjN9LCJSWW9BVG14
 ZGRsOEhVT0dKIjp7ImRpc2N1c3Npb25JZCI6IjVYSUpCelFOeH
 BQZzVMdnQiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJk
 b24ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxMTQ3MDMzODY3fX
-0sImhpc3RvcnkiOlstOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4
-OTE2OTU2OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4ND
-g0MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwt
-MTEyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgyNT
-YxMTYzLDE0OTQyMDc2ODQsODYxOTA5MTIwLDY5NTQyNjUxOSwx
-MjYyMzUzNDY1LC0xOTE1NjQ2MDAzLDU3MTg5ODQyOCwxMTkzMD
-czMTE2XX0=
+0sImhpc3RvcnkiOlstMTkxMTAyNDg4MCwtOTQwNjg4MDgwLC0x
+ODU3Mzk4MzUyLDE4OTE2OTU2OTEsLTE2OTAyNjYzNDgsMTA4ND
+M0NTY1NywzNTQ4NDg0MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIs
+LTI5OTU1MzkyOCwtMTEyNjM1OTkxNSwxNjI2NTkwOTA0LC01NT
+g3NzUwMzAsOTgyNTYxMTYzLDE0OTQyMDc2ODQsODYxOTA5MTIw
+LDY5NTQyNjUxOSwxMjYyMzUzNDY1LC0xOTE1NjQ2MDAzLDU3MT
+g5ODQyOF19
 -->
