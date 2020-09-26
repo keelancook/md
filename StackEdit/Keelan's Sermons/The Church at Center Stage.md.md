@@ -54,7 +54,7 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  **The second task follows in verse 9:** *to bring to light for everyone what is the plan of the mystery hidden for ages in God (Eph. 3:9)*
 
- ### God has had a plan from the very beginning.
+### God has had a plan from the very beginning.
 
  From cover to cover the Bible tells us about God's plan, about this mystery as Paul calls it, about his multi-faceted or manifold wisdom.
 
@@ -80,7 +80,7 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  to shed light on how God's plan will unfold, and Paul accomplishes this last one by starting churches all over the Mediterranean.
 
- ### If those were the tasks, let’s look at the outcome.
+### If those were the tasks, let’s look at the outcome.
  Why did God have Paul, and by the extension the rest of the church, doing these things?
 
  He tells us right there in verse 10: *so that… the manifold wisdom of God might now be made known (Eph. 3:10)*
@@ -198,5 +198,5 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk5MjkwMjVdfQ==
+eyJoaXN0b3J5IjpbMjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
 -->
