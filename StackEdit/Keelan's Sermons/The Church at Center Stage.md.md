@@ -101,9 +101,9 @@ Paul outlines that ministry in **two specific tasks and one very important outco
  And those churches are the center of God's plan to reveal his manifold wisdom to those on earth and those above the earth.
 
 ## (The Divine Drama:)
- Think of it like this: God is writing a story throughout all of history. It is a grand drama from the beginning to the end, that will ultimately reveal his great glory as creator and sovereign Lord over all that he has made.
+Think of it like this: God is writing a story throughout all of history. It is a grand drama from the beginning to the end, that will ultimately reveal his great glory as creator and sovereign Lord over all that he has made.
 
- All of the universe is a giant stage, and right there in the center of the stage is the church. The church lives out God's great plan. After Christ's resurrection and ascension, now the church takes center stage and becomes the main actor in the grand drama.
+All of the universe is a giant stage, and right there in the center of the stage is the church. The church lives out God's great plan. After Christ's resurrection and ascension, now the church takes center stage and becomes the main actor in the grand drama.
 
  That doesn't mean that we are the ones who make this drama happen, and it doesn't mean we are the ones with the power to remove sin and fix the world. It does mean that we are the ones at center stage through which God will reveal his manifold wisdom.  
 
@@ -198,6 +198,6 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM5ODA0ODEsMjA4Njc3OTMyMSwtMT
-c3OTkyOTAyNV19
+eyJoaXN0b3J5IjpbMTkxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNz
+c5OTI5MDI1XX0=
 -->
