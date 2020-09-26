@@ -156,15 +156,15 @@ May need to quote the dialectical bridge language here... or at least give it a 
 He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness.^[ Tuveson, Redeemer Nation, 82.]`
 
 ## The European Conversation
-As with postmillennialism, many other aspects of American Protestant theology were developed in conversation with concurrent discussions in Western Europe, especially Great Brittain. Kingdom theology was no exception. American thoughts on the kingdom of God were heavily influenced by those in Europe, and reliance on certain scholars is evident.
+As with postmillennialism, many other aspects of American Protestant theology were developed in conversation with concurrent discussions in Western Europe, especially Great Britain. Kingdom theology was no exception. American thoughts on the kingdom of God were heavily influenced by those in Europe, and reliance on certain scholars is evident.
 
-F.D. Maurice is one such scholar whose theology played an outsized role in what became the majority understanding of the kingdom in American Protestantism at the turn of the century. One of the more prominent theologians in the Church of England during his time, Maurice was both a committed progressive postimillennialist and had much to say about the kingdom as a result.^[Tuveson, Redeemer Nation, 75.] Maurice is perhaps best known for his role in the development of Christian Socialism in Europe, which eventually emerged in its American form as Social Christianity.
+F.D. Maurice is one such scholar whose theology played an outsized role in what became the majority understanding of the kingdom in American Protestantism at the turn of the century. One of the more prominent theologians in the Church of England during his time, Maurice was both a committed progressive postmillennialist and had much to say about the kingdom as a result.^[Tuveson, Redeemer Nation, 75.] Maurice is perhaps best known for his role in the development of Christian Socialism in Europe, which eventually emerged in its American form as Social Christianity.
 
 Maurice's work gave rise to Christian Socialism in the 1840s and 1850s in England. His work was accompanied by the writings and sermons of others such as John Malcom Forbes and Frederick Robertson during those decades. However, a second wave of scholarship in the 1880s expanded on the concepts of Christian Socialism.^[Phillip, A Kingdom on Earth, xiv.]
 
 Maurice's initial work on the topic,  _Kingdom of Christ_, was published in 1838 and the result of a series of Anglican tracts written to dialogue with Quakers. In it, Maurice laid out several significant theological concepts concerning the Kingdom of God. He believed that the New Jerusalem was, in fact, realizable. Speaking of Maurice, Phillips writes,
 
-> The Kingdom was the community of righteousness about to be established upon earth.  It was not an idealized target never fully to be attained in this life but rather a real, living, and fully functioning community that would be realized through the social application of Christ's teachings.  According to Social Christians, the historical completion of the Christianizing of communities was imminent. It was the expression of God's mission to humanity, the fulfillment of the Incarnation.'^[Phillips, A Kingdom on Earth, 1.]
+> The Kingdom was the community of righteousness about to be established upon earth. It was not an idealized target never fully to be attained in this life but rather a real, living, and fully functioning community that would be realized through the social application of Christ's teachings. According to Social Christians, the historical completion of the Christianizing of communities was imminent. It was the expression of God's mission to humanity, the fulfillment of the Incarnation.'^[Phillips, A Kingdom on Earth, 1.]
 
 For Maurice, the social perfection of the kingdom was an attainable goal, and one that could be accomplished though socially attainable means.
 
@@ -374,11 +374,11 @@ plZCIsImNyZWF0ZWQiOjE2MDExNDY5NjEzMjN9LCJSWW9BVG14
 ZGRsOEhVT0dKIjp7ImRpc2N1c3Npb25JZCI6IjVYSUpCelFOeH
 BQZzVMdnQiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJk
 b24ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxMTQ3MDMzODY3fX
-0sImhpc3RvcnkiOlstMTU2MjgwOTI2OSwtMTg1NzM5ODM1Miwx
-ODkxNjk1NjkxLC0xNjkwMjY2MzQ4LDEwODQzNDU2NTcsMzU0OD
-Q4NDEwLDI5MzE5OTM0NiwyMTE2MjUzMDIyLC0yOTk1NTM5Mjgs
-LTExMjYzNTk5MTUsMTYyNjU5MDkwNCwtNTU4Nzc1MDMwLDk4Mj
-U2MTE2MywxNDk0MjA3Njg0LDg2MTkwOTEyMCw2OTU0MjY1MTks
-MTI2MjM1MzQ2NSwtMTkxNTY0NjAwMyw1NzE4OTg0MjgsMTE5Mz
-A3MzExNl19
+0sImhpc3RvcnkiOlstOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4
+OTE2OTU2OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4ND
+g0MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwt
+MTEyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgyNT
+YxMTYzLDE0OTQyMDc2ODQsODYxOTA5MTIwLDY5NTQyNjUxOSwx
+MjYyMzUzNDY1LC0xOTE1NjQ2MDAzLDU3MTg5ODQyOCwxMTkzMD
+czMTE2XX0=
 -->
