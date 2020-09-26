@@ -91,7 +91,7 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  The mystery of God is to be revealed to all of creation. Everyone on the earth and everyone above the earth.  
 
-## The Agent of God's Plan: The Church)
+## (The Agent of God's Plan: The Church)
  But perhaps the most outstanding part of all of this is how God accomplishes revealing this plan.
 
  Paul tells us, right here in the text. The agent of God's plan – **it's the church.**
@@ -198,5 +198,6 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
+eyJoaXN0b3J5IjpbLTEzMTM5ODA0ODEsMjA4Njc3OTMyMSwtMT
+c3OTkyOTAyNV19
 -->
