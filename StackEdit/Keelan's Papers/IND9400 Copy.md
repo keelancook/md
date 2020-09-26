@@ -97,7 +97,7 @@ As Handy notes, millennial approaches spread across a spectrum, from purely lite
 
 Kling writes, "By 1810, after nearly two decades of revivals, evangelicals faced the future with considerably more confidence than they did in 1790."^[Kling, New Divinity, Loc. 201.]
 
-This optimism led to confidence in the ability of Protestants to truly Christianize society, even on a global scale. With the establishment of the American Board of Commissioners for Foreign Missions (ABCFM), this growing postmillennial optimism was on full display. The first annual report of the claims, "The long expected day is approaching. The Lord is shaking the nations; his friends in different parts of christendom [sic] are roused from their slumbers; and unprecedented exertions are making for the spread of divine knowledge, and the conversion of the nations."^['Minutes of the First Annual Meeting,' in First Ten Annual Reports of the American Board of Commissions of Foreign Missions, With Documents of the Board, 13.]
+This optimism led to confidence in the ability of Protestants to truly Christianize society, even on a global scale. With the establishment of the American Board of Commissioners for Foreign Missions (ABCFM), this growing postmillennial optimism was on full display. The first annual report of the  claims, "The long expected day is approaching. The Lord is shaking the nations; his friends in different parts of christendom [sic] are roused from their slumbers; and unprecedented exertions are making for the spread of divine knowledge, and the conversion of the nations."^['Minutes of the First Annual Meeting,' in First Ten Annual Reports of the American Board of Commissions of Foreign Missions, With Documents of the Board, 13.]
 
 With postmillennial optimism on the rise and the failure of the Millerite predictions concerning the second advent in the 1840s, premillennialist groups anticipating the physical return of Christ made easy targets for caricature and the view came under increasing scrutiny. A flurry of activity occurred in the years preceding the Millerite prediction. Miller himself began to feel he was the leader of a movement.^[Nichol, Francis D. The Midnight Cry: A Defense of the Character and Conduct of William Miller and the Millerites, Who Mistakenly Believed That the Second Coming of Christ Would Take Place in the Year 1844. Vol. Reproduction. Brushton, New York: TEACH Services, Inc., 2000. Page 80.]
 
@@ -128,7 +128,7 @@ Near the beginning of his first lecture, Harris sets the tone and trajectory, cl
 
 In these opening remarks, Harris makes several significant assertions about the kingdom of God. He states that the conversion of the world is the aim of the kingdom and that these are the purposes for which missionary activity and human effort are working. Furthermore, he notes that this view had become "so common as to cease to awaken wonder."^[Harris, Kingdom of Christ, 2.] In the remaining twelve lectures, Harris lays out the end and means of the kingdom of God, a whole world turned into a Christian society through the efforts of Christian ministry and missionary enterprise.
 
-Harris was a prolific figure at the close of the nineteenth century. A graduate of Bowdoin College and Andover Seminary, at the time of these lectures he served as the president of the former and now guest lectured at the latter. A theologian by training, Harris would serve the bulk of his career as the Dwight Professor of Systematic Theology at Yale, filling the role for 25 years.^[Tuveson, Redeemer Nation, 82.] Harris wrote several works of theology, but the kingdom lectures at Andover provide his most comprehensive work on the kingdom of God and constitute an exhaustive treatment of both pure and applied theological exhortations to the students at the seminary.
+Harris was a prolific figure at the close of the nineteenth century. A graduate of Bowdoin College and Andover Seminary, at the time of these lectures he served as the president of the former and  guest lectured at the latter. A theologian by training, Harris would serve the bulk of his career as the Dwight Professor of Systematic Theology at Yale, filling the role for 25 years.^[Tuveson, Redeemer Nation, 82.] Harris wrote several works of theology, but the kingdom lectures at Andover provide his most comprehensive work on the kingdom of God and constitute an exhaustive treatment of both pure and applied theological exhortations to the students at the seminary.
 
 If the orator of these lectures was notable, the setting was perhaps more so. Founded in 1808 as a result of theological downgrade at Harvard due to encroaching Unitarianism, Andover Theological Seminary played a major role in the development of American Protestant thought.^[Caldwell, New England's New Divinity and the Age of Judson's Preparation, 31. Though, there has to be a more direct source for this one!] The school was birthed out of a desire to maintain orthodox doctrine, and like so many other aspects of American Protestantism, the pervasive influence of Jonathan Edwards could be felt in the establishment of Andover. Various connections to New Divinity thought existed in many of the founding figures, such as Leonard Woods, Moses Stuart, and Edward Dorr Griffin, ensuring those taught at Andover would be no strangers to the concepts of postmillennialism.^[Caldwell, New England's New Divinity, 38.]
 
@@ -260,12 +260,12 @@ V4dCI6IlBBUkFHUkFQSCIsInN0YXJ0IjoyMTk0NCwiZW5kIjoy
 MTk1M30sIlF4NVNqY2dOUTVUamRyVzAiOnsidGV4dCI6Indvcm
 RseSIsInN0YXJ0IjoyNDUwMCwiZW5kIjoyNDUwNn0sIkZrOWw4
 Z0NVNndWS2RkSnoiOnsidGV4dCI6InRoZSIsInN0YXJ0IjoyOD
-E2NiwiZW5kIjoyODE2OX0sIlFCWDVuOEEwMFI3MEVFMnAiOnsi
-dGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI5MzA2LCJlbm
-QiOjI5MzE3fSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZXh0Ijoi
-cHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjozMDMxMywiZW5kIj
-ozMDMyOX0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dCI6Ik5l
-dmVydGhlbGVzcyIsInN0YXJ0IjozMTU4OCwiZW5kIjozMTYwMH
+E2NiwiZW5kIjoyODE2Nn0sIlFCWDVuOEEwMFI3MEVFMnAiOnsi
+dGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI5MzA3LCJlbm
+QiOjI5MzE4fSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZXh0Ijoi
+cHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjozMDMxNCwiZW5kIj
+ozMDMzMH0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dCI6Ik5l
+dmVydGhlbGVzcyIsInN0YXJ0IjozMTU4OSwiZW5kIjozMTYwMX
 19LCJjb21tZW50cyI6eyI2WWF4cFBSOGZTQjBrTElIIjp7ImRp
 c2N1c3Npb25JZCI6ImZmZE5GVzMxT21YT2NKTkQiLCJzdWIiOi
 JnaDo3MTI5Mzk4NyIsInRleHQiOiJpcyB0aGlzIGEgbm91biBv
@@ -339,11 +339,11 @@ LCJ0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQxOTk1MTcxfS
 wiNGdYU3FEaDhvczlXUmtDWCI6eyJkaXNjdXNzaW9uSWQiOiJo
 eWlWcmptQlhZeDhJaU9zIiwic3ViIjoiZ2g6MzcwNDA4NDEiLC
 J0ZXh0Ijoibm8iLCJjcmVhdGVkIjoxNjAxMDQyMDA1MDYxfX0s
-Imhpc3RvcnkiOlstMTY5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1ND
-g0ODQxMCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4
-LC0xMTI2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAzMCw5OD
-I1NjExNjMsMTQ5NDIwNzY4NCw4NjE5MDkxMjAsNjk1NDI2NTE5
-LDEyNjIzNTM0NjUsLTE5MTU2NDYwMDMsNTcxODk4NDI4LDExOT
-MwNzMxMTYsMjEwNDQyOTU2MCwxNDU5NzExMzMsMTQ1NTAyNzcw
-Ml19
+Imhpc3RvcnkiOlstMjQyMDY2MzQ4LC0xNjkwMjY2MzQ4LDEwOD
+QzNDU2NTcsMzU0ODQ4NDEwLDI5MzE5OTM0NiwyMTE2MjUzMDIy
+LC0yOTk1NTM5MjgsLTExMjYzNTk5MTUsMTYyNjU5MDkwNCwtNT
+U4Nzc1MDMwLDk4MjU2MTE2MywxNDk0MjA3Njg0LDg2MTkwOTEy
+MCw2OTU0MjY1MTksMTI2MjM1MzQ2NSwtMTkxNTY0NjAwMyw1Nz
+E4OTg0MjgsMTE5MzA3MzExNiwyMTA0NDI5NTYwLDE0NTk3MTEz
+M119
 -->
