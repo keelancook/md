@@ -134,7 +134,7 @@ If the orator of these lectures was notable, the setting was perhaps more so. Fo
 
 Andover Seminary was the first graduate seminary founded in North America, and it went on to train many of the nation's ministers and missionaries over the next century. Leonard Woods, who held the Abbott Professorship of Christian Theology, writes in his  _History of the Andover Theological Seminary_, "For ten years all who were sent out by the American Board, except one, were educated here. And in thirty eight years, above a hundred went from this Theological School [sic] to preach the gospel to the unevangelized."^[Woods, History of Andover, 199-200.] In this setting, Samuel Harris, himself, had received a portion of his formative theological training. 
 
-Furthermore, in 1870 Andover had a made a name for itself among Protestant Americans and largely enjoyed a reputation of excellence.^[`FIND POTENTIAL CITATON`] Like the rest of Protestant America, Andover would soon see conflict concerning theological convictions. A mere decade after Harris delivered his lectures on the kingdom of God, the Andover Controversy would begin to take shape. A rift developed between those would hold the seminary to its founding doctrines and a new class of faculty that wanted to promote "Progressive Orthodoxy" that imbibed evolutionary thought and exalted human progress as a central tenant of the gospel.^[Whitlock, L. G., Jr. “Andover Controversy.” Evangelical Dictionary of Theology, 59. `Do I find a way here to point back to Woods' prophetic warnings about the orthodoxy of the institution? Do I save that for a chapter on the influence of Social Sciences and evolutionary thought? Since this chapter section is about kingdom theology, perhaps that waits for a further explanation elsewhere.`] In this regard, Andover's own conflict served as a microcosm of shifts in Protestant thought during the Gilded Age. Harris's lectures, in many ways, foreshadow much of the later development in the coming decades.
+Furthermore, in 1870 Andover had a made a name for itself among Protestant Americans and largely enjoyed a reputation of excellence.^[`FIND POTENTIAL CITATON`] Like the rest of Protestant America, Andover would soon see conflict concerning theological convictions. A mere decade after Harris delivered his lectures on the kingdom of God, the Andover Controversy would begin to take shape. A rift developed between those who would hold the seminary to its founding doctrines and a new class of faculty that wanted to promote "Progressive Orthodoxy" that imbibed evolutionary thought and exalted human progress as a central tenant of the gospel.^[Whitlock, L. G., Jr. “Andover Controversy.” Evangelical Dictionary of Theology, 59. `Do I find a way here to point back to Woods' prophetic warnings about the orthodoxy of the institution? Do I save that for a chapter on the influence of Social Sciences and evolutionary thought? Since this chapter section is about kingdom theology, perhaps that waits for a further explanation elsewhere.`] In this regard, Andover's own conflict served as a microcosm of shifts in Protestant thought during the Gilded Age. Harris's lectures, in many ways, foreshadow much of the later development in the coming decades.
 
 Harris's kingdom lectures serve as a prime example concerning theological presuppositions that would give birth to a particular applied theology and eventual missionary methods toward immigrants. In the beginning years of the Gilded Age, Harris stood before a room full of the very men who would lead churches into the Progressive Era in American history. Immigration to the United States had peaked before, but in the coming decades America would see a surge of immigrants unlike any previous moment in its history. The topic of these lectures was by no means inconsequential. As discussed above, postmillennialism had risen to the level of theological presupposition among American Protestants at the end of the nineteenth century, a point Harris proves at length in his lectures. However, a commitment to postmillennialism naturally leads to concern for the nature and means of the kingdom that stands as the object of this eschatological hope. Harris dedicates twelve lectures to just that topic.
 
@@ -354,10 +354,10 @@ I6MTYwMTE0NTQ3NzYyNn0sIkVnQ1FwY1NFanZ6djlHYm4iOnsi
 ZGlzY3Vzc2lvbklkIjoiTVpWandHdERadkRGZUVyZCIsInN1Yi
 I6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvbid0IGZvcmdldCIs
 ImNyZWF0ZWQiOjE2MDExNDU1MjA1MzB9fSwiaGlzdG9yeSI6Wz
-E2MjczMDQxMywtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0
-ODQxMCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4LC
-0xMTI2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1
-NjExNjMsMTQ5NDIwNzY4NCw4NjE5MDkxMjAsNjk1NDI2NTE5LD
-EyNjIzNTM0NjUsLTE5MTU2NDYwMDMsNTcxODk4NDI4LDExOTMw
-NzMxMTYsMjEwNDQyOTU2MCwxNDU5NzExMzNdfQ==
+E4OTE2OTU2OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4
+NDg0MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOC
+wtMTEyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgy
+NTYxMTYzLDE0OTQyMDc2ODQsODYxOTA5MTIwLDY5NTQyNjUxOS
+wxMjYyMzUzNDY1LC0xOTE1NjQ2MDAzLDU3MTg5ODQyOCwxMTkz
+MDczMTE2LDIxMDQ0Mjk1NjAsMTQ1OTcxMTMzXX0=
 -->
