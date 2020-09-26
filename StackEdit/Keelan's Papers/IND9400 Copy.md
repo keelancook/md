@@ -149,7 +149,7 @@ The reverse concern was also true. For Harris to promote his view of the kingdom
 
 Despite the large amount of overlapping territory between the doctrine of the millennium and the doctrine of the kingdom, sufficient distinction exists to consider them separate aspects of a system. Postmillennialism and the kingdom of God accomplished different but complementary roles in a holistic view of eschatology, and hence of mission, for the majority view among Protestant Americans. Kingdom theology essentially filled in the container provided by postmillennialism. If the latter provided a telos, or end goal, then the former filled in the details of that goal. The kingdom of God spoke to the nature of their goal, what they were working to achieve, and the means to their goal, through what kind of initiative it could be accomplished. This eschatological system, comprised of mutually reinforcing commitments to postmillennialism and a particular theology of the kingdom, played a major role in shaping the applied theology for mission.^[Handy, A Christian America, 85 notes this connection in Harris concerning the kingdom and his millennial expectations, and he also underscores the significance of postmillennialism for the broader Protestant American worldview.]
 
-Over the course of his twelve lectures, Harris interacts with the kingdom of God from every conceivable angle. In his first lectures, he demonstrates proofs for the existence of the kingdom and antagonism toward the kingdom as Satanic forces.^[Harris, Kingdom of Christ, 1,22. Consider adding lecture names to the footnotes.] He continues by describing the unique virtues of the kingdom (lecture 3), bound up in sacrificial love (lecture 7).^[Harris, Kingdom of Christ, 47, 129.] He outlines the necessity of both divine (lecture 4) and human agency (lecture 6) in the triumph of the kingdom.^[Harris, Kingdom of Christ, 65, 110.] In lecture 11, Harris pits the "scriptural doctrine of the triumph of Christ's kingdom" against millenarianism, forcefully defending the doctrine of postmillennialism.^[Harris, Kingdom of Christ, 220.] Finally, Harris addresses the relationship between human progress, civilization, and the kingdom of God in lectures 10 and 12.^[Harris, Kingdom of Christ, 199, 238.] In total, the Harris's lectures provide a fully comprehensive theology of the kingdom that serves, in many ways, as a bridge between more traditional understandings of the kingdom of God and a developing understanding, largely influenced by European thought, that would ground much of the applied theology by Protestants for the next four decades.
+Over the course of his twelve lectures, Harris interacts with the kingdom of God from every conceivable angle. In his first lectures, he demonstrates proofs for the existence of the kingdom and antagonism toward the kingdom as Satanic forces.^[Harris, Kingdom of Christ, 1,22. Consider adding lecture names to the footnotes.] He continues by describing the unique virtues of the kingdom (lecture 3), bound up in sacrificial love (lecture 7).^[Harris, Kingdom of Christ, 47, 129.] He outlines the necessity of both divine (lecture 4) and human agency (lecture 6) in the triumph of the kingdom.^[Harris, Kingdom of Christ, 65, 110.] In lecture 11, Harris pits the "scriptural doctrine of the triumph of Christ's kingdom" against millenarianism, forcefully defending the doctrine of postmillennialism.^[Harris, Kingdom of Christ, 220.] Finally, Harris addresses the relationship between human progress, civilization, and the kingdom of God in lectures 10 and 12.^[Harris, Kingdom of Christ, 199, 238.] In total, Harris's lectures provide a fully comprehensive theology of the kingdom that serves, in many ways, as a bridge between more traditional understandings of the kingdom of God and a developing understanding, largely influenced by European thought, that would ground much of the applied theology by Protestants for the next four decades.
 
 `Note:  
 May need to quote the dialectical bridge language here... or at least give it a footnote on something I've alread said.
@@ -374,11 +374,11 @@ plZCIsImNyZWF0ZWQiOjE2MDExNDY5NjEzMjN9LCJSWW9BVG14
 ZGRsOEhVT0dKIjp7ImRpc2N1c3Npb25JZCI6IjVYSUpCelFOeH
 BQZzVMdnQiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJk
 b24ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxMTQ3MDMzODY3fX
-0sImhpc3RvcnkiOlsxMDA4MDQyNTAsLTE4NTczOTgzNTIsMTg5
-MTY5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0OD
-QxMCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4LC0x
-MTI2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1Nj
-ExNjMsMTQ5NDIwNzY4NCw4NjE5MDkxMjAsNjk1NDI2NTE5LDEy
-NjIzNTM0NjUsLTE5MTU2NDYwMDMsNTcxODk4NDI4LDExOTMwNz
-MxMTZdfQ==
+0sImhpc3RvcnkiOlstMTU2MjgwOTI2OSwtMTg1NzM5ODM1Miwx
+ODkxNjk1NjkxLC0xNjkwMjY2MzQ4LDEwODQzNDU2NTcsMzU0OD
+Q4NDEwLDI5MzE5OTM0NiwyMTE2MjUzMDIyLC0yOTk1NTM5Mjgs
+LTExMjYzNTk5MTUsMTYyNjU5MDkwNCwtNTU4Nzc1MDMwLDk4Mj
+U2MTE2MywxNDk0MjA3Njg0LDg2MTkwOTEyMCw2OTU0MjY1MTks
+MTI2MjM1MzQ2NSwtMTkxNTY0NjAwMyw1NzE4OTg0MjgsMTE5Mz
+A3MzExNl19
 -->
