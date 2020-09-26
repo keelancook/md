@@ -30,13 +30,13 @@ Preached: <time startYear="2020" startMonth="9" startDay="27">Sun, Sep 27,2020</
 
 ## Two quick things I want us to catch from the beginning:
 
- First: **Paul had a calling.** He was made a minister. It was a specific calling, he didn't decide what he was going to do, he was given his task by Christ. 
+ First: **Paul had a calling.** He was made a minister. It was a specific calling, he didn't decide what he was going to do, he was given his task by Christ.  
 
  Second: **The gospel is a mystery.** Paul refers to this gospel as a mystery.
 
  Now, it wasn't a mystery because it was confusing. It was a mystery because it was once hidden, but has now been revealed. This becomes a central point in Paul's explanation moving forward.
 
-After telling the Ephesian church members that he was made a minister of this gospel, Paul continues by explaining to them what his ministry looks like. What  it is God has tasked him to do. And this is where I really want us to focus our attention today. What does this ministry look like? 
+After telling the Ephesian church members that he was made a minister of this gospel, Paul continues by explaining to them what his ministry looks like. What   it is God has tasked him to do. And this is where I really want us to focus our attention today. What does this ministry look like?  
 
 Paul outlines that ministry in **two specific tasks and one very important outcome**.
 
@@ -62,15 +62,15 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  And then, only a few chapters later, God promises Abraham that through his lineage all the world will one day be blessed.
 
- Many years later, King David is told that he will one day have a son that will sit on his throne and rule for all eternity. 
+ Many years later, King David is told that he will one day have a son that will sit on his throne and rule for all eternity.  
 
  The prophets in the Old Testament speak of his coming, the one who would bless all nations, the one who would sit on the throne of David forever.
 
- And in the gospels, we meet him. 
+ And in the gospels, we meet him.  
 
  Jesus is the one who crushes the head of the serpent, he is the one from the line of Abraham that will bless all nations, and he is the heir to the throne of David whose kingdom will have no end.
 
- By his death, by his sacrifice, we are healed. That evil that stained the world in the garden of Eden can be erased by the blood of the Lamb. And not just for the Jews, but for all the nations of the world. 
+ By his death, by his sacrifice, we are healed. That evil that stained the world in the garden of Eden can be erased by the blood of the Lamb. And not just for the Jews, but for all the nations of the world.  
 
  That is the multi-faceted wisdom of God. That is the mystery hidden for ages and now revealed because of Jesus.
 
@@ -87,9 +87,9 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  Known to whom? Again, he tells us: to the rulers and authorities in the heavens.
 
- Paul has already said that his work is proclaiming and revealing this mystery to all nations, all people. Now, Paul goes further with the astonishing statement that it is so that God's manifold wisdom may now be made known to the hosts of heaven as well. 
+ Paul has already said that his work is proclaiming and revealing this mystery to all nations, all people. Now, Paul goes further with the astonishing statement that it is so that God's manifold wisdom may now be made known to the hosts of heaven as well.  
 
- The mystery of God is to be revealed to all of creation. Everyone on the earth and everyone above the earth. 
+ The mystery of God is to be revealed to all of creation. Everyone on the earth and everyone above the earth.  
 
 ## The Agent of God's Plan: The Church)
  But perhaps the most outstanding part of all of this is how God accomplishes revealing this plan.
@@ -105,19 +105,19 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  All of the universe is a giant stage, and right there in the center of the stage is the church. The church lives out God's great plan. After Christ's resurrection and ascension, now the church takes center stage and becomes the main actor in the grand drama.
 
- That doesn't mean that we are the ones who make this drama happen, and it doesn't mean we are the ones with the power to remove sin and fix the world. It does mean that we are the ones at center stage through which God will reveal his manifold wisdom. 
+ That doesn't mean that we are the ones who make this drama happen, and it doesn't mean we are the ones with the power to remove sin and fix the world. It does mean that we are the ones at center stage through which God will reveal his manifold wisdom.  
 
  It is not the powerful governments of this world, with their rulers making decisions that shape the course of nations. That's not who this verse singles out. Governments are not center stage in history.
 
  It is not the great businesses of the world that generate the world's wealth. Corporations are not center stage.
 
- It is not the scientific discoveries happening at the world's best universities. 
+ It is not the scientific discoveries happening at the world's best universities.  
 
  It is not even the angels or spiritual beings who will reveal to all the universe God's manifold wisdom. Paul says they are sitting in the audience watching the drama take place.
 
- Who is center stage? It is the church. The simple, ordinary church. 
+ Who is center stage? It is the church. The simple, ordinary church.  
 
- In this passage, Paul lets us in on the mystery. That same mystery that was hidden for the ages is now clear, and what a startling surprise. God's great plan for the cosmos unfolds in little gatherings of believers just like ours all over the world. 
+ In this passage, Paul lets us in on the mystery. That same mystery that was hidden for the ages is now clear, and what a startling surprise. God's great plan for the cosmos unfolds in little gatherings of believers just like ours all over the world.  
 
 ## (Three important truths about the church:)
  A biblical scholar named John Stott notes that there are three important truths about the church in this passage.
@@ -162,20 +162,20 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  You may have a lot of friends or a big family, but no other group of people can supply for the Christian the joy that comes from real biblical community.
 
- **Your church is essential for your purpose and ministry.** Just as Paul had a specific ministry, given to him by God. So do we. If you have crossed the line into faith, then you have been grafted into God's church and you have been enlisted into God's mission. No exceptions. 
+ **Your church is essential for your purpose and ministry.** Just as Paul had a specific ministry, given to him by God. So do we. If you have crossed the line into faith, then you have been grafted into God's church and you have been enlisted into God's mission. No exceptions.  
 
- The only way to truly participate in the mission of the church is to do so through the ministry of your local church.  
+ The only way to truly participate in the mission of the church is to do so through the ministry of your local church.   
 
 ## (God's plan all along)
  That the church would be this important, this central to the world was God's plan all along.
 
  Verse 11 tells us: "This was according to the eternal purpose that he has realized in Christ Jesus our Lord" (Eph 3:11)
 
- This sounds like an overwhelming responsibility? How can a regular, ordinary church congregation be expected to do this? 
+ This sounds like an overwhelming responsibility? How can a regular, ordinary church congregation be expected to do this?  
 
- Paul goes on in verse 12 to tell us: "In him we have boldness and confident access through faith in him." (Eph 3:12) 
+ Paul goes on in verse 12 to tell us: "In him we have boldness and confident access through faith in him." (Eph 3:12)  
 
- We can step into this important role as the church confidently, because we have access to God himself through Christ Jesus our Lord. 
+ We can step into this important role as the church confidently, because we have access to God himself through Christ Jesus our Lord.  
 
 ## (Word of Encouragement for Lazybrook)
  The reason I wanted us to look at this chapter today was so that I could encourage you. This passage shows us why what happens with your church matters so much. Being a committed member of a local congregation matters more than you can ever understand. Because of your church the heavenly hosts get to watch the very plan of God unfold.
@@ -198,5 +198,5 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwODgwMDkzXX0=
+eyJoaXN0b3J5IjpbLTE3Nzk5MjkwMjVdfQ==
 -->
