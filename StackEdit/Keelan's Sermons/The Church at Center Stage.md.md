@@ -192,9 +192,9 @@ Finally, let me speak directly to those of you who already call Lazybrook your c
 
 You guys have entered into a period of looking hard at what your doing, this discovery process, that's hard stuff. If you're on that discovery team, you're asking some big questions right now, questions about the future of the church. If you're not on that team, you're probably wondering what in the world they're even doing, right? There's all kinds of uncertainty at a time like this in the life of a church. It would be tempting to pull away.
 
-And, as you guys finish up this discovery phase, you're going to have some results. You will see some things to celebrate, and you see some things to change. Maybe big things. And as a church, you will probably have to make some really hard decisions. You may discover that you need to sacrifice some of your own preferences if you want your church to actually be a part of that mission we just discussed, all that stuff that God has established the church to do. Making sacrifices, making changes... it's hard... it would be tempting to pull away.
+ And, as you guys finish up this discovery phase, you're going to have some results. You will see some things to celebrate, and you see some things to change. Maybe big things. And as a church, you will probably have to make some really hard decisions. You may discover that you need to sacrifice some of your own preferences if you want your church to actually be a part of that mission we just discusseds, all that stuff that God has established the church to do. Making sacrifices, making changes... it's hard... it would be tempting to pull away.
 
-You guys have a lot going on right now, and it would be tempting to disengage, to distance yourself from your church, to refuse to stick in there when changes start to happen so you can better reach your community.
+ You guys have a lot going on right now, and it would be tempting to disengage, to distance yourself from your church, to refuse to stick in there when changes start to happen so you can better reach your community.
 
  It'll be tempting, but it would be a mistake to do so. Now, more than ever, is a time to push in, especially when it seems like everything is conspiring to keep you apart. It's good and right for all of us to be cautious about how we're gathering right now. And it's good and right for you all, as a church, to be taking a hard look at yourselves, so you can better be on mission with Christ.
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzUwMzAyNiw5NDUzNTgxNDUsMjAwND
-M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
-MjVdfQ==
+eyJoaXN0b3J5IjpbMjA3NjI1OTkxLC02MTM1MDMwMjYsOTQ1Mz
+U4MTQ1LDIwMDQzODE1OTUsMTkxMDI0MzkxNSwyMDg2Nzc5MzIx
+LC0xNzc5OTI5MDI1XX0=
 -->
