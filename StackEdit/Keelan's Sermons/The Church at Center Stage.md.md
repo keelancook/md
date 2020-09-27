@@ -200,9 +200,9 @@ It'll be tempting, but it would be a mistake to do so. Now, more than ever, is a
 
 If you ever struggle to find purpose in what happens here. If you ever get tired of the effort of trying to love and serve one another. If you get tired of speaking the gospel to each other and to those outside of your group. And if you ever think that your church can't accomplish big things. Know that this ordinary church is the thing God has chosen to reveal his wisdom to the entire cosmos.
 
-It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
+It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjY2NjM3MiwyMDc2MjU5OTEsOTQ1Mz
-U4MTQ1LDIwMDQzODE1OTUsMTkxMDI0MzkxNSwyMDg2Nzc5MzIx
-LC0xNzc5OTI5MDI1XX0=
+eyJoaXN0b3J5IjpbLTE4NzM0NjUyMzYsMjA3NjI1OTkxLDk0NT
+M1ODE0NSwyMDA0MzgxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMy
+MSwtMTc3OTkyOTAyNV19
 -->
