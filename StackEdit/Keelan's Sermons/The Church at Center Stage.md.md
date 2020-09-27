@@ -9,24 +9,26 @@ Preached: <time startYear="2020" startMonth="9" startDay="27">Sun, Sep 27,2020</
 
 ## Introduction
 
- I love a good underdog story.
+I love a good underdog story.
 
- I always like rooting for the underdog. It doesn't really matter what sport it is, but there's just something about watching a team succeed that has no real chance of doing so. Great underdog upsets are the kind of sporting events that get turned into feel-good movies later on.
+I always like rooting for the underdog. It doesn't really matter what sport it is, but there's just something about watching a team succeed that has no real chance of doing so. Great underdog upsets are the kind of sporting events that get turned into feel-good movies later on.
 
- Today, we're going to talk about an underdog story.
+Today, we're going to talk about an underdog story.
 
- In Ephesians chapter 3, Paul outlines what may be the greatest underdog story in all of history. And it is especially important for you and me, because if we look closely, we will find ourselves in the story and see that God has a message for us 2000 years after Paul first wrote these words to the church in the city of Ephesus.
+In Ephesians chapter 3, Paul outlines what may be the greatest underdog story in all of history. And it is especially important for you and me, because if we look closely, we will find ourselves in the story and see that God has a message for us 2000 years after Paul first wrote these words to the church in the city of Ephesus.
 
- The Word of the Lord starting in Ephesians 3 vs 7 says this:
+The Word of the Lord starting in Ephesians 3 vs 7 says this:
 
 ## (Read Ephesians 3:7-12.)
+<<<
 > *Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power.*
 
-> *8 To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, 9 and [i](https://biblia.com/books/esv/Eph3.2)to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things,*
+*To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things,*
 
-> *10 so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places.*
+*so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places.*
 
-> *11 This was according to the eternal purpose that he has realized in Christ Jesus our Lord, 12 in whom we have boldness and access with confidence through our faith in him.*
+*This was according to the eternal purpose that he has realized in Christ Jesus our Lord,  in whom we have boldness and access with confidence through our faith in him.*
+<<<
 
 ## Two quick things I want us to catch from the beginning:
 
@@ -208,8 +210,8 @@ It is more valuable than you or I can comprehend. It is worth living for. It is 
 
 ***Let's pray.***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODg5OTM1MSwtMTgwNzc3OTkwNSwtMT
-I3MDM2OTU2LDE5NDQwMzQ4MTQsMTg1NDg1OTUwLC0xODczNDY1
-MjM2LDIwNzYyNTk5MSw5NDUzNTgxNDUsMjAwNDM4MTU5NSwxOT
-EwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
+eyJoaXN0b3J5IjpbLTEwOTAwOTcwMzIsLTE4MDc3Nzk5MDUsLT
+EyNzAzNjk1NiwxOTQ0MDM0ODE0LDE4NTQ4NTk1MCwtMTg3MzQ2
+NTIzNiwyMDc2MjU5OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMT
+kxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
 -->
