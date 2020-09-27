@@ -100,7 +100,7 @@ Sounds... underwhelming, right?
 
 As Paul and others preach to the gentiles, to the nations, they begin to form churches. These churches then become the engines of gospel proclamation, the revealers of the mystery. The members of these little churches begin speaking the gospel to their family and friends, to their coworkers and neighbors.
 
-And those churches are the center of God's plan to reveal his manifold wisdom to those on earth and those above the earth.
+And those churches are the center of God's plan to reveal his manifold wisdom to those on earth and those above the earth. God could've chose to do this any way he wanted, and he chose... the church.
 
 ## (The Divine Drama:)
 Think of it like this: God is writing a story throughout all of history. It is a grand drama from the beginning to the end, that will ultimately reveal his great glory as creator and sovereign Lord over all that he has made.
@@ -204,7 +204,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTkwMDk3MiwtMTg3MzQ2NTIzNiwyMD
-c2MjU5OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMTkxMDI0Mzkx
-NSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
+eyJoaXN0b3J5IjpbMTg1NDg1OTUwLC0xODczNDY1MjM2LDIwNz
+YyNTk5MSw5NDUzNTgxNDUsMjAwNDM4MTU5NSwxOTEwMjQzOTE1
+LDIwODY3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
 -->
