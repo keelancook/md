@@ -126,9 +126,9 @@ In this passage, Paul lets us in on the mystery. That same mystery that was hidd
 
 Here's something for you to chew on for a while. Among all the human institutions of the world... only the church survives history. When the old earth passes away and the kingdom of God is finally and fully consummated in a new heavens and new earth, the Bible tells us it is the church, not any government or corporation, not any social or political ideology that will one day rule alongside Christ in the new kingdom.
 
- So the church is central to history.
+So the church is central to history.
 
- ### Truth 2: The church is central to the gospel.
+### Truth 2: The church is central to the gospel.
 
  The church is both 
  1. created by the gospel
@@ -148,17 +148,17 @@ We are the ones that Christ has trusted to continue sharing the message of salva
 
 But, we also demonstrate it in how we join together in community as a local church. The church and the way we live together now and how we treat those outside of the church should be a little preview of the kingdom that is to come.
 
- So, the church is central to the gospel.
+So, the church is central to the gospel.
 
- ### Truth 3: The church is central to Christian living.
+### Truth 3: The church is central to Christian living.
 
- The church is necessary to live the Christian life well.
+The church is necessary to live the Christian life well.
 
- Let me repeat it: There is no biblical category for a Christian that is not part of a local church.
+Let me repeat it: There is no biblical category for a Christian that is not part of a local church.
 
- Kent Hughes, another biblical scholar, says it this way: *You don't have to go to church to be a Christian just like you don't have to go home to be married. (Kent Hughes)*
+Kent Hughes, another biblical scholar, says it this way: *You don't have to go to church to be a Christian just like you don't have to go home to be married. (Kent Hughes)*
 
- Christian, I cannot stress enough how important the local church is to your life. You need each other.
+Christian, I cannot stress enough how important the local church is to your life. You need each other.
 
  **Your church is essential for your holiness.** We teach one another. Not just from the pulpit, but with our lives as we live together. Church members, the way you treat each other should teach each other and people outside the church about the gospel.
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzUxODQ2Miw5NDUzNTgxNDUsMjAwND
+eyJoaXN0b3J5IjpbLTYyNjQ2MTM4NCw5NDUzNTgxNDUsMjAwND
 M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
 MjVdfQ==
 -->
