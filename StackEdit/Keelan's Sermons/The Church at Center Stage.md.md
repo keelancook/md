@@ -136,17 +136,17 @@ Here's something for you to chew on for a while. Among all the human institution
  
 It is created by the gospel, because we are not just saved out of something, we are saved into something. If we rightly understand the gospel, then we realize it saves us out of sin, but that it also saves us into Christ's body. There is no biblical category for a Christian who is not an active part of a local church. Today, we've gotten comfortable with that category, but there are no examples in the New Testament of Christians, people made into new creations by the power of the gospel, who exist apart from a local assembly of believers. So, the church is created by the gospel.
 
-The church's mission is to proclaim the gospel. Christ was very clear that the mission of the church, and that means the mission of those who belong to the church. And while we're at it, don't speak about your church with "they." They aren't focusing on the right stuff, or they should do fill in the blank. If you belong to a church, use "we." That's the right word. We aren't focusing on the right stuff, and we should do fill in the blank. A church is no more than a collection of individuals who make it up. It is that group of individuals who are su
+The church's mission is to proclaim the gospel. Christ was very clear that the mission of the church, and that means the mission of those who belong to the church. And while we're at it, don't speak about your church with "they." They aren't focusing on the right stuff, or they should do fill in the blank. If you belong to a church, use "we." That's the right word. We aren't focusing on the right stuff, and we should do fill in the blank. A church is no more than a collection of individuals who make it up. It is that group of individuals who are supposed to do the work of the church.
 
-is to speak the gospel and make disciples of all nations.
+Now, where was i... Christ was very clear that the mission of the church, is to speak the gospel and make disciples of all nations.
 
- *That means we all have a very very important task.*
+*That means we all have a very very important task.*
 
- The church itself is not the good news, but it is a result of the good news. The church cannot save the world or fix society. Christ saves the world, and he will one day return to transform the world into a perfect kingdom. No, it's not the church that saves the world, but it is our job to let everyone know who does.
+The church itself is not the good news, but it is a result of the good news. The church cannot save the world or fix society. Christ saves the world, and he will one day return to transform the world into a perfect kingdom. No, it's not the church that saves the world, but it is our job to let everyone know who does.
 
- We are the ones that Christ has trusted to continue sharing the message of salvation with anyone who will listen. We share it with our mouths.
+We are the ones that Christ has trusted to continue sharing the message of salvation with anyone who will listen. We share it with our mouths.
 
- But, we also demonstrate it in how we join together in community as a local church. The church and the way we live together now and how we treat those outside of the church should be a little preview of the kingdom that is to come.
+But, we also demonstrate it in how we join together in community as a local church. The church and the way we live together now and how we treat those outside of the church should be a little preview of the kingdom that is to come.
 
  So, the church is central to the gospel.
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzIxMTM2NSw5NDUzNTgxNDUsMjAwND
+eyJoaXN0b3J5IjpbLTIwNzUxODQ2Miw5NDUzNTgxNDUsMjAwND
 M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
 MjVdfQ==
 -->
