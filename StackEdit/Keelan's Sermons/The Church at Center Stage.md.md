@@ -117,14 +117,14 @@ Let's be clear. That doesn't mean that we are the ones who make this drama happe
 
  Who is center stage? It is the church. The simple, ordinary church.  
 
-In this passage, Paul lets us in on the mystery. That same mystery that was hidden for the ages is now clear, and what a startling surprise. God's great plan for the cosmos unfolds in little gatherings of believers just like ours all over the world.  
+In this passage, Paul lets us in on the mystery. That same mystery that was hidden for the ages is now clear, and what a startling surprise. God's great plan for the cosmos unfolds in little gatherings of believers just like this one all over the world.  
 
 ## (Three important truths about the church:)
  A biblical scholar named John Stott notes that there are three important truths about the church in this passage.
 
  ### Truth 1: The church is central to history.
 
- Here's something for you to chew on for a while. Among all the human institutions of the world... only the church survives history. When the old earth passes away and the kingdom of God is finally and fully consummated in a new heavens and new earth, the Bible tells us it is the church, not any nation or corporation, not any social or political ideology that will one day rule alongside Christ in the new kingdom.
+Here's something for you to chew on for a while. Among all the human institutions of the world... only the church survives history. When the old earth passes away and the kingdom of God is finally and fully consummated in a new heavens and new earth, the Bible tells us it is the church, not any government or corporation, not any social or political ideology that will one day rule alongside Christ in the new kingdom.
 
  So the church is central to history.
 
@@ -198,7 +198,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2MzE1MjExLDk0NTM1ODE0NSwyMDA0Mz
-gxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAy
-NV19
+eyJoaXN0b3J5IjpbMTEyNjIzNDExNiw5NDUzNTgxNDUsMjAwND
+M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
+MjVdfQ==
 -->
