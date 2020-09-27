@@ -160,13 +160,13 @@ Kent Hughes, another biblical scholar, says it this way: *You don't have to go t
 
 Christian, I cannot stress enough how important the local church is to your life. You need each other.
 
- **Your church is essential for your holiness.** We teach one another. Not just from the pulpit, but with our lives as we live together. Church members, the way you treat each other should teach each other and people outside the church about the gospel.
+**Your church is essential for your holiness.** We teach one another. Not just from the pulpit, but with our lives as we live together. Church members, the way you treat each other should teach each other and people outside the church about the gospel.
 
- **Your church is essential for your joy.** When we love one another as the church should, we bear one another's burdens. And this produces the joy of the Christian life.
+**Your church is essential for your joy.** When we love one another as the church should, we bear one another's burdens. And this produces the joy of the Christian life.
 
- You may have a lot of friends or a big family, but no other group of people can supply for the Christian the joy that comes from real biblical community.
+You may have a lot of friends or a big family, but no other group of people can supply for the Christian the joy that comes from real biblical community.
 
- **Your church is essential for your purpose and ministry.** Just as Paul had a specific ministry, given to him by God. So do we. If you have crossed the line into faith, then you have been grafted into God's church and you have been enlisted into God's mission. No exceptions.  
+**Your church is essential for your purpose and ministry.** Just as Paul had a specific ministry, given to him by God. So do we. If you have crossed the line into faith, then you have been grafted into God's church and you have been enlisted into God's mission. No exceptions.  
 
  The only way to truly participate in the mission of the church is to do so through the ministry of your local church.   
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjQ2MTM4NCw5NDUzNTgxNDUsMjAwND
-M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
-MjVdfQ==
+eyJoaXN0b3J5IjpbODg2OTI2MjgwLDk0NTM1ODE0NSwyMDA0Mz
+gxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAy
+NV19
 -->
