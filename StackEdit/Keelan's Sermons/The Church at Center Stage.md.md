@@ -140,7 +140,7 @@ It is created by the gospel, because we are not just saved out of something, we 
 
 The church's mission is to proclaim the gospel. Christ was very clear that the mission of the church, and that means the mission of those who belong to the church...
 
-And while we're at it, don't speak about your church with "they." They aren't focusing on the right stuff, or they should do fill in the blank. If you belong to a church, use "we." That's the right word. We aren't focusing on the right stuff, and we should do fill in the blank. A church is no more than a collection of individuals who make it up. And, it is that group of individuals who are supposed to do the work of the church. Don't think of your church as a "they," think of it as a "we."
+You know... while we're at it, don't speak about your church with "they." They aren't focusing on the right stuff, or they should do fill in the blank. If you belong to a church, use "we." That's the right word. We aren't focusing on the right stuff, and we should do fill in the blank. A church is no more than a collection of individuals who make it up. And, it is that group of individuals who are supposed to do the work of the church. Don't think of your church as a "they," think of it as a "we."
 
 Now, where was I... Christ was very clear that the mission of the church is to speak the gospel and make disciples of all nations.
 
@@ -202,12 +202,14 @@ You guys have a lot going on right now, and it would be tempting to disengage, t
 
 It'll be tempting, but it would be a mistake to do so. Now, more than ever, is a time to push in, especially when it seems like everything is conspiring to keep you apart. It's good and right for all of us to be cautious about how we're gathering right now. And it's good and right for you all, as a church, to be taking a hard look at yourselves, so you can better be on mission with Christ.
 
-If you ever struggle to find purpose in what happens here. If you ever get tired of the effort of trying to love and serve one another. If you get tired of speaking the gospel to each other and to those outside of your group. And if you ever think that your church can't accomplish big things. Know that this ordinary church is the thing God has chosen to reveal his wisdom to the entire cosmos.
+If you ever struggle to find purpose in what happens here. If you ever get tired of the effort of trying to love and serve one another. If you get tired of speaking the gospel to each other and to those outside of your group. And if you ever think that your church can't accomplish big things. Know that this ordinary church is the thing God has chosen to reveal his wisdom to the entire universe.
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
+
+***Let's pray.***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDkzMzM1MCwtMTI3MDM2OTU2LDE5ND
-QwMzQ4MTQsMTg1NDg1OTUwLC0xODczNDY1MjM2LDIwNzYyNTk5
-MSw5NDUzNTgxNDUsMjAwNDM4MTU5NSwxOTEwMjQzOTE1LDIwOD
-Y3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDc3Nzk5MDUsLTEyNzAzNjk1NiwxOT
+Q0MDM0ODE0LDE4NTQ4NTk1MCwtMTg3MzQ2NTIzNiwyMDc2MjU5
+OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMTkxMDI0MzkxNSwyMD
+g2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
 -->
