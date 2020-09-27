@@ -184,13 +184,13 @@ We can step into this important role as the church confidently, because we have 
 ## (Word of Encouragement for Lazybrook)
 The reason I wanted us to look at this chapter today was so that I could encourage you. This passage shows us why what happens with your church matters so much. Being a committed member of a local congregation matters more than you can ever understand. Because of your church the heavenly hosts get to watch the very plan of God unfold.
 
- Perhaps you’re a Christ follower, and you’re listening to this and can’t say you have a church family. If that’s you, then I want to challenge you to find one. I'm sure the folk here at Lazybrook would be more than happy for you to join in, but if not here, find a church home. You need it. We all do.
+Perhaps you’re a Christ follower, and you’re listening to this and can’t say you have a church family. If that’s you, then I want to challenge you to find one. I'm sure the folk here at Lazybrook would be more than happy for you to join in, but if not here, find a church home. You need it. We all do.
 
- Maybe you’ve not yet crossed that line of faith. If that’s you, know that God has a plan. He’s had a plan from the very beginning, and at the very center of that plan is the death, burial, and resurrection of Jesus. Christ heals the brokenness in us, and he will one day return to put an end to all of the brokenness in the world. He promises a new life of peace and joy lived in *real community with others, and that’s found in a church*.
+Maybe you’ve not yet crossed that line of faith. If that’s you, know that God has a plan. He’s had a plan from the very beginning, and at the very center of that plan is the death, burial, and resurrection of Jesus. Christ heals the brokenness in us, and he will one day return to put an end to all of the brokenness in the world. He promises a new life of peace and joy lived in *real community with others, and that’s found in a church*.
 
- Finally, let me speak directly to those of you who already call Lazybrook your church home. Let me get frank with you for moment. It would be easy right now to distance yourself from your church. You all have had a lot to deal with in the last year. COVID has made things real hard. It would be easy to pull away because of that.
+Finally, let me speak directly to those of you who already call Lazybrook your church home. Let me get frank with you for moment. It would be easy right now to distance yourself from your church. You all have had a lot to deal with in the last year. COVID has made things real hard. It would be easy to pull away because of that.
 
- You guys have entered into a period of looking hard at what your doing, this discovery process, that's hard stuff. If you're on that discovery team, you're asking some big questions right now, questions about the future of the church. If you're not on that team, you're probably wondering what in the world they're even doing, right? There's all kinds of uncertainty at a time like this in the life of a church. It would be tempting to pull away.
+You guys have entered into a period of looking hard at what your doing, this discovery process, that's hard stuff. If you're on that discovery team, you're asking some big questions right now, questions about the future of the church. If you're not on that team, you're probably wondering what in the world they're even doing, right? There's all kinds of uncertainty at a time like this in the life of a church. It would be tempting to pull away.
 
  And, as you guys finish up this discovery phase, you're going to have some results. And as a church, you will probably have to make some really hard decisions. You may discover that you need to sacrifice some of your own preferences if you want your church to actually be a part of that mission we just discusses, all that stuff that God has established the church to do. Making sacrifices, making changes.... it would be tempting to pull away.
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxNzI2Mzc2LDk0NTM1ODE0NSwyMDA0Mz
-gxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAy
-NV19
+eyJoaXN0b3J5IjpbLTYzNTA3NTgxNCw5NDUzNTgxNDUsMjAwND
+M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
+MjVdfQ==
 -->
