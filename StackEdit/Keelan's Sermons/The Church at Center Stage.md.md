@@ -83,11 +83,11 @@ That is the multi-faceted wisdom of God. That is the mystery hidden for ages and
 ### If those were the tasks, let’s look at the outcome.
  Why did God have Paul, and by the extension the rest of the church, doing these things?
 
- He tells us right there in verse 10: *so that… the manifold wisdom of God might now be made known (Eph. 3:10)*
+He tells us right there in verse 10: *so that… the manifold wisdom of God might now be made known (Eph. 3:10)*
 
- Known to whom? Again, he tells us: to the rulers and authorities in the heavens.
+Known to whom? Again, he tells us: to the rulers and authorities in the heavens.
 
- Paul has already said that his work is proclaiming and revealing this mystery to all nations, all people. Now, Paul goes further with the astonishing statement that it is so that God's manifold wisdom may now be made known to the hosts of heaven as well.  
+Paul has already said that his work is proclaiming and revealing this mystery to all nations, all people. Now, Paul goes further with the astonishing statement that it is so that God's manifold wisdom may now be made known to the hosts of heaven as well.  
 
  The mystery of God is to be revealed to all of creation. Everyone on the earth and everyone above the earth.  
 
@@ -198,6 +198,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMTkxMD
-I0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
+eyJoaXN0b3J5IjpbMTEyMzA1MjU1Myw5NDUzNTgxNDUsMjAwND
+M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
+MjVdfQ==
 -->
