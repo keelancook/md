@@ -96,6 +96,8 @@ But perhaps the most outstanding part of all of this is how God accomplishes rev
 
 Paul tells us, right here in the text. The agent of God's plan – **is the church.**
 
+Sounds... underwhelming, right?
+
 As Paul and others preach to the gentiles, to the nations, they begin to form churches. These churches then become the engines of gospel proclamation, the revealers of the mystery. The members of these little churches begin speaking the gospel to their family and friends, to their coworkers and neighbors.
 
 And those churches are the center of God's plan to reveal his manifold wisdom to those on earth and those above the earth.
@@ -202,7 +204,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyOTE1NDgsLTE4NzM0NjUyMzYsMjA3Nj
-I1OTkxLDk0NTM1ODE0NSwyMDA0MzgxNTk1LDE5MTAyNDM5MTUs
-MjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
+eyJoaXN0b3J5IjpbLTk2OTkwMDk3MiwtMTg3MzQ2NTIzNiwyMD
+c2MjU5OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMTkxMDI0Mzkx
+NSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
 -->
