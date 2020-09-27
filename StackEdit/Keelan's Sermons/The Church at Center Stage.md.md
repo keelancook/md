@@ -142,7 +142,7 @@ The church's mission is to proclaim the gospel. Christ was very clear that the m
 
 And when I say the "mission of the church" that means the mission of those who belong to the church. Don't speak about your church with "they." They aren't focusing on the right stuff, or they should do fill in the blank. If you belong to a church, use "we." That's the right word. We aren't focusing on the right stuff, and we should do fill in the blank. A church is no more than a collection of individuals who make it up. And, it is that group of individuals who are supposed to do the work of the church. Don't think of your church as a "they," think of it as a "we."
 
-Now, where was I... Christ was very clear that the mission of the church 
+Christ was very clear that the church, that means the people in the room, are the way others find out about the gospel.
 
 *That means we all have a very very important task.*
 
@@ -208,8 +208,8 @@ It is more valuable than you or I can comprehend. It is worth living for. It is 
 
 ***Let's pray.***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzU4OTY2NTIsLTE4MDc3Nzk5MDUsLT
-EyNzAzNjk1NiwxOTQ0MDM0ODE0LDE4NTQ4NTk1MCwtMTg3MzQ2
-NTIzNiwyMDc2MjU5OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMT
-kxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
+eyJoaXN0b3J5IjpbMTcwODg5OTM1MSwtMTgwNzc3OTkwNSwtMT
+I3MDM2OTU2LDE5NDQwMzQ4MTQsMTg1NDg1OTUwLC0xODczNDY1
+MjM2LDIwNzYyNTk5MSw5NDUzNTgxNDUsMjAwNDM4MTU5NSwxOT
+EwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
 -->
