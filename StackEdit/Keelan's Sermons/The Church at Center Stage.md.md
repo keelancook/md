@@ -81,7 +81,7 @@ That is the multi-faceted wisdom of God. That is the mystery hidden for ages and
 - to shed light on how God's plan will unfold, and Paul accomplishes this last one by starting churches all over the Mediterranean.
 
 ### If those were the tasks, let’s look at the outcome.
- Why did God have Paul, and by the extension the rest of the church, doing these things?
+Why did God have Paul, and by the extension the rest of the church, doing these things?
 
 He tells us right there in verse 10: *so that… the manifold wisdom of God might now be made known (Eph. 3:10)*
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5ODU4Nzk4LC0xODczNDY1MjM2LDIwNz
-YyNTk5MSw5NDUzNTgxNDUsMjAwNDM4MTU5NSwxOTEwMjQzOTE1
-LDIwODY3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
+eyJoaXN0b3J5IjpbMzkyOTE1NDgsLTE4NzM0NjUyMzYsMjA3Nj
+I1OTkxLDk0NTM1ODE0NSwyMDA0MzgxNTk1LDE5MTAyNDM5MTUs
+MjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
 -->
