@@ -105,11 +105,11 @@ Think of it like this: God is writing a story throughout all of history. It is a
 
 All of the universe is a giant stage, and right there in the center of the stage is the church. The church lives out God's great plan. After Christ's resurrection and ascension, now the church takes center stage and becomes the main actor in the grand drama.
 
- That doesn't mean that we are the ones who make this drama happen, and it doesn't mean we are the ones with the power to remove sin and fix the world. It does mean that we are the ones at center stage through which God will reveal his manifold wisdom.  
+Let's be clear. That doesn't mean that we are the ones who make this drama happen, and it doesn't mean we are the ones with the power to remove sin and fix the world. It does mean that we are the ones at center stage through which God will reveal his manifold wisdom.  
 
- It is not the powerful governments of this world, with their rulers making decisions that shape the course of nations. That's not who this verse singles out. Governments are not center stage in history.
+**It is not the powerful governments of this world**, with their rulers making decisions that shape the course of nations. That's not who this verse singles out. Governments are not center stage in history.
 
- It is not the great businesses of the world that generate the world's wealth. Corporations are not center stage.
+It is not the great businesses of the world that generate the world's wealth. Corporations are not center stage.
 
  It is not the scientific discoveries happening at the world's best universities.  
 
@@ -198,7 +198,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ5NjA5MTYsOTQ1MzU4MTQ1LDIwMD
-QzODE1OTUsMTkxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5
-MDI1XX0=
+eyJoaXN0b3J5IjpbODgyNDQxNjQzLDk0NTM1ODE0NSwyMDA0Mz
+gxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAy
+NV19
 -->
