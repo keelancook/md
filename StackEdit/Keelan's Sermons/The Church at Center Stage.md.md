@@ -72,15 +72,13 @@ And in the gospels, we meet him.
 
 Jesus is the one who crushes the head of the serpent, he is the one from the line of Abraham that will bless all nations, and he is the heir to the throne of David and, let me tell you, kingdom will have no end.
 
-By his death, by his sacrifice, we are healed. That evil that stained the world in the garden of Eden can be erased by the blood of the Lamb. And not just for the Jews, but for all the nations of the world.  
+By his death, by his sacrifice, we are healed. That evil that stained the world all they way back at the beginning of the story in the garden of Eden can be erased by the blood of the Lamb. And not just for the Jews, but for all the nations of the world.  
 
- That is the multi-faceted wisdom of God. That is the mystery hidden for ages and now revealed because of Jesus.
+That is the multi-faceted wisdom of God. That is the mystery hidden for ages and now revealed because of Jesus.
 
  So Paul outlines for us these two central tasks of the mission:
-
- to preach the gospel to those who've not yet heard or accepted and
-
- to shed light on how God's plan will unfold, and Paul accomplishes this last one by starting churches all over the Mediterranean.
+- to preach the gospel to those who've not yet heard or accepted and
+- to shed light on how God's plan will unfold, and Paul accomplishes this last one by starting churches all over the Mediterranean.
 
 ### If those were the tasks, let’s look at the outcome.
  Why did God have Paul, and by the extension the rest of the church, doing these things?
@@ -200,6 +198,6 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg4NTkzMTgsMjAwNDM4MTU5NSwxOT
-EwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
+eyJoaXN0b3J5IjpbOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMTkxMD
+I0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
 -->
