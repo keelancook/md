@@ -109,15 +109,15 @@ Let's be clear. That doesn't mean that we are the ones who make this drama happe
 
 **It is not the powerful governments of this world**, with their rulers making decisions that shape the course of nations. That's not who this verse singles out. Governments are not center stage in history.
 
-It is not the great businesses of the world that generate the world's wealth. Corporations are not center stage.
+**It is not the great businesses of the world** that generate the world's wealth. Corporations are not center stage.
 
- It is not the scientific discoveries happening at the world's best universities.  
+ **It is not the scientific discoveries** happening at the world's best universities.  
 
- It is not even the angels or spiritual beings who will reveal to all the universe God's manifold wisdom. Paul says they are sitting in the audience watching the drama take place.
+ **It is not even the angels or spiritual beings** who will reveal to all the universe God's manifold wisdom. Paul says they are sitting in the audience watching the drama take place.
 
  Who is center stage? It is the church. The simple, ordinary church.  
 
- In this passage, Paul lets us in on the mystery. That same mystery that was hidden for the ages is now clear, and what a startling surprise. God's great plan for the cosmos unfolds in little gatherings of believers just like ours all over the world.  
+In this passage, Paul lets us in on the mystery. That same mystery that was hidden for the ages is now clear, and what a startling surprise. God's great plan for the cosmos unfolds in little gatherings of believers just like ours all over the world.  
 
 ## (Three important truths about the church:)
  A biblical scholar named John Stott notes that there are three important truths about the church in this passage.
@@ -198,7 +198,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyNDQxNjQzLDk0NTM1ODE0NSwyMDA0Mz
+eyJoaXN0b3J5IjpbODQ2MzE1MjExLDk0NTM1ODE0NSwyMDA0Mz
 gxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAy
 NV19
 -->
