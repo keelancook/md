@@ -183,7 +183,7 @@ This sounds like an overwhelming responsibility? How can a regular, ordinary chu
 
 Paul goes on in verse 12 to tell us: "In him we have boldness and confident access through faith in him." (Eph 3:12)  
 
-We can step into this important role as the church confidently, because we have access to God himself through Christ Jesus our Lord.  
+We can step into this important role as the church confidently, because we have access to God himself through Christ Jesus our Lord. If he is for us, who can be against us?
 
 ## (Word of Encouragement for Lazybrook)
 The reason I wanted us to look at this chapter today was so that I could encourage you. This passage shows us why what happens with your church matters so much. Being a committed member of a local congregation matters more than you can ever understand. Because of your church the heavenly hosts get to watch the very plan of God unfold.
@@ -206,7 +206,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxNjgwNiwxOTQ0MDM0ODE0LDE4NT
+eyJoaXN0b3J5IjpbLTEyNzAzNjk1NiwxOTQ0MDM0ODE0LDE4NT
 Q4NTk1MCwtMTg3MzQ2NTIzNiwyMDc2MjU5OTEsOTQ1MzU4MTQ1
 LDIwMDQzODE1OTUsMTkxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNz
 c5OTI5MDI1XX0=
