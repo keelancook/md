@@ -70,7 +70,7 @@ The prophets in the Old Testament speak of his coming, the one who would bless a
 
 And in the gospels, we meet him.  
 
-Jesus is the one who crushes the head of the serpent, he is the one from the line of Abraham that will bless all nations, and he is the heir to the throne of David and, let me tell you, kingdom will have no end.
+Jesus is the one who crushes the head of the serpent, he is the one from the line of Abraham that will bless all nations, and he is the heir to the throne of David and, let me tell you, that kingdom will have no end.
 
 By his death, by his sacrifice, we are healed. That evil that stained the world all they way back at the beginning of the story in the garden of Eden can be erased by the blood of the Lamb. And not just for the Jews, but for all the nations of the world.  
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUyODAyNjEsLTE4NzM0NjUyMzYsMj
-A3NjI1OTkxLDk0NTM1ODE0NSwyMDA0MzgxNTk1LDE5MTAyNDM5
-MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
+eyJoaXN0b3J5IjpbNDA5ODU4Nzk4LC0xODczNDY1MjM2LDIwNz
+YyNTk5MSw5NDUzNTgxNDUsMjAwNDM4MTU5NSwxOTEwMjQzOTE1
+LDIwODY3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
 -->
