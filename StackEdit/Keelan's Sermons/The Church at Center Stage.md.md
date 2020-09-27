@@ -92,13 +92,13 @@ Paul has already said that his work is proclaiming and revealing this mystery to
  The mystery of God is to be revealed to all of creation. Everyone on the earth and everyone above the earth.  
 
 ## (The Agent of God's Plan: The Church)
- But perhaps the most outstanding part of all of this is how God accomplishes revealing this plan.
+But perhaps the most outstanding part of all of this is how God accomplishes revealing this plan.
 
- Paul tells us, right here in the text. The agent of God's plan – **it's the church.**
+Paul tells us, right here in the text. The agent of God's plan – **is the church.**
 
- As Paul and others preach to the gentiles, to the nations, they begin to form churches. These churches then become the engines of gospel proclamation, the revealers of the mystery. The members of these little churches begin speaking the gospel to their family and friends, to their coworkers and neighbors.
+As Paul and others preach to the gentiles, to the nations, they begin to form churches. These churches then become the engines of gospel proclamation, the revealers of the mystery. The members of these little churches begin speaking the gospel to their family and friends, to their coworkers and neighbors.
 
- And those churches are the center of God's plan to reveal his manifold wisdom to those on earth and those above the earth.
+And those churches are the center of God's plan to reveal his manifold wisdom to those on earth and those above the earth.
 
 ## (The Divine Drama:)
 Think of it like this: God is writing a story throughout all of history. It is a grand drama from the beginning to the end, that will ultimately reveal his great glory as creator and sovereign Lord over all that he has made.
@@ -198,7 +198,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzA1MjU1Myw5NDUzNTgxNDUsMjAwND
-M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
-MjVdfQ==
+eyJoaXN0b3J5IjpbLTE5NDQ5NjA5MTYsOTQ1MzU4MTQ1LDIwMD
+QzODE1OTUsMTkxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5
+MDI1XX0=
 -->
