@@ -60,19 +60,19 @@ The first task is *to preach to the Gentiles the unsearchable riches of Christ (
 
  From cover to cover the Bible tells us about God's plan, about this mystery as Paul calls it, about his multi-faceted or manifold wisdom.
 
- God made everything right and pure, and then man sins in the garden, and sin entered the world. But right after the fall, we see that God promises a way to fix the mess. He promises that a seed of the woman would one day crush the head of the serpent. That's the very first proclamation of the gospel in the Bible. It's all the way up there in the beginning.
+God made everything right and pure, and then man sins in the garden, and sin entered the world. But right after the fall, we see that God promises a way to fix the mess. He promises that a seed of the woman would one day crush the head of the serpent. That's the very first proclamation of the gospel in the Bible. It's all the way up there in the beginning.
 
- And then, only a few chapters later, God promises Abraham that through his lineage all the world will one day be blessed.
+And then, only a few chapters later, God promises Abraham that through his lineage all the world will one day be blessed.
 
- Many years later, King David is told that he will one day have a son that will sit on his throne and rule for all eternity.  
+Many years later, King David is told that he will one day have a son that will sit on his throne and rule for all eternity.  
 
- The prophets in the Old Testament speak of his coming, the one who would bless all nations, the one who would sit on the throne of David forever.
+The prophets in the Old Testament speak of his coming, the one who would bless all nations, the one who would sit on the throne of David forever.
 
- And in the gospels, we meet him.  
+And in the gospels, we meet him.  
 
- Jesus is the one who crushes the head of the serpent, he is the one from the line of Abraham that will bless all nations, and he is the heir to the throne of David whose kingdom will have no end.
+Jesus is the one who crushes the head of the serpent, he is the one from the line of Abraham that will bless all nations, and he is the heir to the throne of David and, let me tell you, kingdom will have no end.
 
- By his death, by his sacrifice, we are healed. That evil that stained the world in the garden of Eden can be erased by the blood of the Lamb. And not just for the Jews, but for all the nations of the world.  
+By his death, by his sacrifice, we are healed. That evil that stained the world in the garden of Eden can be erased by the blood of the Lamb. And not just for the Jews, but for all the nations of the world.  
 
  That is the multi-faceted wisdom of God. That is the mystery hidden for ages and now revealed because of Jesus.
 
@@ -200,6 +200,6 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODI1MTgyNiwyMDA0MzgxNTk1LDE5MT
-AyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
+eyJoaXN0b3J5IjpbLTEwNjg4NTkzMTgsMjAwNDM4MTU5NSwxOT
+EwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
 -->
