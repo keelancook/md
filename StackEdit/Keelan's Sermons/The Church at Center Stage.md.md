@@ -20,15 +20,13 @@ In Ephesians chapter 3, Paul outlines what may be the greatest underdog story in
 The Word of the Lord starting in Ephesians 3 vs 7 says this:
 
 ## (Read Ephesians 3:7-12.)
-<<<
 > *Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power.*
-
-*To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things,*
-
-*so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places.*
-
-*This was according to the eternal purpose that he has realized in Christ Jesus our Lord,  in whom we have boldness and access with confidence through our faith in him.*
-<<<
+> 
+>*To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, and to bring to light for everyone what is the plan of the mystery hidden for ages in God, who created all things,*
+>
+>*so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places.*
+>
+>*This was according to the eternal purpose that he has realized in Christ Jesus our Lord,  in whom we have boldness and access with confidence through our faith in him.*
 
 ## Two quick things I want us to catch from the beginning:
 
@@ -210,7 +208,7 @@ It is more valuable than you or I can comprehend. It is worth living for. It is 
 
 ***Let's pray.***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTAwOTcwMzIsLTE4MDc3Nzk5MDUsLT
+eyJoaXN0b3J5IjpbLTEwMDQ3NTg0NzQsLTE4MDc3Nzk5MDUsLT
 EyNzAzNjk1NiwxOTQ0MDM0ODE0LDE4NTQ4NTk1MCwtMTg3MzQ2
 NTIzNiwyMDc2MjU5OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMT
 kxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
