@@ -138,11 +138,11 @@ So the church is central to history.
  
 It is created by the gospel, because we are not just saved out of something, we are saved into something. If we rightly understand the gospel, then we realize it saves us out of sin, but that it also saves us into Christ's body. There is no biblical category for a Christian who is not an active part of a local church. Today, we've gotten comfortable with that category, but there are no examples in the New Testament of Christians, people made into new creations by the power of the gospel, who exist apart from a local assembly of believers. So, the church is created by the gospel.
 
-The church's mission is to proclaim the gospel. Christ was very clear that the mission of the church, and that means the mission of those who belong to the church...
+The church's mission is to proclaim the gospel. Christ was very clear that the mission of the church is to speak the gospel and make disciples of all nations.
 
-You know... while we're at it, don't speak about your church with "they." They aren't focusing on the right stuff, or they should do fill in the blank. If you belong to a church, use "we." That's the right word. We aren't focusing on the right stuff, and we should do fill in the blank. A church is no more than a collection of individuals who make it up. And, it is that group of individuals who are supposed to do the work of the church. Don't think of your church as a "they," think of it as a "we."
+And when I say the "mission of the church" that means the mission of those who belong to the church. Don't speak about your church with "they." They aren't focusing on the right stuff, or they should do fill in the blank. If you belong to a church, use "we." That's the right word. We aren't focusing on the right stuff, and we should do fill in the blank. A church is no more than a collection of individuals who make it up. And, it is that group of individuals who are supposed to do the work of the church. Don't think of your church as a "they," think of it as a "we."
 
-Now, where was I... Christ was very clear that the mission of the church is to speak the gospel and make disciples of all nations.
+Now, where was I... Christ was very clear that the mission of the church 
 
 *That means we all have a very very important task.*
 
@@ -208,8 +208,8 @@ It is more valuable than you or I can comprehend. It is worth living for. It is 
 
 ***Let's pray.***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc3Nzk5MDUsLTEyNzAzNjk1NiwxOT
-Q0MDM0ODE0LDE4NTQ4NTk1MCwtMTg3MzQ2NTIzNiwyMDc2MjU5
-OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMTkxMDI0MzkxNSwyMD
-g2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
+eyJoaXN0b3J5IjpbLTE3NzU4OTY2NTIsLTE4MDc3Nzk5MDUsLT
+EyNzAzNjk1NiwxOTQ0MDM0ODE0LDE4NTQ4NTk1MCwtMTg3MzQ2
+NTIzNiwyMDc2MjU5OTEsOTQ1MzU4MTQ1LDIwMDQzODE1OTUsMT
+kxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNzc5OTI5MDI1XX0=
 -->
