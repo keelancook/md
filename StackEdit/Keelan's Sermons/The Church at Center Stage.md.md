@@ -136,7 +136,7 @@ Here's something for you to chew on for a while. Among all the human institution
  
 It is created by the gospel, because we are not just saved out of something, we are saved into something. If we rightly understand the gospel, then we realize it saves us out of sin, but that it also saves us into Christ's body. There is no biblical category for a Christian who is not an active part of a local church. Today, we've gotten comfortable with that category, but there are no examples in the New Testament of Christians, people made into new creations by the power of the gospel, who exist apart from a local assembly of believers. So, the church is created by the gospel.
 
- The church's mission is to proclaim the gospel. Christ was very clear that the mission of the church, and that means the mission of those who belong to the church, is to speak the gospel and make disciples of all nations.
+The church's mission is to proclaim the gospel. Christ was very clear that the mission of the church, and that means the mission of those who belong to the church, is to speak the gospel and make disciples of all nations.
 
  *That means we all have a very very important task.*
 
@@ -200,7 +200,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzY5MTA4OCw5NDUzNTgxNDUsMjAwND
-M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
-MjVdfQ==
+eyJoaXN0b3J5IjpbMjMyNzU3NTUwLDk0NTM1ODE0NSwyMDA0Mz
+gxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAy
+NV19
 -->
