@@ -171,18 +171,18 @@ You may have a lot of friends or a big family, but no other group of people can 
 The only way to truly participate in the mission of the church is to do so through the ministry of your local church.   
 
 ## (God's plan all along)
- That the church would be this important, this central to the world was God's plan all along.
+That the church would be this important, this central to the world was God's plan all along.
 
- Verse 11 tells us: "This was according to the eternal purpose that he has realized in Christ Jesus our Lord" (Eph 3:11)
+Verse 11 tells us: "This was according to the eternal purpose that he has realized in Christ Jesus our Lord" (Eph 3:11)
 
- This sounds like an overwhelming responsibility? How can a regular, ordinary church congregation be expected to do this?  
+This sounds like an overwhelming responsibility? How can a regular, ordinary church congregation be expected to do this?  
 
- Paul goes on in verse 12 to tell us: "In him we have boldness and confident access through faith in him." (Eph 3:12)  
+Paul goes on in verse 12 to tell us: "In him we have boldness and confident access through faith in him." (Eph 3:12)  
 
- We can step into this important role as the church confidently, because we have access to God himself through Christ Jesus our Lord.  
+We can step into this important role as the church confidently, because we have access to God himself through Christ Jesus our Lord.  
 
 ## (Word of Encouragement for Lazybrook)
- The reason I wanted us to look at this chapter today was so that I could encourage you. This passage shows us why what happens with your church matters so much. Being a committed member of a local congregation matters more than you can ever understand. Because of your church the heavenly hosts get to watch the very plan of God unfold.
+The reason I wanted us to look at this chapter today was so that I could encourage you. This passage shows us why what happens with your church matters so much. Being a committed member of a local congregation matters more than you can ever understand. Because of your church the heavenly hosts get to watch the very plan of God unfold.
 
  Perhaps you’re a Christ follower, and you’re listening to this and can’t say you have a church family. If that’s you, then I want to challenge you to find one. I'm sure the folk here at Lazybrook would be more than happy for you to join in, but if not here, find a church home. You need it. We all do.
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzAwMzc1Miw5NDUzNTgxNDUsMjAwND
-M4MTU5NSwxOTEwMjQzOTE1LDIwODY3NzkzMjEsLTE3Nzk5Mjkw
-MjVdfQ==
+eyJoaXN0b3J5IjpbODUxNzI2Mzc2LDk0NTM1ODE0NSwyMDA0Mz
+gxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAy
+NV19
 -->
