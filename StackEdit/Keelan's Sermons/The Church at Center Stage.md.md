@@ -50,7 +50,7 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
 If we read this passage that way, we realize that the gospel is for all nations, no one is excluded, and that it is our responsibility to share the gospel with everyone, no matter where they are from, what they look like, or what they currently believe.
 
-Now that has some real application for a church like yours in a neighborhood that's if changing like this one. That the gospel is a message for everyone means you have a responsibility to all of your new neighbors, no matter what they look like, or what they currently believe about stuff. It's your job to find them and tell them, even if you think they don't want to hear it.
+Now that has some real application for a church like yours in a neighborhood that's is changing like this one. That the gospel is a message for everyone means you have a responsibility to all of your new neighbors, no matter what they look like, or what they currently believe about stuff. It's your job to find them and tell them, even if you think they don't want to hear it.
 
 The first task is *to preach to the Gentiles the unsearchable riches of Christ (Eph. 3:8)*
 
@@ -58,7 +58,7 @@ The first task is *to preach to the Gentiles the unsearchable riches of Christ (
 
 ### God has had a plan from the very beginning.
 
- From cover to cover the Bible tells us about God's plan, about this mystery as Paul calls it, about his multi-faceted or manifold wisdom.
+From cover to cover the Bible tells us about God's plan, about this mystery as Paul calls it, about his multi-faceted or manifold wisdom.
 
 God made everything right and pure, and then man sins in the garden, and sin entered the world. But right after the fall, we see that God promises a way to fix the mess. He promises that a seed of the woman would one day crush the head of the serpent. That's the very first proclamation of the gospel in the Bible. It's all the way up there in the beginning.
 
@@ -202,7 +202,7 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM0NjUyMzYsMjA3NjI1OTkxLDk0NT
-M1ODE0NSwyMDA0MzgxNTk1LDE5MTAyNDM5MTUsMjA4Njc3OTMy
-MSwtMTc3OTkyOTAyNV19
+eyJoaXN0b3J5IjpbLTE2MjUyODAyNjEsLTE4NzM0NjUyMzYsMj
+A3NjI1OTkxLDk0NTM1ODE0NSwyMDA0MzgxNTk1LDE5MTAyNDM5
+MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
 -->
