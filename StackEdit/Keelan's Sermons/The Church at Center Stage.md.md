@@ -196,7 +196,7 @@ Finally, let me speak directly to those of you who already call Lazybrook your c
 
 You guys have entered into a period of looking hard at what your doing, this discovery process, that's hard stuff. If you're on that discovery team, you're asking some big questions right now, questions about the future of the church. If you're not on that team, you're probably wondering what in the world they're even doing, right? There's all kinds of uncertainty at a time like this in the life of a church. It would be tempting to pull away.
 
- And, as you guys finish up this discovery phase, you're going to have some results. You will see some things to celebrate, and you see some things to change. Maybe big things. And as a church, you will probably have to make some really hard decisions. You may discover that you need to sacrifice some of your own preferences if you want your church to actually be a part of that mission we just discusseds, all that stuff that God has established the church to do. Making sacrifices, making changes... it's hard... it would be tempting to pull away.
+And, as you guys finish up this discovery phase, you're going to have some results. You will see some things to celebrate, and you will see some things to change. Maybe big things. And as a church, you will probably have to make some really hard decisions. You may discover that you need to sacrifice some of your own preferences if you want your church to actually be a part of that mission we just discussed, all that stuff that God has established this church to do. Making sacrifices, making changes... it's hard... it would be tempting to pull away.
 
  You guys have a lot going on right now, and it would be tempting to disengage, to distance yourself from your church, to refuse to stick in there when changes start to happen so you can better reach your community.
 
@@ -206,8 +206,8 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth sacrificing for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAzNjk1NiwxOTQ0MDM0ODE0LDE4NT
-Q4NTk1MCwtMTg3MzQ2NTIzNiwyMDc2MjU5OTEsOTQ1MzU4MTQ1
-LDIwMDQzODE1OTUsMTkxMDI0MzkxNSwyMDg2Nzc5MzIxLC0xNz
-c5OTI5MDI1XX0=
+eyJoaXN0b3J5IjpbMTIzMjE5Mjc4NCwtMTI3MDM2OTU2LDE5ND
+QwMzQ4MTQsMTg1NDg1OTUwLC0xODczNDY1MjM2LDIwNzYyNTk5
+MSw5NDUzNTgxNDUsMjAwNDM4MTU5NSwxOTEwMjQzOTE1LDIwOD
+Y3NzkzMjEsLTE3Nzk5MjkwMjVdfQ==
 -->
