@@ -48,9 +48,9 @@ Paul outlines that ministry in **two specific tasks and one very important outco
 
  And the other word I want us to make sure we understand is Gentiles. The word Gentiles is used in the Bible to mean people who are not Jews. But, I want us to really understand that. The Greek term that is used here is the same one we translate as nations in other passages, like The Great Commission in Matthew, where it says go and make disciples of all nations.
 
- If we read this passage that way, we realize that the gospel is for all nations, no one is excluded, and that it is our responsibility to share the gospel with everyone, no matter where they are from, what they look like, or what they currently believe.
+If we read this passage that way, we realize that the gospel is for all nations, no one is excluded, and that it is our responsibility to share the gospel with everyone, no matter where they are from, what they look like, or what they currently believe.
 
-Now that has some real application for a church like yours in a neighborhood that's if changing like this one. That the gospel is a message for everyone means you have a responsibility to all of your new neighbors, no matter what they look like, or what they currently believe about stuff. 
+Now that has some real application for a church like yours in a neighborhood that's if changing like this one. That the gospel is a message for everyone means you have a responsibility to all of your new neighbors, no matter what they look like, or what they currently believe about stuff. It's your job to find them and tell them, even if you think they don't want to hear it.
 
 The first task is *to preach to the Gentiles the unsearchable riches of Christ (Eph. 3:8)*
 
@@ -200,6 +200,6 @@ If you ever struggle to find purpose in what happens here. If you ever get tired
 
 It is more valuable than you or I can comprehend. It is worth living for. It is worth working for.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDMwNDU5MywyMDA0MzgxNTk1LDE5MT
+eyJoaXN0b3J5IjpbMTE3ODI1MTgyNiwyMDA0MzgxNTk1LDE5MT
 AyNDM5MTUsMjA4Njc3OTMyMSwtMTc3OTkyOTAyNV19
 -->
