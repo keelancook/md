@@ -257,7 +257,7 @@ A postmillennialist commitment presented as optimism in the overall direction of
 
 **FIX QUOTE!**
 
-> They [postmillennialists] often asserted that the tokens of that... history would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.Moorhead, Between Progress, 525.]
+> They [postmillennialits] often asserted that the tokens of that... history would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.Moorhead, Between Progress, 525.]
 
 American Protestants of many stripes believed the present world would be transformed into a society of perfect righteousness and peace through Christianity's triumph. In the first decades of the nineteenth century, the consensus was that this victorious outpouring would occur through the work of revivals. The middle decades of the century, during the Civil War and early parts of Reconstruction tampered this faith, only to have it return in the Gilded Age as Americans headed into their Progressive Era. An optimism initially placed on the work of revivals was increasingly transferred to activities such as social reform.Phillips, A Kingdom on Earth, 5-6.]
 
@@ -461,11 +461,11 @@ LiIsImNyZWF0ZWQiOjE2MDExNDc2MzY4MDJ9LCI4Z0FwSUZKUX
 F6YWxMT25EIjp7ImRpc2N1c3Npb25JZCI6IjRWR3FhZ0ZuWVlD
 UlVpaEUiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkb2
 4ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxMzI4MTcwMzY5fX0s
-Imhpc3RvcnkiOlstMTQyOTEyNDM3OSwxNzY5NDY3ODQ2LDk4MD
-gzMDY4NCwtODQ4Mzk4NDEsLTE0NzQwNzU2NzYsOTQ4NDc4NjE2
-LC05NDA2ODgwODAsLTE4NTczOTgzNTIsMTg5MTY5NTY5MSwtMT
-Y5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0ODQxMCwyOTMxOTkz
-NDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4LC0xMTI2MzU5OTE1LD
-E2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1NjExNjMsMTQ5NDIw
-NzY4NF19
+Imhpc3RvcnkiOls0OTY3MDUzNjIsLTE0MjkxMjQzNzksMTc2OT
+Q2Nzg0Niw5ODA4MzA2ODQsLTg0ODM5ODQxLC0xNDc0MDc1Njc2
+LDk0ODQ3ODYxNiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OT
+E2OTU2OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4NDg0
+MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwtMT
+EyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgyNTYx
+MTYzXX0=
 -->
