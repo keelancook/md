@@ -332,17 +332,11 @@ Quandt, Religion and Social Thought, 396.
 
 Regardless of tactics, both sides of the spectrum agreed on the nature of the kingdom, a leavening of society that would create a truly and thoroughly Christianized human civilization.
 
-**Christianize and Americanize**
+## 
 
-If the kingdom of God was to be the pinnacle of human civilization, American Protestants needed to look no further than the society developing around them to find it. Harris notes in his lectures that "modern civilization is characterized by ideas derived from the gospel of the kingdom."
+If the kingdom of God was to be the pinnacle of human civilization, American Protestants needed to look no further than the society developing around them to find it. Harris notes in his lectures that "modern civilization is characterized by ideas derived from the gospel of the kingdom."^[Harris, Kingdom of Christ, 2.] Of course, by modern civilization, Harris is referring to the ongoing American social experiment. Harris continues,
 
-Harris, Kingdom of Christ, 2.
-
-Of course, by modern civilization, Harris is referring to the ongoing American social experiment. Harris continues,
-
-> ...from the day when he began to preach “The kingdom of heaven is at hand,” until now, his name has been a power in human thought and life; the kingdom has been in the world gathering individuals into itself, and vitalizing civilization with its divine ideas, a central force in the history of all enlightened and progressive nations.
-> 
-> Harris, Kingdom of Christ, 19.}
+> ...from the day when he began to preach “The kingdom of heaven is at hand,” until now, his name has been a power in human thought and life; the kingdom has been in the world gathering individuals into itself, and vitalizing civilization with its divine ideas, a central force in the history of all enlightened and progressive nations.^[Harris, Kingdom of Christ, 19.]
 
 In the minds of American Protestants, there was no more enlightened and progressive nation than their own. Western, specifically American, civilization was indeed becoming the kingdom of God. Theodore Munger, a Congregationalist theologian, emphatically preached that the kingdom had come, and it was presently at work in their society. Munger exhorts, "Let us not belittle this life. There is no moment of time grander than the present. The ages of eternity will usher in no day more momentous than those that are now passing..."^[Munger, Theodore Thornton. The Freedom of Faith (Boston, New York: Houghton, Mifflin and company, 1884), 33, 343.] The advancing kingdom is intrinsically linked to the development of modern Western culture, most specifically the American variety.
 
@@ -503,7 +497,7 @@ ZCaCIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6Im5lZWQg
 dG8gY2hlY2sgcmVmZXJlbmNlcyB0byB0aGlzIG1hbiBiZWNhdX
 NlIHNvbWV0aW1lcyB5b3UgdXNlIFwidm9uXCIgYW5kIHNvbWV0
 aW1lcyB5b3UgZG9uJ3QuIiwiY3JlYXRlZCI6MTYwMTE0NzYzNj
-gwMn19LCJoaXN0b3J5IjpbLTk0MTg1MDc2NSwtODQ4Mzk4NDEs
+gwMn19LCJoaXN0b3J5IjpbLTgyODgwMTA2MCwtODQ4Mzk4NDEs
 LTE0NzQwNzU2NzYsOTQ4NDc4NjE2LC05NDA2ODgwODAsLTE4NT
 czOTgzNTIsMTg5MTY5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1
 NjU3LDM1NDg0ODQxMCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMj
