@@ -246,7 +246,6 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 
 # Christianize and Civilize
-**Summary of Presuppositions**
 The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people.^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123.  `consider stuffing. These first two footnotes may need to carry a good bit of research on the social setting, since I deal with it little in the paper`} The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  `Consider stuffing this with other sources`] Exciting times are, however, tumultuous times. Industrialization, urbanization, and immigration brought with them poor labor conditions, unsanitary living conditions, and the threat of unknown culture and worldview. The 1880s would see protests and riots over labor concerns such as the 1886 Haymarket Riot, where a bomb was detonated in Chicago.^[Boyer, Urban Masses and Moral Order, 126.] Not only would the sheer volume of immmigration incite concern, but the particular composition of the "new immigration" during the era was much more diverse, pulling from non-Protestant countries in Eastern Europe and elsewhere.^[Zolberg, Aristide, A Nation by Design, 205.  `Consider also adding Latourette or other sources on the makeup of immigration during this era and show they were largely Catholic, Jewish, or nothing.`]
 
 From 1880 to 1920, many Protestant American's viewed their country as a paradox of great promise and potential peril. Riding on the wings of the the modern missions movement, Protestants of the Gilded Age approached the promise and peril firmly convinced of their central role in God's plan for history. This confidence was a shaping factor in their development of an applied theology and specific missionary methods. To this unique missionary occasion most American Protestants brought theological presuppositions concerning postmillennialism and an over-realized version of the kingdom of God.
@@ -461,11 +460,11 @@ LiIsImNyZWF0ZWQiOjE2MDExNDc2MzY4MDJ9LCI4Z0FwSUZKUX
 F6YWxMT25EIjp7ImRpc2N1c3Npb25JZCI6IjRWR3FhZ0ZuWVlD
 UlVpaEUiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkb2
 4ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxMzI4MTcwMzY5fX0s
-Imhpc3RvcnkiOls0OTY3MDUzNjIsLTE0MjkxMjQzNzksMTc2OT
-Q2Nzg0Niw5ODA4MzA2ODQsLTg0ODM5ODQxLC0xNDc0MDc1Njc2
-LDk0ODQ3ODYxNiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OT
-E2OTU2OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4NDg0
-MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwtMT
-EyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgyNTYx
-MTYzXX0=
+Imhpc3RvcnkiOlstNzk0NjQ2NzA0LDQ5NjcwNTM2MiwxNzY5ND
+Y3ODQ2LDk4MDgzMDY4NCwtODQ4Mzk4NDEsLTE0NzQwNzU2NzYs
+OTQ4NDc4NjE2LC05NDA2ODgwODAsLTE4NTczOTgzNTIsMTg5MT
+Y5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0ODQx
+MCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4LC0xMT
+I2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1NjEx
+NjNdfQ==
 -->
