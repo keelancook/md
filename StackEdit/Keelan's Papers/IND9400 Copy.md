@@ -266,43 +266,31 @@ Zolberg, Aristide, A Nation by Design, 205.  `Consider also adding Latourette or
 
 From 1880 to 1920, many Protestant American's viewed their country as a paradox of great promise and potential peril. Riding on the wings of the the modern missions movement, Protestants of the Gilded Age approached the promise and peril firmly convinced of their central role in God's plan for history. This confidence was a shaping factor in their development of an applied theology and specific missionary methods. To this unique missionary occasion most American Protestants brought theological presuppositions concerning postmillennialism and an over-realized version of the kingdom of God.
 
-Postmilliennialism
+## A Postmilliennial Commitment
 
 A postmillennialist commitment presented as optimism in the overall direction of society. For most Protestants things were getting better, even if the current perils evidenced a momentary or potential setback in the war against the kingdom of sin. Moorhead writes,
 
-FIX QUOTE!
+**FIX QUOTE!**
 
-> They [postmillennialists] often asserted that the tokens of that... history would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.
-> 
-> Moorhead, Between Progress, 525.
+> They [postmillennialists] often asserted that the tokens of that... history would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.Moorhead, Between Progress, 525.]
 
-American Protestants of many stripes believed the present world would be transformed into a society of perfect righteousness and peace through Christianity's triumph. In the first decades of the nineteenth century, the consensus was that this victorious outpouring would occur through the work of revivals. The middle decades of the century, during the Civil War and early parts of Reconstruction tampered this faith, only to have it return in the Gilded Age as Americans headed into their Progressive Era. An optimism initially placed on the work of revivals was increasingly transferred to activities such as social reform.
-
-Phillips, A Kingdom on Earth, 5-6.
+American Protestants of many stripes believed the present world would be transformed into a society of perfect righteousness and peace through Christianity's triumph. In the first decades of the nineteenth century, the consensus was that this victorious outpouring would occur through the work of revivals. The middle decades of the century, during the Civil War and early parts of Reconstruction tampered this faith, only to have it return in the Gilded Age as Americans headed into their Progressive Era. An optimism initially placed on the work of revivals was increasingly transferred to activities such as social reform.Phillips, A Kingdom on Earth, 5-6.]
 
 Postmillennialism always held to a gradual development of the kingdom of God; however, as the Gilded Age gave way to the Progressive Era, the spirit of the age weighed heavily on the Protestant American understanding of how this would unfold. Tuveson writes,
 
-> "The notion of history as a process generally moving upwards by a series of majestic stages, culminating inevitably in some great, transforming event which is to solve the dilemmas of society–that is the concept destined to dominate "modern" thought.
-> 
-> Tuveson, Millennium and Utopia, 75.
+> "The notion of history as a process generally moving upwards by a series of majestic stages, culminating inevitably in some great, transforming event which is to solve the dilemmas of society–that is the concept destined to dominate "modern" thought.Tuveson, Millennium and Utopia, 75.]
 
 As an example, Moorhead notes this influence as early as Harris' kingdom lectures. Moorhead writes,
 
-> Firmly committed to the belief that progress was the law of time and believing that the United States was playing a special role in that improvement, he could tolerate no eschatology that suggested "a violent disruption of all the continuity of that history."
-> 
-> Moorhead, Between Progress, 541.
+> Firmly committed to the belief that progress was the law of time and believing that the United States was playing a special role in that improvement, he could tolerate no eschatology that suggested "a violent disruption of all the continuity of that history."Moorhead, Between Progress, 541.]
 
 The wheels of progress, set in motion by God himself, would grind onward and upward establishing the kingdom in human civilization.
 
-An Over-realized Kingdom Theology
+## An Over-realized Kingdom Theology
 
 As postmillennialism accommodated to varying degrees the evolving concepts from European scholarship and new insights from the infant fields of social science, American Protestants held to a small list of irreducible assumptions about the kingdom of God that would guide their applied theology during the era. The means of the kingdom was no longer solely confined for most to the realm of spiritual outpouring and revival, and the nature of the kingdom increasingly mirrored the American society that was emerging around them.
 
-Advocating for social and technological advance as agents of the kingdom were not new to the Gilded Age.
-
-Lyman Beecher, A Plea for the West, 9-10 if often cited as an early example of one who promotes the social and technological advances of the United States as unique in God's plan for world evangelization and the final realization of the kingdom of God. Beecher writes,
-
-By the the 1870s, though, calls to celebrate human progress, social institutions, and technological advance as true agents of the millennium were commonplace.^[
+Advocating for social and technological advance as agents of the kingdom were not new to the Gilded Age.Lyman Beecher, A Plea for the West, 9-10 if often cited as an early example of one who promotes the social and technological advances of the United States as unique in God's plan for world evangelization and the final realization of the kingdom of God. Beecher writes,But if it is by the march of revolution and civil liberty, that the way of the Lord is to be prepared, where shall the central energy be found, and from what nation shall the renovating power go forth? What nation is blessed with such experimental knowledge of free institutions, with such facilities and resources of communication, obstructed by so few obstacles, as our own?"] By the the 1870s, though, calls to celebrate human progress, social institutions, and technological advance as true agents of the millennium were commonplace.^[
 
 Quandt, Religion and Social Thought, 392, notes that the most significant of these shifts was the convergence of millennial expectations with the celebration of civil institutions and technological developments and true agents in establishing the kingdom.] 
 
@@ -488,11 +476,11 @@ LiIsImNyZWF0ZWQiOjE2MDExNDc2MzY4MDJ9LCI4Z0FwSUZKUX
 F6YWxMT25EIjp7ImRpc2N1c3Npb25JZCI6IjRWR3FhZ0ZuWVlD
 UlVpaEUiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkb2
 4ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxMzI4MTcwMzY5fX0s
-Imhpc3RvcnkiOlsxNzY5NDY3ODQ2LDk4MDgzMDY4NCwtODQ4Mz
-k4NDEsLTE0NzQwNzU2NzYsOTQ4NDc4NjE2LC05NDA2ODgwODAs
-LTE4NTczOTgzNTIsMTg5MTY5NTY5MSwtMTY5MDI2NjM0OCwxMD
-g0MzQ1NjU3LDM1NDg0ODQxMCwyOTMxOTkzNDYsMjExNjI1MzAy
-MiwtMjk5NTUzOTI4LC0xMTI2MzU5OTE1LDE2MjY1OTA5MDQsLT
-U1ODc3NTAzMCw5ODI1NjExNjMsMTQ5NDIwNzY4NCw4NjE5MDkx
-MjBdfQ==
+Imhpc3RvcnkiOls3MTkzMjkzNjcsMTc2OTQ2Nzg0Niw5ODA4Mz
+A2ODQsLTg0ODM5ODQxLC0xNDc0MDc1Njc2LDk0ODQ3ODYxNiwt
+OTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OTE2OTU2OTEsLTE2OT
+AyNjYzNDgsMTA4NDM0NTY1NywzNTQ4NDg0MTAsMjkzMTk5MzQ2
+LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwtMTEyNjM1OTkxNSwxNj
+I2NTkwOTA0LC01NTg3NzUwMzAsOTgyNTYxMTYzLDE0OTQyMDc2
+ODRdfQ==
 -->
