@@ -244,6 +244,9 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 > The kingdom idea was in many respects a spiritualized and idealized restatement of the search for a specifically Christian society in an age of freedom and progress. Protestants with somewhat different theological perspectives concerning the kingdom of God could nevertheless find sufficient in common to work together for its coming.^[Handy, A Christian America, 87.]
 
 Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
+
+## Christianize and Civilize
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJmZmRORlczMU9tWE9jSk5EIjp7In
 RleHQiOiJhcG9jYWx5cHRpYyIsInN0YXJ0IjoyMTAsImVuZCI6
@@ -386,11 +389,11 @@ ZCaCIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6Im5lZWQg
 dG8gY2hlY2sgcmVmZXJlbmNlcyB0byB0aGlzIG1hbiBiZWNhdX
 NlIHNvbWV0aW1lcyB5b3UgdXNlIFwidm9uXCIgYW5kIHNvbWV0
 aW1lcyB5b3UgZG9uJ3QuIiwiY3JlYXRlZCI6MTYwMTE0NzYzNj
-gwMn19LCJoaXN0b3J5IjpbLTE0NzQwNzU2NzYsOTQ4NDc4NjE2
-LC05NDA2ODgwODAsLTE4NTczOTgzNTIsMTg5MTY5NTY5MSwtMT
-Y5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0ODQxMCwyOTMxOTkz
-NDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4LC0xMTI2MzU5OTE1LD
-E2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1NjExNjMsMTQ5NDIw
-NzY4NCw4NjE5MDkxMjAsNjk1NDI2NTE5LDEyNjIzNTM0NjUsLT
-E5MTU2NDYwMDNdfQ==
+gwMn19LCJoaXN0b3J5IjpbLTg0ODM5ODQxLC0xNDc0MDc1Njc2
+LDk0ODQ3ODYxNiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OT
+E2OTU2OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4NDg0
+MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwtMT
+EyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgyNTYx
+MTYzLDE0OTQyMDc2ODQsODYxOTA5MTIwLDY5NTQyNjUxOSwxMj
+YyMzUzNDY1XX0=
 -->
