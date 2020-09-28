@@ -245,8 +245,140 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 
 Since it was too soon to speak of a liberal and evangelical divide, we see broad tenets of social Christianity developing into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hopes at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 
-## Christianize and Civilize
+# Christianize and Civilize
+**Summary of Presuppositions**
 
+The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people.
+
+Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123.  `consider stuffing. These first two footnotes may need to carry a good bit of research on the social setting, since I deal with it little in the paper`
+
+The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.
+
+Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  `Consider stuffing this with other sources`
+
+Exciting times are, however, tumultuous times. Industrialization, urbanization, and immigration brought with them poor labor conditions, unsanitary living conditions, and the threat of unknown culture and worldview. The 1880s would see protests and riots over labor concerns such as the 1886 Haymarket Riot, where a bomb was detonated in Chicago.
+
+Boyer, Urban Masses and Moral Order, 126.
+
+Not only would the sheer volume of immmigration incite concern, but the particular composition of the "new immigration" during the era was much more diverse, pulling from non-Protestant countries in Eastern Europe and elsewhere.
+
+Zolberg, Aristide, A Nation by Design, 205.  `Consider also adding Latourette or other sources on the makeup of immigration during this era and show they were largely Catholic, Jewish, or nothing.`
+
+From 1880 to 1920, many Protestant American's viewed their country as a paradox of great promise and potential peril. Riding on the wings of the the modern missions movement, Protestants of the Gilded Age approached the promise and peril firmly convinced of their central role in God's plan for history. This confidence was a shaping factor in their development of an applied theology and specific missionary methods. To this unique missionary occasion most American Protestants brought theological presuppositions concerning postmillennialism and an over-realized version of the kingdom of God.
+
+Postmilliennialism
+
+A postmillennialist commitment presented as optimism in the overall direction of society. For most Protestants things were getting better, even if the current perils evidenced a momentary or potential setback in the war against the kingdom of sin. Moorhead writes,
+
+FIX QUOTE!
+
+> They [postmillennialists] often asserted that the tokens of that... history would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.
+> 
+> Moorhead, Between Progress, 525.
+
+American Protestants of many stripes believed the present world would be transformed into a society of perfect righteousness and peace through Christianity's triumph. In the first decades of the nineteenth century, the consensus was that this victorious outpouring would occur through the work of revivals. The middle decades of the century, during the Civil War and early parts of Reconstruction tampered this faith, only to have it return in the Gilded Age as Americans headed into their Progressive Era. An optimism initially placed on the work of revivals was increasingly transferred to activities such as social reform.
+
+Phillips, A Kingdom on Earth, 5-6.
+
+Postmillennialism always held to a gradual development of the kingdom of God; however, as the Gilded Age gave way to the Progressive Era, the spirit of the age weighed heavily on the Protestant American understanding of how this would unfold. Tuveson writes,
+
+> "The notion of history as a process generally moving upwards by a series of majestic stages, culminating inevitably in some great, transforming event which is to solve the dilemmas of society–that is the concept destined to dominate "modern" thought.
+> 
+> Tuveson, Millennium and Utopia, 75.
+
+As an example, Moorhead notes this influence as early as Harris' kingdom lectures. Moorhead writes,
+
+> Firmly committed to the belief that progress was the law of time and believing that the United States was playing a special role in that improvement, he could tolerate no eschatology that suggested "a violent disruption of all the continuity of that history."
+> 
+> Moorhead, Between Progress, 541.
+
+The wheels of progress, set in motion by God himself, would grind onward and upward establishing the kingdom in human civilization.
+
+An Over-realized Kingdom Theology
+
+As postmillennialism accommodated to varying degrees the evolving concepts from European scholarship and new insights from the infant fields of social science, American Protestants held to a small list of irreducible assumptions about the kingdom of God that would guide their applied theology during the era. The means of the kingdom was no longer solely confined for most to the realm of spiritual outpouring and revival, and the nature of the kingdom increasingly mirrored the American society that was emerging around them.
+
+Advocating for social and technological advance as agents of the kingdom were not new to the Gilded Age.
+
+Lyman Beecher, A Plea for the West, 9-10 if often cited as an early example of one who promotes the social and technological advances of the United States as unique in God's plan for world evangelization and the final realization of the kingdom of God. Beecher writes,
+
+By the the 1870s, though, calls to celebrate human progress, social institutions, and technological advance as true agents of the millennium were commonplace.
+
+Quandt, Religion and Social Thought, 392, notes that the most significant of these shifts was the convergence of millennial expectations with the celebration of civil institutions and technological developments and true agents in establishing the kingdom.
+
+Historically, divine agency and human initiative were the twin edges of the scissors concerning the development of the kingdom. The classic explanation of these means adjusted with the new kingdom theology. In his kingdom lectures, Harris devotes two complete lectures to the divine agency and human initiative, claiming both are essential for the full realization of the kingdom.
+
+Harris, Kingdom of Christ, lectures IV and VI take up the task of divine agency and human agency respectively in the establishment of the kingdom of Christ.
+
+Divine agency in advancing the kingdom, once primarily seen as the outpouring of the Holy Spirit through revival, was stretched to include the agency of God in establishing processes of progress. Harris speaks of the kingdom as a divine force. Harris writes,
+
+> His kingdom is progressive, like the growth of a mustard-seed. Therefore the argument is as yet incomplete. But every new generation, and especially every epoch in human progress, adds to its force. Already it is possible from the study of human history to construct an argument that history itself demands for its rational explanation the presence and power of God in it as a Redeemer establishing his kingdom. When in the future the kingdom shall possess the earth, then history itself will have proved the truth of Christ's claims, and God’s redeeming grace and his kingdom will be as demonstrable from the facts of human history as the laws of astronomy are from the facts of the starry heavens.
+> 
+> Harris, Kingdom of Christ, 20.
+
+Henry Boynton Smith, a professor of theology at Union Theological Seminary, taught history as "the record of the progress of the kingdom of God, intermingling with and acting upon all the other interests of the human race, and shaping its destiny."
+
+Lewis French Stearns, Henry Boynton Smith (Boston, 1892), 158
+
+The balance between spiritual outpouring and more naturalistic processes differed from scholar to scholar. Though increasingly, the focus was on divine agency through positivist understanding of history and faith in the direction of human civilization.
+
+Likewise, the role of human agency in advancing the kingdom shifted for many during this era. Once primarily seen as the work of the redeemed in the propagation of the gospel to the heathen for the conversion of souls, human agency increasingly included civilization building, social action and education, and the establishment of environments that promoted Christian flourishing.
+
+Carey, William. An Enquiry Into the Obligations of Christians to Use Means for the Conversion of the Heathens. Leicester: Carey Kingsgate Press, 1792, as the classic example of human agency for the propagation of the gospel. See Strong, Josiah. Our Country: Its Possible Future and Its Present Crisis. New York: The Baker and Taylor Co., 1885 as a classic example of a social Christianity approach to human agency in kingdom building.
+
+As with other aspects of American Protestant theology, a spectrum existed concerning the roles of human agency. For conservatives, the salvation of individual souls would eventually accumulate enough redeemed to change society. For liberal and social gospel adherents, social salvation through social means and social action accompanied, or overshadowed, any calls for conversion of individuals.
+
+Quandt, Religion and Social Thought, 396.
+
+Regardless of tactics, both sides of the spectrum agreed on the nature of the kingdom, a leavening of society that would create a truly and thoroughly Christianized human civilization.
+
+**Christianize and Americanize**
+
+If the kingdom of God was to be the pinnacle of human civilization, American Protestants needed to look no further than the society developing around them to find it. Harris notes in his lectures that "modern civilization is characterized by ideas derived from the gospel of the kingdom."
+
+Harris, Kingdom of Christ, 2.
+
+Of course, by modern civilization, Harris is referring to the ongoing American social experiment. Harris continues,
+
+> ...from the day when he began to preach “The kingdom of heaven is at hand,” until now, his name has been a power in human thought and life; the kingdom has been in the world gathering individuals into itself, and vitalizing civilization with its divine ideas, a central force in the history of all enlightened and progressive nations.
+> 
+> Harris, Kingdom of Christ, 19.
+
+In the minds of American Protestants, there was no more enlightened and progressive nation than their own. Western, specifically American, civilization was indeed becoming the kingdom of God. Theodore Munger, a Congregationalist theologian, emphatically preached that the kingdom had come, and it was presently at work in their society. Munger exhorts, "Let us not belittle this life. There is no moment of time grander than the present. The ages of eternity will usher in no day more momentous than those that are now passing..."
+
+Munger, Theodore Thornton. The Freedom of Faith (Boston, New York: Houghton, Mifflin and company, 1884), 33, 343.
+
+The advancing kingdom is intrinsically linked to the development of modern Western culture, most specifically the American variety.
+
+The United States as eschatological fulfillment was not a new concept in the Gilded Age. In his work,  _Thoughts on the Revival of Religion in New England, 1740_, Jonathan Edwards includes a chapter section titled, "Reasons for believing that the great work of God for the world's conversion may begin in America."
+
+Edwards, Jonathan. Thoughts on the Revival of Religion in New England, 1740: To Which Is Prefixed, A Narrative of the Surprising Work of God in Northampton, Mass., 1735 (New York: American Tract Society, 1899) 190.
+
+Edwards serves as only one example of a long line of scholars, ministers, and lay people who looked to American society as the center of God's plans for his kingdom on earth.
+
+A comprehensive list of examples would, itself, be a book. A brief list of other notable figures which employed this millennial or kingdom language in relation to the United States includes: Lyman Beecher, A Plea for the West (Cincinnati: Truman & Smith, 1835), 10; Campbell, Alexander, The Millennial Harbinger (Bethany, VA: W.K. Pendleton, 1830); Josiah Strong, Our Country: Its Possible Future and Its Present Crisis (New York: The Baker and Taylor Co., 1885).
+
+By the Gilded Age, this theme was so pronounced that it was noted a continent away. Lord Bryce, a British scholar, writing at the end of the 1880s claims,
+
+> The whole matter may. I think, be summed up by saying that Christianity is in fact understood to be, though not the legally established religion, yet the national religion... They deem the general acceptance of Christianity to be one of the main sources of their national prosperity, and their nation a special object of Divine favour[sic].
+> 
+> Bryce, James. The American Commonwealth. Vol. 2. (London: Macmillan and Co., 1889), 576-77.
+
+Any distinctions between American civilization and a thoroughly Christian civilization were collapsed.
+
+Christopher Richmann refers to this as the New Jerusalem theme prevalent in American exceptionalism. The New Jerusalem theme serves as shorthand for God's special presence and a particular eschatological vision. In this way, it expects both a space and a time. Richmann writes, "The notion appears in every genre and style imaginable: poetry, songs, presidential speeches, novels, political pamphlets, sermons, and academic writings... it has been a powerful force in American self-understanding and motivation."
+
+Richmann, America as New Jersusalem, 150.
+
+As noted above, the postmillennial presupposition had long roots back into the very formation of the republic. Long had Protestant Americans wound the fate of American civil affairs around the fate of the millennium. As far back as the period between the Revolution and 1800, expectations of the millennium soared.^[Noll, The Search for Christian America, 113.]
+
+In this way, millennialism served as a structuring narrative for the American Protestant worldview that conflated the biblical mission of the church with the task of promoting the American way of life. Rogers writes,
+
+> As a result, millennial narratives became megaphones accentuating the importance of certain themes and threats. First, the superiority of the Anglo-American evangelical way of life was affirmed. Although the millennium was a global event, all Christian societies would not contribute equally to its attainment. American evangelicals concluded that an Anglo-American alliance would be the primary instrument carrying the gospel to the whole world... Moreover, the United States was seen as particularly blessed because God chose to start the spread of civil and religious liberty here.^[Rogers, Bright and New, 56.] 
+
+Rising to the level of structuring narrative, Protestants filtered the world around them through the lens created by postmillennialism and an over-realized kingdom theology. All circumstances were eventually marshalled as evidence that America was where the kingdom would start. Protestants could point to increase in population, wealth, industry, and technology as sure signs that the age was dawning. In his kingdom lectures, Harris would affirm the central role of Anglo, specifically American, culture. He writes, "To the English-speaking people more than to any other the world is now indebted for the propagation of Christian ideas and Christian civilization."^[Harris, Kingdom on Christ, 255.]
+
+When American civilization was equated with the kingdom, it had to be spread alongside the gospel. It also had to be defended from the threats of the kingdom of sin and Satan that would seek to overthrow the coming kingdom. The watch words of the modern missions movement for many were Christianize and Civilize.^[Bebbington, The Dominance of Evangelicalism, 141-142.] And while that might be true overseas, back at home, in the face of incoming millions, it quickly became Christianize and Americanize. American Protestants saw their mission as both promoting and protecting the establishment of this new society, and the great wave of immigration proved both opportunity and threat.
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJmZmRORlczMU9tWE9jSk5EIjp7In
 RleHQiOiJhcG9jYWx5cHRpYyIsInN0YXJ0IjoyMTAsImVuZCI6
@@ -389,11 +521,11 @@ ZCaCIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6Im5lZWQg
 dG8gY2hlY2sgcmVmZXJlbmNlcyB0byB0aGlzIG1hbiBiZWNhdX
 NlIHNvbWV0aW1lcyB5b3UgdXNlIFwidm9uXCIgYW5kIHNvbWV0
 aW1lcyB5b3UgZG9uJ3QuIiwiY3JlYXRlZCI6MTYwMTE0NzYzNj
-gwMn19LCJoaXN0b3J5IjpbLTg0ODM5ODQxLC0xNDc0MDc1Njc2
-LDk0ODQ3ODYxNiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OT
-E2OTU2OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4NDg0
-MTAsMjkzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwtMT
-EyNjM1OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgyNTYx
-MTYzLDE0OTQyMDc2ODQsODYxOTA5MTIwLDY5NTQyNjUxOSwxMj
-YyMzUzNDY1XX0=
+gwMn19LCJoaXN0b3J5IjpbNjQ5NzI5NjIwLC04NDgzOTg0MSwt
+MTQ3NDA3NTY3Niw5NDg0Nzg2MTYsLTk0MDY4ODA4MCwtMTg1Nz
+M5ODM1MiwxODkxNjk1NjkxLC0xNjkwMjY2MzQ4LDEwODQzNDU2
+NTcsMzU0ODQ4NDEwLDI5MzE5OTM0NiwyMTE2MjUzMDIyLC0yOT
+k1NTM5MjgsLTExMjYzNTk5MTUsMTYyNjU5MDkwNCwtNTU4Nzc1
+MDMwLDk4MjU2MTE2MywxNDk0MjA3Njg0LDg2MTkwOTEyMCw2OT
+U0MjY1MTldfQ==
 -->
