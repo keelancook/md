@@ -342,35 +342,17 @@ Of course, by modern civilization, Harris is referring to the ongoing American s
 
 > ...from the day when he began to preach “The kingdom of heaven is at hand,” until now, his name has been a power in human thought and life; the kingdom has been in the world gathering individuals into itself, and vitalizing civilization with its divine ideas, a central force in the history of all enlightened and progressive nations.
 > 
-> Harris, Kingdom of Christ, 19.
+> Harris, Kingdom of Christ, 19.}
 
-In the minds of American Protestants, there was no more enlightened and progressive nation than their own. Western, specifically American, civilization was indeed becoming the kingdom of God. Theodore Munger, a Congregationalist theologian, emphatically preached that the kingdom had come, and it was presently at work in their society. Munger exhorts, "Let us not belittle this life. There is no moment of time grander than the present. The ages of eternity will usher in no day more momentous than those that are now passing..."
+In the minds of American Protestants, there was no more enlightened and progressive nation than their own. Western, specifically American, civilization was indeed becoming the kingdom of God. Theodore Munger, a Congregationalist theologian, emphatically preached that the kingdom had come, and it was presently at work in their society. Munger exhorts, "Let us not belittle this life. There is no moment of time grander than the present. The ages of eternity will usher in no day more momentous than those that are now passing..."^[Munger, Theodore Thornton. The Freedom of Faith (Boston, New York: Houghton, Mifflin and company, 1884), 33, 343.] The advancing kingdom is intrinsically linked to the development of modern Western culture, most specifically the American variety.
 
-Munger, Theodore Thornton. The Freedom of Faith (Boston, New York: Houghton, Mifflin and company, 1884), 33, 343.
+The United States as eschatological fulfillment was not a new concept in the Gilded Age. In his work,  _Thoughts on the Revival of Religion in New England, 1740_, Jonathan Edwards includes a chapter section titled, "Reasons for believing that the great work of God for the world's conversion may begin in America."^[Edwards, Jonathan. Thoughts on the Revival of Religion in New England, 1740: To Which Is Prefixed, A Narrative of the Surprising Work of God in Northampton, Mass., 1735 (New York: American Tract Society, 1899) 190.] Edwards serves as only one example of a long line of scholars, ministers, and lay people who looked to American society as the center of God's plans for his kingdom on earth.^[A comprehensive list of examples would, itself, be a book. A brief list of other notable figures which employed this millennial or kingdom language in relation to the United States includes: Lyman Beecher, A Plea for the West (Cincinnati: Truman & Smith, 1835), 10; Campbell, Alexander, The Millennial Harbinger (Bethany, VA: W.K. Pendleton, 1830); Josiah Strong, Our Country: Its Possible Future and Its Present Crisis (New York: The Baker and Taylor Co., 1885).] By the Gilded Age, this theme was so pronounced that it was noted a continent away. Lord Bryce, a British scholar, writing at the end of the 1880s claims,
 
-The advancing kingdom is intrinsically linked to the development of modern Western culture, most specifically the American variety.
-
-The United States as eschatological fulfillment was not a new concept in the Gilded Age. In his work,  _Thoughts on the Revival of Religion in New England, 1740_, Jonathan Edwards includes a chapter section titled, "Reasons for believing that the great work of God for the world's conversion may begin in America."
-
-Edwards, Jonathan. Thoughts on the Revival of Religion in New England, 1740: To Which Is Prefixed, A Narrative of the Surprising Work of God in Northampton, Mass., 1735 (New York: American Tract Society, 1899) 190.
-
-Edwards serves as only one example of a long line of scholars, ministers, and lay people who looked to American society as the center of God's plans for his kingdom on earth.
-
-A comprehensive list of examples would, itself, be a book. A brief list of other notable figures which employed this millennial or kingdom language in relation to the United States includes: Lyman Beecher, A Plea for the West (Cincinnati: Truman & Smith, 1835), 10; Campbell, Alexander, The Millennial Harbinger (Bethany, VA: W.K. Pendleton, 1830); Josiah Strong, Our Country: Its Possible Future and Its Present Crisis (New York: The Baker and Taylor Co., 1885).
-
-By the Gilded Age, this theme was so pronounced that it was noted a continent away. Lord Bryce, a British scholar, writing at the end of the 1880s claims,
-
-> The whole matter may. I think, be summed up by saying that Christianity is in fact understood to be, though not the legally established religion, yet the national religion... They deem the general acceptance of Christianity to be one of the main sources of their national prosperity, and their nation a special object of Divine favour[sic].
-> 
-> Bryce, James. The American Commonwealth. Vol. 2. (London: Macmillan and Co., 1889), 576-77.
+> The whole matter may. I think, be summed up by saying that Christianity is in fact understood to be, though not the legally established religion, yet the national religion... They deem the general acceptance of Christianity to be one of the main sources of their national prosperity, and their nation a special object of Divine favour[sic].^[Bryce, James. The American Commonwealth. Vol. 2. (London: Macmillan and Co., 1889), 576-77.]
 
 Any distinctions between American civilization and a thoroughly Christian civilization were collapsed.
 
-Christopher Richmann refers to this as the New Jerusalem theme prevalent in American exceptionalism. The New Jerusalem theme serves as shorthand for God's special presence and a particular eschatological vision. In this way, it expects both a space and a time. Richmann writes, "The notion appears in every genre and style imaginable: poetry, songs, presidential speeches, novels, political pamphlets, sermons, and academic writings... it has been a powerful force in American self-understanding and motivation."
-
-Richmann, America as New Jersusalem, 150.
-
-As noted above, the postmillennial presupposition had long roots back into the very formation of the republic. Long had Protestant Americans wound the fate of American civil affairs around the fate of the millennium. As far back as the period between the Revolution and 1800, expectations of the millennium soared.^[Noll, The Search for Christian America, 113.]
+Christopher Richmann refers to this as the New Jerusalem theme prevalent in American exceptionalism. The New Jerusalem theme serves as shorthand for God's special presence and a particular eschatological vision. In this way, it expects both a space and a time. Richmann writes, "The notion appears in every genre and style imaginable: poetry, songs, presidential speeches, novels, political pamphlets, sermons, and academic writings... it has been a powerful force in American self-understanding and motivation."^[Richmann, America as New Jersusalem, 150.] As noted above, the postmillennial presupposition had long roots back into the very formation of the republic. Long had Protestant Americans wound the fate of American civil affairs around the fate of the millennium. As far back as the period between the Revolution and 1800, expectations of the millennium soared.^[Noll, The Search for Christian America, 113.]
 
 In this way, millennialism served as a structuring narrative for the American Protestant worldview that conflated the biblical mission of the church with the task of promoting the American way of life. Rogers writes,
 
@@ -521,11 +503,11 @@ ZCaCIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6Im5lZWQg
 dG8gY2hlY2sgcmVmZXJlbmNlcyB0byB0aGlzIG1hbiBiZWNhdX
 NlIHNvbWV0aW1lcyB5b3UgdXNlIFwidm9uXCIgYW5kIHNvbWV0
 aW1lcyB5b3UgZG9uJ3QuIiwiY3JlYXRlZCI6MTYwMTE0NzYzNj
-gwMn19LCJoaXN0b3J5IjpbNjQ5NzI5NjIwLC04NDgzOTg0MSwt
-MTQ3NDA3NTY3Niw5NDg0Nzg2MTYsLTk0MDY4ODA4MCwtMTg1Nz
-M5ODM1MiwxODkxNjk1NjkxLC0xNjkwMjY2MzQ4LDEwODQzNDU2
-NTcsMzU0ODQ4NDEwLDI5MzE5OTM0NiwyMTE2MjUzMDIyLC0yOT
-k1NTM5MjgsLTExMjYzNTk5MTUsMTYyNjU5MDkwNCwtNTU4Nzc1
-MDMwLDk4MjU2MTE2MywxNDk0MjA3Njg0LDg2MTkwOTEyMCw2OT
-U0MjY1MTldfQ==
+gwMn19LCJoaXN0b3J5IjpbLTk0MTg1MDc2NSwtODQ4Mzk4NDEs
+LTE0NzQwNzU2NzYsOTQ4NDc4NjE2LC05NDA2ODgwODAsLTE4NT
+czOTgzNTIsMTg5MTY5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1
+NjU3LDM1NDg0ODQxMCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMj
+k5NTUzOTI4LC0xMTI2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3
+NTAzMCw5ODI1NjExNjMsMTQ5NDIwNzY4NCw4NjE5MDkxMjAsNj
+k1NDI2NTE5XX0=
 -->
