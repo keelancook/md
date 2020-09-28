@@ -312,27 +312,13 @@ Harris, Kingdom of Christ, lectures IV and VI take up the task of divine agency 
 
 Divine agency in advancing the kingdom, once primarily seen as the outpouring of the Holy Spirit through revival, was stretched to include the agency of God in establishing processes of progress. Harris speaks of the kingdom as a divine force. Harris writes,
 
-> His kingdom is progressive, like the growth of a mustard-seed. Therefore the argument is as yet incomplete. But every new generation, and especially every epoch in human progress, adds to its force. Already it is possible from the study of human history to construct an argument that history itself demands for its rational explanation the presence and power of God in it as a Redeemer establishing his kingdom. When in the future the kingdom shall possess the earth, then history itself will have proved the truth of Christ's claims, and God’s redeeming grace and his kingdom will be as demonstrable from the facts of human history as the laws of astronomy are from the facts of the starry heavens.
-> 
-> Harris, Kingdom of Christ, 20.
+> His kingdom is progressive, like the growth of a mustard-seed. Therefore the argument is as yet incomplete. But every new generation, and especially every epoch in human progress, adds to its force. Already it is possible from the study of human history to construct an argument that history itself demands for its rational explanation the presence and power of God in it as a Redeemer establishing his kingdom. When in the future the kingdom shall possess the earth, then history itself will have proved the truth of Christ's claims, and God’s redeeming grace and his kingdom will be as demonstrable from the facts of human history as the laws of astronomy are from the facts of the starry heavens.^[Harris, Kingdom of Christ, 20.]
 
-Henry Boynton Smith, a professor of theology at Union Theological Seminary, taught history as "the record of the progress of the kingdom of God, intermingling with and acting upon all the other interests of the human race, and shaping its destiny."
+Henry Boynton Smith, a professor of theology at Union Theological Seminary, taught history as "the record of the progress of the kingdom of God, intermingling with and acting upon all the other interests of the human race, and shaping its destiny."^[Lewis French Stearns, Henry Boynton Smith (Boston, 1892), 158] The balance between spiritual outpouring and more naturalistic processes differed from scholar to scholar. Though increasingly, the focus was on divine agency through positivist understanding of history and faith in the direction of human civilization.
 
-Lewis French Stearns, Henry Boynton Smith (Boston, 1892), 158
+Likewise, the role of human agency in advancing the kingdom shifted for many during this era. Once primarily seen as the work of the redeemed in the propagation of the gospel to the heathen for the conversion of souls, human agency increasingly included civilization building, social action and education, and the establishment of environments that promoted Christian flourishing.^[Carey, William. An Enquiry Into the Obligations of Christians to Use Means for the Conversion of the Heathens. Leicester: Carey Kingsgate Press, 1792, as the classic example of human agency for the propagation of the gospel. See Strong, Josiah. Our Country: Its Possible Future and Its Present Crisis. New York: The Baker and Taylor Co., 1885 as a classic example of a social Christianity approach to human agency in kingdom building.] As with other aspects of American Protestant theology, a spectrum existed concerning the roles of human agency. For conservatives, the salvation of individual souls would eventually accumulate enough redeemed to change society. For liberal and social gospel adherents, social salvation through social means and social action accompanied, or overshadowed, any calls for conversion of individuals.^[Quandt, Religion and Social Thought, 396.] Regardless of tactics, both sides of the spectrum agreed on the nature of the kingdom, a leavening of society that would create a truly and thoroughly Christianized human civilization.
 
-The balance between spiritual outpouring and more naturalistic processes differed from scholar to scholar. Though increasingly, the focus was on divine agency through positivist understanding of history and faith in the direction of human civilization.
-
-Likewise, the role of human agency in advancing the kingdom shifted for many during this era. Once primarily seen as the work of the redeemed in the propagation of the gospel to the heathen for the conversion of souls, human agency increasingly included civilization building, social action and education, and the establishment of environments that promoted Christian flourishing.
-
-Carey, William. An Enquiry Into the Obligations of Christians to Use Means for the Conversion of the Heathens. Leicester: Carey Kingsgate Press, 1792, as the classic example of human agency for the propagation of the gospel. See Strong, Josiah. Our Country: Its Possible Future and Its Present Crisis. New York: The Baker and Taylor Co., 1885 as a classic example of a social Christianity approach to human agency in kingdom building.
-
-As with other aspects of American Protestant theology, a spectrum existed concerning the roles of human agency. For conservatives, the salvation of individual souls would eventually accumulate enough redeemed to change society. For liberal and social gospel adherents, social salvation through social means and social action accompanied, or overshadowed, any calls for conversion of individuals.
-
-Quandt, Religion and Social Thought, 396.
-
-Regardless of tactics, both sides of the spectrum agreed on the nature of the kingdom, a leavening of society that would create a truly and thoroughly Christianized human civilization.
-
-## 
+## Building America, Building the Kingdom
 
 If the kingdom of God was to be the pinnacle of human civilization, American Protestants needed to look no further than the society developing around them to find it. Harris notes in his lectures that "modern civilization is characterized by ideas derived from the gospel of the kingdom."^[Harris, Kingdom of Christ, 2.] Of course, by modern civilization, Harris is referring to the ongoing American social experiment. Harris continues,
 
@@ -497,7 +483,7 @@ ZCaCIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6Im5lZWQg
 dG8gY2hlY2sgcmVmZXJlbmNlcyB0byB0aGlzIG1hbiBiZWNhdX
 NlIHNvbWV0aW1lcyB5b3UgdXNlIFwidm9uXCIgYW5kIHNvbWV0
 aW1lcyB5b3UgZG9uJ3QuIiwiY3JlYXRlZCI6MTYwMTE0NzYzNj
-gwMn19LCJoaXN0b3J5IjpbLTgyODgwMTA2MCwtODQ4Mzk4NDEs
+gwMn19LCJoaXN0b3J5IjpbLTU1MTcxNDYyNCwtODQ4Mzk4NDEs
 LTE0NzQwNzU2NzYsOTQ4NDc4NjE2LC05NDA2ODgwODAsLTE4NT
 czOTgzNTIsMTg5MTY5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1
 NjU3LDM1NDg0ODQxMCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMj
