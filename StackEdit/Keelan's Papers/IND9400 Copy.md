@@ -198,7 +198,7 @@ Building off of Ritschl's thought, von Harnack made a lasting impact on Protesta
 In the Ritschlian school, American Protestants would find a theological foundation for a kingdom of God that was entirely immanent, and a means of securing it through ethical and social activity.
 
 ## An American Adaptation
-An ocean away, Protestant ministers and theologians in the United States were in the midst of a similar conversation concerning the nature and means of the kingdom. While it must be noted that cultural and circumstantial similarities existed between European and American Protestants, it is insufficient to assign coincidence as the driving force behind the concurrence of dialog about kingdom theology. These were not two separate but coincidental developments. A history of shared interaction on the nature of means of the kingdom demonstrates an American reliance on the European conversation.^[Phillips, A Kingdom on Earth, xxvi, 19, repeatedly references correspondence with or citation of European theologians concerning issues of social Christianity. On page 11, Phillips notes that many Americans went to Germany to study directly under Ritschl and von Harnack. See also Handy, A Christian America, 87, where he notes the number of Americans who studied in Germany under these men and Handy, Undermined Establishment, 59, where he generally asserts a strong reliance by American Protestants on Christian Socialism from England in developing the American Protestant versions of social Christianity.] A brief examination demonstrates the relationship between European scholarship and presuppositions developing in the United States among Protestants concerning the kingdom of God. As noted above, the majority of American Protestants were increasingly committed to a postmillennial eschatology. This prior commitment proved fertile ground for an optimistic and immanent vision of the kingdom that could be established through human initiative.
+An ocean away, Protestant ministers and theologians in the United States were in the midst of a similar conversation concerning the nature and means of the kingdom. While it must be noted that cultural and circumstantial similarities existed between European and American Protestants, it is insufficient to assign coincidence as the driving force behind the concurrence of dialogue about kingdom theology. These were not two separate but coincidental developments. A history of shared interaction on the nature of means of the kingdom demonstrates an American reliance on the European conversation.^[Phillips, A Kingdom on Earth, xxvi, 19, repeatedly references correspondence with or citation of European theologians concerning issues of social Christianity. On page 11, Phillips notes that many Americans went to Germany to study directly under Ritschl and von Harnack. See also Handy, A Christian America, 87, where he notes the number of Americans who studied in Germany under these men and Handy, Undermined Establishment, 59, where he generally asserts a strong reliance by American Protestants on Christian Socialism from England in developing the American Protestant versions of social Christianity.] A brief examination demonstrates the relationship between European scholarship and presuppositions developing in the United States among Protestants concerning the kingdom of God. As noted above, the majority of American Protestants were increasingly committed to a postmillennial eschatology. This prior commitment proved fertile ground for an optimistic and immanent vision of the kingdom that could be established through human initiative.
 
 Though American Protestants were less likely to use the term Christian Socialist, the ideas of F.D. Maurice plainly influenced the development of kingdom theology in the United States. A clear reliance on Maurice is evident for some of the most influential American Protestants during the end of the nineteenth century. Richard Ely, an Episcopal lay leader and economist, made a tremendous impact on the spread of social Christianity, and like many others, Ely was influenced by the parallel movement occurring in England.^[Handy, Undermined Establishment, 61-62.] Washington Gladden, labeled by many as the father of the American Social Gospel movement, wrote of Maurice, "They gentleness hath made me great."^[Phillips, A Kingdom on Earth, 18.  `Find original source in Phillips.`]
 
@@ -386,11 +386,11 @@ ZCaCIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6Im5lZWQg
 dG8gY2hlY2sgcmVmZXJlbmNlcyB0byB0aGlzIG1hbiBiZWNhdX
 NlIHNvbWV0aW1lcyB5b3UgdXNlIFwidm9uXCIgYW5kIHNvbWV0
 aW1lcyB5b3UgZG9uJ3QuIiwiY3JlYXRlZCI6MTYwMTE0NzYzNj
-gwMn19LCJoaXN0b3J5IjpbMTcxNDc5MTI0LDk0ODQ3ODYxNiwt
-OTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OTE2OTU2OTEsLTE2OT
-AyNjYzNDgsMTA4NDM0NTY1NywzNTQ4NDg0MTAsMjkzMTk5MzQ2
-LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwtMTEyNjM1OTkxNSwxNj
-I2NTkwOTA0LC01NTg3NzUwMzAsOTgyNTYxMTYzLDE0OTQyMDc2
-ODQsODYxOTA5MTIwLDY5NTQyNjUxOSwxMjYyMzUzNDY1LC0xOT
-E1NjQ2MDAzXX0=
+gwMn19LCJoaXN0b3J5IjpbLTE0NzQwNzU2NzYsOTQ4NDc4NjE2
+LC05NDA2ODgwODAsLTE4NTczOTgzNTIsMTg5MTY5NTY5MSwtMT
+Y5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0ODQxMCwyOTMxOTkz
+NDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4LC0xMTI2MzU5OTE1LD
+E2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1NjExNjMsMTQ5NDIw
+NzY4NCw4NjE5MDkxMjAsNjk1NDI2NTE5LDEyNjIzNTM0NjUsLT
+E5MTU2NDYwMDNdfQ==
 -->
