@@ -206,7 +206,7 @@ Perhaps none are so clearly tied to Maurice's influence, though, as Horace Bushn
 
 Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left it's mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `Find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surfaced both earlier and broader than the social gospel movement.^[Handy, Robert. A History of the Churches in the United States and Canada (New York: Oxford University Press, 1976), 287.]
 
-The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium, though it required removing an empahsis on supernatural and apocalyptic elements of the millennium in favor of an ethical conception of the kingdom.^[Quandt, Jean, Religion and Social Thought: The Secularization of Postmillennialism, American Quarterly 25.4 (1973): 390–409. pg 391, demonstrates the adaptation of postmillennialism that occurred in the final decades of the nineteenth century to adjust both for modernist theology and social scientific developments during the era.] The kingdom became a present, ethical reality instead of a coming apocalyptic society. The postmillennial optimism adjusted further still to rest on laws of evolution and growth for a gradual advance of society into this moralized understanding of the kingdom.^[Moorhead, James H. “The Erosion of Postmillennialism in American Religious Thought, 1865-1925. Church Hist. 53.1 (1984), 66 notes the effects of Ritschl's expression of the kingdom on the American Protestant commitment to postmillennialism. He claims Ritschl was an outsized influence on the development of the doctrine in America around the turn of the century.]]
+The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium, though it required removing an emphasis on supernatural and apocalyptic elements of the millennium in favor of an ethical conception of the kingdom.^[Quandt, Jean, Religion and Social Thought: The Secularization of Postmillennialism, American Quarterly 25.4 (1973): 390–409. pg 391, demonstrates the adaptation of postmillennialism that occurred in the final decades of the nineteenth century to adjust both for modernist theology and social scientific developments during the era.] The kingdom became a present, ethical reality instead of a coming apocalyptic society. The postmillennial optimism adjusted further still to rest on laws of evolution and growth for a gradual advance of society into this moralized understanding of the kingdom.^[Moorhead, James H. “The Erosion of Postmillennialism in American Religious Thought, 1865-1925. Church Hist. 53.1 (1984), 66 notes the effects of Ritschl's expression of the kingdom on the American Protestant commitment to postmillennialism. He claims Ritschl was an outsized influence on the development of the doctrine in America around the turn of the century.]]
 
 If American Protestants were tasked with ushering in the kingdom, then Ritschl gave shape to this idea for many, even if they did not know the concepts were gleaned from German liberal theology. As the nineteenth century moved through its final decades, many found appealing Ritschl's propensity for linking religion and civilization as twins engines of progress and advancing the kingdom.^[Handy, A Christian America, 87.] Handy notes that even as the emerging liberal segments within evangelicalism were elevating Ritschl's concepts of the kingdom to a central place in their own theology, they were doing so in broad language that could, and would, be easily accepted by a much wider spectrum Protestants.^[Handy, A Christian America, 87.]
 
@@ -465,11 +465,11 @@ JlYXRlZCI6MTYwMTMyODE3MDM2OX0sIm5vTTQxcjZ5NVpRVzhO
 SHYiOnsiZGlzY3Vzc2lvbklkIjoiSTd1T0hpdFJoVDZSRHdhYS
 IsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvbid0IGZv
 cmdldCIsImNyZWF0ZWQiOjE2MDEzMjg1NTEyODh9fSwiaGlzdG
-9yeSI6WzEzMjIwODEwMzcsLTc5NDY0NjcwNCwxNzY5NDY3ODQ2
-LDk4MDgzMDY4NCwtODQ4Mzk4NDEsLTE0NzQwNzU2NzYsOTQ4ND
-c4NjE2LC05NDA2ODgwODAsLTE4NTczOTgzNTIsMTg5MTY5NTY5
-MSwtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0ODQxMCwyOT
-MxOTkzNDYsMjExNjI1MzAyMiwtMjk5NTUzOTI4LC0xMTI2MzU5
-OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAzMCw5ODI1NjExNjNdfQ
-==
+9yeSI6Wy0xMzExMDcyMTMzLC03OTQ2NDY3MDQsMTc2OTQ2Nzg0
+Niw5ODA4MzA2ODQsLTg0ODM5ODQxLC0xNDc0MDc1Njc2LDk0OD
+Q3ODYxNiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OTE2OTU2
+OTEsLTE2OTAyNjYzNDgsMTA4NDM0NTY1NywzNTQ4NDg0MTAsMj
+kzMTk5MzQ2LDIxMTYyNTMwMjIsLTI5OTU1MzkyOCwtMTEyNjM1
+OTkxNSwxNjI2NTkwOTA0LC01NTg3NzUwMzAsOTgyNTYxMTYzXX
+0=
 -->
