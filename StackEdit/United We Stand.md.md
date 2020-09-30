@@ -23,7 +23,7 @@ The Great Commission is perhaps the most important directive in the Bible for th
 
 Let's take a look at the actual passage now:
 
-> The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them. When they saw him, they worshiped, but some doubted. Jesus came near and said to them, “All authority has been given to me in heaven and on earth. Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age. (Matthew 28:16-20)
+> The eleven disciples traveled to Galilee, to the mountain where Jesus had directed them. When they saw him, they worshiped, but some doubted. Jesus came near and said to them, “All authority has been given to me in heaven and on earth. Go, therefore, and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe everything I have commanded you. And remember, I am with you always, to the end of the age. (Matthew 28:16-20)
 
 This is what I want you to hear today:
 
@@ -152,7 +152,7 @@ On this side of heaven, we should do all we can to see that diversity and celebr
 
 Let's recap:
 
-Because God loves all nations, Jesus empowers and sends is church on a global mission to proclaim his glory to those who are different than us.
+Because God loves all nations, Jesus empowers and sends his church on a global mission to proclaim his glory to those who are different than us.
 
 But what does that look like practically for you? I want to leave you today with three specific challenges.
 
@@ -176,5 +176,5 @@ So again, I challenge you to ask yourself, how am I doing these things? Talk tog
 
 You see, the Great Commission was Jesus's final words to his church before he ascended to heaven. Final words are important words. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTQ2MzA4NF19
+eyJoaXN0b3J5IjpbLTc3NzgyODgyNCwtOTY1NDYzMDg0XX0=
 -->
