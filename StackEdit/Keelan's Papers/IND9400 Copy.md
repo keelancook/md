@@ -229,9 +229,9 @@ In  _The Social Gospel in America, 1870-1920_, Handy writes:
 
 > ... the designation most widely used was "social Christianity." The new term came to be applied chiefly to a particular kind of protestant social concern. There was, on the one hand, a social Christianity which was cast in a "conservative mold." Its exponents recognized social problems but sought to deal with them without sharply challenging the dominant individualism... At the other extreme were those who tended to reject existing social and economic institutions in favor of sweeping reconstruction.^[Handy, The Social Gospel in America, 5.]
 
-After the turn of the century, "social gospel would increasingly become a watchword, and by the 1920s it would strain the fabric of Protestant America. However, the concepts of social Christianity were prior to and broader than the social gospel movement that it would produce and served as an umbrella for Protestant social concern. By the 1890s, Social Christianity played a significant role in the life of most major Protestant denominations.^[Handy, Undermined Establishment, 58-59.]
+After the turn of the century, "social gospel" would increasingly become a watchword, and by the 1920s it would strain the fabric of Protestant America. However, the concepts of social Christianity were prior to and broader than the social gospel movement that it would produce and served as an umbrella for Protestant social concern. By the 1890s, Social Christianity played a significant role in the life of most major Protestant denominations.^[Handy, Undermined Establishment, 58-59.]
 
-Though many American Protestants were swept up into progressive politics, and the movement itself mostly consisted of evangelical Protestants, not all who were influence by social Christian concepts could be label political progressives. The idea of social Christianity was even broader still.^[Handy, Undermined Establishment, 104.] In the decades prior to the turn of the century, the question was not primarily one of theological liberalism or conservatism as it would later become. In  _Protestant Churches and Industrial America_, Henry May provides a nuanced framework that explains the multivalenct nature of social Christianity. May writes,
+Though many American Protestants were swept up into progressive politics, and the movement itself mostly consisted of evangelical Protestants, not all who were influenced by social Christian concepts could be labeled political progressives. The idea of social Christianity was even broader still.^[Handy, Undermined Establishment, 104.] In the decades prior to the turn of the century, the question was not primarily one of theological liberalism or conservatism as it would later become. In  _Protestant Churches and Industrial America_, Henry May provides a nuanced framework that explains the multivalenct nature of social Christianity. May writes,
 
 > Naturally, preachers of social Christianity spoke in different terms, influenced by various theologies, reaching different diagnoses for the ills of society. They shared, however, two characteristics: all were moved by a sense of social crisis, and all believed in the necessity and possibility of a Christian solution."^[May, Protestant Church and Industrial America, 163.]
 
@@ -475,7 +475,7 @@ QiOjE2MDE1MTU0MTE4NTV9LCJRT2F1eUR2TzdlWm14MnhoIjp7
 ImRpc2N1c3Npb25JZCI6ImZ6ZFFKZEptMzhzYmI2V2kiLCJzdW
 IiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJzaG91bGQgdGhpcyBi
 ZSBjYXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxNTE1NTA5Nz
-k1fX0sImhpc3RvcnkiOlstMzc3OTMwMjg4LC00ODEzNDk4MjEs
+k1fX0sImhpc3RvcnkiOlsyMTE4OTA3Nzc1LC00ODEzNDk4MjEs
 LTIwNDM4Nzg0MSwtMTMxMTA3MjEzMywtNzk0NjQ2NzA0LDE3Nj
 k0Njc4NDYsOTgwODMwNjg0LC04NDgzOTg0MSwtMTQ3NDA3NTY3
 Niw5NDg0Nzg2MTYsLTk0MDY4ODA4MCwtMTg1NzM5ODM1MiwxOD
