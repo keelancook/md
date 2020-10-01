@@ -216,7 +216,7 @@ Samuel Harris is one such example. Handy writes, "Such men as Harris and others 
 
 Harris himself was a committed postmillennialist and he spoke confidently of the complete Christianization of society.^[Handy, A Christian America, 86.]
 
-Though not directly promoting a theologically liberal Protestant vision, Harris was nevertheless influenced by key aspects of European liberal theology on the nature and means of the kingdom. Tuveson writes of Harris, "He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness."^[Tuveson, Redeemer Nation, 82] Handy notes a dependence by Harris on Bushnell, which exhibited a heavy reliance on Maurice and Christian Socialism.^[Handy, A Christian America, 85.] Furthermore, Harris's kingdom lectures demonstrate a reliance on theological concepts popularized through the work of Ritschl and von Harnack. Even if Harris would reject many of Ritschl's claims on doctrines such as the nature of Christ and the need for atonement, he was conversant in Ritschl's kingdom language. Throughout his kingdom lectures, Harris borrows on the kingdom shorthand coined by von Harnack concerning the fatherhood of God and the brotherhood of man.^[Harris, Kingdom of Christ, 2, 13.] In his introductory lecture, Harris makes the claim:
+Though not directly promoting a theologically liberal Protestant vision, Harris was nevertheless influenced by key aspects of European liberal theology on the nature and means of the kingdom. Tuveson writes of Harris, "He was moreover to be a link between the 'dialectical' theology and the 'modern,' which stresses action over systematic completeness."^[Tuveson, Redeemer Nation, 82] Handy notes a dependence by Harris on Bushnell, which exhibited a heavy reliance on Maurice and Christian Socialism.^[Handy, A Christian America, 85.] Furthermore, Harris's kingdom lectures demonstrate a reliance on theological concepts popularized through the work of Ritschl and von Harnack. Even if Harris would reject many of Ritschl's claims on doctrines such as the nature of Christ and the need for atonement, he was conversant in Ritschl's kingdom language. Throughout his kingdom lectures, Harris borrows on the kingdom shorthand coined by von Harnack concerning the fatherhood of God and the brotherhood of man.^[Harris, Kingdom of Christ, 2, 13.] In his introductory lecture, Harris makes the claim:
 
 > Besides this direct interest in the conversion of the world, modern civilization is characterized by ideas derived from the gospel of the kingdom; the brotherhood of man and the fatherhood of God; philanthropy; the promise of human progress; the rights of man; the removal of oppression; the reign of justice and love displacing the reign of force.^[Harris, A Kingdom on Earth, 2.]
 
@@ -465,11 +465,11 @@ JlYXRlZCI6MTYwMTMyODE3MDM2OX0sIm5vTTQxcjZ5NVpRVzhO
 SHYiOnsiZGlzY3Vzc2lvbklkIjoiSTd1T0hpdFJoVDZSRHdhYS
 IsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvbid0IGZv
 cmdldCIsImNyZWF0ZWQiOjE2MDEzMjg1NTEyODh9fSwiaGlzdG
-9yeSI6Wy0yMDQzODc4NDEsLTEzMTEwNzIxMzMsLTc5NDY0Njcw
-NCwxNzY5NDY3ODQ2LDk4MDgzMDY4NCwtODQ4Mzk4NDEsLTE0Nz
-QwNzU2NzYsOTQ4NDc4NjE2LC05NDA2ODgwODAsLTE4NTczOTgz
-NTIsMTg5MTY5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3LD
-M1NDg0ODQxMCwyOTMxOTkzNDYsMjExNjI1MzAyMiwtMjk5NTUz
-OTI4LC0xMTI2MzU5OTE1LDE2MjY1OTA5MDQsLTU1ODc3NTAzMF
+9yeSI6Wy00ODEzNDk4MjEsLTIwNDM4Nzg0MSwtMTMxMTA3MjEz
+MywtNzk0NjQ2NzA0LDE3Njk0Njc4NDYsOTgwODMwNjg0LC04ND
+gzOTg0MSwtMTQ3NDA3NTY3Niw5NDg0Nzg2MTYsLTk0MDY4ODA4
+MCwtMTg1NzM5ODM1MiwxODkxNjk1NjkxLC0xNjkwMjY2MzQ4LD
+EwODQzNDU2NTcsMzU0ODQ4NDEwLDI5MzE5OTM0NiwyMTE2MjUz
+MDIyLC0yOTk1NTM5MjgsLTExMjYzNTk5MTUsMTYyNjU5MDkwNF
 19
 -->
