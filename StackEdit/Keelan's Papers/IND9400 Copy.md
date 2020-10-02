@@ -248,7 +248,7 @@ Since it was too soon to speak of a liberal and evangelical divide, broad tenets
 # Christianize and Civilize
 The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123.  `consider stuffing. These first two footnotes may need to carry a good bit of research on the social setting, since I deal with it little in the paper`} The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  `Consider stuffing this with other sources`] Exciting times are, however, tumultuous times. Industrialization, urbanization, and immigration brought with them poor labor conditions, unsanitary living conditions, and the threat of unknown culture and worldview. The 1880s would see protests and riots over labor concerns such as the 1886 Haymarket Riot, where a bomb was detonated in Chicago.^[Boyer, Urban Masses and Moral Order, 126.] Not only would the sheer volume of immigration incite concern, but the particular composition of the "new immigration" during the era was much more diverse, pulling from non-Protestant countries in Eastern Europe and elsewhere.^[Zolberg, Aristide, A Nation by Design, 205.  `Consider also adding Latourette or other sources on the makeup of immigration during this era and show they were largely Catholic, Jewish, or nothing.`]
 
-From 1880 to 1920, many Protestant American's viewed their country as a paradox of great promise and potential peril. Riding on the wings of the the modern missions movement, Protestants of the Gilded Age approached the promise and peril firmly convinced of their central role in God's plan for history. This confidence was a shaping factor in their development of an applied theology and specific missionary methods. To this unique missionary occasion most American Protestants brought theological presuppositions concerning postmillennialism and an over-realized version of the kingdom of God.
+From 1880 to 1920, many Protestant Americans viewed their country as a paradox of great promise and potential peril. Riding on the wings of the the modern missions movement, Protestants of the Gilded Age approached the promise and peril firmly convinced of their central role in God's plan for history. This confidence was a shaping factor in their development of an applied theology and specific missionary methods. To this unique missionary occasion most American Protestants brought theological presuppositions concerning postmillennialism and an over-realized version of the kingdom of God.
 
 ## A Postmilliennial Commitment
 
@@ -493,10 +493,11 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbLTIxMDI3NjAyOTQsLTczMTg4MjQxOCwxMzY3MjE2OTQ3LC0x
-MTQwNzIxODIxLDY2NzU2NDI0NiwtNDgxMzQ5ODIxLC0yMDQzOD
-c4NDEsLTEzMTEwNzIxMzMsLTc5NDY0NjcwNCwxNzY5NDY3ODQ2
-LDk4MDgzMDY4NCwtODQ4Mzk4NDEsLTE0NzQwNzU2NzYsOTQ4ND
-c4NjE2LC05NDA2ODgwODAsLTE4NTczOTgzNTIsMTg5MTY5NTY5
-MSwtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3LDM1NDg0ODQxMF19
+pbLTE5ODgyMjEwNjksLTIxMDI3NjAyOTQsLTczMTg4MjQxOCwx
+MzY3MjE2OTQ3LC0xMTQwNzIxODIxLDY2NzU2NDI0NiwtNDgxMz
+Q5ODIxLC0yMDQzODc4NDEsLTEzMTEwNzIxMzMsLTc5NDY0Njcw
+NCwxNzY5NDY3ODQ2LDk4MDgzMDY4NCwtODQ4Mzk4NDEsLTE0Nz
+QwNzU2NzYsOTQ4NDc4NjE2LC05NDA2ODgwODAsLTE4NTczOTgz
+NTIsMTg5MTY5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3XX
+0=
 -->
