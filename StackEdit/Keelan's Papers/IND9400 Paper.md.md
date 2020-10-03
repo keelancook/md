@@ -2,7 +2,7 @@
 # Introduction
 Eschatology births missiology. Certainly Kahler's statement, as quoted by Bosch, rings true that mission is the mother of theology. However, even Bosch continues by citing Kasemann's claim that apocalyptic literature serves as the headwaters of theology in the New Testament. Bosch concludes these two ideas–—mission and apocalyptic–—are complementary.^[Bosch, Transforming Mission, 2 and Endnote 1] Eschatology and missiology stand in unique relationship one to another. One's eschatology provides shape and direction to missions, while one's missiology provides response to convictions concerning the ultimate *telos* of creation. Walls rightly summarizes this connection, stating, "Eschatology is where theology meets history most intimately, since it is concerned with history’s end and meaning."^[Walls, Eschatology and the Western Missionary Movement, 182.]
  
-# Test 
+# What is going on?
  
 An eschatological thread can be traced throughout the entire modern missions movements. Stanely writes, "From the genesis of the evangelical Protestant missionary movement in the mid-eighteenth century supporters of Christian missions had drawn from their Bibles the belief that it was the sovereign purpose of God to bring all humanity to the point of submission to the lordship of Jesus Christ."^[Stanely, Future in the Past, 102-103.] This belief in the sovereign purpose of Protestant missions fueled a great deal of missionary endeavors and created the sending engine of Western missions. Stanely continues, "The goal of the Protestant missionary enterprise as understood by its founders was, then, an eschatological one: it was nothing less than the realisation [sic] of the biblical vision of a world transformed by being filled with the knowledge of the Lord as the waters cover the sea."^[Stanely, Future in the Past, 103.] Furthermore, it provided structure and substance to the specific tactics of missionary engagement. One's understanding of their missionary activity rested upon their hope for what it would accomplish. In this way, certain aspects of one's eschatology determined the activities they classified as missions and the manner in which these activities would be executed. Key doctrines, such as millennial views and one's understanding of the kingdom of God, became bell weathers for particular missionary hopes and methods.
  
@@ -392,47 +392,47 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIzS0l5bmtVMWRhU1VoZkJiIjp7In
-RleHQiOiI6Iiwic3RhcnQiOjk3NTQsImVuZCI6OTc1NX0sIjg0
+RleHQiOiI6Iiwic3RhcnQiOjk3NjMsImVuZCI6OTc2NH0sIjg0
 U3ZOY2U4TmtCR0owRjMiOnsidGV4dCI6IlBBUkFHUkFQSCIsIn
-N0YXJ0IjoyMTk4NSwiZW5kIjoyMTk5NH0sIlF4NVNqY2dOUTVU
-amRyVzAiOnsidGV4dCI6IndvcmRseSIsInN0YXJ0IjoyNDU0My
-wiZW5kIjoyNDU0OX0sIkZrOWw4Z0NVNndWS2RkSnoiOnsidGV4
-dCI6InRoZSIsInN0YXJ0IjoyODIxMCwiZW5kIjoyODIxMH0sIl
+N0YXJ0IjoyMTk5NCwiZW5kIjoyMjAwM30sIlF4NVNqY2dOUTVU
+amRyVzAiOnsidGV4dCI6IndvcmRseSIsInN0YXJ0IjoyNDU1Mi
+wiZW5kIjoyNDU1OH0sIkZrOWw4Z0NVNndWS2RkSnoiOnsidGV4
+dCI6InRoZSIsInN0YXJ0IjoyODIxOSwiZW5kIjoyODIxOX0sIl
 FCWDVuOEEwMFI3MEVFMnAiOnsidGV4dCI6IkNvbmZlcmVuY2Vz
-Iiwic3RhcnQiOjI5MzUxLCJlbmQiOjI5MzYyfSwiSmxLMzZNNU
+Iiwic3RhcnQiOjI5MzYwLCJlbmQiOjI5MzcxfSwiSmxLMzZNNU
 Juc1FjV0g0NCI6eyJ0ZXh0IjoicHJlbWlsbGVubmlhbGlzbSIs
-InN0YXJ0IjozMDM2MCwiZW5kIjozMDM3Nn0sImh5aVZyam1CWF
+InN0YXJ0IjozMDM2OSwiZW5kIjozMDM4NX0sImh5aVZyam1CWF
 l4OElpT3MiOnsidGV4dCI6Ik5ldmVydGhlbGVzcyIsInN0YXJ0
-IjozMTY0MCwiZW5kIjozMTY1Mn0sIml1SmcwUnBmaDI0NFpKV0
-giOnsidGV4dCI6IlRob3VnaCIsInN0YXJ0Ijo0MTU5MywiZW5k
-Ijo0MTU5OX0sIkMzcFhRWUUyVnNjc1RQUVEiOnsidGV4dCI6In
-NpYyIsInN0YXJ0Ijo0MjYzMCwiZW5kIjo0MjYzM30sIk1aVmp3
+IjozMTY0OSwiZW5kIjozMTY2MX0sIml1SmcwUnBmaDI0NFpKV0
+giOnsidGV4dCI6IlRob3VnaCIsInN0YXJ0Ijo0MTYwMiwiZW5k
+Ijo0MTYwOH0sIkMzcFhRWUUyVnNjc1RQUVEiOnsidGV4dCI6In
+NpYyIsInN0YXJ0Ijo0MjYzOSwiZW5kIjo0MjY0Mn0sIk1aVmp3
 R3REWnZERmVFcmQiOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6ND
-I5NTcsImVuZCI6NDI5NjF9LCJmR2d6elFjcm5aR1pQVlFpIjp7
-InRleHQiOiJGSU5EIiwic3RhcnQiOjQ2MzE3LCJlbmQiOjQ2Mz
-IxfSwia2xWRnE4Y2dXV25qY29zWiI6eyJ0ZXh0IjoiSW4iLCJz
-dGFydCI6NDc0NTAsImVuZCI6NDc0NTJ9LCJrWEc4djhxNkl4YW
-10QVZkIjp7InRleHQiOiJ0ZWxvcyIsInN0YXJ0Ijo0OTkzNSwi
-ZW5kIjo0OTk0MH0sIjVYSUpCelFOeHBQZzVMdnQiOnsidGV4dC
-I6IkNvbnNpZGVyIiwic3RhcnQiOjUwODkzLCJlbmQiOjUwOTAx
+I5NjYsImVuZCI6NDI5NzB9LCJmR2d6elFjcm5aR1pQVlFpIjp7
+InRleHQiOiJGSU5EIiwic3RhcnQiOjQ2MzI2LCJlbmQiOjQ2Mz
+MwfSwia2xWRnE4Y2dXV25qY29zWiI6eyJ0ZXh0IjoiSW4iLCJz
+dGFydCI6NDc0NTksImVuZCI6NDc0NjF9LCJrWEc4djhxNkl4YW
+10QVZkIjp7InRleHQiOiJ0ZWxvcyIsInN0YXJ0Ijo0OTk0NCwi
+ZW5kIjo0OTk0OX0sIjVYSUpCelFOeHBQZzVMdnQiOnsidGV4dC
+I6IkNvbnNpZGVyIiwic3RhcnQiOjUwOTAyLCJlbmQiOjUwOTEw
 fSwiU3Jta0V0T3JSaDIydHFmUiI6eyJ0ZXh0IjoiRklORCIsIn
-N0YXJ0Ijo1ODk2MCwiZW5kIjo1ODk2NH0sInR1NlFOdDF1bmY1
+N0YXJ0Ijo1ODk2OSwiZW5kIjo1ODk3M30sInR1NlFOdDF1bmY1
 UUpmQmgiOnsidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOj
-YwODQxLCJlbmQiOjYwODUyfSwiNFZHcWFnRm5ZWUNSVWloRSI6
-eyJ0ZXh0IjoiRmluZCIsInN0YXJ0Ijo2NDM1MCwiZW5kIjo2ND
-M1NH0sIkk3dU9IaXRSaFQ2UkR3YWEiOnsidGV4dCI6IkZpbmQi
-LCJzdGFydCI6NjYyMjQsImVuZCI6NjYyMjh9LCJkNDJzRlFDQ1
-dkWU5CZGtkIjp7InRleHQiOiJjaXRlIiwic3RhcnQiOjcyMjIz
-LCJlbmQiOjcyMjI3fSwiZnpkUUpkSm0zOHNiYjZXaSI6eyJ0ZX
-h0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo3MjQ0NywiZW5kIjo3
-MjQ1N30sIlFuUkp2MnhHVUxOMzZkeloiOnsidGV4dCI6Il5bQm
+YwODUwLCJlbmQiOjYwODYxfSwiNFZHcWFnRm5ZWUNSVWloRSI6
+eyJ0ZXh0IjoiRmluZCIsInN0YXJ0Ijo2NDM1OSwiZW5kIjo2ND
+M2M30sIkk3dU9IaXRSaFQ2UkR3YWEiOnsidGV4dCI6IkZpbmQi
+LCJzdGFydCI6NjYyMzMsImVuZCI6NjYyMzd9LCJkNDJzRlFDQ1
+dkWU5CZGtkIjp7InRleHQiOiJjaXRlIiwic3RhcnQiOjcyMjMy
+LCJlbmQiOjcyMjM2fSwiZnpkUUpkSm0zOHNiYjZXaSI6eyJ0ZX
+h0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo3MjQ1NiwiZW5kIjo3
+MjQ2Nn0sIlFuUkp2MnhHVUxOMzZkeloiOnsidGV4dCI6Il5bQm
 95ZXIsIFBhdWwsIFVyYmFuIE1hc3NlcyBhbmQgTW9yYWwgT3Jk
 ZXIgaW4gQW1lcmljYSwgMTgyMC0xOTIwIChCb3N0b246IEhhcn
-bigKYiLCJzdGFydCI6NzgwMDcsImVuZCI6NzgyNzN9LCJuUDJ6
+bigKYiLCJzdGFydCI6NzgwMTYsImVuZCI6NzgyODJ9LCJuUDJ6
 ZlAyaEFJVEZlZ0VpIjp7InRleHQiOiJDb25zaWRlciIsInN0YX
-J0Ijo3ODc2MiwiZW5kIjo3ODc3MH0sIjI0c1JWNHN3ZW5MSnl3
-UjciOnsidGV4dCI6IkNvbnNpZGVyIiwic3RhcnQiOjc5NDcyLC
-JlbmQiOjc5NDgwfX0sImNvbW1lbnRzIjp7Inc4N0Z5ajgzQTgy
+J0Ijo3ODc3MSwiZW5kIjo3ODc3OX0sIjI0c1JWNHN3ZW5MSnl3
+UjciOnsidGV4dCI6IkNvbnNpZGVyIiwic3RhcnQiOjc5NDgxLC
+JlbmQiOjc5NDg5fX0sImNvbW1lbnRzIjp7Inc4N0Z5ajgzQTgy
 SE4xS2IiOnsiZGlzY3Vzc2lvbklkIjoiM0tJeW5rVTFkYVNVaG
 ZCYiIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImlzIHRo
 aXMgc3VwcG9zZWQgdG8gYmUgYSBjb2xvbj8iLCJjcmVhdGVkIj
@@ -525,7 +525,7 @@ ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3JlYXRlZCI6MTYwMTYzNz
 k4MzMwN30sImgyRGdlMmFDNmlORW5FUlgiOnsiZGlzY3Vzc2lv
 bklkIjoiMjRzUlY0c3dlbkxKeXdSNyIsInN1YiI6ImdoOjcxMj
 kzOTg3IiwidGV4dCI6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQi
-OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6Wy04NzQxMzY1OD
-csLTE4NTE1MjExODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMywy
-MDAyNTI3OTI0LC00MzQ0MDI2MjRdfQ==
+OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6Wy02Mjc4ODI1OD
+ksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwtMTY3MDA3NjkzNCwt
+NzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQwMjYyNF19
 -->
