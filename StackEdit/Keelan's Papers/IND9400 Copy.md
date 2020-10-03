@@ -302,7 +302,7 @@ The United States as eschatological fulfillment was not a new concept in the Gil
 
 > The whole matter may. I think, be summed up by saying that Christianity is in fact understood to be, though not the legally established religion, yet the national religion... They deem the general acceptance of Christianity to be one of the main sources of their national prosperity, and their nation a special object of Divine favour[sic].^[Bryce, James. The American Commonwealth. Vol. 2. (London: Macmillan and Co., 1889), 576-77.]
 
-Any distinctions between American civilization and a thoroughly Christian civilization were collapsed.
+Distinctions between American civilization and a thoroughly Christian civilization were collapsed.
 
 Christopher Richmann refers to this as the New Jerusalem theme prevalent in American exceptionalism. The New Jerusalem theme serves as shorthand for God's special presence and a particular eschatological vision. In this way, it expects both a space and a time. Richmann writes, "The notion appears in every genre and style imaginable: poetry, songs, presidential speeches, novels, political pamphlets, sermons, and academic writings... it has been a powerful force in American self-understanding and motivation."^[Richmann, America as New Jersusalem, 150.] As noted above, the postmillennial presupposition had long roots back into the very formation of the republic. Long had Protestant Americans wound the fate of American civil affairs around the fate of the millennium. As far back as the period between the Revolution and 1800, expectations of the millennium soared.^[Noll, The Search for Christian America, 113.]
 
@@ -313,6 +313,9 @@ In this way, millennialism served as a structuring narrative for the American Pr
 Rising to the level of structuring narrative, Protestants filtered the world around them through the lens created by postmillennialism and an over-realized kingdom theology. All circumstances were eventually marshalled as evidence that America was where the kingdom would start. Protestants could point to increase in population, wealth, industry, and technology as sure signs that the age was dawning. In his kingdom lectures, Harris would affirm the central role of Anglo, specifically American, culture. He writes, "To the English-speaking people more than to any other the world is now indebted for the propagation of Christian ideas and Christian civilization."^[Harris, Kingdom on Christ, 255.]
 
 When American civilization was equated with the kingdom, it had to be spread alongside the gospel. It also had to be defended from the threats of the kingdom of sin and Satan that would seek to overthrow the coming kingdom. The watch words of the modern missions movement for many were Christianize and Civilize.^[Bebbington, The Dominance of Evangelicalism, 141-142.] And while that might be true overseas, back at home, in the face of incoming millions, it quickly became Christianize and Americanize. American Protestants saw their mission as both promoting and protecting the establishment of this new society, and the great wave of immigration proved both opportunity and threat.
+
+## Missions Methods toward Immigrants from 1880-1920
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJmZmRORlczMU9tWE9jSk5EIjp7In
 RleHQiOiJhcG9jYWx5cHRpYyIsInN0YXJ0IjoyMTAsImVuZCI6
@@ -353,17 +356,17 @@ BIYXJuYWNrIiwic3RhcnQiOjU3NzczLCJlbmQiOjU3Nzg0fSwi
 NFZHcWFnRm5ZWUNSVWloRSI6eyJ0ZXh0IjoiRmluZCIsInN0YX
 J0Ijo2MTI4MiwiZW5kIjo2MTI4Nn0sIkk3dU9IaXRSaFQ2UkR3
 YWEiOnsidGV4dCI6IkZpbmQiLCJzdGFydCI6NjMxNTYsImVuZC
-I6NjMxNjB9LCJkNDJzRlFDQ1dkWU5CZGtkIjp7InN0YXJ0Ijo2
-OTE1NSwiZW5kIjo2OTE1OSwidGV4dCI6ImNpdGUifSwiZnpkUU
-pkSm0zOHNiYjZXaSI6eyJzdGFydCI6NjkzNzksImVuZCI6Njkz
-ODksInRleHQiOiJwcm90ZXN0YW50In0sIlFuUkp2MnhHVUxOMz
-ZkeloiOnsic3RhcnQiOjc0OTM5LCJlbmQiOjc1MjA1LCJ0ZXh0
-IjoiXltCb3llciwgUGF1bCwgVXJiYW4gTWFzc2VzIGFuZCBNb3
-JhbCBPcmRlciBpbiBBbWVyaWNhLCAxODIwLTE5MjAgKEJvc3Rv
-bjogSGFyduKApiJ9LCJuUDJ6ZlAyaEFJVEZlZ0VpIjp7InN0YX
-J0Ijo3NTY5NCwiZW5kIjo3NTcwMiwidGV4dCI6IkNvbnNpZGVy
-In0sIjI0c1JWNHN3ZW5MSnl3UjciOnsic3RhcnQiOjc2NDA0LC
-JlbmQiOjc2NDEyLCJ0ZXh0IjoiQ29uc2lkZXIifX0sImNvbW1l
+I6NjMxNjB9LCJkNDJzRlFDQ1dkWU5CZGtkIjp7InRleHQiOiJj
+aXRlIiwic3RhcnQiOjY5MTU1LCJlbmQiOjY5MTU5fSwiZnpkUU
+pkSm0zOHNiYjZXaSI6eyJ0ZXh0IjoicHJvdGVzdGFudCIsInN0
+YXJ0Ijo2OTM3OSwiZW5kIjo2OTM4OX0sIlFuUkp2MnhHVUxOMz
+ZkeloiOnsidGV4dCI6Il5bQm95ZXIsIFBhdWwsIFVyYmFuIE1h
+c3NlcyBhbmQgTW9yYWwgT3JkZXIgaW4gQW1lcmljYSwgMTgyMC
+0xOTIwIChCb3N0b246IEhhcnbigKYiLCJzdGFydCI6NzQ5Mzks
+ImVuZCI6NzUyMDV9LCJuUDJ6ZlAyaEFJVEZlZ0VpIjp7InRleH
+QiOiJDb25zaWRlciIsInN0YXJ0Ijo3NTY5NCwiZW5kIjo3NTcw
+Mn0sIjI0c1JWNHN3ZW5MSnl3UjciOnsidGV4dCI6IkNvbnNpZG
+VyIiwic3RhcnQiOjc2NDA0LCJlbmQiOjc2NDEyfX0sImNvbW1l
 bnRzIjp7IjZZYXhwUFI4ZlNCMGtMSUgiOnsiZGlzY3Vzc2lvbk
 lkIjoiZmZkTkZXMzFPbVhPY0pORCIsInN1YiI6ImdoOjcxMjkz
 OTg3IiwidGV4dCI6ImlzIHRoaXMgYSBub3VuIG9yIGlzIGl0IH
@@ -493,11 +496,11 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbLTE3NzUyOTMwODYsLTIxMDI3NjAyOTQsLTczMTg4MjQxOCwx
-MzY3MjE2OTQ3LC0xMTQwNzIxODIxLDY2NzU2NDI0NiwtNDgxMz
-Q5ODIxLC0yMDQzODc4NDEsLTEzMTEwNzIxMzMsLTc5NDY0Njcw
-NCwxNzY5NDY3ODQ2LDk4MDgzMDY4NCwtODQ4Mzk4NDEsLTE0Nz
-QwNzU2NzYsOTQ4NDc4NjE2LC05NDA2ODgwODAsLTE4NTczOTgz
-NTIsMTg5MTY5NTY5MSwtMTY5MDI2NjM0OCwxMDg0MzQ1NjU3XX
+pbLTg0ODc0OTc0MSwtMTc3NTI5MzA4NiwtMjEwMjc2MDI5NCwt
+NzMxODgyNDE4LDEzNjcyMTY5NDcsLTExNDA3MjE4MjEsNjY3NT
+Y0MjQ2LC00ODEzNDk4MjEsLTIwNDM4Nzg0MSwtMTMxMTA3MjEz
+MywtNzk0NjQ2NzA0LDE3Njk0Njc4NDYsOTgwODMwNjg0LC04ND
+gzOTg0MSwtMTQ3NDA3NTY3Niw5NDg0Nzg2MTYsLTk0MDY4ODA4
+MCwtMTg1NzM5ODM1MiwxODkxNjk1NjkxLC0xNjkwMjY2MzQ4XX
 0=
 -->
