@@ -471,45 +471,17 @@ If there is threat language employed by Grose, it is the threat of inactivity on
 > 
 > Grose, Incoming Millions, 84.
 
-The threat is not immigration at all, but the unseemly slice of America that still exists and its corrupting influence on new arrivals. Immigration itself is a hopeful opportunity for advancing the mission, "if only American Christians are awake and faithful to their duty... Will we Christianize, which is the only real way to Americanize the Aliens?"
+The threat is not immigration at all, but the unseemly slice of America that still exists and its corrupting influence on new arrivals. Immigration itself is a hopeful opportunity for advancing the mission, "if only American Christians are awake and faithful to their duty... Will we Christianize, which is the only real way to Americanize the Aliens?"^[Grose, Aliens or Americans, 10-11.]
 
-Grose, Aliens or Americans, 10-11.
+Another category of manuals which saw promise in immigration were those written by immigrants themselves.  _Along the Highway of Service_, written by Marie Buhlmaier recounts her ministry at the docks in Baltimore among incoming immigrants. An immigrant herself, Marie served with the Home Mission Board of the Southern Baptist Convention distributing literature, welcoming immigrants, and helping connect them to various churches at their final landing places in the country.^[Buhlmaier, Marie. Along the Highway of Service (Atlanta: Home Mission Board of the Southern Baptist Convention, 1924), vii.] Buhlmaier writes with passion and sympathy for the plight of the immigrant and challenges her fellow Southern Baptists to see God as the "Great Director" of immigration.^[Buhlmaier, Along the Highway, 1-7.] In New York, Antonio Mangano served as the Director of the Italian Department at Colgate Theological Seminary. An immigrant from Italy, Mangano became a Christian through the influence of a Baptist church in Long Island. In  _Sons of Italy_, he provides an in depth look at Italian immigrants, and provides a plea for churches to see the opportunity they present for promoting Protestant Christianity.^[Mangano, Antonio. Sons of Italy: A Social and Religious Study of the Italians in America (New York: Missionary Education Movement of the United States and Canada, 1917), xi.] Mangano urges hospitality toward the immigrant, asking, "How can America hope to weld these people into good citizens if good Americans constantly look upon them as inferiors, studiously avoiding contact with them?"^[Mangano, Sons of Italy, 133.]
 
-Another category of manuals which saw promise in immigration were those written by immigrants themselves.  _Along the Highway of Service_, written by Marie Buhlmaier recounts her ministry at the docks in Baltimore among incoming immigrants. An immigrant herself, Marie served with the Home Mission Board of the Southern Baptist Convention distributing literature, welcoming immigrants, and helping connect them to various churches at their final landing places in the country.
+All Protestants did not view immigration with such optimism. It was perhaps more likely that American Protestants, largely from English or Western European descent, would see the waves of immigrant coming ashore each year as a threat to the civilization they were working so hard to build. The impetus to conceive of the mission as one of protection against outside cultural forces accounted for the plea by Mangano and Grose's rhetoric. The wave of immigrants was often met with negative reactions that resulted in ethnic and religious antagonism. The Protestant American majority culture was perhaps less concerned about the sheer number of immigrants than they were the provenance of these newcomers. In the 1880s, the largest surge of immigration came from Catholic lands and a different ethnic stock.^[Handy, Undermined Establishment, 17.] Nevertheless, a thread of this protection theme ran through many home mission manuals of the day.
 
-Buhlmaier, Marie. Along the Highway of Service (Atlanta: Home Mission Board of the Southern Baptist Convention, 1924), vii.
+The threat language is perhaps most clear in the writing of Josiah Strong. Significantly, Strong's revised edition of  _Our Country_  shifted the tone concerning immigration from providence to peril. Strong lists seven perils throughout his work that threaten the progress of building America into the kingdom of God. The first peril listed is the threat of immigration.^[Strong, Our Country, 30.] Strong writes,
 
-Buhlmaier writes with passion and sympathy for the plight of the immigrant and challenges her fellow Southern Baptists to see God as the "Great Director" of immigration.
+> So immense a foreign element must have a profound influence on our national life and character. Immigration brings unquestioned benefits, but these do not concern our argument. It complicates almost every home missionary problem and furnishes the soil which feeds the life of several of the most noxious growths of our civlization.^[Strong, Our Country, 40.]
 
-Buhlmaier, Along the Highway, 1-7.
-
-In New York, Antonio Mangano served as the Director of the Italian Department at Colgate Theological Seminary. An immigrant from Italy, Mangano became a Christian through the influence of a Baptist church in Long Island. In  _Sons of Italy_, he provides an in depth look at Italian immigrants, and provides a plea for churches to see the opportunity they present for promoting Protestant Christianity.
-
-Mangano, Antonio. Sons of Italy: A Social and Religious Study of the Italians in America (New York: Missionary Education Movement of the United States and Canada, 1917), xi.
-
-Mangano urges hospitality toward the immigrant, asking, "How can America hope to weld these people into good citizens if good Americans constantly look upon them as inferiors, studiously avoiding contact with them?"
-
-Mangano, Sons of Italy, 133.
-
-All Protestants did not view immigration with such optimism. It was perhaps more likely that American Protestants, largely from English or Western European descent, would see the waves of immigrant coming ashore each year as a threat to the civilization they were working so hard to build. The impetus to conceive of the mission as one of protection against outside cultural forces accounted for the plea by Mangano and Grose's rhetoric. The wave of immigrants was often met with negative reactions that resulted in ethnic and religious antagonism. The Protestant American majority culture was perhaps less concerned about the sheer number of immigrants than they were the provenance of these newcomers. In the 1880s, the largest surge of immigration came from Catholic lands and a different ethnic stock.
-
-Handy, Undermined Establishment, 17.
-
-Nevertheless, a thread of this protection theme ran through many home mission manuals of the day.
-
-The threat language is perhaps most clear in the writing of Josiah Strong. Significantly, Strong's revised edition of  _Our Country_  shifted the tone concerning immigration from providence to peril. Strong lists seven perils throughout his work that threaten the progress of building America into the kingdom of God. The first peril listed is the threat of immigration.
-
-Strong, Our Country, 30.
-
-Strong writes,
-
-> So immense a foreign element must have a profound influence on our national life and character. Immigration brings unquestioned benefits, but these do not concern our argument. It complicates almost every home missionary problem and furnishes the soil which feeds the life of several of the most noxious growths of our civlization.
-> 
-> Strong, Our Country, 40.
-
-Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."
-
-^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
+Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJmZmRORlczMU9tWE9jSk5EIjp7In
 RleHQiOiJhcG9jYWx5cHRpYyIsInN0YXJ0IjoyMTAsImVuZCI6
@@ -690,11 +662,11 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbLTE0Mjk5OTUzNjUsLTg0ODc0OTc0MSwtMTc3NTI5MzA4Niwt
-MjEwMjc2MDI5NCwtNzMxODgyNDE4LDEzNjcyMTY5NDcsLTExND
-A3MjE4MjEsNjY3NTY0MjQ2LC00ODEzNDk4MjEsLTIwNDM4Nzg0
-MSwtMTMxMTA3MjEzMywtNzk0NjQ2NzA0LDE3Njk0Njc4NDYsOT
-gwODMwNjg0LC04NDgzOTg0MSwtMTQ3NDA3NTY3Niw5NDg0Nzg2
-MTYsLTk0MDY4ODA4MCwtMTg1NzM5ODM1MiwxODkxNjk1NjkxXX
-0=
+pbLTk0OTYzOTQwNSwtODQ4NzQ5NzQxLC0xNzc1MjkzMDg2LC0y
+MTAyNzYwMjk0LC03MzE4ODI0MTgsMTM2NzIxNjk0NywtMTE0MD
+cyMTgyMSw2Njc1NjQyNDYsLTQ4MTM0OTgyMSwtMjA0Mzg3ODQx
+LC0xMzExMDcyMTMzLC03OTQ2NDY3MDQsMTc2OTQ2Nzg0Niw5OD
+A4MzA2ODQsLTg0ODM5ODQxLC0xNDc0MDc1Njc2LDk0ODQ3ODYx
+NiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OTE2OTU2OTFdfQ
+==
 -->
