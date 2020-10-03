@@ -331,39 +331,13 @@ The swell of immigration straddling the turn of the nineteenth century produced 
 
 Roger Daniels, Coming to America: A History of Immigration and Ethnicity in American Life (New York: Harper Collins, 1990), 124.
 
-The peak crested in 1907 as 1.29 million immigrants landed on American shores.
+The peak crested in 1907 as 1.29 million immigrants landed on American shores.^[Rasenberger, America, 1908, 17.] Furthermore, unlike previous decades of immigration, this new wave brought with it an increasing number of peoples from different cultural and religious backgrounds. Many new immigrants arrived from southern and eastern Europe, and their reception was not as warm. By this time, urbanization had transformed the American landscape and its major cities were in the fastest growth swing they would ever see. Immigrants disproportionately landed in these cities, clustering in residential areas around industrial centers. Cultural barriers were greater for this new wave, and therefore, their presence presented a more jarring impact on the American social fabric.^[Dublin, Thomas. Immigrant Voices: New Lives in America, 1773-1986 (University of Illinois Press, 1993), 12.] Furthermore, a much larger number of these immigrants were not Protestant.^[Need to Cite that they were Jewish and Catholic from some source.] This occasion, or crisis as many would claim, gave rise to missionary methods based on their theological presuppositions concerning their role in building the kingdom.
 
-Rasenberger, America, 1908, 17.
+### Americanization as Part of the Biblical Mission
 
-Furthermore, unlike previous decades of immigration, this new wave brought with it an increasing number of peoples from different cultural and religious backgrounds. Many new immigrants arrived from southern and eastern Europe, and their reception was not as warm. By this time, urbanization had transformed the American landscape and its major cities were in the fastest growth swing they would ever see. Immigrants disproportionately landed in these cities, clustering in residential areas around industrial centers. Cultural barriers were greater for this new wave, and therefore, their presence presented a more jarring impact on the American social fabric.
+In short, making disciples also meant making Americans. The two ideas could not be easily separated. For some Protestants, it was an explicit connection and for others only assumed in their practices. By 1908, Israel Zangwill would produce and stage his play entitled  _The Melting Pot,_  coining a term that would typify the American experience for many. However, despite it's widespread use today to refer to American diversity, the original play underscored the ability of America to successfully assimilate foreigners into their own culture and society. The storyline was about a Russian-Jewish immigrant that discovered how to blend into American culture and assimilate. At the time, the play was lauded for its example by none other than Theodore Roosevelt, the current president.^[Rasenberger, America 1908, 237.] The pressure to assimilate to the majority Anglo Western culture of the United States was broad, and American Protestant missions would largely adopt this assumption with ample theological justification.
 
-Dublin, Thomas. Immigrant Voices: New Lives in America, 1773-1986 (University of Illinois Press, 1993), 12.
-
-Furthermore, a much larger number of these immigrants were not Protestant.
-
-Need to Cite that they were Jewish and Catholic from some source.
-
-This occasion, or crisis as many would claim, gave rise to missionary methods based on their theological presuppositions concerning their role in building the kingdom.
-
-**Americanization as Part of the Biblical Mission**
-
-In short, making disciples also meant making Americans. The two ideas could not be easily separated. For some Protestants, it was an explicit connection and for others only assumed in their practices. By 1908, Israel Zangwill would produce and stage his play entitled  _The Melting Pot,_  coining a term that would typify the American experience for many. However, despite it's widespread use today to refer to American diversity, the original play underscored the ability of America to successfully assimilate foreigners into their own culture and society. The storyline was about a Russian-Jewish immigrant that discovered how to blend into American culture and assimilate. At the time, the play was lauded for its example by none other than Theodore Roosevelt, the current president.
-
-Rasenberger, America 1908, 237.
-
-The pressure to assimilate to the majority Anglo Western culture of the United States was broad, and American Protestant missions would largely adopt this assumption with ample theological justification.
-
-Noll claims it was the transfer of religious fervor to national ideals that lead to an American civil religion that blended the boundaries of the Christian gospel with civil narrative. Noll writes, "The nation rather than the church easily emerged as the primary agent in God's activity in history."
-
-Noll, The Search for Christian America, 114.
-
-Concerning missionary methods toward immigrants, Americanization became an irreducible component of Christianization. The two terms were linked, one concept incomprehensible without the other. During the era, dozens of home missionary manuals were published, detailing methods of missionary engagement of the new immigration. Many of these manuals included sections on the proper means of Americanizing foreigners as part of their missions practice.
-
-See McCash, Isaac Newton. Horizon of American Missions (New York: Fleming H. Revell company, 1913) 169, section titled America Democratizing the World; McAfee, Joseph Ernest. Missions Striking Home: A Group of Addresses on a Phase of the Missionary Enterprise (New York: Fleming H. Revell Company, 1908), 111, section title The American 'E Pluribus Unum' of Grace; Grose, Howard Benjamin. Aliens Or Americans? (New York: Young People’s Missionary Movement of The United States and Canada, 1909), 231, see section titled Immigration and the National Character.
-
-Some included Americanization in the title of the manual.
-
-Brooks, Charles Alvin. Christian Americanization: A Task for the Churches. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919.
+Noll claims it was the transfer of religious fervor to national ideals that lead to an American civil religion that blended the boundaries of the Christian gospel with civil narrative. Noll writes, "The nation rather than the church easily emerged as the primary agent in God's activity in history."^[Noll, The Search for Christian America, 114.] Concerning missionary methods toward immigrants, Americanization became an irreducible component of Christianization. The two terms were linked, one concept incomprehensible without the other. During the era, dozens of home missionary manuals were published, detailing methods of missionary engagement of the new immigration. Many of these manuals included sections on the proper means of Americanizing foreigners as part of their missions practice.^[See McCash, Isaac Newton. Horizon of American Missions (New York: Fleming H. Revell company, 1913) 169, section titled America Democratizing the World; McAfee, Joseph Ernest. Missions Striking Home: A Group of Addresses on a Phase of the Missionary Enterprise (New York: Fleming H. Revell Company, 1908), 111, section title The American 'E Pluribus Unum' of Grace; Grose, Howard Benjamin. Aliens Or Americans? (New York: Young People’s Missionary Movement of The United States and Canada, 1909), 231, see section titled Immigration and the National Character.] Some included Americanization in the title of the manual.^[Brooks, Charles Alvin. Christian Americanization: A Task for the Churches. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919.]
 
 American Protestants across the theological spectrum were concerned about the perfecting of society into the kingdom of God, namely the full Christianization of America. Handy writes, "Claiming that their nation's civilization was rooted in the premises of Protestant Christianity, its leaders aimed to make that civilization more fully Christian."^[Handy, Undermined Establishment, 11.] Harlan Douglass, in his manual  _The New Home Missions_, concludes with a chapter concerning the "social realization of Christianity in America" and the civil practices which can be undertaken by Christians to ensure the country becomes completely Christianized.^[Douglass, Harlan Paul. The New Home Missions: An Account of Their Social Redirection (New York: Missionary Education Movement of the United States and Canada, 1914), 225.] However, the reverse can also be said. American Protestants were broadly convinced of the importance of the Americanization of Christianity. Joseph Ernest McAfee speaks of God's "most eternally important use" for the American people, and warns against any egotism that could be resultant.^[McAfee, Missions Striking, 112.]
 
@@ -586,7 +560,7 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbMTg3MjcxODkwNiwtODQ4NzQ5NzQxLC0xNzc1MjkzMDg2LC0y
+pbLTU4MzkzNzAxNSwtODQ4NzQ5NzQxLC0xNzc1MjkzMDg2LC0y
 MTAyNzYwMjk0LC03MzE4ODI0MTgsMTM2NzIxNjk0NywtMTE0MD
 cyMTgyMSw2Njc1NjQyNDYsLTQ4MTM0OTgyMSwtMjA0Mzg3ODQx
 LC0xMzExMDcyMTMzLC03OTQ2NDY3MDQsMTc2OTQ2Nzg0Niw5OD
