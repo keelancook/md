@@ -19,18 +19,18 @@ In 1911, Volume III of *A Dictionary of the Bible* included an article defining 
 Brown's definition serves as a typical explanation of the millennium from his era, and in the article, he makes two significant points concerning the prevailing eschatological views of Protestant Americans at that time. First, Brown rather quickly dismisses premillennialism. While noting its continued existence, Brown states that the position lives at the margins of opinion and had ultimately failed to garner the support of the Protestant church. Brown writes, "Pre-millenarian views have, indeed, been revived from time to time, now in grosser, now in more spiritual form, and have never been without their advocates in the Church; but they have failed to win general acceptance." ^[Brown, Millennium, Dictionary, 373.] Second, Brown notes the prominence of Amillennialism and especially Postmillennialism. He continues, "The Church as a whole, Protestant as well as Catholic, has either adopted Augustine's identification of the Millennium with the Church militant, or else looks for a future period of prosperity, preceding the second advent of Christ."^[Brown,  Millennium, Dictionary, 373.]
 
 ## Postmillennialism: The Majority View
-Brown's assertion concerning the prominence of the postmillennial position in the Gilded Age and beginning of the Progressive era enjoys wide support.^[Numerous sources confirm the prevalence, and even ubiquity, of the postmillennial position in the United States throughout the nineteenth and early twentieth centuries. See Smith, Gary Scott. Heaven in the American Imagination. Oxford University Press, 2011, 128; Utzinger, Yet Saints Their Watch are Keeping 111; Ahlstrom, A Religious History of the American People, 845; Moorhead, Between Progress, 525-526.] Sydney Ahlstrom writes that the American of this era was "characteristically a 'postmillennialist.'"^[Ahlstrom, A Religious History of the American People, 845.] James Moorhead records that clergymen of the nineteenth century referred to postmillennialism as "the commonly received doctrine."^[Moorhead, Between Progress(https://www.notion.so/keelan/Between-Progress-and-Apocalypse-95850055e4ef495daa76aadcd6ce63c8#e24d378e947f4693ac63baac584ce782), 525.] As Brown notes, it would be an overstatement to insist that every American Protestant adhered to a postmillennial eschatology, but it was certainly the majority perspective for at least a century. This perspective did much to impact both the fabric of American culture and the missionary methods of those Protestants. Moorhead writes,
+Brown's assertion concerning the prominence of the postmillennial position in the Gilded Age and beginning of the Progressive era enjoys wide support.^[Numerous sources confirm the prevalence, and even ubiquity, of the postmillennial position in the United States throughout the nineteenth and early twentieth centuries. See Smith, Gary Scott. Heaven in the American Imagination. Oxford University Press, 2011, 128; Utzinger, Yet Saints Their Watch are Keeping 111; Ahlstrom, A Religious History of the American People, 845; Moorhead, Between Progress, 525-526.] Sydney Ahlstrom writes that the American of this era was "characteristically a 'postmillennialist.'"^[Ahlstrom, A Religious History of the American People, 845.] James Moorhead records that clergymen of the nineteenth century referred to postmillennialism as "the commonly received doctrine."^[Moorhead, Between Progress, 525.] As Brown notes, it would be an overstatement to insist that every American Protestant adhered to a postmillennial eschatology, but it was certainly the majority perspective for at least a century. This perspective did much to impact both the fabric of American culture and the missionary methods of those Protestants. Moorhead writes,
 
-> "As a distinct philosophy of history, postmillennialism dates from the late eighteenth and early nineteenth centuries. Although the notion that Jesus would return after the millennium had been advanced much earlier, it had not been made the key to the meaning of time. During that period, however, postmillennialism became more than a matter of dating the Second Coming: It came to denote an understanding of history as gradual improvement according to rational laws that human beings could learn and use."^[Moorhead, [Between Progress](https://www.notion.so/keelan/Between-Progress-and-Apocalypse-95850055e4ef495daa76aadcd6ce63c8#3dd9eace416d4cf4bf88bfa648743d20), 526.]
+> "As a distinct philosophy of history, postmillennialism dates from the late eighteenth and early nineteenth centuries. Although the notion that Jesus would return after the millennium had been advanced much earlier, it had not been made the key to the meaning of time. During that period, however, postmillennialism became more than a matter of dating the Second Coming: It came to denote an understanding of history as gradual improvement according to rational laws that human beings could learn and use."^[Moorhead, Between Progress, 526.]
 
 This theological optimism and confidence in the gears of progress roots deep into the religious history of the nation, and finds its beginnings prior to the nineteenth century.
 
 ## British Beginnings (Prior to 1800)
 The Protestant conversation concerning the millennium certainly predates American Protestantism. In fact, a robust dialogue was occurring in England that laid much of the groundwork for the theological presuppositions that would support the American mindset. A divergence developed between those who believed the physical return of Christ was necessary for entering the millennium and those who felt history and human initiative would propel humanity toward the coming kingdom and a millennial reign of peace and prosperity. In 1703, Daniel Whitby authored the significant  _Paraphrase and Commentary on the New Testament_, in which he delivered a lengthy and systematic rebuttal to what he called the millenarian position, instead arguing for a millennialist position that would today be described as postmillennialism.^[Whitby, Paraphrase and Commentary on the New Testament, London: W. Bowyer, 1703, 247-278, provides a multiple-chapter treatise on the millennium, which is a very long and detailed refutation of a premillennialist (millenarian) position. In this section, he specifically addresses the doctrine from historical and biblical perspectives, providing both a detailed history of interpretation for the early church on the issue and a survey of biblical material on the issue. He negatively refutes certain positions of the millenarian view, he positively affirms others, and he concludes with his own understanding that serves as one of the earliest Protestant systematic treatments in favor of a postmillennialist position.] However, consistent nomenclature for these divergent views alludes wide acceptance.
 
-Throughout the history of the conversation, the debate has been termed as "millenarians vs. millennialists", "millenarians vs. millenists", and "premillennialists vs. postmillennialists" among other less-accepted options. Perhaps Ernest Tuveson most significantly swayed the conversation toward the use of millenarians (premillennialists) and millennialists (postmillennialists). Tuveson notes that the Protestant conversation concerning the millennium was alive and well at least as far back as the seventeenth century, and he finds the commonly accepted terms today as unhelpful monikers for earlier views.^[Tuveson,  [Redeemer Nation](https://www.notion.so/keelan/Redeemer-Nation-7bcf4d95c2e44e5a80a9e37ced9a0aa7#4f15ef0bd5314a23b1ad5139458b0ec7), 34. See also Tuveson, Millennium and Utopia, 71-112, for a thorough treatment of eschatological development in British Protestant thought prior to the 1800s.] Walls concurs, asserting the terms premillennialism and postmillennialism had not been invented in the early centuries of the Protestant debate on eschatology.^[Walls,  [Eschatology and the Western Missionary Movement](https://www.notion.so/keelan/Eschatology-and-the-Western-Missionary-Movement-a4e4bd4eb99e43cd8482eb5b0950ac85#18854fe82a584e4187bf9d3a1826964d), 190.]
+Throughout the history of the conversation, the debate has been termed as "millenarians vs. millennialists", "millenarians vs. millenists", and "premillennialists vs. postmillennialists" among other less-accepted options. Perhaps Ernest Tuveson most significantly swayed the conversation toward the use of millenarians (premillennialists) and millennialists (postmillennialists). Tuveson notes that the Protestant conversation concerning the millennium was alive and well at least as far back as the seventeenth century, and he finds the commonly accepted terms today as unhelpful monikers for earlier views.^[Tuveson,  Redeemer Nation, 34. See also Tuveson, Millennium and Utopia, 71-112, for a thorough treatment of eschatological development in British Protestant thought prior to the 1800s.] Walls concurs, asserting the terms premillennialism and postmillennialism had not been invented in the early centuries of the Protestant debate on eschatology.^[Walls,  Eschatology and the Western Missionary Movement, 190.]
 
-General commentary and academic debate concerning the nature of the millennium was happening extensively in Britain. Millenarians, for their part, placed little confidence in society at large and humanity's ability to bring about lasting progress.^[Sandeen,  [Roots](https://www.notion.so/keelan/The-Roots-of-Fundamentalism-51bdfa4bb11845cb9fa3fe40e69a1717#6aa7636b43f14361a132ef57faf06199), 13.] Progressive millennialists, on the other hand, placed increasing trust in the wheels of progress as God's providential tool in history to bring about his kingdom. Tuveson points to a secularization thesis, beginning prior to the eighteenth century, that increasingly influenced millennialist thought and in turn shaped Protestantism and Western society as a whole. Taken from this perspective, the millennialist theology was as significant to the modern, historically positivist understanding of progress as secular enlightenment philosophy.^[Tuveson,  [Millennium and Utopia](https://www.notion.so/keelan/Millennium-and-Utopia-300bec85c1fd4d71a6e7a4ad34866bd3#3e6fb6ceb3a748c5851aec8e7f747d87), 75.] Over time, the concepts of Providence were wed to those of natural law, humanity's social and religious development, and the laws of universal progress.^[Tuveson, Millennium and Utopia, 139, 149, 152, outlines the trajectory of millennial doctrine as it increasingly conflates first with the concept of natural law and subsequently with the scientific ideas of social and racial progress, ultimately culminating the a doctrine of progress as universal law.] 
+General commentary and academic debate concerning the nature of the millennium was happening extensively in Britain. Millenarians, for their part, placed little confidence in society at large and humanity's ability to bring about lasting progress.^[Sandeen,  Roots, 13.] Progressive millennialists, on the other hand, placed increasing trust in the wheels of progress as God's providential tool in history to bring about his kingdom. Tuveson points to a secularization thesis, beginning prior to the eighteenth century, that increasingly influenced millennialist thought and in turn shaped Protestantism and Western society as a whole. Taken from this perspective, the millennialist theology was as significant to the modern, historically positivist understanding of progress as secular enlightenment philosophy.^[Tuveson,  Millennium and Utopia, 75.] Over time, the concepts of Providence were wed to those of natural law, humanity's social and religious development, and the laws of universal progress.^[Tuveson, Millennium and Utopia, 139, 149, 152, outlines the trajectory of millennial doctrine as it increasingly conflates first with the concept of natural law and subsequently with the scientific ideas of social and racial progress, ultimately culminating the a doctrine of progress as universal law.] 
 
 By the eighteenth century, the millennialist position was generally accepted by the majority of British Protestants. Despite certain groups advocating for a millenarian position during the French Revolution, views such as the Puritan "Fifth Monarchy" did more to distance many Protestants from the movement. Sandeen writes,
 
@@ -370,48 +370,48 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIzS0l5bmtVMWRhU1VoZkJiIjp7In
-RleHQiOiI6Iiwic3RhcnQiOjkyNjgsImVuZCI6OTI2OX0sIkg0
+RleHQiOiI6Iiwic3RhcnQiOjkxNDAsImVuZCI6OTE0MX0sIkg0
 Y2w1WUFwTU5SN2x6Tk8iOnsidGV4dCI6InRoZSIsInN0YXJ0Ij
-oxNDIwNiwiZW5kIjoxNDIwOX0sIjg0U3ZOY2U4TmtCR0owRjMi
-OnsidGV4dCI6IlBBUkFHUkFQSCIsInN0YXJ0IjoyMTQ4OCwiZW
-5kIjoyMTQ5N30sIlF4NVNqY2dOUTVUamRyVzAiOnsidGV4dCI6
-IndvcmRseSIsInN0YXJ0IjoyNDA0NCwiZW5kIjoyNDA1MH0sIk
+oxMzQ0MiwiZW5kIjoxMzQ0NX0sIjg0U3ZOY2U4TmtCR0owRjMi
+OnsidGV4dCI6IlBBUkFHUkFQSCIsInN0YXJ0IjoyMDcyNCwiZW
+5kIjoyMDczM30sIlF4NVNqY2dOUTVUamRyVzAiOnsidGV4dCI6
+IndvcmRseSIsInN0YXJ0IjoyMzI4MCwiZW5kIjoyMzI4Nn0sIk
 ZrOWw4Z0NVNndWS2RkSnoiOnsidGV4dCI6InRoZSIsInN0YXJ0
-IjoyNzcxMCwiZW5kIjoyNzcxMH0sIlFCWDVuOEEwMFI3MEVFMn
-AiOnsidGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI4ODUx
-LCJlbmQiOjI4ODYyfSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZX
-h0IjoicHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjoyOTg1OCwi
-ZW5kIjoyOTg3NH0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dC
-I6Ik5ldmVydGhlbGVzcyIsInN0YXJ0IjozMTEzMywiZW5kIjoz
-MTE0NX0sIml1SmcwUnBmaDI0NFpKV0giOnsidGV4dCI6IlRob3
-VnaCIsInN0YXJ0IjozOTI5NCwiZW5kIjozOTMwMH0sIkMzcFhR
-WUUyVnNjc1RQUVEiOnsidGV4dCI6InNpYyIsInN0YXJ0Ijo0MD
-MzMSwiZW5kIjo0MDMzNH0sIk1aVmp3R3REWnZERmVFcmQiOnsi
-dGV4dCI6IkZJTkQiLCJzdGFydCI6NDA2NTgsImVuZCI6NDA2Nj
-J9LCJmR2d6elFjcm5aR1pQVlFpIjp7InRleHQiOiJGSU5EIiwi
-c3RhcnQiOjQ0MDE4LCJlbmQiOjQ0MDIyfSwia2xWRnE4Y2dXV2
-5qY29zWiI6eyJ0ZXh0IjoiSW4iLCJzdGFydCI6NDUxNTAsImVu
-ZCI6NDUxNTJ9LCJrWEc4djhxNkl4YW10QVZkIjp7InRleHQiOi
-J0ZWxvcyIsInN0YXJ0Ijo0NzYzMywiZW5kIjo0NzYzOH0sIjVY
+IjoyNjk0NiwiZW5kIjoyNjk0Nn0sIlFCWDVuOEEwMFI3MEVFMn
+AiOnsidGV4dCI6IkNvbmZlcmVuY2VzIiwic3RhcnQiOjI4MDg3
+LCJlbmQiOjI4MDk4fSwiSmxLMzZNNUJuc1FjV0g0NCI6eyJ0ZX
+h0IjoicHJlbWlsbGVubmlhbGlzbSIsInN0YXJ0IjoyOTA5NCwi
+ZW5kIjoyOTExMH0sImh5aVZyam1CWFl4OElpT3MiOnsidGV4dC
+I6Ik5ldmVydGhlbGVzcyIsInN0YXJ0IjozMDM2OSwiZW5kIjoz
+MDM4MX0sIml1SmcwUnBmaDI0NFpKV0giOnsidGV4dCI6IlRob3
+VnaCIsInN0YXJ0IjozODUzMCwiZW5kIjozODUzNn0sIkMzcFhR
+WUUyVnNjc1RQUVEiOnsidGV4dCI6InNpYyIsInN0YXJ0IjozOT
+U2NywiZW5kIjozOTU3MH0sIk1aVmp3R3REWnZERmVFcmQiOnsi
+dGV4dCI6IkZJTkQiLCJzdGFydCI6Mzk4OTQsImVuZCI6Mzk4OT
+h9LCJmR2d6elFjcm5aR1pQVlFpIjp7InRleHQiOiJGSU5EIiwi
+c3RhcnQiOjQzMjU0LCJlbmQiOjQzMjU4fSwia2xWRnE4Y2dXV2
+5qY29zWiI6eyJ0ZXh0IjoiSW4iLCJzdGFydCI6NDQzODYsImVu
+ZCI6NDQzODh9LCJrWEc4djhxNkl4YW10QVZkIjp7InRleHQiOi
+J0ZWxvcyIsInN0YXJ0Ijo0Njg2OSwiZW5kIjo0Njg3NH0sIjVY
 SUpCelFOeHBQZzVMdnQiOnsidGV4dCI6IkNvbnNpZGVyIiwic3
-RhcnQiOjQ4NTkxLCJlbmQiOjQ4NTk5fSwiU3Jta0V0T3JSaDIy
-dHFmUiI6eyJ0ZXh0IjoiRklORCIsInN0YXJ0Ijo1NTQzNiwiZW
-5kIjo1NTQ0MH0sInR1NlFOdDF1bmY1UUpmQmgiOnsidGV4dCI6
-InZvbiBIYXJuYWNrIiwic3RhcnQiOjU3MzE3LCJlbmQiOjU3Mz
-I4fSwiNFZHcWFnRm5ZWUNSVWloRSI6eyJ0ZXh0IjoiRmluZCIs
-InN0YXJ0Ijo2MDgyNiwiZW5kIjo2MDgzMH0sIkk3dU9IaXRSaF
-Q2UkR3YWEiOnsidGV4dCI6IkZpbmQiLCJzdGFydCI6NjI3MDAs
-ImVuZCI6NjI3MDR9LCJkNDJzRlFDQ1dkWU5CZGtkIjp7InRleH
-QiOiJjaXRlIiwic3RhcnQiOjY4Njk5LCJlbmQiOjY4NzAzfSwi
+RhcnQiOjQ3ODI3LCJlbmQiOjQ3ODM1fSwiU3Jta0V0T3JSaDIy
+dHFmUiI6eyJ0ZXh0IjoiRklORCIsInN0YXJ0Ijo1NDY3MiwiZW
+5kIjo1NDY3Nn0sInR1NlFOdDF1bmY1UUpmQmgiOnsidGV4dCI6
+InZvbiBIYXJuYWNrIiwic3RhcnQiOjU2NTUzLCJlbmQiOjU2NT
+Y0fSwiNFZHcWFnRm5ZWUNSVWloRSI6eyJ0ZXh0IjoiRmluZCIs
+InN0YXJ0Ijo2MDA2MiwiZW5kIjo2MDA2Nn0sIkk3dU9IaXRSaF
+Q2UkR3YWEiOnsidGV4dCI6IkZpbmQiLCJzdGFydCI6NjE5MzYs
+ImVuZCI6NjE5NDB9LCJkNDJzRlFDQ1dkWU5CZGtkIjp7InRleH
+QiOiJjaXRlIiwic3RhcnQiOjY3OTM1LCJlbmQiOjY3OTM5fSwi
 ZnpkUUpkSm0zOHNiYjZXaSI6eyJ0ZXh0IjoicHJvdGVzdGFudC
-IsInN0YXJ0Ijo2ODkyMywiZW5kIjo2ODkzM30sIlFuUkp2MnhH
+IsInN0YXJ0Ijo2ODE1OSwiZW5kIjo2ODE2OX0sIlFuUkp2MnhH
 VUxOMzZkeloiOnsidGV4dCI6Il5bQm95ZXIsIFBhdWwsIFVyYm
 FuIE1hc3NlcyBhbmQgTW9yYWwgT3JkZXIgaW4gQW1lcmljYSwg
 MTgyMC0xOTIwIChCb3N0b246IEhhcnbigKYiLCJzdGFydCI6Nz
-Q0ODMsImVuZCI6NzQ3NDl9LCJuUDJ6ZlAyaEFJVEZlZ0VpIjp7
-InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NTIzOCwiZW5kIj
-o3NTI0Nn0sIjI0c1JWNHN3ZW5MSnl3UjciOnsidGV4dCI6IkNv
-bnNpZGVyIiwic3RhcnQiOjc1OTQ4LCJlbmQiOjc1OTU2fX0sIm
+M3MTksImVuZCI6NzM5ODV9LCJuUDJ6ZlAyaEFJVEZlZ0VpIjp7
+InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NDQ3NCwiZW5kIj
+o3NDQ4Mn0sIjI0c1JWNHN3ZW5MSnl3UjciOnsidGV4dCI6IkNv
+bnNpZGVyIiwic3RhcnQiOjc1MTg0LCJlbmQiOjc1MTkyfX0sIm
 NvbW1lbnRzIjp7Inc4N0Z5ajgzQTgySE4xS2IiOnsiZGlzY3Vz
 c2lvbklkIjoiM0tJeW5rVTFkYVNVaGZCYiIsInN1YiI6ImdoOj
 cxMjkzOTg3IiwidGV4dCI6ImlzIHRoaXMgc3VwcG9zZWQgdG8g
@@ -509,6 +509,6 @@ eHQiOiJkb24ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxNjM3OT
 gzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6eyJkaXNjdXNzaW9u
 SWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3ViIjoiZ2g6NzEyOT
 M5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3JlYXRlZCI6
-MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5IjpbMTMzODc2MDM5LC
+MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5IjpbMjgzMDkzODcyLC
 03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0NDAyNjI0XX0=
 -->
