@@ -453,23 +453,9 @@ Several home mission manuals written between 1880 and 1920 approached the issue 
 
 Loftus, Danielle. “LibGuides: Howard B. Grose: Overview,” 11 February 2015.  [https://libguides.usd.edu/grose](https://libguides.usd.edu/grose).
 
-In the preface to  _Aliens or Americans?_, Grose himself notes the tendency to cast the missionary occasion of immigration as either opportunity or threat, claiming it should be seen as a hopeful opportunity. He writes, "Immigration may be regarded as a peril or a providence, an ogre or an obligation...The author is a Christian optimist who believes God has a unique mission for Christian America, and that it will ultimately be fulfilled."
+In the preface to  _Aliens or Americans?_, Grose himself notes the tendency to cast the missionary occasion of immigration as either opportunity or threat, claiming it should be seen as a hopeful opportunity. He writes, "Immigration may be regarded as a peril or a providence, an ogre or an obligation...The author is a Christian optimist who believes God has a unique mission for Christian America, and that it will ultimately be fulfilled."^[Grose, Aliens or Americans?, 10.] In both books, Grose employs rhetoric in his attempt to persuade his reader not to view immigrants as a threat but an opportunity. His section titles suggest threat language, yet in each section he painstaking humanizes the immigrant. His works are titled provocatively, and include sections like "The Invading Army," but the army he describes is profoundly human and has no ill-will toward the United States. Instead, he goes to great lengths to tell immigrant stories and outline legitimate reasons for their arrival.^[Grose, Incoming Millions, 9, 22, 26, 27. See also Grose, Aliens or Americans?, 15, 193.] Grose also espoused a conditional manifest destiny. He writes, "The alien can be Americanized upward or downward."^[Grose, Incoming Millions, 82.] If Grose employs threat language, it is the threat of inactivity on the part of Christians that allows unsightly American vices to take hold on the immigrant after arrival. Grose continues,
 
-Grose, Aliens or Americans?, 10.
-
-In both books, Grose employs rhetoric in his attempt to persuade his reader not to view immigrants as a threat but an opportunity. His section titles suggest threat language, yet in each section he painstaking humanizes the immigrant. His works are titled provocatively, and include sections like "The Invading Army," but the army he describes is profoundly human and has no ill-will toward the United States. Instead, he goes to great lengths to tell immigrant stories and outline legitimate reasons for their arrival.
-
-Grose, Incoming Millions, 9, 22, 26, 27. See also Grose, Aliens or Americans?, 15, 193.
-
-In both works, Grose also espouses a conditional manifest destiny. He writes, "The alien can be Americanized upward or downward."
-
-Grose, Incoming Millions, 82.
-
-If there is threat language employed by Grose, it is the threat of inactivity on the part of Christians that allows unsightly American vices to take hold on the immigrant after arrival. Grose continues,
-
-> How are these aliens being Americanized? For the most part the vote-buyer, the saloon keeper, the bribe-taker, the Jew sweater, the owner or agent of wretched and unsanitary tenements, are the ones who are teaching them what America is, what America stands for.
-> 
-> Grose, Incoming Millions, 84.
+> How are these aliens being Americanized? For the most part the vote-buyer, the saloon keeper, the bribe-taker, the Jew sweater, the owner or agent of wretched and unsanitary tenements, are the ones who are teaching them what America is, what America stands for.^[Grose, Incoming Millions, 84.]
 
 The threat is not immigration at all, but the unseemly slice of America that still exists and its corrupting influence on new arrivals. Immigration itself is a hopeful opportunity for advancing the mission, "if only American Christians are awake and faithful to their duty... Will we Christianize, which is the only real way to Americanize the Aliens?"^[Grose, Aliens or Americans, 10-11.]
 
@@ -662,7 +648,7 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbLTk0OTYzOTQwNSwtODQ4NzQ5NzQxLC0xNzc1MjkzMDg2LC0y
+pbLTg4Njg4OTg3NSwtODQ4NzQ5NzQxLC0xNzc1MjkzMDg2LC0y
 MTAyNzYwMjk0LC03MzE4ODI0MTgsMTM2NzIxNjk0NywtMTE0MD
 cyMTgyMSw2Njc1NjQyNDYsLTQ4MTM0OTgyMSwtMjA0Mzg3ODQx
 LC0xMzExMDcyMTMzLC03OTQ2NDY3MDQsMTc2OTQ2Nzg0Niw5OD
