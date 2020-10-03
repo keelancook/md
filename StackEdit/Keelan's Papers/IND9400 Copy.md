@@ -365,25 +365,9 @@ Some included Americanization in the title of the manual.
 
 Brooks, Charles Alvin. Christian Americanization: A Task for the Churches. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919.
 
-American Protestants across the theological spectrum were concerned about the perfecting of society into the kingdom of God, namely the full Christianization of America. Handy writes, "Claiming that their nation's civilization was rooted in the premises of Protestant Christianity, its leaders aimed to make that civilization more fully Christian."
+American Protestants across the theological spectrum were concerned about the perfecting of society into the kingdom of God, namely the full Christianization of America. Handy writes, "Claiming that their nation's civilization was rooted in the premises of Protestant Christianity, its leaders aimed to make that civilization more fully Christian."^[Handy, Undermined Establishment, 11.] Harlan Douglass, in his manual  _The New Home Missions_, concludes with a chapter concerning the "social realization of Christianity in America" and the civil practices which can be undertaken by Christians to ensure the country becomes completely Christianized.^[Douglass, Harlan Paul. The New Home Missions: An Account of Their Social Redirection (New York: Missionary Education Movement of the United States and Canada, 1914), 225.] However, the reverse can also be said. American Protestants were broadly convinced of the importance of the Americanization of Christianity. Joseph Ernest McAfee speaks of God's "most eternally important use" for the American people, and warns against any egotism that could be resultant.^[McAfee, Missions Striking, 112.]
 
-Handy, Undermined Establishment, 11.
-
-Harlan Douglass, in his manual  _The New Home Missions_, concludes with a chapter concerning the "social realization of Christianity in America" and the civil practices which can be undertaken by Christians to ensure the country becomes completely Christianized.
-
-Douglass, Harlan Paul. The New Home Missions: An Account of Their Social Redirection (New York: Missionary Education Movement of the United States and Canada, 1914), 225.
-
-However, the reverse can also be said. American Protestants were broadly convinced of the importance of the Americanization of Christianity. Joseph Ernest McAfee speaks of God's "most eternally important use" for the American people, and warns against any egotism that could be resultant.
-
-McAfee, Missions Striking, 112.
-
-Americans widely held to the conviction that God had a specific, divine plan for the United States, an idea encapsulated in the term manifest destiny. Sandeen writes,
-
-> The eschatology of United States Protestants, reflecting their brimining optimism and hope, was expressed most frequently as a blending of millennialism and American nationalism.
-> 
-> Sandeen, Roots, 43.
-
-Furthermore, this blended eschatology placed American activity at the very center of God's plan for the rest of the world. God ordained the spread of their particular brand of Christianity and Civlization.^[Tuveson, Redeemer Nation, 76. See also Handy, Undermined Establishment, 8; Alhstrom, A Religious History, 845.]Ahlstrom writes, "To mainstream Protestants a denial of America's manifest destiny bordered on treason."^[Ahlstrom, A Religious History, 845.] For most American Protestants at the end of the nineteenth century, it was America's burden to Christianize and civilize the world, God's newest agent of the millennium. However, the success of this mission was contingent on their obedience to God in their given obligation.
+Americans widely held to the conviction that God had a specific, divine plan for the United States, an idea encapsulated in the term manifest destiny. Sandeen writes, "The eschatology of United States Protestants, reflecting their brimining optimism and hope, was expressed most frequently as a blending of millennialism and American nationalism."^[Sandeen, Roots, 43.] Furthermore, this blended eschatology placed American activity at the very center of God's plan for the rest of the world. God ordained the spread of their particular brand of Christianity and Civlization.^[Tuveson, Redeemer Nation, 76. See also Handy, Undermined Establishment, 8; Alhstrom, A Religious History, 845.] Ahlstrom writes, "To mainstream Protestants a denial of America's manifest destiny bordered on treason."^[Ahlstrom, A Religious History, 845.] For most American Protestants at the end of the nineteenth century, it was America's burden to Christianize and civilize the world, God's newest agent of the millennium. However, the success of this mission was contingent on their obedience to God in their given obligation.
 
 American Protestants, with few exceptions, adopted an eschatalogical framework which can be referred to as a conditional manifest destiny. Americans possessed a longheld belief inthe manifest destiny of the United States in its westward, and eventually global, expansion.^[Horsman, Reginald. Race and Manifest Destiny (Cambridge: Harvard University Press, 1981), 219-221, the phrase manifest destiny was coined by John O'Sullivan in 1845 to describe the westward expansion of the United States, in specific the annexation of Texas.] This destiny, most often attributed to God, was conceived as part opportunity and part obligation. McAfee concluded his home mission manual saying,
 
@@ -602,11 +586,11 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbLTE5MTkzNDY2NDAsLTg0ODc0OTc0MSwtMTc3NTI5MzA4Niwt
-MjEwMjc2MDI5NCwtNzMxODgyNDE4LDEzNjcyMTY5NDcsLTExND
-A3MjE4MjEsNjY3NTY0MjQ2LC00ODEzNDk4MjEsLTIwNDM4Nzg0
-MSwtMTMxMTA3MjEzMywtNzk0NjQ2NzA0LDE3Njk0Njc4NDYsOT
-gwODMwNjg0LC04NDgzOTg0MSwtMTQ3NDA3NTY3Niw5NDg0Nzg2
-MTYsLTk0MDY4ODA4MCwtMTg1NzM5ODM1MiwxODkxNjk1NjkxXX
-0=
+pbMTg3MjcxODkwNiwtODQ4NzQ5NzQxLC0xNzc1MjkzMDg2LC0y
+MTAyNzYwMjk0LC03MzE4ODI0MTgsMTM2NzIxNjk0NywtMTE0MD
+cyMTgyMSw2Njc1NjQyNDYsLTQ4MTM0OTgyMSwtMjA0Mzg3ODQx
+LC0xMzExMDcyMTMzLC03OTQ2NDY3MDQsMTc2OTQ2Nzg0Niw5OD
+A4MzA2ODQsLTg0ODM5ODQxLC0xNDc0MDc1Njc2LDk0ODQ3ODYx
+NiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OTE2OTU2OTFdfQ
+==
 -->
