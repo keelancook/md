@@ -383,39 +383,17 @@ Americans widely held to the conviction that God had a specific, divine plan for
 > 
 > Sandeen, Roots, 43.
 
-Furthermore, this blended eschatology placed American activity at the very center of God's plan for the rest of the world. God ordained the spread of their particular brand of Christianity and Civlization.
+Furthermore, this blended eschatology placed American activity at the very center of God's plan for the rest of the world. God ordained the spread of their particular brand of Christianity and Civlization.^[Tuveson, Redeemer Nation, 76. See also Handy, Undermined Establishment, 8; Alhstrom, A Religious History, 845.]Ahlstrom writes, "To mainstream Protestants a denial of America's manifest destiny bordered on treason."^[Ahlstrom, A Religious History, 845.] For most American Protestants at the end of the nineteenth century, it was America's burden to Christianize and civilize the world, God's newest agent of the millennium. However, the success of this mission was contingent on their obedience to God in their given obligation.
 
-Tuveson, Redeemer Nation, 76. See also Handy, Undermined Establishment, 8; Alhstrom, A Religious History, 845.
+American Protestants, with few exceptions, adopted an eschatalogical framework which can be referred to as a conditional manifest destiny. Americans possessed a longheld belief inthe manifest destiny of the United States in its westward, and eventually global, expansion.^[Horsman, Reginald. Race and Manifest Destiny (Cambridge: Harvard University Press, 1981), 219-221, the phrase manifest destiny was coined by John O'Sullivan in 1845 to describe the westward expansion of the United States, in specific the annexation of Texas.] This destiny, most often attributed to God, was conceived as part opportunity and part obligation. McAfee concluded his home mission manual saying,
 
-Ahlstrom writes, "To mainstream Protestants a denial of America's manifest destiny bordered on treason."
+> There is nothing which can mean more for the good of the whole world and for the advancement of the kingdom of God in all the earth, than that the American people should be downright, upright, inright, outright Christian, and so prepared for the Christly mission for which God is ready to use them.^[McAfee, Joseph Ernest. Missions Striking Home: A Group of Addresses on a Phase of the Missionary Enterprise (New York: Fleming H. Revell Company, 1908), 121.]
 
-Ahlstrom, A Religious History, 845.
+For many, this was a naturalistic event, guided by the impersonal wheels of evolutionary science. However, Protestant Americans embraced a conditional variety of the doctrine that based success upon the continued obedience of the American people to the directives of God in his plan for history. Wendy Deichmann Edwards uses this term conditional manifest destiny to describe Josiah Strong's work  _Our Country._  Deichmann Edwards notes Strong was not the first to suggest a conditional understanding of manifest destiny, but that his work provides a seminal understanding of the concept for American Protestants during the Gilded Age and into the turn of the century.^[Deichmann Edwards, 175-176.]
 
-For most American Protestants at the end of the nineteenth century, it was America's burden to Christianize and civilize the world, God's newest agent of the millennium. However, the success of this mission was contingent on their obedience to God in their given obligation.
+In 1885, Josiah Strong published  _Out Country: It's Possible Future and Its Present Crisis_. The year prior, the American Home Missionary Society commissioned him to revise a former missionary tract by the same name. Building off the previous version of  _Our Country_, Strong recast and amplified its appeal for home missions in light of current events. The result would become one of the most popular books in the United States for the following decades, selling over 175,000 copies.^[Deichmann Edwards, 174, 191.] Strong uses the front matter of his book to build up the grand destiny of the American Protestant, specifically Anglo-Saxon, people and their divine role in God's plan for creating the kingdom of God. He explicitly claims that his present age is a pivotal moment in this plan and uses historical proofs to ground his claim. After establishing this privileged role, Strong then espouses the conditional nature of this manifest destiny. It was contingent upon American Protestants obediently seizing the moment and overcoming a series of perils that threaten to squash their moment in history and delay the coming kingdom by hundreds of years. The remainder of the book outlines these certain perils to the Christian mission and the American establishment. Strong writes,
 
-American Protestants, with few exceptions, adopted an eschatalogical framework which can be referred to as a conditional manifest destiny. Americans possessed a longheld belief inthe manifest destiny of the United States in its westward, and eventually global, expansion.
-
-Horsman, Reginald. Race and Manifest Destiny (Cambridge: Harvard University Press, 1981), 219-221, the phrase manifest destiny was coined by John O'Sullivan in 1845 to describe the westward expansion of the United States, in specific the annexation of Texas.
-
-This destiny, most often attributed to God, was conceived as part opportunity and part obligation. McAfee concluded his home mission manual saying,
-
-> There is nothing which can mean more for the good of the whole world and for the advancement of the kingdom of God in all the earth, than that the American people should be downright, upright, inright, outright Christian, and so prepared for the Christly mission for which God is ready to use them.
-> 
-> McAfee, Joseph Ernest. Missions Striking Home: A Group of Addresses on a Phase of the Missionary Enterprise (New York: Fleming H. Revell Company, 1908), 121.
-
-For many, this was a naturalistic event, guided by the impersonal wheels of evolutionary science. However, Protestant Americans embraced a conditional variety of the doctrine that based success upon the continued obedience of the American people to the directives of God in his plan for history. Wendy Deichmann Edwards uses this term conditional manifest destiny to describe Josiah Strong's work  _Our Country._  Deichmann Edwards notes that Strong was not the first to suggest a conditional understanding of manifest destiny, but that his work provides a seminal understanding of the concept for American Protestants during the Gilded Age and into the turn of the century.
-
-Deichmann Edwards, 175-176.
-
-In 1885, Josiah Strong published  _Out Country: It's Possible Future and Its Present Crisis_. The year prior, the American Home Missionary Society commissioned him to revise a former missionary tract by the same name. Building off the previous version of  _Our Country_, Strong recast and amplified its appeal for home missions in light of current events. The result would become one of the most popular books in the United States for the following decades, selling over 175,000 copies.
-
-Deichmann Edwards, 174, 191.
-
-Strong uses the front matter of his book to build up the grand destiny of the American Protestant, specifically Anglo-Saxon, people and their divine role in God's plan for creating the kingdom of God. He explicitly claims that his present age is a pivotal moment in this plan and uses historical proofs to ground his claim. After establishing this privileged role, Strong then espouses the conditional nature of this manifest destiny. It was contingent upon American Protestants obediently seizing the moment and overcoming a series of perils that threaten to squash their moment in history and delay the coming kingdom by hundreds of years. The remainder of the book outlines these certain perils to the Christian mission and the American establishment. Strong writes,
-
-> I cannot think our civilization will perish; but I believe it is fully in the hands of Christians in the United States, during the next fifteen or twenty years, to hasten or retard the coming of Christ's kingdom in the world by hundreds, and perhaps thousands, of years. We of this generation and nation occupy the Gibraltar of the ages which commands the world’s future.
-> 
-> Strong, Our Country, 180.
+> I cannot think our civilization will perish; but I believe it is fully in the hands of Christians in the United States, during the next fifteen or twenty years, to hasten or retard the coming of Christ's kingdom in the world by hundreds, and perhaps thousands, of years. We of this generation and nation occupy the Gibraltar of the ages which commands the world’s future.^[Strong, Our Country, 180.]
 
 For Strong, the end of the nineteenth century was the second most important point in world history after the incarnation.^[Strong, Our Country, 177.] 
 
@@ -624,11 +602,11 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbMTcwNTQyMjY3NywtODQ4NzQ5NzQxLC0xNzc1MjkzMDg2LC0y
-MTAyNzYwMjk0LC03MzE4ODI0MTgsMTM2NzIxNjk0NywtMTE0MD
-cyMTgyMSw2Njc1NjQyNDYsLTQ4MTM0OTgyMSwtMjA0Mzg3ODQx
-LC0xMzExMDcyMTMzLC03OTQ2NDY3MDQsMTc2OTQ2Nzg0Niw5OD
-A4MzA2ODQsLTg0ODM5ODQxLC0xNDc0MDc1Njc2LDk0ODQ3ODYx
-NiwtOTQwNjg4MDgwLC0xODU3Mzk4MzUyLDE4OTE2OTU2OTFdfQ
-==
+pbLTE5MTkzNDY2NDAsLTg0ODc0OTc0MSwtMTc3NTI5MzA4Niwt
+MjEwMjc2MDI5NCwtNzMxODgyNDE4LDEzNjcyMTY5NDcsLTExND
+A3MjE4MjEsNjY3NTY0MjQ2LC00ODEzNDk4MjEsLTIwNDM4Nzg0
+MSwtMTMxMTA3MjEzMywtNzk0NjQ2NzA0LDE3Njk0Njc4NDYsOT
+gwODMwNjg0LC04NDgzOTg0MSwtMTQ3NDA3NTY3Niw5NDg0Nzg2
+MTYsLTk0MDY4ODA4MCwtMTg1NzM5ODM1MiwxODkxNjk1NjkxXX
+0=
 -->
