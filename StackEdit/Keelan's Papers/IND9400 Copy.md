@@ -315,7 +315,201 @@ Rising to the level of structuring narrative, Protestants filtered the world aro
 When American civilization was equated with the kingdom, it had to be spread alongside the gospel. It also had to be defended from the threats of the kingdom of sin and Satan that would seek to overthrow the coming kingdom. The watch words of the modern missions movement for many were Christianize and Civilize.^[Bebbington, The Dominance of Evangelicalism, 141-142.] And while that might be true overseas, back at home, in the face of incoming millions, it quickly became Christianize and Americanize. American Protestants saw their mission as both promoting and protecting the establishment of this new society, and the great wave of immigration proved both opportunity and threat.
 
 ## Missions Methods toward Immigrants from 1880-1920
+In 1987 Paul Hiebert penned an influential article titled  _Critical Contextualization_  in the International Bulletin on Missionary Research. In that article, Hiebert outlines a spectrum of contextualization methods through the history of the modern missions movement. Hiebert labels a period from 1800 to 1950 as the Era of Noncontextualization, arguing that a significant shift occurred in Protestant missions due to a change in theological, historical, and social scientific presupposition by Protestants during the era.
 
+Hiebert, Paul G. “Critical Contextualization.” International Bulletin of Missionary Research (1987): 104–12. pg 104.
+
+This resulted in an approach to missions which required the complete deconstruction of a person's existing culture and a replacement with Western culture as part of the conversion to Christianity. Hiebert writes, "Consequently, the gospel was seen by the people as a foreign gospel. To become Christian one had to accept not only Christianity but also Western cultural ways."
+
+Hiebert, Critical Contextualization, 104.
+
+The wave of immigration to the United States that occurred from 1880-1920 happened at the very height of Hiebert's era of noncontextualization. Though Hiebert's categories were intended to critique international missions practice in other countries, the same presuppositions which undergirded international missionary practice applied to home missions when it came to foreign immigrants.
+
+**The Missionary Occassion**
+
+The swell of immigration straddling the turn of the nineteenth century produced an obvious missionary occasion for Protestant Americans. In the years between 1881 and 1910, immigration brought more than 17.7 million people to American shores.
+
+Roger Daniels, Coming to America: A History of Immigration and Ethnicity in American Life (New York: Harper Collins, 1990), 124.
+
+The peak crested in 1907 as 1.29 million immigrants landed on American shores.
+
+Rasenberger, America, 1908, 17.
+
+Furthermore, unlike previous decades of immigration, this new wave brought with it an increasing number of peoples from different cultural and religious backgrounds. Many new immigrants arrived from southern and eastern Europe, and their reception was not as warm. By this time, urbanization had transformed the American landscape and its major cities were in the fastest growth swing they would ever see. Immigrants disproportionately landed in these cities, clustering in residential areas around industrial centers. Cultural barriers were greater for this new wave, and therefore, their presence presented a more jarring impact on the American social fabric.
+
+Dublin, Thomas. Immigrant Voices: New Lives in America, 1773-1986 (University of Illinois Press, 1993), 12.
+
+Furthermore, a much larger number of these immigrants were not Protestant.
+
+Need to Cite that they were Jewish and Catholic from some source.
+
+This occasion, or crisis as many would claim, gave rise to missionary methods based on their theological presuppositions concerning their role in building the kingdom.
+
+**Americanization as Part of the Biblical Mission**
+
+In short, making disciples also meant making Americans. The two ideas could not be easily separated. For some Protestants, it was an explicit connection and for others only assumed in their practices. By 1908, Israel Zangwill would produce and stage his play entitled  _The Melting Pot,_  coining a term that would typify the American experience for many. However, despite it's widespread use today to refer to American diversity, the original play underscored the ability of America to successfully assimilate foreigners into their own culture and society. The storyline was about a Russian-Jewish immigrant that discovered how to blend into American culture and assimilate. At the time, the play was lauded for its example by none other than Theodore Roosevelt, the current president.
+
+Rasenberger, America 1908, 237.
+
+The pressure to assimilate to the majority Anglo Western culture of the United States was broad, and American Protestant missions would largely adopt this assumption with ample theological justification.
+
+Noll claims it was the transfer of religious fervor to national ideals that lead to an American civil religion that blended the boundaries of the Christian gospel with civil narrative. Noll writes, "The nation rather than the church easily emerged as the primary agent in God's activity in history."
+
+Noll, The Search for Christian America, 114.
+
+Concerning missionary methods toward immigrants, Americanization became an irreducible component of Christianization. The two terms were linked, one concept incomprehensible without the other. During the era, dozens of home missionary manuals were published, detailing methods of missionary engagement of the new immigration. Many of these manuals included sections on the proper means of Americanizing foreigners as part of their missions practice.
+
+See McCash, Isaac Newton. Horizon of American Missions (New York: Fleming H. Revell company, 1913) 169, section titled America Democratizing the World; McAfee, Joseph Ernest. Missions Striking Home: A Group of Addresses on a Phase of the Missionary Enterprise (New York: Fleming H. Revell Company, 1908), 111, section title The American 'E Pluribus Unum' of Grace; Grose, Howard Benjamin. Aliens Or Americans? (New York: Young People’s Missionary Movement of The United States and Canada, 1909), 231, see section titled Immigration and the National Character.
+
+Some included Americanization in the title of the manual.
+
+Brooks, Charles Alvin. Christian Americanization: A Task for the Churches. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919.
+
+American Protestants across the theological spectrum were concerned about the perfecting of society into the kingdom of God, namely the full Christianization of America. Handy writes, "Claiming that their nation's civilization was rooted in the premises of Protestant Christianity, its leaders aimed to make that civilization more fully Christian."
+
+Handy, Undermined Establishment, 11.
+
+Harlan Douglass, in his manual  _The New Home Missions_, concludes with a chapter concerning the "social realization of Christianity in America" and the civil practices which can be undertaken by Christians to ensure the country becomes completely Christianized.
+
+Douglass, Harlan Paul. The New Home Missions: An Account of Their Social Redirection (New York: Missionary Education Movement of the United States and Canada, 1914), 225.
+
+However, the reverse can also be said. American Protestants were broadly convinced of the importance of the Americanization of Christianity. Joseph Ernest McAfee speaks of God's "most eternally important use" for the American people, and warns against any egotism that could be resultant.
+
+McAfee, Missions Striking, 112.
+
+Americans widely held to the conviction that God had a specific, divine plan for the United States, an idea encapsulated in the term manifest destiny. Sandeen writes,
+
+> The eschatology of United States Protestants, reflecting their brimining optimism and hope, was expressed most frequently as a blending of millennialism and American nationalism.
+> 
+> Sandeen, Roots, 43.
+
+Furthermore, this blended eschatology placed American activity at the very center of God's plan for the rest of the world. God ordained the spread of their particular brand of Christianity and Civlization.
+
+Tuveson, Redeemer Nation, 76. See also Handy, Undermined Establishment, 8; Alhstrom, A Religious History, 845.
+
+Ahlstrom writes, "To mainstream Protestants a denial of America's manifest destiny bordered on treason."
+
+Ahlstrom, A Religious History, 845.
+
+For most American Protestants at the end of the nineteenth century, it was America's burden to Christianize and civilize the world, God's newest agent of the millennium. However, the success of this mission was contingent on their obedience to God in their given obligation.
+
+American Protestants, with few exceptions, adopted an eschatalogical framework which can be referred to as a conditional manifest destiny. Americans possessed a longheld belief inthe manifest destiny of the United States in its westward, and eventually global, expansion.
+
+Horsman, Reginald. Race and Manifest Destiny (Cambridge: Harvard University Press, 1981), 219-221, the phrase manifest destiny was coined by John O'Sullivan in 1845 to describe the westward expansion of the United States, in specific the annexation of Texas.
+
+This destiny, most often attributed to God, was conceived as part opportunity and part obligation. McAfee concluded his home mission manual saying,
+
+> There is nothing which can mean more for the good of the whole world and for the advancement of the kingdom of God in all the earth, than that the American people should be downright, upright, inright, outright Christian, and so prepared for the Christly mission for which God is ready to use them.
+> 
+> McAfee, Joseph Ernest. Missions Striking Home: A Group of Addresses on a Phase of the Missionary Enterprise (New York: Fleming H. Revell Company, 1908), 121.
+
+For many, this was a naturalistic event, guided by the impersonal wheels of evolutionary science. However, Protestant Americans embraced a conditional variety of the doctrine that based success upon the continued obedience of the American people to the directives of God in his plan for history. Wendy Deichmann Edwards uses this term conditional manifest destiny to describe Josiah Strong's work  _Our Country._  Deichmann Edwards notes that Strong was not the first to suggest a conditional understanding of manifest destiny, but that his work provides a seminal understanding of the concept for American Protestants during the Gilded Age and into the turn of the century.
+
+Deichmann Edwards, 175-176.
+
+In 1885, Josiah Strong published  _Out Country: It's Possible Future and Its Present Crisis_. The year prior, the American Home Missionary Society commissioned him to revise a former missionary tract by the same name. Building off the previous version of  _Our Country_, Strong recast and amplified its appeal for home missions in light of current events. The result would become one of the most popular books in the United States for the following decades, selling over 175,000 copies.
+
+Deichmann Edwards, 174, 191.
+
+Strong uses the front matter of his book to build up the grand destiny of the American Protestant, specifically Anglo-Saxon, people and their divine role in God's plan for creating the kingdom of God. He explicitly claims that his present age is a pivotal moment in this plan and uses historical proofs to ground his claim. After establishing this privileged role, Strong then espouses the conditional nature of this manifest destiny. It was contingent upon American Protestants obediently seizing the moment and overcoming a series of perils that threaten to squash their moment in history and delay the coming kingdom by hundreds of years. The remainder of the book outlines these certain perils to the Christian mission and the American establishment. Strong writes,
+
+> I cannot think our civilization will perish; but I believe it is fully in the hands of Christians in the United States, during the next fifteen or twenty years, to hasten or retard the coming of Christ's kingdom in the world by hundreds, and perhaps thousands, of years. We of this generation and nation occupy the Gibraltar of the ages which commands the world’s future.
+> 
+> Strong, Our Country, 180.
+
+For Strong, the end of the nineteenth century was the second most important point in world history after the incarnation.
+
+Strong, Our Country, 177.
+
+Not only did Strong's vision for home missions equate Christianity's mission with that of America, it equated America's destiny with that of a specifically Anglo-Saxon culture. In his chapter titled "The Anglo Saxon and the World's Futture," Strong uses dubious but contemporary social scientific theory regarding racial composition and hybridization in order to develop a more religious concept of Anglo-Saxon superiority.
+
+Strong, Our Country, 159.
+
+Strong's conception of Anglo-Saxon is broadly defined, and he takes racial mixture as a defining characteristic of Anglo-Saxon exceptionality. "Mixed" races, he claims, are superior to "pure" races.
+
+Handy, Undermined Establishment, 18.
+
+Nevertheless, this mixture would only maintain its potency if it carried the distinctly superior cultural characteristics of American Anglo-Saxonism. Strong's influence is hard to underestimate on contemporary missions methods during the turn of the century. The Great Commission was wholly clothed in the language of Christianize and Americanize, and the concurrent rise of immigration from non-Anglo, non-Protestant nations would require missionary methods aligned with this recast commission.
+
+William Payne Shriver distills the missionary task of Christianization and Americanization toward immigrants into three parts: sympathy and resources from the church to aid the immigrant, "arouse and enrich the religious life" of the immigrant, and Americanize them. Of that last aspect of the mission, Shriver writes, "How may we inspire these diverse and polyglot peoples, together with our own and native Americans, with that common sympathy, understanding and ideal purpose which make for American Christian democracy?"
+
+Shriver, William Payne. Immigrant Forces: Factors in the New Democracy (New York: American Baptist Publication Society, 1913), 193.
+
+For some Christianize and Americanize was conceived in optimistic terms as an opportunity for American Protestants to hasten their work of kingdom building by the promotion of Christian and American ideals. For others, it was cast in the ominous language of an impending threat. Though the lens of threat, Christians conceived of a mission to protect the kingdom they were establishing from incoming forces of that could potentially undermine their Christian civilization.
+
+At the height of immigration during the era, ships were bringing around a million newcomers annually. American Protestants had long thought of immigration in optimistic terms concerning the promotion of the gospel. In fact, the earlier version of  _Our Country_  written before the Civil War claimed as much, referring to immigration as a "providential movement" and that, "God sends these multitudes hither for good and great ends."
+
+Society, Congregational Home Missionary. Our Country: No. 2 A Plea for Home Missions (American Home Missionary Society, 1858), 37.
+
+This thread continued through the turn of the century, focusing on the opportunity to promote American cultural Christianity to immigrants. One article in a 1919 issue of  _Religious Education_  spoke of the role of churches in immigrant engagement,
+
+> They can give all recently arrived immigrants some vision of the nobility of America, and their officials can preach loyalty and the unity of many races in one nation on the basis of brotherhood and that tradition of idealism upon which America is founded.
+> 
+> Claxton†, P. P. “CHURCHES AND AMERICANIZATION.” Religious Education, 1919. p 24.
+
+When viewed as an opportunity, these new foreign born residents, many Jewish and Catholic, presented a prime target from the promotion of Protestant Christianity wrapped in its American form.
+
+Several home mission manuals written between 1880 and 1920 approached the issue in a hopeful tone, encouraging a promoting mission. Notable among these were the works of Howard B. Grose. A Baptist minister and professor, Grose served as the editorial secretary for the American Baptist Home Missionary Society from 1904-1910 and authored two manuals addressing missions to immigrants:  _Incoming Millions_  and  _Aliens or Americans?_.
+
+Loftus, Danielle. “LibGuides: Howard B. Grose: Overview,” 11 February 2015.  [https://libguides.usd.edu/grose](https://libguides.usd.edu/grose).
+
+In the preface to  _Aliens or Americans?_, Grose himself notes the tendency to cast the missionary occasion of immigration as either opportunity or threat, claiming it should be seen as a hopeful opportunity. He writes, "Immigration may be regarded as a peril or a providence, an ogre or an obligation...The author is a Christian optimist who believes God has a unique mission for Christian America, and that it will ultimately be fulfilled."
+
+Grose, Aliens or Americans?, 10.
+
+In both books, Grose employs rhetoric in his attempt to persuade his reader not to view immigrants as a threat but an opportunity. His section titles suggest threat language, yet in each section he painstaking humanizes the immigrant. His works are titled provocatively, and include sections like "The Invading Army," but the army he describes is profoundly human and has no ill-will toward the United States. Instead, he goes to great lengths to tell immigrant stories and outline legitimate reasons for their arrival.
+
+Grose, Incoming Millions, 9, 22, 26, 27. See also Grose, Aliens or Americans?, 15, 193.
+
+In both works, Grose also espouses a conditional manifest destiny. He writes, "The alien can be Americanized upward or downward."
+
+Grose, Incoming Millions, 82.
+
+If there is threat language employed by Grose, it is the threat of inactivity on the part of Christians that allows unsightly American vices to take hold on the immigrant after arrival. Grose continues,
+
+> How are these aliens being Americanized? For the most part the vote-buyer, the saloon keeper, the bribe-taker, the Jew sweater, the owner or agent of wretched and unsanitary tenements, are the ones who are teaching them what America is, what America stands for.
+> 
+> Grose, Incoming Millions, 84.
+
+The threat is not immigration at all, but the unseemly slice of America that still exists and its corrupting influence on new arrivals. Immigration itself is a hopeful opportunity for advancing the mission, "if only American Christians are awake and faithful to their duty... Will we Christianize, which is the only real way to Americanize the Aliens?"
+
+Grose, Aliens or Americans, 10-11.
+
+Another category of manuals which saw promise in immigration were those written by immigrants themselves.  _Along the Highway of Service_, written by Marie Buhlmaier recounts her ministry at the docks in Baltimore among incoming immigrants. An immigrant herself, Marie served with the Home Mission Board of the Southern Baptist Convention distributing literature, welcoming immigrants, and helping connect them to various churches at their final landing places in the country.
+
+Buhlmaier, Marie. Along the Highway of Service (Atlanta: Home Mission Board of the Southern Baptist Convention, 1924), vii.
+
+Buhlmaier writes with passion and sympathy for the plight of the immigrant and challenges her fellow Southern Baptists to see God as the "Great Director" of immigration.
+
+Buhlmaier, Along the Highway, 1-7.
+
+In New York, Antonio Mangano served as the Director of the Italian Department at Colgate Theological Seminary. An immigrant from Italy, Mangano became a Christian through the influence of a Baptist church in Long Island. In  _Sons of Italy_, he provides an in depth look at Italian immigrants, and provides a plea for churches to see the opportunity they present for promoting Protestant Christianity.
+
+Mangano, Antonio. Sons of Italy: A Social and Religious Study of the Italians in America (New York: Missionary Education Movement of the United States and Canada, 1917), xi.
+
+Mangano urges hospitality toward the immigrant, asking, "How can America hope to weld these people into good citizens if good Americans constantly look upon them as inferiors, studiously avoiding contact with them?"
+
+Mangano, Sons of Italy, 133.
+
+All Protestants did not view immigration with such optimism. It was perhaps more likely that American Protestants, largely from English or Western European descent, would see the waves of immigrant coming ashore each year as a threat to the civilization they were working so hard to build. The impetus to conceive of the mission as one of protection against outside cultural forces accounted for the plea by Mangano and Grose's rhetoric. The wave of immigrants was often met with negative reactions that resulted in ethnic and religious antagonism. The Protestant American majority culture was perhaps less concerned about the sheer number of immigrants than they were the provenance of these newcomers. In the 1880s, the largest surge of immigration came from Catholic lands and a different ethnic stock.
+
+Handy, Undermined Establishment, 17.
+
+Nevertheless, a thread of this protection theme ran through many home mission manuals of the day.
+
+The threat language is perhaps most clear in the writing of Josiah Strong. Significantly, Strong's revised edition of  _Our Country_  shifted the tone concerning immigration from providence to peril. Strong lists seven perils throughout his work that threaten the progress of building America into the kingdom of God. The first peril listed is the threat of immigration.
+
+Strong, Our Country, 30.
+
+Strong writes,
+
+> So immense a foreign element must have a profound influence on our national life and character. Immigration brings unquestioned benefits, but these do not concern our argument. It complicates almost every home missionary problem and furnishes the soil which feeds the life of several of the most noxious growths of our civlization.
+> 
+> Strong, Our Country, 40.
+
+Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."
+
+^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJmZmRORlczMU9tWE9jSk5EIjp7In
 RleHQiOiJhcG9jYWx5cHRpYyIsInN0YXJ0IjoyMTAsImVuZCI6
@@ -496,11 +690,11 @@ VkIjoxNjAxNjM3OTgzMzA3fSwiaDJEZ2UyYUM2aU5FbkVSWCI6
 eyJkaXNjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3
 ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0
 IiwiY3JlYXRlZCI6MTYwMTYzODA0Mjc2Mn19LCJoaXN0b3J5Ij
-pbLTg0ODc0OTc0MSwtMTc3NTI5MzA4NiwtMjEwMjc2MDI5NCwt
-NzMxODgyNDE4LDEzNjcyMTY5NDcsLTExNDA3MjE4MjEsNjY3NT
-Y0MjQ2LC00ODEzNDk4MjEsLTIwNDM4Nzg0MSwtMTMxMTA3MjEz
-MywtNzk0NjQ2NzA0LDE3Njk0Njc4NDYsOTgwODMwNjg0LC04ND
-gzOTg0MSwtMTQ3NDA3NTY3Niw5NDg0Nzg2MTYsLTk0MDY4ODA4
-MCwtMTg1NzM5ODM1MiwxODkxNjk1NjkxLC0xNjkwMjY2MzQ4XX
+pbLTE0Mjk5OTUzNjUsLTg0ODc0OTc0MSwtMTc3NTI5MzA4Niwt
+MjEwMjc2MDI5NCwtNzMxODgyNDE4LDEzNjcyMTY5NDcsLTExND
+A3MjE4MjEsNjY3NTY0MjQ2LC00ODEzNDk4MjEsLTIwNDM4Nzg0
+MSwtMTMxMTA3MjEzMywtNzk0NjQ2NzA0LDE3Njk0Njc4NDYsOT
+gwODMwNjg0LC04NDgzOTg0MSwtMTQ3NDA3NTY3Niw5NDg0Nzg2
+MTYsLTk0MDY4ODA4MCwtMTg1NzM5ODM1MiwxODkxNjk1NjkxXX
 0=
 -->
