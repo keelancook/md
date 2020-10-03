@@ -19,7 +19,7 @@ In 1911, Volume III of *A Dictionary of the Bible* included an article defining 
 Brown's definition serves as a typical explanation of the millennium from his era, and in the article, he makes two significant points concerning the prevailing eschatological views of Protestant Americans at that time. First, Brown rather quickly dismisses premillennialism. While noting its continued existence, Brown states that the position lives at the margins of opinion and had ultimately failed to garner the support of the Protestant church. Brown writes, "Pre-millenarian views have, indeed, been revived from time to time, now in grosser, now in more spiritual form, and have never been without their advocates in the Church; but they have failed to win general acceptance." ^[Brown, Millennium, Dictionary, 373.] Second, Brown notes the prominence of Amillennialism and especially Postmillennialism. He continues, "The Church as a whole, Protestant as well as Catholic, has either adopted Augustine's identification of the Millennium with the Church militant, or else looks for a future period of prosperity, preceding the second advent of Christ."^[Brown,  Millennium, Dictionary, 373.]
 
 ## Postmillennialism: The Majority View
-Brown's assertion concerning the prominence of the postmillennial position in the Gilded Age and beginning of the Progressive era enjoys wide support.^[Numerous sources confirm the prevalence, and even ubiquity, of the postmillennial position in the United States throughout the nineteenth and early twentieth centuries. See Smith, Gary Scott. Heaven in the American Imagination. Oxford University Press, 2011, 128; Utzinger, [Yet Saints Their Watch are Keeping](https://www.notion.so/keelan/Yet-Saints-Their-Watch-are-Keeping-75638bd9421a40ff97632e08963194eb#fbe2e487d3eb4513af452531100934c5), 111; Ahlstrom, A Religious History of the American People, 845; Moorhead, Between Progress, 525-526.] Sydney Ahlstrom writes that the American of this era was "characteristically a 'postmillennialist.'"^[Ahlstrom,  [A Religious History of the American People](https://www.notion.so/keelan/A-Religious-History-of-the-American-Peoplw-30c17ca9fc9b499fbeec43804c29208c#3269e223c0d14b3b968862fa7d36b3db), 845.] James Moorhead records that clergymen of the nineteenth century referred to postmillennialism as "the commonly received doctrine."^[Moorhead, [Between Progress](https://www.notion.so/keelan/Between-Progress-and-Apocalypse-95850055e4ef495daa76aadcd6ce63c8#e24d378e947f4693ac63baac584ce782), 525.] As Brown notes, it would be an overstatement to insist that every American Protestant adhered to a postmillennial eschatology, but it was certainly the majority perspective for at least a century. This perspective did much to impact both the fabric of American culture and the missionary methods of those Protestants. Moorhead writes,
+Brown's assertion concerning the prominence of the postmillennial position in the Gilded Age and beginning of the Progressive era enjoys wide support.^[Numerous sources confirm the prevalence, and even ubiquity, of the postmillennial position in the United States throughout the nineteenth and early twentieth centuries. See Smith, Gary Scott. Heaven in the American Imagination. Oxford University Press, 2011, 128; Utzinger, Yet Saints Their Watch are Keeping 111; Ahlstrom, A Religious History of the American People, 845; Moorhead, Between Progress, 525-526.] Sydney Ahlstrom writes that the American of this era was "characteristically a 'postmillennialist.'"^[Ahlstrom,  [A Religious History of the American People](https://www.notion.so/keelan/A-Religious-History-of-the-American-Peoplw-30c17ca9fc9b499fbeec43804c29208c#3269e223c0d14b3b968862fa7d36b3db), 845.] James Moorhead records that clergymen of the nineteenth century referred to postmillennialism as "the commonly received doctrine."^[Moorhead, [Between Progress](https://www.notion.so/keelan/Between-Progress-and-Apocalypse-95850055e4ef495daa76aadcd6ce63c8#e24d378e947f4693ac63baac584ce782), 525.] As Brown notes, it would be an overstatement to insist that every American Protestant adhered to a postmillennial eschatology, but it was certainly the majority perspective for at least a century. This perspective did much to impact both the fabric of American culture and the missionary methods of those Protestants. Moorhead writes,
 
 > "As a distinct philosophy of history, postmillennialism dates from the late eighteenth and early nineteenth centuries. Although the notion that Jesus would return after the millennium had been advanced much earlier, it had not been made the key to the meaning of time. During that period, however, postmillennialism became more than a matter of dating the Second Coming: It came to denote an understanding of history as gradual improvement according to rational laws that human beings could learn and use."^[Moorhead, [Between Progress](https://www.notion.so/keelan/Between-Progress-and-Apocalypse-95850055e4ef495daa76aadcd6ce63c8#3dd9eace416d4cf4bf88bfa648743d20), 526.]
 
@@ -374,48 +374,48 @@ RleHQiOiJLZXkgZG9jdHJpbmVzLCBzdWNoIGFzIG1pbGxlbm5p
 YWwgdmlld3MgYW5kIG9uZSdzIHVuZGVyc3RhbmRpbmcgb2YgdG
 hlIGtpbmdkb23igKYiLCJzdGFydCI6MjU0MSwiZW5kIjoyNzE3
 fSwiM0tJeW5rVTFkYVNVaGZCYiI6eyJ0ZXh0IjoiOiIsInN0YX
-J0Ijo5NzM3LCJlbmQiOjk3Mzh9LCJINGNsNVlBcE1OUjdsek5P
-Ijp7InRleHQiOiJ0aGUiLCJzdGFydCI6MTQ2NzUsImVuZCI6MT
-Q2Nzh9LCI4NFN2TmNlOE5rQkdKMEYzIjp7InRleHQiOiJQQVJB
-R1JBUEgiLCJzdGFydCI6MjE5NTcsImVuZCI6MjE5NjZ9LCJReD
+J0Ijo5NjAzLCJlbmQiOjk2MDR9LCJINGNsNVlBcE1OUjdsek5P
+Ijp7InRleHQiOiJ0aGUiLCJzdGFydCI6MTQ1NDEsImVuZCI6MT
+Q1NDR9LCI4NFN2TmNlOE5rQkdKMEYzIjp7InRleHQiOiJQQVJB
+R1JBUEgiLCJzdGFydCI6MjE4MjMsImVuZCI6MjE4MzJ9LCJReD
 VTamNnTlE1VGpkclcwIjp7InRleHQiOiJ3b3JkbHkiLCJzdGFy
-dCI6MjQ1MTMsImVuZCI6MjQ1MTl9LCJGazlsOGdDVTZ3VktkZE
-p6Ijp7InRleHQiOiJ0aGUiLCJzdGFydCI6MjgxNzksImVuZCI6
-MjgxNzl9LCJRQlg1bjhBMDBSNzBFRTJwIjp7InRleHQiOiJDb2
-5mZXJlbmNlcyIsInN0YXJ0IjoyOTMyMCwiZW5kIjoyOTMzMX0s
+dCI6MjQzNzksImVuZCI6MjQzODV9LCJGazlsOGdDVTZ3VktkZE
+p6Ijp7InRleHQiOiJ0aGUiLCJzdGFydCI6MjgwNDUsImVuZCI6
+MjgwNDV9LCJRQlg1bjhBMDBSNzBFRTJwIjp7InRleHQiOiJDb2
+5mZXJlbmNlcyIsInN0YXJ0IjoyOTE4NiwiZW5kIjoyOTE5N30s
 IkpsSzM2TTVCbnNRY1dINDQiOnsidGV4dCI6InByZW1pbGxlbm
-5pYWxpc20iLCJzdGFydCI6MzAzMjcsImVuZCI6MzAzNDN9LCJo
+5pYWxpc20iLCJzdGFydCI6MzAxOTMsImVuZCI6MzAyMDl9LCJo
 eWlWcmptQlhZeDhJaU9zIjp7InRleHQiOiJOZXZlcnRoZWxlc3
-MiLCJzdGFydCI6MzE2MDIsImVuZCI6MzE2MTR9LCJpdUpnMFJw
+MiLCJzdGFydCI6MzE0NjgsImVuZCI6MzE0ODB9LCJpdUpnMFJw
 ZmgyNDRaSldIIjp7InRleHQiOiJUaG91Z2giLCJzdGFydCI6Mz
-k3NjMsImVuZCI6Mzk3Njl9LCJDM3BYUVlFMlZzY3NUUFFRIjp7
-InRleHQiOiJzaWMiLCJzdGFydCI6NDA4MDAsImVuZCI6NDA4MD
-N9LCJNWlZqd0d0RFp2REZlRXJkIjp7InRleHQiOiJGSU5EIiwi
-c3RhcnQiOjQxMTI3LCJlbmQiOjQxMTMxfSwiZkdnenpRY3JuWk
-daUFZRaSI6eyJ0ZXh0IjoiRklORCIsInN0YXJ0Ijo0NDQ4Nywi
-ZW5kIjo0NDQ5MX0sImtsVkZxOGNnV1duamNvc1oiOnsidGV4dC
-I6IkluIiwic3RhcnQiOjQ1NjE5LCJlbmQiOjQ1NjIxfSwia1hH
+k2MjksImVuZCI6Mzk2MzV9LCJDM3BYUVlFMlZzY3NUUFFRIjp7
+InRleHQiOiJzaWMiLCJzdGFydCI6NDA2NjYsImVuZCI6NDA2Nj
+l9LCJNWlZqd0d0RFp2REZlRXJkIjp7InRleHQiOiJGSU5EIiwi
+c3RhcnQiOjQwOTkzLCJlbmQiOjQwOTk3fSwiZkdnenpRY3JuWk
+daUFZRaSI6eyJ0ZXh0IjoiRklORCIsInN0YXJ0Ijo0NDM1Mywi
+ZW5kIjo0NDM1N30sImtsVkZxOGNnV1duamNvc1oiOnsidGV4dC
+I6IkluIiwic3RhcnQiOjQ1NDg1LCJlbmQiOjQ1NDg3fSwia1hH
 OHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVsb3MiLCJzdGFydC
-I6NDgxMDIsImVuZCI6NDgxMDd9LCI1WElKQnpRTnhwUGc1THZ0
-Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo0OTA2MCwiZW
-5kIjo0OTA2OH0sIlNybWtFdE9yUmgyMnRxZlIiOnsidGV4dCI6
-IkZJTkQiLCJzdGFydCI6NTU5MDUsImVuZCI6NTU5MDl9LCJ0dT
+I6NDc5NjgsImVuZCI6NDc5NzN9LCI1WElKQnpRTnhwUGc1THZ0
+Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo0ODkyNiwiZW
+5kIjo0ODkzNH0sIlNybWtFdE9yUmgyMnRxZlIiOnsidGV4dCI6
+IkZJTkQiLCJzdGFydCI6NTU3NzEsImVuZCI6NTU3NzV9LCJ0dT
 ZRTnQxdW5mNVFKZkJoIjp7InRleHQiOiJ2b24gSGFybmFjayIs
-InN0YXJ0Ijo1Nzc4NiwiZW5kIjo1Nzc5N30sIjRWR3FhZ0ZuWV
-lDUlVpaEUiOnsidGV4dCI6IkZpbmQiLCJzdGFydCI6NjEyOTUs
-ImVuZCI6NjEyOTl9LCJJN3VPSGl0UmhUNlJEd2FhIjp7InRleH
-QiOiJGaW5kIiwic3RhcnQiOjYzMTY5LCJlbmQiOjYzMTczfSwi
+InN0YXJ0Ijo1NzY1MiwiZW5kIjo1NzY2M30sIjRWR3FhZ0ZuWV
+lDUlVpaEUiOnsidGV4dCI6IkZpbmQiLCJzdGFydCI6NjExNjEs
+ImVuZCI6NjExNjV9LCJJN3VPSGl0UmhUNlJEd2FhIjp7InRleH
+QiOiJGaW5kIiwic3RhcnQiOjYzMDM1LCJlbmQiOjYzMDM5fSwi
 ZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0IjoiY2l0ZSIsInN0YX
-J0Ijo2OTE2OCwiZW5kIjo2OTE3Mn0sImZ6ZFFKZEptMzhzYmI2
-V2kiOnsidGV4dCI6InByb3Rlc3RhbnQiLCJzdGFydCI6NjkzOT
-IsImVuZCI6Njk0MDJ9LCJRblJKdjJ4R1VMTjM2ZHpaIjp7InRl
+J0Ijo2OTAzNCwiZW5kIjo2OTAzOH0sImZ6ZFFKZEptMzhzYmI2
+V2kiOnsidGV4dCI6InByb3Rlc3RhbnQiLCJzdGFydCI6NjkyNT
+gsImVuZCI6NjkyNjh9LCJRblJKdjJ4R1VMTjM2ZHpaIjp7InRl
 eHQiOiJeW0JveWVyLCBQYXVsLCBVcmJhbiBNYXNzZXMgYW5kIE
 1vcmFsIE9yZGVyIGluIEFtZXJpY2EsIDE4MjAtMTkyMCAoQm9z
-dG9uOiBIYXJ24oCmIiwic3RhcnQiOjc0OTUyLCJlbmQiOjc1Mj
-E4fSwiblAyemZQMmhBSVRGZWdFaSI6eyJ0ZXh0IjoiQ29uc2lk
-ZXIiLCJzdGFydCI6NzU3MDcsImVuZCI6NzU3MTV9LCIyNHNSVj
+dG9uOiBIYXJ24oCmIiwic3RhcnQiOjc0ODE4LCJlbmQiOjc1MD
+g0fSwiblAyemZQMmhBSVRGZWdFaSI6eyJ0ZXh0IjoiQ29uc2lk
+ZXIiLCJzdGFydCI6NzU1NzMsImVuZCI6NzU1ODF9LCIyNHNSVj
 Rzd2VuTEp5d1I3Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0
-Ijo3NjQxNywiZW5kIjo3NjQyNX19LCJjb21tZW50cyI6eyJRRm
+Ijo3NjI4MywiZW5kIjo3NjI5MX19LCJjb21tZW50cyI6eyJRRm
 R4S041RVdtQTUyUjNnIjp7ImRpc2N1c3Npb25JZCI6InFOOHRl
 ZmRZWlVYQTk3N3YiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleH
 QiOiJ0aGlzIGlzIGJhc2ljYWxseSB0aGUgZXhhY3Qgc2FtZSBz
@@ -526,6 +526,6 @@ I6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQiOjE2MDE2Mzc5ODMz
 MDd9LCJoMkRnZTJhQzZpTkVuRVJYIjp7ImRpc2N1c3Npb25JZC
 I6IjI0c1JWNHN3ZW5MSnl3UjciLCJzdWIiOiJnaDo3MTI5Mzk4
 NyIsInRleHQiOiJkb24ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNj
-AxNjM4MDQyNzYyfX0sImhpc3RvcnkiOlsyMDAyNTI3OTI0LC00
-MzQ0MDI2MjRdfQ==
+AxNjM4MDQyNzYyfX0sImhpc3RvcnkiOlstNzY4NTQ4NTIzLDIw
+MDI1Mjc5MjQsLTQzNDQwMjYyNF19
 -->
