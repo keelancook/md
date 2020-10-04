@@ -147,7 +147,7 @@ Christian Socialism in England was not the only influence on kingdom theology co
 
 Ritschl (1822-89) taught systematic theology at Göttingen, influencing many subsequent scholars in the German Protestant academy. Of those influenced by Ritschl, Rudolf Hermann Lotze and Adolf von Harnack also made significant contributions to this developing theology of the kingdom. Each of these three men taught a relatively large number of Americans coming to Germany for graduate studies.^[Phillips, A Kingdom on Earth, 11.]
 
-Ritschl's school of thought was essentially a rejection of Hegelian rationalism.^[Phillips, A Kingdom on Earth, 11.] In his early instruction, Ritschl was heavily influenced by the Tubingen school, studying under Baur, but his tenure in this school of thought was short lived. Becoming convinced their basis in speculation was false, he refuted their position in his own scholarship.^[Stuckenberg, J. H. W. “The Theology of Albrecht Ritschl.” The American Journal of Theology 2.2 (1898): 271.] Instead, Ritschl stressed a more immanent, experiential, and pragmatic concept of Christianity. Much like Schleiermacher before him, Ritschl placed weight on religious experience as the test of Christianity's authenticity.^[Evans, Social Gospel in American Religion, 60.] Furthermore, he rejected any attempts at rationalistic proofs of Christianity.^[`FIND THE RIGHT SOURCE FOR THIS.`] These convictions led Ritschl and his associates to focus on ethical and moral experience in their understanding of theology in general the kingdom of God in specific.
+Ritschl's school of thought was essentially a rejection of Hegelian rationalism.^[Phillips, A Kingdom on Earth, 11.] In his early instruction, Ritschl was heavily influenced by the Tubingen school, studying under Baur, but his tenure in this school of thought was short lived. Becoming convinced their basis in speculation was false, he refuted their position in his own scholarship.^[Stuckenberg, J. H. W. “The Theology of Albrecht Ritschl.” The American Journal of Theology 2.2 (1898): 271.] Instead, Ritschl stressed an immanent, experiential, and pragmatic concept of Christianity. Much like Schleiermacher before him, Ritschl placed weight on religious experience as the test of Christianity's authenticity.^[Evans, Social Gospel in American Religion, 60.] Furthermore, he rejected any attempts at rationalistic proofs of Christianity.^[`FIND THE RIGHT SOURCE FOR THIS.`] These convictions led Ritschl and his associates to focus on ethical and moral experience in their understanding of theology in general and the kingdom of God in specific.
 
 The result of Ritschl's thought was a total reconstruction of orthodox doctrines of Christology, soteriology, ecclesiology, anthropology, and ultimately eschatology. Ritschl redefines the divine relationship of Christ to God the Father as one not of substance but disposition.^[Stuckenberg, 278.] In this way, Christ's position as the one to usher in the kingdom makes him unique, but his moral character is attainable by all humanity and all can obtain this same kind of divinity.^[Stuckenberg, 279.] Ritschl denies original sin, claiming that our nature does not make sin inevitable.^[Stuckenberg, 284.] Therefore, the doctrine of atonement is no longer necessary.^[Stuckenberg, 280.] Though sin is not inherited, it appears universal. Humanity's real problem is ignorance of the good. In this way, the kingdom of sin reigns. Christ, in his selflfessness reveals a better way, and humanity's salvation is found in their selfless subjugation of their will to the divine will. In this way can humanity usher in the kingdom of God.^[Stuckenberg, 284.]
 
@@ -536,9 +536,9 @@ MTgxNTIyMDgzM30sInJ2SGV6b1daUGRzeXpnZjYiOnsiZGlzY3
 Vzc2lvbklkIjoiVHE0TkJlMTQzS3d4WkNMQyIsInN1YiI6Imdo
 OjM3MDQwODQxIiwidGV4dCI6IlRISVMgTkVFRFMgVE8gSEFQUE
 VOLiIsImNyZWF0ZWQiOjE2MDE4MTUzMTUyOTJ9fSwiaGlzdG9y
-eSI6Wy0xNjYzMjE3NjAxLDYyMTk2NjkxMywxMTI5Njc5NjczLD
-EyMDIxNTg5OTEsLTI0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMzc0
-NDc4ODExLC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMT
-E4OSwtMTY3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQs
-LTQzNDQwMjYyNF19
+eSI6Wy0xNjc3ODU3Nyw2MjE5NjY5MTMsMTEyOTY3OTY3MywxMj
+AyMTU4OTkxLC0yNDE4ODA2MjgsMTUzNDU2ODU3NSwtMTM3NDQ3
+ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1ODcsLTE4NTE1MjExOD
+ksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMywyMDAyNTI3OTI0LC00
+MzQ0MDI2MjRdfQ==
 -->
