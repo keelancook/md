@@ -124,9 +124,7 @@ Over the course of his twelve lectures, Harris interacts with the kingdom of God
 ## The European Conversation
 As with postmillennialism, many other aspects of American Protestant theology were developed in conversation with concurrent discussions in Western Europe, especially Great Britain. Kingdom theology was no exception. American thoughts on the kingdom of God were heavily influenced by those in Europe, and reliance on certain scholars is evident.
 
-F.D. Maurice is one such scholar whose theology played an outsized role in what became the majority understanding of the kingdom in American Protestantism at the turn of the century. One of the more prominent theologians in the Church of England during his time, Maurice was both a committed progressive postimillennialist and had much to say about the kingdom as a result.^[Tuveson, Redeemer Nation, 75.] Maurice is perhaps best known for his role in the development of Christian Socialism in Europe, which eventually emerged in its American form as Social Christianity.
-
-Maurice's work gave rise to Christian Socialism in the 1840s and 1850s in England. His work was accompanied by the writings and sermons of others such as John Malcom Forbes and Frederick Robertson during those decades. However, a second wave of scholarship in the 1880s expanded on the concepts of Christian Socialism.^[Phillip, A Kingdom on Earth, xiv.]
+F.D. Maurice is one such scholar whose theology played an outsized role in what became the majority understanding of the kingdom in American Protestantism at the turn of the century. One of the more prominent theologians in the Church of England during his time, Maurice was both a committed progressive postimillennialist and had much to say about the kingdom as a result.^[Tuveson, Redeemer Nation, 75.] Maurice is perhaps best known for his role in the development of Christian Socialism in Europe, which eventually emerged in its American form as Social Christianity. Maurice's work gave rise to Christian Socialism in the 1840s and 1850s in England. His work was accompanied by the writings and sermons of others such as John Malcom Forbes and Frederick Robertson during those decades. However, a second wave of scholarship in the 1880s expanded on the concepts of Christian Socialism.^[Phillip, A Kingdom on Earth, xiv.]
 
 Maurice's initial work on the topic,  _Kingdom of Christ_, was published in 1838 and the result of a series of Anglican tracts written to dialogue with Quakers. In it, Maurice laid out several significant theological concepts concerning the Kingdom of God. He believed that the New Jerusalem was, in fact, realizable. Speaking of Maurice, Phillips writes,
 
@@ -365,35 +363,35 @@ UwfSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVsb3Mi
 LCJzdGFydCI6NDgyMzMsImVuZCI6NDgyMzh9LCI1WElKQnpRTn
 hwUGc1THZ0Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo0
 ODg5MiwiZW5kIjo0ODkwMH0sInR1NlFOdDF1bmY1UUpmQmgiOn
-sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU4ODQwLCJl
-bmQiOjU4ODUxfSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0Ij
-oiY2l0ZSIsInN0YXJ0Ijo3MDIzMywiZW5kIjo3MDIzN30sImZ6
+sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU4ODM5LCJl
+bmQiOjU4ODUwfSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0Ij
+oiY2l0ZSIsInN0YXJ0Ijo3MDIzMiwiZW5kIjo3MDIzNn0sImZ6
 ZFFKZEptMzhzYmI2V2kiOnsidGV4dCI6InByb3Rlc3RhbnQiLC
-JzdGFydCI6NzA0NTcsImVuZCI6NzA0Njd9LCIyNHNSVjRzd2Vu
+JzdGFydCI6NzA0NTYsImVuZCI6NzA0NjZ9LCIyNHNSVjRzd2Vu
 TEp5d1I3Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3Nz
-Q4MCwiZW5kIjo3NzQ4OH0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
+Q3OSwiZW5kIjo3NzQ4N30sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
 dGV4dCI6IkEgcG9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudC
 BwcmVzZW50ZWQgYXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwg
-ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzgxODIsImVuZCI6Nz
-gyNzF9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3NjY5
-NCwiZW5kIjo3NjczNSwidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
+ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzgxODEsImVuZCI6Nz
+gyNzB9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3NjY5
+MywiZW5kIjo3NjczNCwidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
 cgdGhpcyB3aXRoIG90aGVyIHNvdXJjZXMifSwia25IQzRaQ1FF
-Q21YUEdwSyI6eyJzdGFydCI6NzYwNzIsImVuZCI6NzYyMDIsIn
+Q21YUEdwSyI6eyJzdGFydCI6NzYwNzEsImVuZCI6NzYyMDEsIn
 RleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1heSBu
 ZWVkIHRvIGNhcnJ5IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2ggb2
 4gdGhlIHNvY2lh4oCmIn0sIlFMUkNoaDNES3FBcG9CVEciOnsi
-c3RhcnQiOjY0MTQ5LCJlbmQiOjY0MTk4LCJ0ZXh0IjoiZmluZC
+c3RhcnQiOjY0MTQ4LCJlbmQiOjY0MTk3LCJ0ZXh0IjoiZmluZC
 B0aGUgZXhhY3QgcGFnZS4uLiBhZnRlciB5b3UgZmluZCB0aGUg
 c291cmNlISJ9LCI3dWZYZnJNazYzMHM3Tm5NIjp7InN0YXJ0Ij
-o2MjI3NSwiZW5kIjo2MjMwOCwidGV4dCI6ImZpbmQgb3JpZ2lu
+o2MjI3NCwiZW5kIjo2MjMwNywidGV4dCI6ImZpbmQgb3JpZ2lu
 YWwgc291cmNlIGluIFBoaWxsaXBzLiJ9LCIxQ09VdW9XS1dVMU
-5hcEFGIjp7InN0YXJ0Ijo1ODU3OCwiZW5kIjo1ODcyNCwidGV4
+5hcEFGIjp7InN0YXJ0Ijo1ODU3NywiZW5kIjo1ODcyMywidGV4
 dCI6ImBJIHN0aWxsIG5lZWQgZGlyZWN0IHF1b3RlcyBmcm9tIF
 JpdHNjaGwuIEkgY2FuIGdldCB0aG9zZSBvdXQgb2YgU3R1Y2tl
 bmJlcmcuIELigKYifSwiN0lNNlBsbmdLUVYwbVh4YiI6eyJzdG
-FydCI6NTY4ODIsImVuZCI6NTY5MTIsInRleHQiOiJGSU5EIFRI
+FydCI6NTY4ODEsImVuZCI6NTY5MTEsInRleHQiOiJGSU5EIFRI
 RSBSSUdIVCBTT1VSQ0UgRk9SIFRISVMifSwieDc5YnZZZHpxVW
-xkQzZ6RiI6eyJzdGFydCI6NTY2ODYsImVuZCI6NTY4ODEsInRl
+xkQzZ6RiI6eyJzdGFydCI6NTY2ODUsImVuZCI6NTY4ODAsInRl
 eHQiOiJJbiB0aGUgUml0c2NobGlhbiBzY2hvb2wsIEFtZXJpY2
 FuIFByb3Rlc3RhbnRzIHdvdWxkIGZpbmQgYSB0aGVvbG9naWNh
 bCBmb3VuZGF04oCmIn0sIlQ3aUtTQ01ycXNlWmVoRGYiOnsic3
@@ -526,9 +524,14 @@ WTNqTlRqQ0giOnsiZGlzY3Vzc2lvbklkIjoia1hHOHY4cTZJeG
 FtdEFWZCIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IlNo
 b3VsZCB3aGF0IGJlIGl0YWxpY2l6ZWQ/IEkgZG9uJ3Qga25vdy
 B3aGF0IHRoaXMgd2FzIHN1cHBvc2VkIHRvIGJlIG9uLiIsImNy
-ZWF0ZWQiOjE2MDE4MTUxNjAyMzB9fSwiaGlzdG9yeSI6WzYyMT
-k2NjkxMywxMTI5Njc5NjczLDEyMDIxNTg5OTEsLTI0MTg4MDYy
-OCwxNTM0NTY4NTc1LC0xMzc0NDc4ODExLC02Mjc4ODI1ODksLT
-g3NDEzNjU4NywtMTg1MTUyMTE4OSwtMTY3MDA3NjkzNCwtNzY4
-NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQwMjYyNF19
+ZWF0ZWQiOjE2MDE4MTUxNjAyMzB9LCJnczBpZk9MU3U3aHZXRU
+E2Ijp7ImRpc2N1c3Npb25JZCI6IjVYSUpCelFOeHBQZzVMdnQi
+LCJzdWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJhZ2Fpbiwgbm
+90IHN1cmUgd2hhdCB0aGlzIGlzIHJlZmVycmluZyB0byIsImNy
+ZWF0ZWQiOjE2MDE4MTUyMjA4MzN9fSwiaGlzdG9yeSI6WzE5Nj
+QzNTQ1NzMsNjIxOTY2OTEzLDExMjk2Nzk2NzMsMTIwMjE1ODk5
+MSwtMjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLT
+YyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC0xNjcw
+MDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0NDAyNj
+I0XX0=
 -->
