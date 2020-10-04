@@ -2,8 +2,6 @@
 # Introduction
 Eschatology births missiology. Certainly Kahler's statement, as quoted by Bosch, rings true that mission is the mother of theology. However, even Bosch continues by citing Kasemann's claim that apocalyptic literature serves as the headwaters of theology in the New Testament. Bosch concludes these two ideas–—mission and apocalyptic–—are complementary.^[Bosch, Transforming Mission, 2 and Endnote 1] Eschatology and missiology stand in unique relationship one to another. One's eschatology provides shape and direction to missions, while one's missiology provides response to convictions concerning the ultimate *telos* of creation. Walls rightly summarizes this connection, stating, "Eschatology is where theology meets history most intimately, since it is concerned with history’s end and meaning."^[Walls, Eschatology and the Western Missionary Movement, 182.]
  
-# What is going on?
- 
 An eschatological thread can be traced throughout the entire modern missions movements. Stanely writes, "From the genesis of the evangelical Protestant missionary movement in the mid-eighteenth century supporters of Christian missions had drawn from their Bibles the belief that it was the sovereign purpose of God to bring all humanity to the point of submission to the lordship of Jesus Christ."^[Stanely, Future in the Past, 102-103.] This belief in the sovereign purpose of Protestant missions fueled a great deal of missionary endeavors and created the sending engine of Western missions. Stanely continues, "The goal of the Protestant missionary enterprise as understood by its founders was, then, an eschatological one: it was nothing less than the realisation [sic] of the biblical vision of a world transformed by being filled with the knowledge of the Lord as the waters cover the sea."^[Stanely, Future in the Past, 103.] Furthermore, it provided structure and substance to the specific tactics of missionary engagement. One's understanding of their missionary activity rested upon their hope for what it would accomplish. In this way, certain aspects of one's eschatology determined the activities they classified as missions and the manner in which these activities would be executed. Key doctrines, such as millennial views and one's understanding of the kingdom of God, became bell weathers for particular missionary hopes and methods.
  
 
@@ -525,7 +523,8 @@ ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3JlYXRlZCI6MTYwMTYzNz
 k4MzMwN30sImgyRGdlMmFDNmlORW5FUlgiOnsiZGlzY3Vzc2lv
 bklkIjoiMjRzUlY0c3dlbkxKeXdSNyIsInN1YiI6ImdoOjcxMj
 kzOTg3IiwidGV4dCI6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQi
-OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6Wy02Mjc4ODI1OD
-ksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwtMTY3MDA3NjkzNCwt
-NzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQwMjYyNF19
+OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6WzIxMTY0OTM0ND
+YsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC0x
+NjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0ND
+AyNjI0XX0=
 -->
