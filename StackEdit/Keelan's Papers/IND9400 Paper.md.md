@@ -154,9 +154,9 @@ May need to quote the dialectical bridge language here... or at least give it a 
 He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness.^[ Tuveson, Redeemer Nation, 82.]`
 
 ## The European Conversation
-As with postmillennialism, many other aspects of American Protestant theology were developed in conversation with concurrent discussions in Western Europe, especially Great Brittain. Kingdom theology was no exception. American thoughts on the kingdom of God were heavily influenced by those in Europe, and reliance on certain scholars is evident.
+As with postmillennialism, many other aspects of American Protestant theology were developed in conversation with concurrent discussions in Western Europe, especially Great Britain. Kingdom theology was no exception. American thoughts on the kingdom of God were heavily influenced by those in Europe, and reliance on certain scholars is evident.
 
-F.D. aurice is one such scholar whose theology played an outsized role in what became the majority understanding of the kingdom in American Protestantism at the turn of the century. One of the more prominent theologians in the Church of England during his time, Maurice was both a committed progressive postimillennialist and had much to say about the kingdom as a result.^[Tuveson, Redeemer Nation, 75.] Maurice is perhaps best known for his role in the development of Christian Socialism in Europe, which eventually emerged in its American form as Social Christianity.
+F.D. Maurice is one such scholar whose theology played an outsized role in what became the majority understanding of the kingdom in American Protestantism at the turn of the century. One of the more prominent theologians in the Church of England during his time, Maurice was both a committed progressive postimillennialist and had much to say about the kingdom as a result.^[Tuveson, Redeemer Nation, 75.] Maurice is perhaps best known for his role in the development of Christian Socialism in Europe, which eventually emerged in its American form as Social Christianity.
 
 Maurice's work gave rise to Christian Socialism in the 1840s and 1850s in England. His work was accompanied by the writings and sermons of others such as John Malcom Forbes and Frederick Robertson during those decades. However, a second wave of scholarship in the 1880s expanded on the concepts of Christian Socialism.^[Phillip, A Kingdom on Earth, xiv.]
 
@@ -556,9 +556,9 @@ NzlidllkenFVbGRDNnpGIiwic3ViIjoiZ2g6MzcwNDA4NDEiLC
 J0ZXh0IjoiU09NRVRISU5HIElTIFZFUlkgTUVTU0VEIFVQIEhF
 UkUuIFBBUkFHUkFQSFMgQVJFIE1JU1NJTkcgQU5EIFBBUkFHUk
 FQSFMgQVJFIFJFUEVBVElORyIsImNyZWF0ZWQiOjE2MDE4MTM0
-Njc3Mzl9fSwiaGlzdG9yeSI6Wy0xNjg5MTI3MjYzLDEyMDIxNT
-g5OTEsLTI0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMzc0NDc4ODEx
-LC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwtMT
-Y3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQw
-MjYyNF19
+Njc3Mzl9fSwiaGlzdG9yeSI6WzYwNDc4NzA3NiwxMjAyMTU4OT
+kxLC0yNDE4ODA2MjgsMTUzNDU2ODU3NSwtMTM3NDQ3ODgxMSwt
+NjI3ODgyNTg5LC04NzQxMzY1ODcsLTE4NTE1MjExODksLTE2Nz
+AwNzY5MzQsLTc2ODU0ODUyMywyMDAyNTI3OTI0LC00MzQ0MDI2
+MjRdfQ==
 -->
