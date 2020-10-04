@@ -30,15 +30,13 @@ The Protestant conversation concerning the millennium certainly predates America
 
 Throughout the history of the conversation, the debate has been termed as "millenarians vs. millennialists", "millenarians vs. millenists", and "premillennialists vs. postmillennialists" among other less-accepted options. Perhaps Ernest Tuveson most siginificantly swayed the conversation toward the use of millenarians (premillennialists) and millennialists (postmillennialists). Tuveson notes that the Protestant conversation concerning the millennium was alive and well at least as far back as the seventeenth century, and he finds the commonly accepted terms today as unhelpful monikers for earlier views.^[Tuveson,  Redeemer Nation, 34. See also Tuveson, Millennium and Utopia, 71-112, for a thorough treatment of eschatological development in British Protestant thought prior to the 1800s.] Walls concurs, asserting the terms premillennialism and postmillennialism had not been invented in the early centuries of the Protestant debate on eschatology.^[Walls,  Eschatology and the Western Missionary Movement, 190.]
 
-General commentary and academic debate concerning the nature of the millennium was happening extensively in Britain. Millenarians, for their part, placed little confidence in society at large and humanity's ability to bring about lasting progress.^[Sandeen,  [Roots](https://www.notion.so/keelan/The-Roots-of-Fundamentalism-51bdfa4bb11845cb9fa3fe40e69a1717#6aa7636b43f14361a132ef57faf06199), 13.] Progressive millennialists, on the other hand, placed increasing trust in the wheels of progress as God's providential tool in history to bring about his kingdom. Tuveson points to a secularization thesis, beginning prior to the eighteenth century, that increasingly influenced millennialist thought and in turn shaped Protestantism and Western society as a whole. Taken from this perspective, the millennialist theology was as significant to the modern, historically positivist understanding of progress as secular enlightenment philosophy.^[Tuveson,  [Millennium and Utopia](https://www.notion.so/keelan/Millennium-and-Utopia-300bec85c1fd4d71a6e7a4ad34866bd3#3e6fb6ceb3a748c5851aec8e7f747d87), 75.] Over time, the concepts of Providence were wed to those of natural law, humanity's social and religious development, and the laws of universal progress.^[Tuveson, Millennium and Utopia, 139, 149, 152, outlines the trajectory of millennial doctrine as it increasingly conflates first with the concept of natural law and subsequently with the scientific ideas of social and racial progress, ultimately culminating thein a doctrine of progress as universal law.] 
+General commentary and academic debate concerning the nature of the millennium was happening extensively in Britain. Millenarians, for their part, placed little confidence in society at large and humanity's ability to bring about lasting progress.^[Sandeen,  Roots, 13.] Progressive millennialists, on the other hand, placed increasing trust in the wheels of progress as God's providential tool in history to bring about his kingdom. Tuveson points to a secularization thesis, beginning prior to the eighteenth century, that increasingly influenced millennialist thought and in turn shaped Protestantism and Western society as a whole. Taken from this perspective, the millennialist theology was as significant to the modern, historically positivist understanding of progress as secular enlightenment philosophy.^[Tuveson,  Millennium and Utopia, 75.] Over time, the concepts of Providence were wed to those of natural law, humanity's social and religious development, and the laws of universal progress.^[Tuveson, Millennium and Utopia, 139, 149, 152, outlines the trajectory of millennial doctrine as it increasingly conflates first with the concept of natural law and subsequently with the scientific ideas of social and racial progress, ultimately culminating thein a doctrine of progress as universal law.] 
 
 By the eighteenth century, the millennialist position was generally accepted by the majority of Britisth Protestants. Despite certain groups advocating for a millenarian position during the French Revolution, views such as the Puritan "Fifth Monarchy" did more to distance many Protestants from the movement. Sandeen writes,
 
-> "In reaction to the excesses of the Puritan revolution, millenarianism fell into disfavor in the eighteenth century, but churchmen did not return to the Augustinian position. In harmony with the Lockean tradition of rationalism and optimism, a new eschatology, most influentially stated by the Salisbury rector Daniel Whitby, emphasized the continued success of the church, the steady improvement of man and society, and the eventual culmination of Christian history in the coming of a literal millennium. Only at the end of that blessed age was Christ's second coming expected."^[Sandeen,  [Roots of Fundamentalism](https://www.notion.so/keelan/The-Roots-of-Fundamentalism-51bdfa4bb11845cb9fa3fe40e69a1717#989e1c7f325f4f29bc1c0bfe75f726e7), 5.]
+> "In reaction to the excesses of the Puritan revolution, millenarianism fell into disfavor in the eighteenth century, but churchmen did not return to the Augustinian position. In harmony with the Lockean tradition of rationalism and optimism, a new eschatology, most influentially stated by the Salisbury rector Daniel Whitby, emphasized the continued success of the church, the steady improvement of man and society, and the eventual culmination of Christian history in the coming of a literal millennium. Only at the end of that blessed age was Christ's second coming expected."^[Sandeen,  Roots of Fundamentalism, 5.]
 
-Whitby's new way served as the foundation for the development of an increasingly secular understanding of progress as an analog to millennial expectations. British Protestants were not looking for the imminent return of King Jesus.^[Sandeen,  [Roots](https://www.notion.so/keelan/The-Roots-of-Fundamentalism-51bdfa4bb11845cb9fa3fe40e69a1717#f4130ecffff0412fa2a29119f5d897df), 12.]
-
-Instead, they were increasingly confident in the wheels of human progress, especially the efforts of the church in directing society, as the agent of the coming kingdom. This early Protestant millennial optimism would not stay in Britain, however, as a new nation was being established across the ocean.
+Whitby's new way served as the foundation for the development of an increasingly secular understanding of progress as an analog to millennial expectations. British Protestants were not looking for the imminent return of King Jesus.^[Sandeen,  Roots, 12.] Instead, they were increasingly confident in the wheels of human progress, especially the efforts of the church in directing society, as the agent of the coming kingdom. This early Protestant millennial optimism would not stay in Britain, however, as a new nation was being established across the ocean.
 
 ## A Revolutionary Idea?
 In the United States, a largely Protestant America was ripe for millennial speculation. The American religious landscape was a true offspring of European Protestantism, especially that of British separatists. De Jong writes,
@@ -387,57 +385,57 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI4NFN2TmNlOE5rQkdKMEYzIjp7In
-RleHQiOiJQQVJBR1JBUEgiLCJzdGFydCI6MjExOTQsImVuZCI6
-MjEyMDN9LCJReDVTamNnTlE1VGpkclcwIjp7InRleHQiOiJ3b3
-JkbHkiLCJzdGFydCI6MjM3NTEsImVuZCI6MjM3NTd9LCJGazls
+RleHQiOiJQQVJBR1JBUEgiLCJzdGFydCI6MjA2OTUsImVuZCI6
+MjA3MDR9LCJReDVTamNnTlE1VGpkclcwIjp7InRleHQiOiJ3b3
+JkbHkiLCJzdGFydCI6MjMyNTIsImVuZCI6MjMyNTh9LCJGazls
 OGdDVTZ3VktkZEp6Ijp7InRleHQiOiJ0aGUiLCJzdGFydCI6Mj
-c0MTgsImVuZCI6Mjc0MTh9LCJRQlg1bjhBMDBSNzBFRTJwIjp7
-InRleHQiOiJDb25mZXJlbmNlcyIsInN0YXJ0IjoyODU1OSwiZW
-5kIjoyODU3MH0sIkpsSzM2TTVCbnNRY1dINDQiOnsidGV4dCI6
-InByZW1pbGxlbm5pYWxpc20iLCJzdGFydCI6Mjk1NjgsImVuZC
-I6Mjk1ODR9LCJoeWlWcmptQlhZeDhJaU9zIjp7InRleHQiOiJO
-ZXZlcnRoZWxlc3MiLCJzdGFydCI6MzA4NDgsImVuZCI6MzA4Nj
-B9LCJpdUpnMFJwZmgyNDRaSldIIjp7InRleHQiOiJUaG91Z2gi
-LCJzdGFydCI6NDA4MDAsImVuZCI6NDA4MDZ9LCJDM3BYUVlFMl
-ZzY3NUUFFRIjp7InRleHQiOiJzaWMiLCJzdGFydCI6NDE4MzYs
-ImVuZCI6NDE4Mzl9LCJNWlZqd0d0RFp2REZlRXJkIjp7InRleH
-QiOiJGSU5EIiwic3RhcnQiOjQyMTYyLCJlbmQiOjQyMTY2fSwi
+Y5MTksImVuZCI6MjY5MTl9LCJRQlg1bjhBMDBSNzBFRTJwIjp7
+InRleHQiOiJDb25mZXJlbmNlcyIsInN0YXJ0IjoyODA2MCwiZW
+5kIjoyODA3MX0sIkpsSzM2TTVCbnNRY1dINDQiOnsidGV4dCI6
+InByZW1pbGxlbm5pYWxpc20iLCJzdGFydCI6MjkwNjksImVuZC
+I6MjkwODV9LCJoeWlWcmptQlhZeDhJaU9zIjp7InRleHQiOiJO
+ZXZlcnRoZWxlc3MiLCJzdGFydCI6MzAzNDksImVuZCI6MzAzNj
+F9LCJpdUpnMFJwZmgyNDRaSldIIjp7InRleHQiOiJUaG91Z2gi
+LCJzdGFydCI6NDAzMDEsImVuZCI6NDAzMDd9LCJDM3BYUVlFMl
+ZzY3NUUFFRIjp7InRleHQiOiJzaWMiLCJzdGFydCI6NDEzMzcs
+ImVuZCI6NDEzNDB9LCJNWlZqd0d0RFp2REZlRXJkIjp7InRleH
+QiOiJGSU5EIiwic3RhcnQiOjQxNjYzLCJlbmQiOjQxNjY3fSwi
 ZkdnenpRY3JuWkdaUFZRaSI6eyJ0ZXh0IjoiRklORCIsInN0YX
-J0Ijo0NTUyMSwiZW5kIjo0NTUyNX0sImtsVkZxOGNnV1duamNv
-c1oiOnsidGV4dCI6IkluIiwic3RhcnQiOjQ2NjU0LCJlbmQiOj
-Q2NjU2fSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVs
-b3MiLCJzdGFydCI6NDkxMzksImVuZCI6NDkxNDR9LCI1WElKQn
+J0Ijo0NTAyMiwiZW5kIjo0NTAyNn0sImtsVkZxOGNnV1duamNv
+c1oiOnsidGV4dCI6IkluIiwic3RhcnQiOjQ2MTU1LCJlbmQiOj
+Q2MTU3fSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVs
+b3MiLCJzdGFydCI6NDg2NDAsImVuZCI6NDg2NDV9LCI1WElKQn
 pRTnhwUGc1THZ0Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0
-Ijo1MDA5NiwiZW5kIjo1MDEwNH0sInR1NlFOdDF1bmY1UUpmQm
-giOnsidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjYwMDQ0
-LCJlbmQiOjYwMDU1fSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZX
-h0IjoiY2l0ZSIsInN0YXJ0Ijo3MTQzNywiZW5kIjo3MTQ0MX0s
+Ijo0OTU5NywiZW5kIjo0OTYwNX0sInR1NlFOdDF1bmY1UUpmQm
+giOnsidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU5NTQ1
+LCJlbmQiOjU5NTU2fSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZX
+h0IjoiY2l0ZSIsInN0YXJ0Ijo3MDkzOCwiZW5kIjo3MDk0Mn0s
 ImZ6ZFFKZEptMzhzYmI2V2kiOnsidGV4dCI6InByb3Rlc3Rhbn
-QiLCJzdGFydCI6NzE2NjEsImVuZCI6NzE2NzF9LCIyNHNSVjRz
+QiLCJzdGFydCI6NzExNjIsImVuZCI6NzExNzJ9LCIyNHNSVjRz
 d2VuTEp5d1I3Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ij
-o3ODY4NCwiZW5kIjo3ODY5Mn0sIndpVWRHeUZ0c3E4Nzc2b2Qi
+o3ODE4NSwiZW5kIjo3ODE5M30sIndpVWRHeUZ0c3E4Nzc2b2Qi
 OnsidGV4dCI6IkEgcG9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bW
 VudCBwcmVzZW50ZWQgYXMgb3B0aW1pc20gaW4gdGhlIG92ZXJh
-bGwgZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzkzODYsImVuZC
-I6Nzk0NzV9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3
-Nzg5OCwiZW5kIjo3NzkzOSwidGV4dCI6IkNvbnNkZXIgc3R1Zm
+bGwgZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6Nzg4ODcsImVuZC
+I6Nzg5NzZ9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3
+NzM5OSwiZW5kIjo3NzQ0MCwidGV4dCI6IkNvbnNkZXIgc3R1Zm
 ZpbmcgdGhpcyB3aXRoIG90aGVyIHNvdXJjZXMifSwia25IQzRa
-Q1FFQ21YUEdwSyI6eyJzdGFydCI6NzcyNzYsImVuZCI6Nzc0MD
-YsInRleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1h
+Q1FFQ21YUEdwSyI6eyJzdGFydCI6NzY3NzcsImVuZCI6NzY5MD
+csInRleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1h
 eSBuZWVkIHRvIGNhcnJ5IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2
 ggb24gdGhlIHNvY2lh4oCmIn0sIlFMUkNoaDNES3FBcG9CVEci
-Onsic3RhcnQiOjY1MzUzLCJlbmQiOjY1NDAyLCJ0ZXh0IjoiZm
+Onsic3RhcnQiOjY0ODU0LCJlbmQiOjY0OTAzLCJ0ZXh0IjoiZm
 luZCB0aGUgZXhhY3QgcGFnZS4uLiBhZnRlciB5b3UgZmluZCB0
 aGUgc291cmNlISJ9LCI3dWZYZnJNazYzMHM3Tm5NIjp7InN0YX
-J0Ijo2MzQ3OSwiZW5kIjo2MzUxMiwidGV4dCI6ImZpbmQgb3Jp
+J0Ijo2Mjk4MCwiZW5kIjo2MzAxMywidGV4dCI6ImZpbmQgb3Jp
 Z2luYWwgc291cmNlIGluIFBoaWxsaXBzLiJ9LCIxQ09VdW9XS1
-dVMU5hcEFGIjp7InN0YXJ0Ijo1OTc4MiwiZW5kIjo1OTkyOCwi
+dVMU5hcEFGIjp7InN0YXJ0Ijo1OTI4MywiZW5kIjo1OTQyOSwi
 dGV4dCI6ImBJIHN0aWxsIG5lZWQgZGlyZWN0IHF1b3RlcyBmcm
 9tIFJpdHNjaGwuIEkgY2FuIGdldCB0aG9zZSBvdXQgb2YgU3R1
 Y2tlbmJlcmcuIELigKYifSwiN0lNNlBsbmdLUVYwbVh4YiI6ey
-JzdGFydCI6NTgwODYsImVuZCI6NTgxMTYsInRleHQiOiJGSU5E
+JzdGFydCI6NTc1ODcsImVuZCI6NTc2MTcsInRleHQiOiJGSU5E
 IFRIRSBSSUdIVCBTT1VSQ0UgRk9SIFRISVMifSwieDc5YnZZZH
-pxVWxkQzZ6RiI6eyJzdGFydCI6NTc4OTAsImVuZCI6NTgwODUs
+pxVWxkQzZ6RiI6eyJzdGFydCI6NTczOTEsImVuZCI6NTc1ODYs
 InRleHQiOiJJbiB0aGUgUml0c2NobGlhbiBzY2hvb2wsIEFtZX
 JpY2FuIFByb3Rlc3RhbnRzIHdvdWxkIGZpbmQgYSB0aGVvbG9n
 aWNhbCBmb3VuZGF04oCmIn19LCJjb21tZW50cyI6eyJlSjBTVX
@@ -546,7 +544,7 @@ OiJ4NzlidllkenFVbGRDNnpGIiwic3ViIjoiZ2g6MzcwNDA4ND
 EiLCJ0ZXh0IjoiU09NRVRISU5HIElTIFZFUlkgTUVTU0VEIFVQ
 IEhFUkUuIFBBUkFHUkFQSFMgQVJFIE1JU1NJTkcgQU5EIFBBUk
 FHUkFQSFMgQVJFIFJFUEVBVElORyIsImNyZWF0ZWQiOjE2MDE4
-MTM0Njc3Mzl9fSwiaGlzdG9yeSI6WzIwNTM1OTY1NDgsMTIwMj
+MTM0Njc3Mzl9fSwiaGlzdG9yeSI6WzEyNjk5MzQwMTIsMTIwMj
 E1ODk5MSwtMjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4
 MTEsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC
 0xNjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0
