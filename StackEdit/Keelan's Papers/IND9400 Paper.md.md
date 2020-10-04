@@ -380,6 +380,16 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 
 Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
 
+# Conclusion
+Eschatology shapes missiology. One's convictions concerning the goal of creation ultimately influence their beliefs about the missions methods required to see it through. The period from 1880 to 1920 in the United States provides a clear demonstration of this relationship at play. The majority of American Protestants held views on the millennium and the kingdom of God that proved determinative in their understanding of the Christian mission in relation to record-setting immigration during the era. These theological presuppositions caused American Protestants to conflate gospel proclamation with cultural promotion, resulting in an applied theology of Christianize and Americanize.
+
+Postmillennialism long held sway among American Protestants. From the first settlers forward, a clear thread of millennial expectations runs through the nation. Though a minority report exists throughout American history that remained convinced of a premillennial understanding of the end of time, by the Gilded Age American Protestants were largely captivated by the expectation of a gradual blossoming of the millennium. For many at the end of the nineteenth century, that day was fast at hand. This commitment produced an overall optimism as Protestants worked hard to realize the kingdom they awaited, and it allowed the wheels of history to be viewed through the lens of progress as a spiritual law guiding its establishment.
+
+With so many working toward a kingdom to be realized in their generation, or shortly thereafter, the object of that striving required definition. A commitment to postmillennialism by American Protestants at the end of the nineteenth century led to an over-realized understanding of the kingdom of God. Influenced heavily by concurrent conversations in Britain and Germany, especially the work of F.D. Maurice and Alrbect Ritschl, many American Protestants filled their kingdom vision with a totally immanent understanding of the kingdom that could be developed, constructed, and built through the ethical and social activity of the church. The nature of the kingdom was closely aligned with the prevailing, progressive direction of Western, especially American, civilization. The means of establishing this kingdom were broaden to include the work of society-building and cultural assimilation.
+
+Taken together, a postmillennial commitment and an over-realized kingdom theology linked to American civilization led to a mission to Christianize and Americanize. The resulting eschatological framework can be referred to as a conditional manifest destiny that required American Protestants obedience to their God-given special role in the establishing this kingdom. When confronted by record-setting immigration at the turn of the century, this developed into an applied theology which conflated the promotion of American, Anglo-Saxon cultural ideals alongside the gospel. Some Protestants viewed immigration as a providential opportunity to promote Christianity and the American way of life through the arrival of so many from different cultures and religions. For others, however, the arrival of foreigners was a threat to the civilization they worked so hard to establish, and the mission was cast as one of protecting the developing kingdom of God.
+
+Hiebert is correct in his assessment concerning the period from 1880-1920 when he places it in his era of noncontextualization. What is more, these mission methods not only refused to contextualize the gospel in a manner that led to indigenous expressions of Christianity within other cultures, they actively attempted to supplant foreign culture for Americanism, equating American culture with the biblical ideal of the kingdom society. As Hiebert notes elsewhere, noncontextualization toward a different group's culture is, in fact, uncritical contextualization toward your own.^[Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in _MissionShift: Global Mission Issues in the Third Millennium_. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010. p.90.]
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIzS0l5bmtVMWRhU1VoZkJiIjp7In
 RleHQiOiI6Iiwic3RhcnQiOjk3NjIsImVuZCI6OTc2M30sIjg0
@@ -515,8 +525,8 @@ ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3JlYXRlZCI6MTYwMTYzNz
 k4MzMwN30sImgyRGdlMmFDNmlORW5FUlgiOnsiZGlzY3Vzc2lv
 bklkIjoiMjRzUlY0c3dlbkxKeXdSNyIsInN1YiI6ImdoOjcxMj
 kzOTg3IiwidGV4dCI6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQi
-OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6Wy03NTAwNTY3MT
-YsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC0x
-NjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0ND
-AyNjI0XX0=
+OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6Wy0xMzc0NDc4OD
+ExLC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwt
+MTY3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzND
+QwMjYyNF19
 -->
