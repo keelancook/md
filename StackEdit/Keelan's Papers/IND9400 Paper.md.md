@@ -1,6 +1,6 @@
 
 # Introduction
-Eschatology births missiology. Certainly Kahler's statement, as quoted by Bosch, rings true that mission is the mother of theology. However, even Bosch continues by citing Kasemann's claim that apocalyptic literature serves as the headwaters of theology in the New Testament. Bosch concludes these two ideas–—mission and apocalyptic–—are complementary.^[Bosch, Transforming Mission, 2.] Eschatology and missiology stand in unique relationship one to another. One's eschatology provides shape and direction to missions, while one's missiology provides response to convictions concerning the ultimate *telos* of creation. Walls rightly summarizes this connection, stating, "Eschatology is where theology meets history most intimately, since it is concerned with history’s end and meaning."^[Walls, Eschatology and the Western Missionary Movement, 182.]
+Eschatology births missiology. Certainly Kahler's statement, as quoted by Bosch, rings true that mission is the mother of theology. However, even Bosch continues by citing Kasemann's claim that apocalyptic literature serves as the headwaters of theology in the New Testament. Bosch concludes these two ideas—mission and apocalyptic—are complementary.^[Bosch, Transforming Mission, 2.] Eschatology and missiology stand in unique relationship one to another. One's eschatology provides shape and direction to missions, while one's missiology provides response to convictions concerning the ultimate *telos* of creation. Walls rightly summarizes this connection, stating, "Eschatology is where theology meets history most intimately, since it is concerned with history’s end and meaning."^[Walls, Eschatology and the Western Missionary Movement, 182.]
  
 An eschatological thread can be traced throughout the entire modern missions movements. Stanley writes, "From the genesis of the evangelical Protestant missionary movement in the mid-eighteenth century supporters of Christian missions had drawn from their Bibles the belief that it was the sovereign purpose of God to bring all humanity to the point of submission to the lordship of Jesus Christ."^[Stanley, Future in the Past, 102-103.] This belief in the sovereign purpose of Protestant missions fueled a great deal of missionary endeavors and created the sending engine of Western missions. Stanley continues, "The goal of the Protestant missionary enterprise as understood by its founders was, then, an eschatological one: it was nothing less than the realisation [sic] of the biblical vision of a world transformed by being filled with the knowledge of the Lord as the waters cover the sea."^[Stanley, Future in the Past, 103.] Furthermore, it provided structure and substance to the specific tactics of missionary engagement. One's understanding of their missionary activity rested upon their hope for what it would accomplish. In this way, certain aspects of one's eschatology determined the activities they classified as missions and the manner in which these activities would be executed. Key doctrines, such as millennial views and one's understanding of the kingdom of God, became bell weathers for particular missionary hopes and methods.
  
@@ -16,7 +16,7 @@ In 1911, Volume III of *A Dictionary of the Bible* included an article defining 
 
 > "A name suggested by the period of 1000 years described in Rev 20:4-7, during which Satan is confined in the abyss, and the martyr saints reign with Christ. Hence variously understood, according to the interpretation put upon the passage, either as (1) the period, present or future, definite or indefinite, 'during which the kingdom of Christ will be established upon earth, and will dominate over all other authority' (Cent. Diet.); or more specially (2) as the period in which 'Christ will reign in bodily presence on earth for a thousand years' (Oxf. Eng. Dict. s. 'Chiliasm')."^[Brown, Millennium, Dictionary, 370.]
 
-Brown's definition serves as a typical explanation of the millennium from his era, and in the article, he makes two significant points concerning the prevailing eschatological views of Protestant Americans at that time. First, Brown rather quickly dismisses premillennialism. While noting its continued existence, Brown states that the position lives at the margins of opinion and had ultimately failed to garner the support of the Protestant church. Brown writes, "Pre-millenarian views have, indeed, been revived from time to time, now in grosser, now in more spiritual form, and have never been without their advocates in the Church ; but they have failed to win general acceptance." ^[Brown, Millennium, Dictionary, 373.] Second, Brown notes the prominence of Amillennialism and especially Postmillennialism. He continues, "The Church as a whole, Protestant as well as Catholic, has either adopted Augustine's identification of the Millennium with the Church militant, or else looks for a future period of prosperity, preceding the second advent of Christ."^[Brown,  Millennium, Dictionary, 373.]
+Brown's definition serves as a typical explanation of the millennium from his era, and in the article, he makes two significant points concerning the prevailing eschatological views of Protestant Americans at that time. First, Brown rather quickly dismisses premillennialism. While noting its continued existence, Brown states that the position lives at the margins of opinion and had ultimately failed to garner the support of the Protestant church. Brown writes, "Pre-millenarian views have, indeed, been revived from time to time, now in grosser, now in more spiritual form, and have never been without their advocates in the Church; but they have failed to win general acceptance." ^[Brown, Millennium, Dictionary, 373.] Second, Brown notes the prominence of Amillennialism and especially Postmillennialism. He continues, "The Church as a whole, Protestant as well as Catholic, has either adopted Augustine's identification of the Millennium with the Church militant, or else looks for a future period of prosperity, preceding the second advent of Christ."^[Brown,  Millennium, Dictionary, 373.]
 
 ## Postmillennialism: The Majority View
 Brown's assertion concerning the prominence of the postmillennial position in the Gilded Age and beginning of the Progressive era enjoys wide support.^[Numerous sources confirm the prevalence, and even ubiquity, of the postmillennial position in the United States throughout the nineteenth and early twentieth centuries. See Smith, Gary Scott. Heaven in the American Imagination. Oxford University Press, 2011, 128; Utzinger, Yet Saints Their Watch are Keeping, 111; Ahlstrom, A Religious History of the American People, 845; Moorhead, Between Progress, 525-526.] Sydney Ahlstrom writes that the American of this era was "characteristically a 'postmillennialist.'"^[Ahlstrom,  A Religious History of the American People, 845.] James Moorhead records that clergymen of the nineteenth century referred to postmillennialism as "the commonly received doctrine."^[Moorhead, Between Progress, 525.] As Brown notes, it would be an overstatement to insist that every American Protestant adhered to a postmillennial eschatology, bbut it was certainly the majority perspective for at least a century. This perspective did much to impact both the fabric of American culture and the missionary methods of those Protestants. Moorhead writes,
@@ -340,86 +340,86 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJReDVTamNnTlE1VGpkclcwIjp7In
-RleHQiOiJ3b3JkbHkiLCJzdGFydCI6MjMwNTYsImVuZCI6MjMw
-NjJ9LCJGazlsOGdDVTZ3VktkZEp6Ijp7InRleHQiOiJ0aGUiLC
-JzdGFydCI6MjY3MTUsImVuZCI6MjY3MTV9LCJRQlg1bjhBMDBS
+RleHQiOiJ3b3JkbHkiLCJzdGFydCI6MjMwNTMsImVuZCI6MjMw
+NTl9LCJGazlsOGdDVTZ3VktkZEp6Ijp7InRleHQiOiJ0aGUiLC
+JzdGFydCI6MjY3MTIsImVuZCI6MjY3MTJ9LCJRQlg1bjhBMDBS
 NzBFRTJwIjp7InRleHQiOiJDb25mZXJlbmNlcyIsInN0YXJ0Ij
-oyNzg1NSwiZW5kIjoyNzg2Nn0sImtsVkZxOGNnV1duamNvc1oi
-OnsidGV4dCI6IkluIiwic3RhcnQiOjQ1NzQ4LCJlbmQiOjQ1Nz
-UwfSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVsb3Mi
-LCJzdGFydCI6NDgyMzMsImVuZCI6NDgyMzh9LCI1WElKQnpRTn
+oyNzg1MiwiZW5kIjoyNzg2M30sImtsVkZxOGNnV1duamNvc1oi
+OnsidGV4dCI6IkluIiwic3RhcnQiOjQ1NzQ1LCJlbmQiOjQ1Nz
+Q3fSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVsb3Mi
+LCJzdGFydCI6NDgyMzAsImVuZCI6NDgyMzV9LCI1WElKQnpRTn
 hwUGc1THZ0Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo0
-ODg5MiwiZW5kIjo0ODkwMH0sInR1NlFOdDF1bmY1UUpmQmgiOn
-sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU2ODg5LCJl
-bmQiOjU2ODg5fSwiZnpkUUpkSm0zOHNiYjZXaSI6eyJ0ZXh0Ij
-oicHJvdGVzdGFudCIsInN0YXJ0Ijo2NzQ5NywiZW5kIjo2NzUw
-N30sIjI0c1JWNHN3ZW5MSnl3UjciOnsidGV4dCI6IkNvbnNpZG
-VyIiwic3RhcnQiOjc0NTU1LCJlbmQiOjc0NTYzfSwid2lVZEd5
+ODg4OSwiZW5kIjo0ODg5N30sInR1NlFOdDF1bmY1UUpmQmgiOn
+sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU2ODg2LCJl
+bmQiOjU2ODg2fSwiZnpkUUpkSm0zOHNiYjZXaSI6eyJ0ZXh0Ij
+oicHJvdGVzdGFudCIsInN0YXJ0Ijo2NzQ5NCwiZW5kIjo2NzUw
+NH0sIjI0c1JWNHN3ZW5MSnl3UjciOnsidGV4dCI6IkNvbnNpZG
+VyIiwic3RhcnQiOjc0NTUyLCJlbmQiOjc0NTYwfSwid2lVZEd5
 RnRzcTg3NzZvZCI6eyJ0ZXh0IjoiQSBwb3N0bWlsbGVubmlhbG
 lzdCBjb21taXRtZW50IHByZXNlbnRlZCBhcyBvcHRpbWlzbSBp
 biB0aGUgb3ZlcmFsbCBkaXJlY3Rpb24gb+KApiIsInN0YXJ0Ij
-o3NTI1NywiZW5kIjo3NTM0Nn0sIlhLNlZ0S1RyVDVXV25xbUki
+o3NTI1NCwiZW5kIjo3NTM0M30sIlhLNlZ0S1RyVDVXV25xbUki
 OnsidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbmcgdGhpcyB3aXRoIG
-90aGVyIHNvdXJjZXMiLCJzdGFydCI6NzM3NjksImVuZCI6NzM4
-MTB9LCJrbkhDNFpDUUVDbVhQR3BLIjp7InRleHQiOiJUaGVzZS
+90aGVyIHNvdXJjZXMiLCJzdGFydCI6NzM3NjYsImVuZCI6NzM4
+MDd9LCJrbkhDNFpDUUVDbVhQR3BLIjp7InRleHQiOiJUaGVzZS
 BmaXJzdCB0d28gZm9vdG5vdGVzIG1heSBuZWVkIHRvIGNhcnJ5
 IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2ggb24gdGhlIHNvY2lh4o
-CmIiwic3RhcnQiOjczMTQ3LCJlbmQiOjczMjc3fSwiUUxSQ2ho
+CmIiwic3RhcnQiOjczMTQ0LCJlbmQiOjczMjc0fSwiUUxSQ2ho
 M0RLcUFwb0JURyI6eyJ0ZXh0IjoiZmluZCB0aGUgZXhhY3QgcG
 FnZS4uLiBhZnRlciB5b3UgZmluZCB0aGUgc291cmNlISIsInN0
-YXJ0Ijo2MTE4OSwiZW5kIjo2MTIzOH0sIjd1Zlhmck1rNjMwcz
+YXJ0Ijo2MTE4NiwiZW5kIjo2MTIzNX0sIjd1Zlhmck1rNjMwcz
 dObk0iOnsidGV4dCI6ImZpbmQgb3JpZ2luYWwgc291cmNlIGlu
-IFBoaWxsaXBzLiIsInN0YXJ0Ijo1OTMxNiwiZW5kIjo1OTM0OX
+IFBoaWxsaXBzLiIsInN0YXJ0Ijo1OTMxMywiZW5kIjo1OTM0Nn
 0sIjFDT1V1b1dLV1UxTmFwQUYiOnsidGV4dCI6ImBJIHN0aWxs
 IG5lZWQgZGlyZWN0IHF1b3RlcyBmcm9tIFJpdHNjaGwuIEkgY2
 FuIGdldCB0aG9zZSBvdXQgb2YgU3R1Y2tlbmJlcmcuIELigKYi
-LCJzdGFydCI6NTY4ODksImVuZCI6NTY4ODl9LCJUN2lLU0NNcn
+LCJzdGFydCI6NTY4ODYsImVuZCI6NTY4ODZ9LCJUN2lLU0NNcn
 FzZVplaERmIjp7InRleHQiOiJORUVEIFRPIFNFRSBISVMgRk9P
 VE5PVEUgRk9SIFRISVMgU1RBVEVNRU5ULiBTVVJFTFkgSEUgR0
 9FUyBJTlRPIERFVEFJTCBBQk9VVCBT4oCmIiwic3RhcnQiOjE5
-MDYyLCJlbmQiOjE5MTc0fSwicEhRMUpsY1hUMExSRkt4cSI6ey
+MDU5LCJlbmQiOjE5MTcxfSwicEhRMUpsY1hUMExSRkt4cSI6ey
 J0ZXh0IjoiX0NPTlNJREVSIENJVElORyBIT1BLSU5TIERJUkVD
-VExZXyIsInN0YXJ0IjoxOTM2MSwiZW5kIjoxOTM5NX0sImNsMk
+VExZXyIsInN0YXJ0IjoxOTM1OCwiZW5kIjoxOTM5Mn0sImNsMk
 9QNTBPZ0NLM1g4enciOnsidGV4dCI6ImBBREQgUEFSQUdSQVBI
 IFxudGhhdCBub3RlcyB0aGUgd29yayBvZiBSdXRoIEJvY2gsIF
 Zpc2lvbmFyeSBSZXB1YmxpYywgYW5kIGhlciBj4oCmIiwic3Rh
-cnQiOjIwNDI2LCJlbmQiOjIwNjUwfSwibVU4MUk3ZUNUd2tQbm
+cnQiOjIwNDIzLCJlbmQiOjIwNjQ3fSwibVU4MUk3ZUNUd2tQbm
 FiZiI6eyJ0ZXh0IjoiYFN1bW1hcnkgYXQgdGhlIGVuZCBvZiB0
 aGlzIHBhcmFncmFwaCB3aXRoIHRoZSBndXkgU2FuZGVlbiBxdW
-90ZXMgZ2l2aW5nIGEgY29uZuKApiIsInN0YXJ0IjoyNTI0OCwi
-ZW5kIjoyNTM3M30sIkVXcDVzbnVUa1pHT0drcG8iOnsidGV4dC
+90ZXMgZ2l2aW5nIGEgY29uZuKApiIsInN0YXJ0IjoyNTI0NSwi
+ZW5kIjoyNTM3MH0sIkVXcDVzbnVUa1pHT0drcG8iOnsidGV4dC
 I6IkRvIEkgZmluZCBhIHdheSBoZXJlIHRvIHBvaW50IGJhY2sg
 dG8gV29vZHMnIHByb3BoZXRpYyB3YXJuaW5ncyBhYm91dCB0aG
-Ugb3J0aG/igKYiLCJzdGFydCI6NDAxODUsImVuZCI6NDA0ODl9
+Ugb3J0aG/igKYiLCJzdGFydCI6NDAxODIsImVuZCI6NDA0ODZ9
 LCJHU0VDNVIza3ZuVU5sTmJUIjp7InRleHQiOiJBTkQgRklORC
 BPVEhFUlMuLi4gdGhlcmUgd2VyZSBzZXZlcmFsIGV4YW1wbGVz
 IHdpdGggbWlsbGVubmlhbCBldmVuIGluIHRoZSB0aXRsZSIsIn
-N0YXJ0Ijo0Mjc4NSwiZW5kIjo0Mjg2NX0sIlRxNE5CZTE0M0t3
+N0YXJ0Ijo0Mjc4MiwiZW5kIjo0Mjg2Mn0sIlRxNE5CZTE0M0t3
 eFpDTEMiOnsidGV4dCI6ImBQYXJhZ3JhcGg6IFxuUXVvdGVzIG
 Zyb20gTWF1cmljZSBkZW1vbnN0cmF0aW5nIHRoZSBhYm92ZSBw
 YXJhZ3JhcGguSSBwcm9iYWJseSBu4oCmIiwic3RhcnQiOjUwNz
-cxLCJlbmQiOjUwOTcxfSwiNXllcWJmNm5qd1NIS2hyayI6eyJ0
+Y4LCJlbmQiOjUwOTY4fSwiNXllcWJmNm5qd1NIS2hyayI6eyJ0
 ZXh0IjoiYEkgc3RpbGwgbmVlZCBkaXJlY3QgcXVvdGVzIGZyb2
 0gUml0c2NobC4gSSBjYW4gZ2V0IHRob3NlIG91dCBvZiBTdHVj
-a2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NTYyMCwiZW5kIjo1NT
-c2N30sImZPalJySXBlbVdvczZ4YUMiOnsidGV4dCI6IkZJTkQg
+a2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NTYxNywiZW5kIjo1NT
+c2NH0sImZPalJySXBlbVdvczZ4YUMiOnsidGV4dCI6IkZJTkQg
 VEhFIFJJR0hUIFNPVVJDRSBGT1IgVEhJUyIsInN0YXJ0Ijo1Mz
-kxOCwiZW5kIjo1Mzk0OH0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsi
+kxNSwiZW5kIjo1Mzk0NX0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsi
 dGV4dCI6IkRvIEkgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3
-c/YCIsInN0YXJ0Ijo2NzE5MSwiZW5kIjo2NzIyNH0sIm5PZG1Y
-cGpVQlBGbTEyb3IiOnsic3RhcnQiOjg2MzYwLCJlbmQiOjg2Mz
-cyLCJ0ZXh0IjoiRGlzdGluY3Rpb25zIn0sImRSQzBTcmZGbkNU
-VjVqRWIiOnsic3RhcnQiOjkwODQyLCJlbmQiOjkwODY5LCJ0ZX
+c/YCIsInN0YXJ0Ijo2NzE4OCwiZW5kIjo2NzIyMX0sIm5PZG1Y
+cGpVQlBGbTEyb3IiOnsic3RhcnQiOjg2MzU3LCJlbmQiOjg2Mz
+Y5LCJ0ZXh0IjoiRGlzdGluY3Rpb25zIn0sImRSQzBTcmZGbkNU
+VjVqRWIiOnsic3RhcnQiOjkwODM5LCJlbmQiOjkwODY2LCJ0ZX
 h0IjoiZXJhIG9mIG5vbmNvbnRleHR1YWxpemF0aW9uIn0sIjlj
-cFJMOG12aWh4SFB0dXAiOnsic3RhcnQiOjkyNDgwLCJlbmQiOj
-kyNDg0LCJ0ZXh0IjoiTmVlZCJ9LCJKRFpBTWNESnl1WnZwZ1pW
-Ijp7InN0YXJ0Ijo5Njc4MSwiZW5kIjo5Njc5MCwidGV4dCI6Im
+cFJMOG12aWh4SFB0dXAiOnsic3RhcnQiOjkyNDc3LCJlbmQiOj
+kyNDgxLCJ0ZXh0IjoiTmVlZCJ9LCJKRFpBTWNESnl1WnZwZ1pW
+Ijp7InN0YXJ0Ijo5Njc3OCwiZW5kIjo5Njc4NywidGV4dCI6Im
 JyaW1pbmluZyJ9LCJjbnlsTzBHWm1sNjVKRVFpIjp7InN0YXJ0
-Ijo5NzA5NiwiZW5kIjo5NzEyNSwidGV4dCI6IkNocmlzdGlhbm
+Ijo5NzA5MywiZW5kIjo5NzEyMiwidGV4dCI6IkNocmlzdGlhbm
 l0eSBhbmQgQ2l2aWxpemF0aW9uIn0sIkhSWXZuSjhXVTJGQ1FL
-OUciOnsic3RhcnQiOjExMTYyOCwiZW5kIjoxMTE2MzIsInRleH
+OUciOnsic3RhcnQiOjExMTYyNSwiZW5kIjoxMTE2MjksInRleH
 QiOiJGSU5EIn0sIllYUXlmV3lVZXpqNHd6NzIiOnsic3RhcnQi
-OjExNTEwNCwiZW5kIjoxMTUxMzEsInRleHQiOiJlcmEgb2Ygbm
+OjExNTEwMSwiZW5kIjoxMTUxMjgsInRleHQiOiJlcmEgb2Ygbm
 9uY29udGV4dHVhbGl6YXRpb24ifX0sImNvbW1lbnRzIjp7IlZR
 VjJzRVlhVTYwUGw0UjQiOnsiZGlzY3Vzc2lvbklkIjoiUXg1U2
 pjZ05RNVRqZHJXMCIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4
@@ -563,11 +563,11 @@ IiwidGV4dCI6ImRvZXMgdGhpcyBuZWVkIHRvIGJlIHRpdGxlIG
 Nhc2U/IGl0IGlzIHRoZSBmaXJzdCBpbnN0YW5jZSB5b3UgdXNl
 IGl0IGJ1dCBub3QgdGhlIHNlY29uZCBvciB0aGlyZCB0aW1lIi
 wiY3JlYXRlZCI6MTYwMTgzMjI1NTg5M319LCJoaXN0b3J5Ijpb
-MTQxODUxNzEzMSwtMTM1ODU1NDcwNSwtMTYyMDM1NTY3MywtNz
-k0NDA4OTIyLC0xNjUzMTM2MzkxLDE0NTIyMDMzMjUsMzM5ODkz
-Mzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1MDMsNjIxOTY2OTEzLD
-ExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1MzQ1
-Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2NT
-g3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1MjNd
-fQ==
+LTEwMTY2MDEzODAsLTEzNTg1NTQ3MDUsLTE2MjAzNTU2NzMsLT
+c5NDQwODkyMiwtMTY1MzEzNjM5MSwxNDUyMjAzMzI1LDMzOTg5
+MzM5NCwtMTk5NjgzMDEyMywyMDUzMjkxNTAzLDYyMTk2NjkxMy
+wxMTI5Njc5NjczLDEyMDIxNTg5OTEsLTI0MTg4MDYyOCwxNTM0
+NTY4NTc1LC0xMzc0NDc4ODExLC02Mjc4ODI1ODksLTg3NDEzNj
+U4NywtMTg1MTUyMTE4OSwtMTY3MDA3NjkzNCwtNzY4NTQ4NTIz
+XX0=
 -->
