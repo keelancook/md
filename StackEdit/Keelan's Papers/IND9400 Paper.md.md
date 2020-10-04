@@ -281,7 +281,7 @@ The swell of immigration straddling the turn of the nineteenth century produced 
 
 ### Americanization as Part of the Biblical Mission
 
-In short, making disciples also meant making Americans. The two ideas could not be easily separated. For some Protestants, it was an explicit connection and for others only assumed in their practices. By 1908, Israel Zangwill would produce and stage his play entitled  _The Melting Pot,_  coining a term that would typify the American experience for many. However, despite it's widespread use today to refer to American diversity, the original play underscored the ability of America to successfully assimilate foreigners into their own culture and society. The storyline was about a Russian-Jewish immigrant that discovered how to blend into American culture and assimilate. At the time, the play was lauded for its example by none other than Theodore Roosevelt, the current president.^[Rasenberger, America 1908, 237.] The pressure to assimilate to the majority Anglo Western culture of the United States was broad, and American Protestant missions would largely adopt this assumption with ample theological justification.
+In short, making disciples also meant making Americans. The two ideas could not be easily separated. For some Protestants, it was an explicit connection and for others it was only assumed in their practices. By 1908, Israel Zangwill would produce and stage his play entitled  _The Melting Pot,_  coining a term that would typify the American experience for many. However, despite its widespread use today to refer to American diversity, the original play underscored the ability of America to successfully assimilate foreigners into their own culture and society. The storyline was about a Russian-Jewish immigrant that discovered how to blend into American culture and assimilate. At the time, the play was lauded for its example by none other than Theodore Roosevelt, the current president.^[Rasenberger, America 1908, 237.] The pressure to assimilate to the majority Anglo-Western culture of the United States was broad, and American Protestant missions would largely adopt this assumption with ample theological justification.
 
 Noll claims it was the transfer of religious fervor to national ideals that lead to an American civil religion that blended the boundaries of the Christian gospel with civil narrative. Noll writes, "The nation rather than the church easily emerged as the primary agent in God's activity in history."^[Noll, The Search for Christian America, 114.] Concerning missionary methods toward immigrants, Americanization became an irreducible component of Christianization. The two terms were linked, one concept incomprehensible without the other. During the era, dozens of home missionary manuals were published, detailing methods of missionary engagement of the new immigration. Many of these manuals included sections on the proper means of Americanizing foreigners as part of their missions practice.^[See McCash, Isaac Newton. Horizon of American Missions (New York: Fleming H. Revell company, 1913) 169, section titled America Democratizing the World; McAfee, Joseph Ernest. Missions Striking Home: A Group of Addresses on a Phase of the Missionary Enterprise (New York: Fleming H. Revell Company, 1908), 111, section title The American 'E Pluribus Unum' of Grace; Grose, Howard Benjamin. Aliens Or Americans? (New York: Young People’s Missionary Movement of The United States and Canada, 1909), 231, see section titled Immigration and the National Character.] Some included Americanization in the title of the manual.^[Brooks, Charles Alvin. Christian Americanization: A Task for the Churches. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919.]
 
@@ -538,11 +538,11 @@ FzZSBsaWtlIGl0IGlzIGFib3ZlPyIsImNyZWF0ZWQiOjE2MDE4
 Mjk0NDczOTh9LCJyVWFGOTNwYVN6WnMyNmFHIjp7ImRpc2N1c3
 Npb25JZCI6IjljcFJMOG12aWh4SFB0dXAiLCJzdWIiOiJnaDo3
 MTI5Mzk4NyIsInRleHQiOiJkbyB0aGlzIiwiY3JlYXRlZCI6MT
-YwMTgzMDI0NTk5NH19LCJoaXN0b3J5IjpbNjM5MjI1NjAsLTE2
-NTMxMzYzOTEsMTQ1MjIwMzMyNSwzMzk4OTMzOTQsLTE5OTY4Mz
-AxMjMsMjA1MzI5MTUwMyw2MjE5NjY5MTMsMTEyOTY3OTY3Mywx
-MjAyMTU4OTkxLC0yNDE4ODA2MjgsMTUzNDU2ODU3NSwtMTM3ND
-Q3ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1ODcsLTE4NTE1MjEx
-ODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMywyMDAyNTI3OTI0LC
-00MzQ0MDI2MjRdfQ==
+YwMTgzMDI0NTk5NH19LCJoaXN0b3J5IjpbLTc5NDQwODkyMiwt
+MTY1MzEzNjM5MSwxNDUyMjAzMzI1LDMzOTg5MzM5NCwtMTk5Nj
+gzMDEyMywyMDUzMjkxNTAzLDYyMTk2NjkxMywxMTI5Njc5Njcz
+LDEyMDIxNTg5OTEsLTI0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMz
+c0NDc4ODExLC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUy
+MTE4OSwtMTY3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5Mj
+QsLTQzNDQwMjYyNF19
 -->
