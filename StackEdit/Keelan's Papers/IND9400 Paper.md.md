@@ -270,7 +270,7 @@ In this way, millennialism served as a structuring narrative for the American Pr
 
 Rising to the level of structuring narrative, Protestants filtered the world around them through the lens created by postmillennialism and an over-realized kingdom theology. All circumstances were eventually marshalled as evidence that America was where the kingdom would start. Protestants could point to increase in population, wealth, industry, and technology as sure signs that the age was dawning. In his kingdom lectures, Harris would affirm the central role of Anglo, specifically American, culture. He writes, "To the English-speaking people more than to any other the world is now indebted for the propagation of Christian ideas and Christian civilization."^[Harris, Kingdom on Christ, 255.]
 
-When American civilization was equated with the kingdom, it had to be spread alongside the gospel. It also had to be defended from the threats of the kingdom of sin and Satan that would seek to overthrow the coming kingdom. The watch words of the modern missions movement for many were Christianize and Civilize.^[Bebbington, The Dominance of Evangelicalism, 141-142.] And while that might be true overseas, back at home, in the face of incoming millions, it quickly became Christianize and Americanize. American Protestants saw their mission as both promoting and protecting the establishment of this new society, and the great wave of immigration proved both opportunity and threat.
+When American civilization was equated with the kingdom, it had to be spread alongside the gospel. It also had to be defended from the threats of the kingdom of sin and Satan that would seek to overthrow the coming kingdom. The watch words of the modern missions movement for many were "Christianize and "Civilize."^[Bebbington, The Dominance of Evangelicalism, 141-142.] And while that might be true overseas, back at home, in the face of incoming millions, it quickly became "Christianize and Americanize." American Protestants saw their mission as both promoting and protecting the establishment of this new society, and the great wave of immigration proved both opportunity and threat.
 
 ## Missions Methods toward Immigrants from 1880-1920
 In 1987 Paul Hiebert penned an influential article titled  _Critical Contextualization_  in the International Bulletin on Missionary Research. In that article, Hiebert outlines a spectrum of contextualization methods through the history of the modern missions movement. Hiebert labels a period from 1800 to 1950 as the Era of Noncontextualization, arguing that a significant shift occurred in Protestant missions due to a change in theological, historical, and social scientific presupposition by Protestants during the era.^[Hiebert, Paul G. “Critical Contextualization.” International Bulletin of Missionary Research (1987): 104–12. pg 104.] This resulted in an approach to missions which required the complete deconstruction of a person's existing culture and a replacement with Western culture as part of the conversion to Christianity. Hiebert writes, "Consequently, the gospel was seen by the people as a foreign gospel. To become Christian one had to accept not only Christianity but also Western cultural ways."^[Hiebert, Critical Contextualization, 104.] The wave of immigration to the United States that occurred from 1880-1920 happened at the very height of Hiebert's era of noncontextualization. Though Hiebert's categories were intended to critique international missions practice in other countries, the same presuppositions which undergirded international missionary practice applied to home missions when it came to foreign immigrants.
@@ -527,10 +527,11 @@ YXRlZCI6MTYwMTgxNjExNzE3MX0sInRCZHU2Rkxhb2FZbHdjUW
 EiOnsiZGlzY3Vzc2lvbklkIjoibk9kbVhwalVCUEZtMTJvciIs
 InN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6IndoYXQgcGFyYW
 dyYXBoIGRvZXMgdGhpcyBnbyB3aXRoPyIsImNyZWF0ZWQiOjE2
-MDE4Mjg5NDY4NDJ9fSwiaGlzdG9yeSI6WzE0NTIyMDMzMjUsMz
-M5ODkzMzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1MDMsNjIxOTY2
-OTEzLDExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNjI4LD
-E1MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0
-MTM2NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1ND
-g1MjMsMjAwMjUyNzkyNCwtNDM0NDAyNjI0XX0=
+MDE4Mjg5NDY4NDJ9fSwiaGlzdG9yeSI6Wy0xNDc5Mzk2Mjg1LD
+E0NTIyMDMzMjUsMzM5ODkzMzk0LC0xOTk2ODMwMTIzLDIwNTMy
+OTE1MDMsNjIxOTY2OTEzLDExMjk2Nzk2NzMsMTIwMjE1ODk5MS
+wtMjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYy
+Nzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC0xNjcwMD
+c2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0NDAyNjI0
+XX0=
 -->
