@@ -334,7 +334,7 @@ Postmillennialism long held sway among American Protestants. From the first sett
 
 With so many working toward a kingdom to be realized in their generation, or shortly thereafter, the object of that striving required definition. A commitment to postmillennialism by American Protestants at the end of the nineteenth century led to an over-realized understanding of the kingdom of God. Influenced heavily by concurrent conversations in Britain and Germany, especially the work of F.D. Maurice and Albrecht Ritschl, many American Protestants filled their kingdom vision with a totally immanent understanding of the kingdom that could be developed, constructed, and built through the ethical and social activity of the church. The nature of the kingdom was closely aligned with the prevailing, progressive direction of Western, especially American, civilization. The means of establishing this kingdom were broadened to include the work of society-building and cultural assimilation.
 
-Taken together, a postmillennial commitment and an over-realized kingdom theology linked to American civilization led to a mission to "Christianize and Americanize." The resulting eschatological framework can be referred to as a conditional manifest destiny that required American Protestants obedience to their God-given special role in the establishing this kingdom. When confronted by record-setting immigration at the turn of the century, this developed into an applied theology which conflated the promotion of American, Anglo-Saxon cultural ideals alongside the gospel. Some Protestants viewed immigration as a providential opportunity to promote Christianity and the American way of life through the arrival of so many from different cultures and religions. For others, however, the arrival of foreigners was a threat to the civilization they worked so hard to establish, and the mission was cast as one of protecting the developing kingdom of God.
+Taken together, a postmillennial commitment and an over-realized kingdom theology linked to American civilization led to a mission to "Christianize and Americanize." The resulting eschatological framework can be referred to as a conditional manifest destiny that required American Protestants' obedience to their God-given special role in the establishing of this kingdom. When confronted by record-setting immigration at the turn of the century, this developed into an applied theology which conflated the promotion of American, Anglo-Saxon cultural ideals alongside the gospel. Some Protestants viewed immigration as a providential opportunity to promote Christianity and the American way of life through the arrival of so many from different cultures and religions. For others, however, the arrival of foreigners was a threat to the civilization they worked so hard to establish, and the mission was cast as one of protecting the developing kingdom of God.
 
 Hiebert is correct in his assessment concerning the period from 1880-1920 when he places it in his era of noncontextualization. What is more, these mission methods not only refused to contextualize the gospel in a manner that led to indigenous expressions of Christianity within other cultures, they actively attempted to supplant foreign culture for Americanism, equating American culture with the biblical ideal of the kingdom society. As Hiebert notes elsewhere, noncontextualization toward a different group's culture is, in fact, uncritical contextualization toward your own.^[Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in _MissionShift: Global Mission Issues in the Third Millennium_. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010. p.90.]
 
@@ -555,11 +555,11 @@ LCJjcmVhdGVkIjoxNjAxODMwOTI0MTgyfSwiU05CQk9sUXAxMT
 J2cGlTSSI6eyJkaXNjdXNzaW9uSWQiOiJIUll2bko4V1UyRkNR
 SzlHIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG8gdG
 hpcyIsImNyZWF0ZWQiOjE2MDE4MzE3NzQ2MzN9fSwiaGlzdG9y
-eSI6WzQwNTY1ODg1NCwtMTM1ODU1NDcwNSwtMTYyMDM1NTY3My
-wtNzk0NDA4OTIyLC0xNjUzMTM2MzkxLDE0NTIyMDMzMjUsMzM5
-ODkzMzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1MDMsNjIxOTY2OT
-EzLDExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1
-MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MT
-M2NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1
-MjNdfQ==
+eSI6Wy0yNzA2NDU2MTIsLTEzNTg1NTQ3MDUsLTE2MjAzNTU2Nz
+MsLTc5NDQwODkyMiwtMTY1MzEzNjM5MSwxNDUyMjAzMzI1LDMz
+OTg5MzM5NCwtMTk5NjgzMDEyMywyMDUzMjkxNTAzLDYyMTk2Nj
+kxMywxMTI5Njc5NjczLDEyMDIxNTg5OTEsLTI0MTg4MDYyOCwx
+NTM0NTY4NTc1LC0xMzc0NDc4ODExLC02Mjc4ODI1ODksLTg3ND
+EzNjU4NywtMTg1MTUyMTE4OSwtMTY3MDA3NjkzNCwtNzY4NTQ4
+NTIzXX0=
 -->
