@@ -305,7 +305,7 @@ Not only did Strong's vision for home missions equate Christianity's mission wit
 
 William Payne Shriver distills the missionary task of Christianization and Americanization toward immigrants into three parts: sympathy and resources from the church to aid the immigrant, "arouse and enrich the religious life" of the immigrant, and Americanize them. Of that last aspect of the mission, Shriver writes, "How may we inspire these diverse and polyglot peoples, together with our own and native Americans, with that common sympathy, understanding and ideal purpose which make for American Christian democracy?"^[Shriver, William Payne. Immigrant Forces: Factors in the New Democracy (New York: American Baptist Publication Society, 1913), 193.] For some, "Christianize and Americanize" was conceived in optimistic terms as an opportunity for American Protestants to hasten their work of kingdom building by the promotion of Christian and American ideals. For others, it was cast in the ominous language of an impending threat. Through the lens of threat, Christians conceived of a mission to protect the kingdom they were establishing from incoming forces of that could potentially undermine their Christian civilization.
 
-At the height of immigration during the era, ships were bringing around a million newcomers annually. American Protestants had long thought of immigration in optimistic terms concerning the promotion of the gospel. In fact, the earlier version of  _Our Country_, written before the Civil War claimed as much, referring to immigration as a "providential movement" and that, "God sends these multitudes hither for good and great ends."^[Society, Congregational Home Missionary. Our Country: No. 2 A Plea for Home Missions (American Home Missionary Society, 1858), 37.] This thread continued through the turn of the century, focusing on the opportunity to promote American cultural Christianity to immigrants. One article in a 1919 issue of  _Religious Education_  spoke of the role of churches in immigrant engagement,
+At the height of immigration during the era, ships were bringing around a million newcomers annually. American Protestants had long thought of immigration in optimistic terms concerning the promotion of the gospel. In fact, the earlier version of  _Our Country_, written before the Civil War claimed as much, referring to immigration as a "providential movement" and that, "God sends these multitudes hither for good and great ends."^[Society, Congregational Home Missionary. Our Country: No. 2 A Plea for Home Missions (American Home Missionary Society, 1858), 37.] This thread continued through the turn of the century, focusing on the opportunity to promote American cultural Christianity to immigrants. One article in a 1919 issue of  _Religious Education_  spoke of the role of churches in immigrant engagement:
 
 > They can give all recently arrived immigrants some vision of the nobility of America, and their officials can preach loyalty and the unity of many races in one nation on the basis of brotherhood and that tradition of idealism upon which America is founded.^[Claxton, P. P. “CHURCHES AND AMERICANIZATION.” Religious Education, 1919. p 24.]
 
@@ -550,11 +550,11 @@ kwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaXNjdXNzaW9u
 SWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoiZ2g6NzEyOT
 M5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG9pbiBiZSBj
 YXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMwOTI0MTgyfX
-0sImhpc3RvcnkiOlstMTgxMzA3MTc1LC0xNjIwMzU1NjczLC03
-OTQ0MDg5MjIsLTE2NTMxMzYzOTEsMTQ1MjIwMzMyNSwzMzk4OT
-MzOTQsLTE5OTY4MzAxMjMsMjA1MzI5MTUwMyw2MjE5NjY5MTMs
-MTEyOTY3OTY3MywxMjAyMTU4OTkxLC0yNDE4ODA2MjgsMTUzND
-U2ODU3NSwtMTM3NDQ3ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1
-ODcsLTE4NTE1MjExODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMy
-wyMDAyNTI3OTI0XX0=
+0sImhpc3RvcnkiOlstMTM1ODc1MzI2OSwtMTYyMDM1NTY3Mywt
+Nzk0NDA4OTIyLC0xNjUzMTM2MzkxLDE0NTIyMDMzMjUsMzM5OD
+kzMzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1MDMsNjIxOTY2OTEz
+LDExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1Mz
+Q1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2
+NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1Mj
+MsMjAwMjUyNzkyNF19
 -->
