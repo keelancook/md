@@ -168,7 +168,7 @@ Though American Protestants were less likely to use the term Christian Socialist
 
 Perhaps none are so clearly tied to Maurice's influence, though, as Horace Bushnell, the noted Congregational minister and theologian. Bushnell shared Maurice's optimism concerning humanity, and believed morality was the result of social evolution.^[Phillips, A Kingdom on Earth, 5.] Like Maurice, Bushnell was a polarizing and often controversial figure. Phillips notes that both Maurice and Horace Bushnell were the targets of a good bit of controversy in their own generation, but both men seemed to enjoy a subsequent admiration of their thought in later decades. By the end of the nineteenth century, the Protestant mainstream more readily accepted their concepts concerning progress and the kingdom.^[Phillips, A Kingdom on Earth, 4-6.] While the influence of both had a liberalizing tendency on Protestantism, most who advocated for Bushnell, or Maurice, did not claim to be liberal Protestants. Their appeal was broader than purely liberal corners of Protestantism, and their ideas pervaded in the fabric of developing theology on the kingdom of God.^[Phillips, A Kingdom on Earth, 6, notes that many would defend Bushnell's conservative roots in order to advocate for his positions.]
 
-Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left it's mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surfaced both earlier and broader than the social gospel movement.^[Handy, Robert. A History of the Churches in the United States and Canada (New York: Oxford University Press, 1976), 287.]
+Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left its mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surfaced both earlier and broader than the social gospel movement.^[Handy, Robert. A History of the Churches in the United States and Canada (New York: Oxford University Press, 1976), 287.]
 
 The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium, though it required removing an emphasis on supernatural and apocalyptic elements of the millennium in favor of an ethical conception of the kingdom.^[Quandt, Jean, Religion and Social Thought: The Secularization of Postmillennialism, American Quarterly 25.4 (1973): 390–409. pg 391, demonstrates the adaptation of postmillennialism that occurred in the final decades of the nineteenth century to adjust both for modernist theology and social scientific developments during the era.] The kingdom became a present, ethical reality instead of a coming apocalyptic society. The postmillennial optimism adjusted further still to rest on laws of evolution and growth for a gradual advance of society into this moralized understanding of the kingdom.^[Moorhead, James H. “The Erosion of Postmillennialism in American Religious Thought, 1865-1925. Church Hist. 53.1 (1984), 66 notes the effects of Ritschl's expression of the kingdom on the American Protestant commitment to postmillennialism. He claims Ritschl was an outsized influence on the development of the doctrine in America around the turn of the century.]]
 
@@ -352,22 +352,22 @@ hwUGc1THZ0Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo0
 ODg5MiwiZW5kIjo0ODkwMH0sInR1NlFOdDF1bmY1UUpmQmgiOn
 sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU2ODg5LCJl
 bmQiOjU2ODg5fSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0Ij
-oiY2l0ZSIsInN0YXJ0Ijo2NzI3NCwiZW5kIjo2NzI3OH0sImZ6
+oiY2l0ZSIsInN0YXJ0Ijo2NzI3MywiZW5kIjo2NzI3N30sImZ6
 ZFFKZEptMzhzYmI2V2kiOnsidGV4dCI6InByb3Rlc3RhbnQiLC
-JzdGFydCI6Njc0OTgsImVuZCI6Njc1MDh9LCIyNHNSVjRzd2Vu
+JzdGFydCI6Njc0OTcsImVuZCI6Njc1MDd9LCIyNHNSVjRzd2Vu
 TEp5d1I3Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3ND
-UyMSwiZW5kIjo3NDUyOX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
+UyMCwiZW5kIjo3NDUyOH0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
 dGV4dCI6IkEgcG9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudC
 BwcmVzZW50ZWQgYXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwg
-ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzUyMjMsImVuZCI6Nz
-UzMTJ9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3Mzcz
-NSwiZW5kIjo3Mzc3NiwidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
+ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzUyMjIsImVuZCI6Nz
+UzMTF9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3Mzcz
+NCwiZW5kIjo3Mzc3NSwidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
 cgdGhpcyB3aXRoIG90aGVyIHNvdXJjZXMifSwia25IQzRaQ1FF
-Q21YUEdwSyI6eyJzdGFydCI6NzMxMTMsImVuZCI6NzMyNDMsIn
+Q21YUEdwSyI6eyJzdGFydCI6NzMxMTIsImVuZCI6NzMyNDIsIn
 RleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1heSBu
 ZWVkIHRvIGNhcnJ5IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2ggb2
 4gdGhlIHNvY2lh4oCmIn0sIlFMUkNoaDNES3FBcG9CVEciOnsi
-c3RhcnQiOjYxMTkwLCJlbmQiOjYxMjM5LCJ0ZXh0IjoiZmluZC
+c3RhcnQiOjYxMTg5LCJlbmQiOjYxMjM4LCJ0ZXh0IjoiZmluZC
 B0aGUgZXhhY3QgcGFnZS4uLiBhZnRlciB5b3UgZmluZCB0aGUg
 c291cmNlISJ9LCI3dWZYZnJNazYzMHM3Tm5NIjp7InN0YXJ0Ij
 o1OTMxNiwiZW5kIjo1OTM0OSwidGV4dCI6ImZpbmQgb3JpZ2lu
@@ -521,7 +521,7 @@ cmVhdGVkIjoxNjAxODE1NTM5NjkyfSwiVGFQcWpHa25JSjhEaj
 NJcyI6eyJkaXNjdXNzaW9uSWQiOiJmT2pScklwZW1Xb3M2eGFD
 Iiwic3ViIjoiZ2g6MzcwNDA4NDEiLCJ0ZXh0IjoiRklORCBTT1
 VSQ0UiLCJjcmVhdGVkIjoxNjAxODE1OTQxMjM0fX0sImhpc3Rv
-cnkiOlsxNTA2MjA1NjYwLDIwNTMyOTE1MDMsNjIxOTY2OTEzLD
+cnkiOlsxMTIwODI4MTE2LDIwNTMyOTE1MDMsNjIxOTY2OTEzLD
 ExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1MzQ1
 Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2NT
 g3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1MjMs
