@@ -319,7 +319,7 @@ The threat is not immigration at all, but the unseemly slice of America that sti
 
 Another category of manuals which saw promise in immigration were those written by immigrants themselves. _Along the Highway of Service_, written by Marie Buhlmaier recounts her ministry at the docks in Baltimore among incoming immigrants. An immigrant herself, Marie served with the Home Mission Board of the Southern Baptist Convention distributing literature, welcoming immigrants, and helping connect them to various churches at their final landing places in the country.^[Buhlmaier, Marie. Along the Highway of Service (Atlanta: Home Mission Board of the Southern Baptist Convention, 1924), vii.] Buhlmaier writes with passion and sympathy for the plight of the immigrant and challenges her fellow Southern Baptists to see God as the "Great Director" of immigration.^[Buhlmaier, Along the Highway, 1-7.] In New York, Antonio Mangano served as the Director of the Italian Department at Colgate Theological Seminary. An immigrant from Italy, Mangano became a Christian through the influence of a Baptist church in Long Island. In  _Sons of Italy_, he provides an in depth look at Italian immigrants, and provides a plea for churches to see the opportunity they present for promoting Protestant Christianity.^[Mangano, Antonio. Sons of Italy: A Social and Religious Study of the Italians in America (New York: Missionary Education Movement of the United States and Canada, 1917), xi.] Mangano urges hospitality toward the immigrant, asking, "How can America hope to weld these people into good citizens if good Americans constantly look upon them as inferiors, studiously avoiding contact with them?"^[Mangano, Sons of Italy, 133.]
 
-All Protestants did not view immigration with such optimism. It was perhaps more likely that American Protestants, largely from English or Western European descent, would see the waves of immigrant coming ashore each year as a threat to the civilization they were working so hard to build. The impetus to conceive of the mission as one of protection against outside cultural forces accounted for the plea by Mangano and Grose's rhetoric. The wave of immigrants was often met with negative reactions that resulted in ethnic and religious antagonism. The Protestant American majority culture was perhaps less concerned about the sheer number of immigrants than they were the provenance of these newcomers. In the 1880s, the largest surge of immigration came from Catholic lands and a different ethnic stock.^[Handy, Undermined Establishment, 17.] Nevertheless, a thread of this protection theme ran through many home mission manuals of the day.
+All Protestants did not view immigration with such optimism. It was perhaps more likely that American Protestants, largely from English or Western European descent, would see the waves of immigrants coming ashore each year as a threat to the civilization they were working so hard to build. The impetus to conceive of the mission as one of protection against outside cultural forces accounted for the plea by Mangano and Grose's rhetoric. The wave of immigrants was often met with negative reactions that resulted in ethnic and religious antagonism. The Protestant American majority culture was perhaps less concerned about the sheer number of immigrants than they were the provenance of these newcomers. In the 1880s, the largest surge of immigration came from Catholic lands and a different ethnic stock.^[Handy, Undermined Establishment, 17.] Nevertheless, a thread of this protection theme ran through many home mission manuals of the day.
 
 The threat language is perhaps most clear in the writing of Josiah Strong. Significantly, Strong's revised edition of  _Our Country_  shifted the tone concerning immigration from providence to peril. Strong lists seven perils throughout his work that threaten the progress of building America into the kingdom of God. The first peril listed is the threat of immigration.^[Strong, Our Country, 30.] Strong writes,
 
@@ -550,11 +550,11 @@ kwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaXNjdXNzaW9u
 SWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoiZ2g6NzEyOT
 M5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG9pbiBiZSBj
 YXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMwOTI0MTgyfX
-0sImhpc3RvcnkiOlstMTM1ODU1NDcwNSwtMTYyMDM1NTY3Mywt
-Nzk0NDA4OTIyLC0xNjUzMTM2MzkxLDE0NTIyMDMzMjUsMzM5OD
-kzMzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1MDMsNjIxOTY2OTEz
-LDExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1Mz
-Q1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2
-NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1Mj
-MsMjAwMjUyNzkyNF19
+0sImhpc3RvcnkiOlstMjA2NDYyMzgzNiwtMTM1ODU1NDcwNSwt
+MTYyMDM1NTY3MywtNzk0NDA4OTIyLC0xNjUzMTM2MzkxLDE0NT
+IyMDMzMjUsMzM5ODkzMzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1
+MDMsNjIxOTY2OTEzLDExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMj
+QxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4
+MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2OT
+M0LC03Njg1NDg1MjNdfQ==
 -->
