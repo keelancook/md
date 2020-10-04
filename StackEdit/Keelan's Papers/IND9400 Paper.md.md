@@ -275,7 +275,7 @@ When American civilization was equated with the kingdom, it had to be spread alo
 ## Missions Methods toward Immigrants from 1880-1920
 In 1987 Paul Hiebert penned an influential article titled  _Critical Contextualization_  in the International Bulletin on Missionary Research. In that article, Hiebert outlines a spectrum of contextualization methods through the history of the modern missions movement. Hiebert labels a period from 1800 to 1950 as the Era of Noncontextualization, arguing that a significant shift occurred in Protestant missions due to a change in theological, historical, and social scientific presupposition by Protestants during the era.^[Hiebert, Paul G. “Critical Contextualization.” International Bulletin of Missionary Research (1987): 104–12. pg 104.] This resulted in an approach to missions which required the complete deconstruction of a person's existing culture and a replacement with Western culture as part of the conversion to Christianity. Hiebert writes, "Consequently, the gospel was seen by the people as a foreign gospel. To become Christian one had to accept not only Christianity but also Western cultural ways."^[Hiebert, Critical Contextualization, 104.] The wave of immigration to the United States that occurred from 1880-1920 happened at the very height of Hiebert's era of noncontextualization. Though Hiebert's categories were intended to critique international missions practice in other countries, the same presuppositions which undergirded international missionary practice applied to home missions when it came to foreign immigrants.
 
-### The Missionary Occassion
+### The Missionary Occasion
 
 The swell of immigration straddling the turn of the nineteenth century produced an obvious missionary occasion for Protestant Americans. In the years between 1881 and 1910, immigration brought more than 17.7 million people to American shores.^[Roger Daniels, Coming to America: A History of Immigration and Ethnicity in American Life (New York: Harper Collins, 1990), 124.] The peak crested in 1907 as 1.29 million immigrants landed on American shores.^[Rasenberger, America, 1908, 17.] Furthermore, unlike previous decades of immigration, this new wave brought with it an increasing number of peoples from different cultural and religious backgrounds. Many new immigrants arrived from southern and eastern Europe, and their reception was not as warm. By this time, urbanization had transformed the American landscape and its major cities were in the fastest growth swing they would ever see. Immigrants disproportionately landed in these cities, clustering in residential areas around industrial centers. Cultural barriers were greater for this new wave, and therefore, their presence presented a more jarring impact on the American social fabric.^[Dublin, Thomas. Immigrant Voices: New Lives in America, 1773-1986 (University of Illinois Press, 1993), 12.] Furthermore, a much larger number of these immigrants were not Protestant.^[Need to Cite that they were Jewish and Catholic from some source.] This occasion, or crisis as many would claim, gave rise to missionary methods based on their theological presuppositions concerning their role in building the kingdom.
 
@@ -295,7 +295,7 @@ American Protestants, with few exceptions, adopted an eschatalogical framework w
 
 For many, this was a naturalistic event, guided by the impersonal wheels of evolutionary science. However, Protestant Americans embraced a conditional variety of the doctrine that based success upon the continued obedience of the American people to the directives of God in his plan for history. Wendy Deichmann Edwards uses this term conditional manifest destiny to describe Josiah Strong's work  _Our Country._  Deichmann Edwards notes Strong was not the first to suggest a conditional understanding of manifest destiny, but that his work provides a seminal understanding of the concept for American Protestants during the Gilded Age and into the turn of the century.^[Deichmann Edwards, 175-176.]
 
-In 1885, Josiah Strong published  _Out Country: It's Possible Future and Its Present Crisis_. The year prior, the American Home Missionary Society commissioned him to revise a former missionary tract by the same name. Building off the previous version of  _Our Country_, Strong recast and amplified its appeal for home missions in light of current events. The result would become one of the most popular books in the United States for the following decades, selling over 175,000 copies.^[Deichmann Edwards, 174, 191.] Strong uses the front matter of his book to build up the grand destiny of the American Protestant, specifically Anglo-Saxon, people and their divine role in God's plan for creating the kingdom of God. He explicitly claims that his present age is a pivotal moment in this plan and uses historical proofs to ground his claim. After establishing this privileged role, Strong then espouses the conditional nature of this manifest destiny. It was contingent upon American Protestants obediently seizing the moment and overcoming a series of perils that threaten to squash their moment in history and delay the coming kingdom by hundreds of years. The remainder of the book outlines these certain perils to the Christian mission and the American establishment. Strong writes,
+In 1885, Josiah Strong published  _Our Country: It's Possible Future and Its Present Crisis_. The year prior, the American Home Missionary Society commissioned him to revise a former missionary tract by the same name. Building off the previous version of  _Our Country_, Strong recast and amplified its appeal for home missions in light of current events. The result would become one of the most popular books in the United States for the following decades, selling over 175,000 copies.^[Deichmann Edwards, 174, 191.] Strong uses the front matter of his book to build up the grand destiny of the American Protestant, specifically Anglo-Saxon, people and their divine role in God's plan for creating the kingdom of God. He explicitly claims that his present age is a pivotal moment in this plan and uses historical proofs to ground his claim. After establishing this privileged role, Strong then espouses the conditional nature of this manifest destiny. It was contingent upon American Protestants obediently seizing the moment and overcoming a series of perils that threaten to squash their moment in history and delay the coming kingdom by hundreds of years. The remainder of the book outlines these certain perils to the Christian mission and the American establishment. Strong writes,
 
 > I cannot think our civilization will perish; but I believe it is fully in the hands of Christians in the United States, during the next fifteen or twenty years, to hasten or retard the coming of Christ's kingdom in the world by hundreds, and perhaps thousands, of years. We of this generation and nation occupy the Gibraltar of the ages which commands the world’s future.^[Strong, Our Country, 180.]
 
@@ -359,54 +359,54 @@ RnRzcTg3NzZvZCI6eyJ0ZXh0IjoiQSBwb3N0bWlsbGVubmlhbG
 lzdCBjb21taXRtZW50IHByZXNlbnRlZCBhcyBvcHRpbWlzbSBp
 biB0aGUgb3ZlcmFsbCBkaXJlY3Rpb24gb+KApiIsInN0YXJ0Ij
 o3NTI1NywiZW5kIjo3NTM0Nn0sIlhLNlZ0S1RyVDVXV25xbUki
-Onsic3RhcnQiOjczNzY5LCJlbmQiOjczODEwLCJ0ZXh0IjoiQ2
-9uc2RlciBzdHVmZmluZyB0aGlzIHdpdGggb3RoZXIgc291cmNl
-cyJ9LCJrbkhDNFpDUUVDbVhQR3BLIjp7InN0YXJ0Ijo3MzE0Ny
-wiZW5kIjo3MzI3NywidGV4dCI6IlRoZXNlIGZpcnN0IHR3byBm
-b290bm90ZXMgbWF5IG5lZWQgdG8gY2FycnkgYSBnb29kIGJpdC
-BvZiByZXNlYXJjaCBvbiB0aGUgc29jaWHigKYifSwiUUxSQ2ho
-M0RLcUFwb0JURyI6eyJzdGFydCI6NjExODksImVuZCI6NjEyMz
-gsInRleHQiOiJmaW5kIHRoZSBleGFjdCBwYWdlLi4uIGFmdGVy
-IHlvdSBmaW5kIHRoZSBzb3VyY2UhIn0sIjd1Zlhmck1rNjMwcz
-dObk0iOnsic3RhcnQiOjU5MzE2LCJlbmQiOjU5MzQ5LCJ0ZXh0
-IjoiZmluZCBvcmlnaW5hbCBzb3VyY2UgaW4gUGhpbGxpcHMuIn
-0sIjFDT1V1b1dLV1UxTmFwQUYiOnsic3RhcnQiOjU2ODg5LCJl
-bmQiOjU2ODg5LCJ0ZXh0IjoiYEkgc3RpbGwgbmVlZCBkaXJlY3
-QgcXVvdGVzIGZyb20gUml0c2NobC4gSSBjYW4gZ2V0IHRob3Nl
-IG91dCBvZiBTdHVja2VuYmVyZy4gQuKApiJ9LCJUN2lLU0NNcn
-FzZVplaERmIjp7InN0YXJ0IjoxOTA2MiwiZW5kIjoxOTE3NCwi
-dGV4dCI6Ik5FRUQgVE8gU0VFIEhJUyBGT09UTk9URSBGT1IgVE
-hJUyBTVEFURU1FTlQuIFNVUkVMWSBIRSBHT0VTIElOVE8gREVU
-QUlMIEFCT1VUIFPigKYifSwicEhRMUpsY1hUMExSRkt4cSI6ey
-JzdGFydCI6MTkzNjEsImVuZCI6MTkzOTUsInRleHQiOiJfQ09O
-U0lERVIgQ0lUSU5HIEhPUEtJTlMgRElSRUNUTFlfIn0sImNsMk
-9QNTBPZ0NLM1g4enciOnsic3RhcnQiOjIwNDI2LCJlbmQiOjIw
-NjUwLCJ0ZXh0IjoiYEFERCBQQVJBR1JBUEggXG50aGF0IG5vdG
-VzIHRoZSB3b3JrIG9mIFJ1dGggQm9jaCwgVmlzaW9uYXJ5IFJl
-cHVibGljLCBhbmQgaGVyIGPigKYifSwibVU4MUk3ZUNUd2tQbm
-FiZiI6eyJzdGFydCI6MjUyNDgsImVuZCI6MjUzNzMsInRleHQi
-OiJgU3VtbWFyeSBhdCB0aGUgZW5kIG9mIHRoaXMgcGFyYWdyYX
-BoIHdpdGggdGhlIGd1eSBTYW5kZWVuIHF1b3RlcyBnaXZpbmcg
-YSBjb25m4oCmIn0sIkVXcDVzbnVUa1pHT0drcG8iOnsic3Rhcn
-QiOjQwMTg1LCJlbmQiOjQwNDg5LCJ0ZXh0IjoiRG8gSSBmaW5k
-IGEgd2F5IGhlcmUgdG8gcG9pbnQgYmFjayB0byBXb29kcycgcH
-JvcGhldGljIHdhcm5pbmdzIGFib3V0IHRoZSBvcnRob+KApiJ9
-LCJHU0VDNVIza3ZuVU5sTmJUIjp7InN0YXJ0Ijo0Mjc4NSwiZW
-5kIjo0Mjg2NSwidGV4dCI6IkFORCBGSU5EIE9USEVSUy4uLiB0
-aGVyZSB3ZXJlIHNldmVyYWwgZXhhbXBsZXMgd2l0aCBtaWxsZW
-5uaWFsIGV2ZW4gaW4gdGhlIHRpdGxlIn0sIlRxNE5CZTE0M0t3
-eFpDTEMiOnsic3RhcnQiOjUwNzcxLCJlbmQiOjUwOTcxLCJ0ZX
-h0IjoiYFBhcmFncmFwaDogXG5RdW90ZXMgZnJvbSBNYXVyaWNl
-IGRlbW9uc3RyYXRpbmcgdGhlIGFib3ZlIHBhcmFncmFwaC5JIH
-Byb2JhYmx5IG7igKYifSwiNXllcWJmNm5qd1NIS2hyayI6eyJz
-dGFydCI6NTU2MjAsImVuZCI6NTU3NjcsInRleHQiOiJgSSBzdG
-lsbCBuZWVkIGRpcmVjdCBxdW90ZXMgZnJvbSBSaXRzY2hsLiBJ
-IGNhbiBnZXQgdGhvc2Ugb3V0IG9mIFN0dWNrZW5iZXJnLiBC4o
-CmIn0sImZPalJySXBlbVdvczZ4YUMiOnsic3RhcnQiOjUzOTE4
-LCJlbmQiOjUzOTQ4LCJ0ZXh0IjoiRklORCBUSEUgUklHSFQgU0
-9VUkNFIEZPUiBUSElTIn0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsi
-c3RhcnQiOjY3MTkxLCJlbmQiOjY3MjI0LCJ0ZXh0IjoiRG8gSS
-BpdGUgTkdyYW0gaGVyZT8gSWYgc28sIGhvdz9gIn19LCJjb21t
+OnsidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbmcgdGhpcyB3aXRoIG
+90aGVyIHNvdXJjZXMiLCJzdGFydCI6NzM3NjksImVuZCI6NzM4
+MTB9LCJrbkhDNFpDUUVDbVhQR3BLIjp7InRleHQiOiJUaGVzZS
+BmaXJzdCB0d28gZm9vdG5vdGVzIG1heSBuZWVkIHRvIGNhcnJ5
+IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2ggb24gdGhlIHNvY2lh4o
+CmIiwic3RhcnQiOjczMTQ3LCJlbmQiOjczMjc3fSwiUUxSQ2ho
+M0RLcUFwb0JURyI6eyJ0ZXh0IjoiZmluZCB0aGUgZXhhY3QgcG
+FnZS4uLiBhZnRlciB5b3UgZmluZCB0aGUgc291cmNlISIsInN0
+YXJ0Ijo2MTE4OSwiZW5kIjo2MTIzOH0sIjd1Zlhmck1rNjMwcz
+dObk0iOnsidGV4dCI6ImZpbmQgb3JpZ2luYWwgc291cmNlIGlu
+IFBoaWxsaXBzLiIsInN0YXJ0Ijo1OTMxNiwiZW5kIjo1OTM0OX
+0sIjFDT1V1b1dLV1UxTmFwQUYiOnsidGV4dCI6ImBJIHN0aWxs
+IG5lZWQgZGlyZWN0IHF1b3RlcyBmcm9tIFJpdHNjaGwuIEkgY2
+FuIGdldCB0aG9zZSBvdXQgb2YgU3R1Y2tlbmJlcmcuIELigKYi
+LCJzdGFydCI6NTY4ODksImVuZCI6NTY4ODl9LCJUN2lLU0NNcn
+FzZVplaERmIjp7InRleHQiOiJORUVEIFRPIFNFRSBISVMgRk9P
+VE5PVEUgRk9SIFRISVMgU1RBVEVNRU5ULiBTVVJFTFkgSEUgR0
+9FUyBJTlRPIERFVEFJTCBBQk9VVCBT4oCmIiwic3RhcnQiOjE5
+MDYyLCJlbmQiOjE5MTc0fSwicEhRMUpsY1hUMExSRkt4cSI6ey
+J0ZXh0IjoiX0NPTlNJREVSIENJVElORyBIT1BLSU5TIERJUkVD
+VExZXyIsInN0YXJ0IjoxOTM2MSwiZW5kIjoxOTM5NX0sImNsMk
+9QNTBPZ0NLM1g4enciOnsidGV4dCI6ImBBREQgUEFSQUdSQVBI
+IFxudGhhdCBub3RlcyB0aGUgd29yayBvZiBSdXRoIEJvY2gsIF
+Zpc2lvbmFyeSBSZXB1YmxpYywgYW5kIGhlciBj4oCmIiwic3Rh
+cnQiOjIwNDI2LCJlbmQiOjIwNjUwfSwibVU4MUk3ZUNUd2tQbm
+FiZiI6eyJ0ZXh0IjoiYFN1bW1hcnkgYXQgdGhlIGVuZCBvZiB0
+aGlzIHBhcmFncmFwaCB3aXRoIHRoZSBndXkgU2FuZGVlbiBxdW
+90ZXMgZ2l2aW5nIGEgY29uZuKApiIsInN0YXJ0IjoyNTI0OCwi
+ZW5kIjoyNTM3M30sIkVXcDVzbnVUa1pHT0drcG8iOnsidGV4dC
+I6IkRvIEkgZmluZCBhIHdheSBoZXJlIHRvIHBvaW50IGJhY2sg
+dG8gV29vZHMnIHByb3BoZXRpYyB3YXJuaW5ncyBhYm91dCB0aG
+Ugb3J0aG/igKYiLCJzdGFydCI6NDAxODUsImVuZCI6NDA0ODl9
+LCJHU0VDNVIza3ZuVU5sTmJUIjp7InRleHQiOiJBTkQgRklORC
+BPVEhFUlMuLi4gdGhlcmUgd2VyZSBzZXZlcmFsIGV4YW1wbGVz
+IHdpdGggbWlsbGVubmlhbCBldmVuIGluIHRoZSB0aXRsZSIsIn
+N0YXJ0Ijo0Mjc4NSwiZW5kIjo0Mjg2NX0sIlRxNE5CZTE0M0t3
+eFpDTEMiOnsidGV4dCI6ImBQYXJhZ3JhcGg6IFxuUXVvdGVzIG
+Zyb20gTWF1cmljZSBkZW1vbnN0cmF0aW5nIHRoZSBhYm92ZSBw
+YXJhZ3JhcGguSSBwcm9iYWJseSBu4oCmIiwic3RhcnQiOjUwNz
+cxLCJlbmQiOjUwOTcxfSwiNXllcWJmNm5qd1NIS2hyayI6eyJ0
+ZXh0IjoiYEkgc3RpbGwgbmVlZCBkaXJlY3QgcXVvdGVzIGZyb2
+0gUml0c2NobC4gSSBjYW4gZ2V0IHRob3NlIG91dCBvZiBTdHVj
+a2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NTYyMCwiZW5kIjo1NT
+c2N30sImZPalJySXBlbVdvczZ4YUMiOnsidGV4dCI6IkZJTkQg
+VEhFIFJJR0hUIFNPVVJDRSBGT1IgVEhJUyIsInN0YXJ0Ijo1Mz
+kxOCwiZW5kIjo1Mzk0OH0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsi
+dGV4dCI6IkRvIEkgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3
+c/YCIsInN0YXJ0Ijo2NzE5MSwiZW5kIjo2NzIyNH19LCJjb21t
 ZW50cyI6eyJWUVYyc0VZYVU2MFBsNFI0Ijp7ImRpc2N1c3Npb2
 5JZCI6IlF4NVNqY2dOUTVUamRyVzAiLCJzdWIiOiJnaDo3MTI5
 Mzk4NyIsInRleHQiOiJzaG91bGQgdGhpcyBiZSB3b3JsZGx5Py
@@ -522,9 +522,9 @@ YwMTgxNTk0MTIzNH0sIjBCUFNLb3V0cHRFeXBzOFEiOnsiZGlz
 Y3Vzc2lvbklkIjoiWnprb1hDZnI2Y1FpcWpENSIsInN1YiI6Im
 doOjM3MDQwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMgb3IgTm8/
 IiwiY3JlYXRlZCI6MTYwMTgxNjExNzE3MX19LCJoaXN0b3J5Ij
-pbLTE5OTY4MzAxMjMsMjA1MzI5MTUwMyw2MjE5NjY5MTMsMTEy
-OTY3OTY3MywxMjAyMTU4OTkxLC0yNDE4ODA2MjgsMTUzNDU2OD
-U3NSwtMTM3NDQ3ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1ODcs
-LTE4NTE1MjExODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMywyMD
-AyNTI3OTI0LC00MzQ0MDI2MjRdfQ==
+pbMzM5ODkzMzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1MDMsNjIx
+OTY2OTEzLDExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNj
+I4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwt
+ODc0MTM2NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Nj
+g1NDg1MjMsMjAwMjUyNzkyNCwtNDM0NDAyNjI0XX0=
 -->
