@@ -301,7 +301,7 @@ In 1885, Josiah Strong published  _Our Country: Its Possible Future and Its Pres
 
 For Strong, the end of the nineteenth century was the second most important point in world history after the incarnation.^[Strong, Our Country, 177.] 
 
-Not only did Strong's vision for home missions equate Christianity's mission with that of America, it equated America's destiny with that of a specifically Anglo-Saxon culture. In his chapter titled "The Anglo Saxon and the World's Futture," Strong uses dubious but contemporary social scientific theory regarding racial composition and hybridization in order to develop a more religious concept of Anglo-Saxon superiority.^[Strong, Our Country, 159.] Strong's conception of Anglo-Saxon is broadly defined, and he takes racial mixture as a defining characteristic of Anglo-Saxon exceptionality. "Mixed" races, he claims, are superior to "pure" races.^[Handy, Undermined Establishment, 18.] Nevertheless, this mixture would only maintain its potency if it carried the distinctly superior cultural characteristics of American Anglo-Saxonism. Strong's influence is hard to underestimate on contemporary missions methods during the turn of the century. The Great Commission was wholly clothed in the language of Christianize and Americanize, and the concurrent rise of immigration from non-Anglo, non-Protestant nations would require missionary methods aligned with this recast commission.
+Not only did Strong's vision for home missions equate Christianity's mission with that of America, it equated America's destiny with that of a specifically Anglo-Saxon culture. In his chapter titled "The Anglo Saxon and the World's Future," Strong uses dubious but contemporary social scientific theory regarding racial composition and hybridization in order to develop a more religious concept of Anglo-Saxon superiority.^[Strong, Our Country, 159.] Strong's conception of Anglo-Saxon is broadly defined, and he takes racial mixture as a defining characteristic of Anglo-Saxon exceptionality. "Mixed" races, he claims, are superior to "pure" races.^[Handy, Undermined Establishment, 18.] Nevertheless, this mixture would only maintain its potency if it carried the distinctly superior cultural characteristics of American Anglo-Saxonism. Strong's influence is hard to underestimate on contemporary missions methods during the turn of the century. The Great Commission was wholly clothed in the language of "Christianize and Americanize," and the concurrent rise of immigration from non-Anglo, non-Protestant nations would require missionary methods aligned with this recast commission.
 
 William Payne Shriver distills the missionary task of Christianization and Americanization toward immigrants into three parts: sympathy and resources from the church to aid the immigrant, "arouse and enrich the religious life" of the immigrant, and Americanize them. Of that last aspect of the mission, Shriver writes, "How may we inspire these diverse and polyglot peoples, together with our own and native Americans, with that common sympathy, understanding and ideal purpose which make for American Christian democracy?"^[Shriver, William Payne. Immigrant Forces: Factors in the New Democracy (New York: American Baptist Publication Society, 1913), 193.] For some Christianize and Americanize was conceived in optimistic terms as an opportunity for American Protestants to hasten their work of kingdom building by the promotion of Christian and American ideals. For others, it was cast in the ominous language of an impending threat. Though the lens of threat, Christians conceived of a mission to protect the kingdom they were establishing from incoming forces of that could potentially undermine their Christian civilization.
 
@@ -550,11 +550,11 @@ kwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaXNjdXNzaW9u
 SWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoiZ2g6NzEyOT
 M5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG9pbiBiZSBj
 YXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMwOTI0MTgyfX
-0sImhpc3RvcnkiOlstMTYyMDM1NTY3MywtNzk0NDA4OTIyLC0x
-NjUzMTM2MzkxLDE0NTIyMDMzMjUsMzM5ODkzMzk0LC0xOTk2OD
-MwMTIzLDIwNTMyOTE1MDMsNjIxOTY2OTEzLDExMjk2Nzk2NzMs
-MTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNz
-Q0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIx
-MTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNC
-wtNDM0NDAyNjI0XX0=
+0sImhpc3RvcnkiOlstNDgzMTIzNDUxLC0xNjIwMzU1NjczLC03
+OTQ0MDg5MjIsLTE2NTMxMzYzOTEsMTQ1MjIwMzMyNSwzMzk4OT
+MzOTQsLTE5OTY4MzAxMjMsMjA1MzI5MTUwMyw2MjE5NjY5MTMs
+MTEyOTY3OTY3MywxMjAyMTU4OTkxLC0yNDE4ODA2MjgsMTUzND
+U2ODU3NSwtMTM3NDQ3ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1
+ODcsLTE4NTE1MjExODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMy
+wyMDAyNTI3OTI0XX0=
 -->
