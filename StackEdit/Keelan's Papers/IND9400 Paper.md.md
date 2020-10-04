@@ -121,10 +121,6 @@ Despite the large amount of overlapping territory between the doctrine of the mi
 
 Over the course of his twelve lectures, Harris interacts with the kingdom of God from every conceivable angle. In his first lectures, he demonstrates proofs for the existence of the kingdom and antagonism toward the kingdom as Satanic forces.^[Harris, Kingdom of Christ, 1,22. Consider adding lecture names to the footnotes.] He continues by describing the unique virtues of the kingdom (lecture 3), bound up in sacrificial love (lecture 7).^[Harris, Kingdom of Christ, 47, 129.] He outlines the necessity of both divine (lecture 4) and human agency (lecture 6) in the triumph of the kingdom.^[Harris, Kingdom of Christ, 65, 110.] In lecture 11, Harris pits the "scriptural doctrine of the triumph of Christ's kingdom" against millenarianism, forcefully defending the doctrine of postmillennialism.^[Harris, Kingdom of Christ, 220.] Finally, Harris addresses the relationship between human progress, civilization, and the kingdom of God in lectures 10 and 12.^[Harris, Kingdom of Christ, 199, 238.] In total, the Harris's lectures provide a fully comprehensive theology of the kingdom that serves, in many ways, as a bridge between more traditional understandings of the kingdom of God and a developing understanding, largely influenced by European thought, that would ground much of the applied theology by Protestants for the next four decades.
 
-`Note:  
-May need to quote the dialectical bridge language here... or at least give it a footnote on something I've alread said.
-He was moreover to be a link between the "dialectical" theology and the "modern," which stresses action over systematic completeness.^[ Tuveson, Redeemer Nation, 82.]`
-
 ## The European Conversation
 As with postmillennialism, many other aspects of American Protestant theology were developed in conversation with concurrent discussions in Western Europe, especially Great Britain. Kingdom theology was no exception. American thoughts on the kingdom of God were heavily influenced by those in Europe, and reliance on certain scholars is evident.
 
@@ -368,36 +364,36 @@ OnsidGV4dCI6IkluIiwic3RhcnQiOjQ1NzQ4LCJlbmQiOjQ1Nz
 UwfSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVsb3Mi
 LCJzdGFydCI6NDgyMzMsImVuZCI6NDgyMzh9LCI1WElKQnpRTn
 hwUGc1THZ0Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo0
-OTE5MCwiZW5kIjo0OTE5OH0sInR1NlFOdDF1bmY1UUpmQmgiOn
-sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU5MTM4LCJl
-bmQiOjU5MTQ5fSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0Ij
-oiY2l0ZSIsInN0YXJ0Ijo3MDUzMSwiZW5kIjo3MDUzNX0sImZ6
+ODg5MiwiZW5kIjo0ODkwMH0sInR1NlFOdDF1bmY1UUpmQmgiOn
+sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU4ODQwLCJl
+bmQiOjU4ODUxfSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0Ij
+oiY2l0ZSIsInN0YXJ0Ijo3MDIzMywiZW5kIjo3MDIzN30sImZ6
 ZFFKZEptMzhzYmI2V2kiOnsidGV4dCI6InByb3Rlc3RhbnQiLC
-JzdGFydCI6NzA3NTUsImVuZCI6NzA3NjV9LCIyNHNSVjRzd2Vu
+JzdGFydCI6NzA0NTcsImVuZCI6NzA0Njd9LCIyNHNSVjRzd2Vu
 TEp5d1I3Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3Nz
-c3OCwiZW5kIjo3Nzc4Nn0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
+Q4MCwiZW5kIjo3NzQ4OH0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
 dGV4dCI6IkEgcG9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudC
 BwcmVzZW50ZWQgYXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwg
-ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6Nzg0ODAsImVuZCI6Nz
-g1Njl9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3Njk5
-MiwiZW5kIjo3NzAzMywidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
+ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzgxODIsImVuZCI6Nz
+gyNzF9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3NjY5
+NCwiZW5kIjo3NjczNSwidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
 cgdGhpcyB3aXRoIG90aGVyIHNvdXJjZXMifSwia25IQzRaQ1FF
-Q21YUEdwSyI6eyJzdGFydCI6NzYzNzAsImVuZCI6NzY1MDAsIn
+Q21YUEdwSyI6eyJzdGFydCI6NzYwNzIsImVuZCI6NzYyMDIsIn
 RleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1heSBu
 ZWVkIHRvIGNhcnJ5IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2ggb2
 4gdGhlIHNvY2lh4oCmIn0sIlFMUkNoaDNES3FBcG9CVEciOnsi
-c3RhcnQiOjY0NDQ3LCJlbmQiOjY0NDk2LCJ0ZXh0IjoiZmluZC
+c3RhcnQiOjY0MTQ5LCJlbmQiOjY0MTk4LCJ0ZXh0IjoiZmluZC
 B0aGUgZXhhY3QgcGFnZS4uLiBhZnRlciB5b3UgZmluZCB0aGUg
 c291cmNlISJ9LCI3dWZYZnJNazYzMHM3Tm5NIjp7InN0YXJ0Ij
-o2MjU3MywiZW5kIjo2MjYwNiwidGV4dCI6ImZpbmQgb3JpZ2lu
+o2MjI3NSwiZW5kIjo2MjMwOCwidGV4dCI6ImZpbmQgb3JpZ2lu
 YWwgc291cmNlIGluIFBoaWxsaXBzLiJ9LCIxQ09VdW9XS1dVMU
-5hcEFGIjp7InN0YXJ0Ijo1ODg3NiwiZW5kIjo1OTAyMiwidGV4
+5hcEFGIjp7InN0YXJ0Ijo1ODU3OCwiZW5kIjo1ODcyNCwidGV4
 dCI6ImBJIHN0aWxsIG5lZWQgZGlyZWN0IHF1b3RlcyBmcm9tIF
 JpdHNjaGwuIEkgY2FuIGdldCB0aG9zZSBvdXQgb2YgU3R1Y2tl
 bmJlcmcuIELigKYifSwiN0lNNlBsbmdLUVYwbVh4YiI6eyJzdG
-FydCI6NTcxODAsImVuZCI6NTcyMTAsInRleHQiOiJGSU5EIFRI
+FydCI6NTY4ODIsImVuZCI6NTY5MTIsInRleHQiOiJGSU5EIFRI
 RSBSSUdIVCBTT1VSQ0UgRk9SIFRISVMifSwieDc5YnZZZHpxVW
-xkQzZ6RiI6eyJzdGFydCI6NTY5ODQsImVuZCI6NTcxNzksInRl
+xkQzZ6RiI6eyJzdGFydCI6NTY2ODYsImVuZCI6NTY4ODEsInRl
 eHQiOiJJbiB0aGUgUml0c2NobGlhbiBzY2hvb2wsIEFtZXJpY2
 FuIFByb3Rlc3RhbnRzIHdvdWxkIGZpbmQgYSB0aGVvbG9naWNh
 bCBmb3VuZGF04oCmIn0sIlQ3aUtTQ01ycXNlWmVoRGYiOnsic3
@@ -525,10 +521,14 @@ Npb25JZCI6ImtsVkZxOGNnV1duamNvc1oiLCJzdWIiOiJnaDoz
 NzA0MDg0MSIsInRleHQiOiJObywgYnV0IHRlbGwgbWUgd2h5IH
 lvdSB0aGluayB0aGF0LiBJdCBtYXkgbmVlZCB0byBiZSBtb3Jl
 IGNsZWFyIHRoZSBjb25uZWN0aW9uIHRvIHRoZSBwYXJhZ3JhcG
-guIiwiY3JlYXRlZCI6MTYwMTgxNTA3NzU3M319LCJoaXN0b3J5
-IjpbLTQ3MTc3OTMzOSwxMTI5Njc5NjczLDEyMDIxNTg5OTEsLT
-I0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMzc0NDc4ODExLC02Mjc4
-ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwtMTY3MDA3Nj
-kzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQwMjYyNF19
-
+guIiwiY3JlYXRlZCI6MTYwMTgxNTA3NzU3M30sIkJrUFdXZzJm
+WTNqTlRqQ0giOnsiZGlzY3Vzc2lvbklkIjoia1hHOHY4cTZJeG
+FtdEFWZCIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IlNo
+b3VsZCB3aGF0IGJlIGl0YWxpY2l6ZWQ/IEkgZG9uJ3Qga25vdy
+B3aGF0IHRoaXMgd2FzIHN1cHBvc2VkIHRvIGJlIG9uLiIsImNy
+ZWF0ZWQiOjE2MDE4MTUxNjAyMzB9fSwiaGlzdG9yeSI6WzYyMT
+k2NjkxMywxMTI5Njc5NjczLDEyMDIxNTg5OTEsLTI0MTg4MDYy
+OCwxNTM0NTY4NTc1LC0xMzc0NDc4ODExLC02Mjc4ODI1ODksLT
+g3NDEzNjU4NywtMTg1MTUyMTE4OSwtMTY3MDA3NjkzNCwtNzY4
+NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQwMjYyNF19
 -->
