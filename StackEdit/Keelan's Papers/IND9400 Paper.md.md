@@ -26,9 +26,9 @@ Brown's assertion concerning the prominence of the postmillennial position in th
 This theological optimism and confidence in the gears of progress roots deep into the religious history of the nation, and finds it's beginnings prior to the nineteenth century.
 
 ## British Beginnings (Prior to 1800)
-The Protestant conversation concerning the millennium certainly predates American Protestantism. In fact, a robust dialogue was occurring in England that laid much of the groundwork for the theological presuppositions whichthat would support the American mindset. A divergence developed between those who believed the physical return of Christ was necessary for entering the millennium and those who felt history and human initiative would propel humanity toward the coming kingdom and a millennial reign of peace and prosperity. In 1703, Daniel Whitby authored the significant  _Paraphrase and Commentary on the New Testament_, in which he delivered a lengthy and systematic rebuttal to what he called the millenarian position, instead arguing for a millennialist position that would today be described as postmillennialism.^[Whitby, Paraphrase and Commentary on the New Testament, London: W. Bowyer, 1703, 247-278, provides a multiple-chapter treatise on the millennium, which is a very long and detailed refutation of a premillennialist (millenarian) position. In this section, he specifically addresses the doctrine from historical and biblical perspectives, providing both a detailed history of interpretation for the early church on the issue and a survey of biblical material on the issue. He negatively refutes certain positions of the millenarian view, he positively affirms others, and he concludes with his own understanding that serves as one of the earliest Protestant systematic treatments in favor of a postmillennialist position.] However, consistent nomenclature for these divergent views alludes wide acceptance.
+The Protestant conversation concerning the millennium certainly predates American Protestantism. In fact, a robust dialogue was occurring in England that laid much of the groundwork for the theological presuppositions that would support the American mindset. A divergence developed between those who believed the physical return of Christ was necessary for entering the millennium and those who felt history and human initiative would propel humanity toward the coming kingdom and a millennial reign of peace and prosperity. In 1703, Daniel Whitby authored the significant  _Paraphrase and Commentary on the New Testament_, in which he delivered a lengthy and systematic rebuttal to what he called the millenarian position, instead arguing for a millennialist position that would today be described as postmillennialism.^[Whitby, Paraphrase and Commentary on the New Testament, London: W. Bowyer, 1703, 247-278, provides a multiple-chapter treatise on the millennium, which is a very long and detailed refutation of a premillennialist (millenarian) position. In this section, he specifically addresses the doctrine from historical and biblical perspectives, providing both a detailed history of interpretation for the early church on the issue and a survey of biblical material on the issue. He negatively refutes certain positions of the millenarian view, he positively affirms others, and he concludes with his own understanding that serves as one of the earliest Protestant systematic treatments in favor of a postmillennialist position.] However, consistent nomenclature for these divergent views alludes wide acceptance.
 
-Throughout the history of the conversation, the debate has been termed as "millenarians vs. millennialists", "millenarians vs. millenists", and "premillennialists vs. postmillennialists" among other less-accepted options. Perhaps Ernest Tuveson most siginificantly swayed the conversation toward the use of millenarians (premillennialists) and millennialists (postmillennialists). Tuveson notes that the Protestant conversation concerning the millennium was alive and well at least as far back as the seventeenth century, and he finds the commonly accepted terms today as unhelpful monikers for earlier views.^[Tuveson,  [Redeemer Nation](https://www.notion.so/keelan/Redeemer-Nation-7bcf4d95c2e44e5a80a9e37ced9a0aa7#4f15ef0bd5314a23b1ad5139458b0ec7), 34. See also Tuveson, Millennium and Utopia, 71-112, for a thorough treatment of eschatological development in British Protestant thought prior to the 1800s.] Walls concurs, asserting the terms premillennialism and postmillennialism had not been invented in the early centuries of the Protestant debate on eschatology.^[Walls,  [Eschatology and the Western Missionary Movement](https://www.notion.so/keelan/Eschatology-and-the-Western-Missionary-Movement-a4e4bd4eb99e43cd8482eb5b0950ac85#18854fe82a584e4187bf9d3a1826964d), 190.]
+Throughout the history of the conversation, the debate has been termed as "millenarians vs. millennialists", "millenarians vs. millenists", and "premillennialists vs. postmillennialists" among other less-accepted options. Perhaps Ernest Tuveson most siginificantly swayed the conversation toward the use of millenarians (premillennialists) and millennialists (postmillennialists). Tuveson notes that the Protestant conversation concerning the millennium was alive and well at least as far back as the seventeenth century, and he finds the commonly accepted terms today as unhelpful monikers for earlier views.^[Tuveson,  Redeemer Nation, 34. See also Tuveson, Millennium and Utopia, 71-112, for a thorough treatment of eschatological development in British Protestant thought prior to the 1800s.] Walls concurs, asserting the terms premillennialism and postmillennialism had not been invented in the early centuries of the Protestant debate on eschatology.^[Walls,  Eschatology and the Western Missionary Movement, 190.]
 
 General commentary and academic debate concerning the nature of the millennium was happening extensively in Britain. Millenarians, for their part, placed little confidence in society at large and humanity's ability to bring about lasting progress.^[Sandeen,  [Roots](https://www.notion.so/keelan/The-Roots-of-Fundamentalism-51bdfa4bb11845cb9fa3fe40e69a1717#6aa7636b43f14361a132ef57faf06199), 13.] Progressive millennialists, on the other hand, placed increasing trust in the wheels of progress as God's providential tool in history to bring about his kingdom. Tuveson points to a secularization thesis, beginning prior to the eighteenth century, that increasingly influenced millennialist thought and in turn shaped Protestantism and Western society as a whole. Taken from this perspective, the millennialist theology was as significant to the modern, historically positivist understanding of progress as secular enlightenment philosophy.^[Tuveson,  [Millennium and Utopia](https://www.notion.so/keelan/Millennium-and-Utopia-300bec85c1fd4d71a6e7a4ad34866bd3#3e6fb6ceb3a748c5851aec8e7f747d87), 75.] Over time, the concepts of Providence were wed to those of natural law, humanity's social and religious development, and the laws of universal progress.^[Tuveson, Millennium and Utopia, 139, 149, 152, outlines the trajectory of millennial doctrine as it increasingly conflates first with the concept of natural law and subsequently with the scientific ideas of social and racial progress, ultimately culminating thein a doctrine of progress as universal law.] 
 
@@ -387,57 +387,57 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI4NFN2TmNlOE5rQkdKMEYzIjp7In
-RleHQiOiJQQVJBR1JBUEgiLCJzdGFydCI6MjE0NTksImVuZCI6
-MjE0Njh9LCJReDVTamNnTlE1VGpkclcwIjp7InRleHQiOiJ3b3
-JkbHkiLCJzdGFydCI6MjQwMTYsImVuZCI6MjQwMjJ9LCJGazls
+RleHQiOiJQQVJBR1JBUEgiLCJzdGFydCI6MjExOTQsImVuZCI6
+MjEyMDN9LCJReDVTamNnTlE1VGpkclcwIjp7InRleHQiOiJ3b3
+JkbHkiLCJzdGFydCI6MjM3NTEsImVuZCI6MjM3NTd9LCJGazls
 OGdDVTZ3VktkZEp6Ijp7InRleHQiOiJ0aGUiLCJzdGFydCI6Mj
-c2ODMsImVuZCI6Mjc2ODN9LCJRQlg1bjhBMDBSNzBFRTJwIjp7
-InRleHQiOiJDb25mZXJlbmNlcyIsInN0YXJ0IjoyODgyNCwiZW
-5kIjoyODgzNX0sIkpsSzM2TTVCbnNRY1dINDQiOnsidGV4dCI6
-InByZW1pbGxlbm5pYWxpc20iLCJzdGFydCI6Mjk4MzMsImVuZC
-I6Mjk4NDl9LCJoeWlWcmptQlhZeDhJaU9zIjp7InRleHQiOiJO
-ZXZlcnRoZWxlc3MiLCJzdGFydCI6MzExMTMsImVuZCI6MzExMj
-V9LCJpdUpnMFJwZmgyNDRaSldIIjp7InRleHQiOiJUaG91Z2gi
-LCJzdGFydCI6NDEwNjUsImVuZCI6NDEwNzF9LCJDM3BYUVlFMl
-ZzY3NUUFFRIjp7InRleHQiOiJzaWMiLCJzdGFydCI6NDIxMDEs
-ImVuZCI6NDIxMDR9LCJNWlZqd0d0RFp2REZlRXJkIjp7InRleH
-QiOiJGSU5EIiwic3RhcnQiOjQyNDI3LCJlbmQiOjQyNDMxfSwi
+c0MTgsImVuZCI6Mjc0MTh9LCJRQlg1bjhBMDBSNzBFRTJwIjp7
+InRleHQiOiJDb25mZXJlbmNlcyIsInN0YXJ0IjoyODU1OSwiZW
+5kIjoyODU3MH0sIkpsSzM2TTVCbnNRY1dINDQiOnsidGV4dCI6
+InByZW1pbGxlbm5pYWxpc20iLCJzdGFydCI6Mjk1NjgsImVuZC
+I6Mjk1ODR9LCJoeWlWcmptQlhZeDhJaU9zIjp7InRleHQiOiJO
+ZXZlcnRoZWxlc3MiLCJzdGFydCI6MzA4NDgsImVuZCI6MzA4Nj
+B9LCJpdUpnMFJwZmgyNDRaSldIIjp7InRleHQiOiJUaG91Z2gi
+LCJzdGFydCI6NDA4MDAsImVuZCI6NDA4MDZ9LCJDM3BYUVlFMl
+ZzY3NUUFFRIjp7InRleHQiOiJzaWMiLCJzdGFydCI6NDE4MzYs
+ImVuZCI6NDE4Mzl9LCJNWlZqd0d0RFp2REZlRXJkIjp7InRleH
+QiOiJGSU5EIiwic3RhcnQiOjQyMTYyLCJlbmQiOjQyMTY2fSwi
 ZkdnenpRY3JuWkdaUFZRaSI6eyJ0ZXh0IjoiRklORCIsInN0YX
-J0Ijo0NTc4NiwiZW5kIjo0NTc5MH0sImtsVkZxOGNnV1duamNv
-c1oiOnsidGV4dCI6IkluIiwic3RhcnQiOjQ2OTE5LCJlbmQiOj
-Q2OTIxfSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVs
-b3MiLCJzdGFydCI6NDk0MDQsImVuZCI6NDk0MDl9LCI1WElKQn
+J0Ijo0NTUyMSwiZW5kIjo0NTUyNX0sImtsVkZxOGNnV1duamNv
+c1oiOnsidGV4dCI6IkluIiwic3RhcnQiOjQ2NjU0LCJlbmQiOj
+Q2NjU2fSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVs
+b3MiLCJzdGFydCI6NDkxMzksImVuZCI6NDkxNDR9LCI1WElKQn
 pRTnhwUGc1THZ0Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0
-Ijo1MDM2MSwiZW5kIjo1MDM2OX0sInR1NlFOdDF1bmY1UUpmQm
-giOnsidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjYwMzA5
-LCJlbmQiOjYwMzIwfSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZX
-h0IjoiY2l0ZSIsInN0YXJ0Ijo3MTcwMiwiZW5kIjo3MTcwNn0s
+Ijo1MDA5NiwiZW5kIjo1MDEwNH0sInR1NlFOdDF1bmY1UUpmQm
+giOnsidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjYwMDQ0
+LCJlbmQiOjYwMDU1fSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZX
+h0IjoiY2l0ZSIsInN0YXJ0Ijo3MTQzNywiZW5kIjo3MTQ0MX0s
 ImZ6ZFFKZEptMzhzYmI2V2kiOnsidGV4dCI6InByb3Rlc3Rhbn
-QiLCJzdGFydCI6NzE5MjYsImVuZCI6NzE5MzZ9LCIyNHNSVjRz
+QiLCJzdGFydCI6NzE2NjEsImVuZCI6NzE2NzF9LCIyNHNSVjRz
 d2VuTEp5d1I3Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ij
-o3ODk0OSwiZW5kIjo3ODk1N30sIndpVWRHeUZ0c3E4Nzc2b2Qi
+o3ODY4NCwiZW5kIjo3ODY5Mn0sIndpVWRHeUZ0c3E4Nzc2b2Qi
 OnsidGV4dCI6IkEgcG9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bW
 VudCBwcmVzZW50ZWQgYXMgb3B0aW1pc20gaW4gdGhlIG92ZXJh
-bGwgZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6Nzk2NTEsImVuZC
-I6Nzk3NDB9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3
-ODE2MywiZW5kIjo3ODIwNCwidGV4dCI6IkNvbnNkZXIgc3R1Zm
+bGwgZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzkzODYsImVuZC
+I6Nzk0NzV9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3
+Nzg5OCwiZW5kIjo3NzkzOSwidGV4dCI6IkNvbnNkZXIgc3R1Zm
 ZpbmcgdGhpcyB3aXRoIG90aGVyIHNvdXJjZXMifSwia25IQzRa
-Q1FFQ21YUEdwSyI6eyJzdGFydCI6Nzc1NDEsImVuZCI6Nzc2Nz
-EsInRleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1h
+Q1FFQ21YUEdwSyI6eyJzdGFydCI6NzcyNzYsImVuZCI6Nzc0MD
+YsInRleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1h
 eSBuZWVkIHRvIGNhcnJ5IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2
 ggb24gdGhlIHNvY2lh4oCmIn0sIlFMUkNoaDNES3FBcG9CVEci
-Onsic3RhcnQiOjY1NjE4LCJlbmQiOjY1NjY3LCJ0ZXh0IjoiZm
+Onsic3RhcnQiOjY1MzUzLCJlbmQiOjY1NDAyLCJ0ZXh0IjoiZm
 luZCB0aGUgZXhhY3QgcGFnZS4uLiBhZnRlciB5b3UgZmluZCB0
 aGUgc291cmNlISJ9LCI3dWZYZnJNazYzMHM3Tm5NIjp7InN0YX
-J0Ijo2Mzc0NCwiZW5kIjo2Mzc3NywidGV4dCI6ImZpbmQgb3Jp
+J0Ijo2MzQ3OSwiZW5kIjo2MzUxMiwidGV4dCI6ImZpbmQgb3Jp
 Z2luYWwgc291cmNlIGluIFBoaWxsaXBzLiJ9LCIxQ09VdW9XS1
-dVMU5hcEFGIjp7InN0YXJ0Ijo2MDA0NywiZW5kIjo2MDE5Mywi
+dVMU5hcEFGIjp7InN0YXJ0Ijo1OTc4MiwiZW5kIjo1OTkyOCwi
 dGV4dCI6ImBJIHN0aWxsIG5lZWQgZGlyZWN0IHF1b3RlcyBmcm
 9tIFJpdHNjaGwuIEkgY2FuIGdldCB0aG9zZSBvdXQgb2YgU3R1
 Y2tlbmJlcmcuIELigKYifSwiN0lNNlBsbmdLUVYwbVh4YiI6ey
-JzdGFydCI6NTgzNTEsImVuZCI6NTgzODEsInRleHQiOiJGSU5E
+JzdGFydCI6NTgwODYsImVuZCI6NTgxMTYsInRleHQiOiJGSU5E
 IFRIRSBSSUdIVCBTT1VSQ0UgRk9SIFRISVMifSwieDc5YnZZZH
-pxVWxkQzZ6RiI6eyJzdGFydCI6NTgxNTUsImVuZCI6NTgzNTAs
+pxVWxkQzZ6RiI6eyJzdGFydCI6NTc4OTAsImVuZCI6NTgwODUs
 InRleHQiOiJJbiB0aGUgUml0c2NobGlhbiBzY2hvb2wsIEFtZX
 JpY2FuIFByb3Rlc3RhbnRzIHdvdWxkIGZpbmQgYSB0aGVvbG9n
 aWNhbCBmb3VuZGF04oCmIn19LCJjb21tZW50cyI6eyJlSjBTVX
@@ -546,9 +546,9 @@ OiJ4NzlidllkenFVbGRDNnpGIiwic3ViIjoiZ2g6MzcwNDA4ND
 EiLCJ0ZXh0IjoiU09NRVRISU5HIElTIFZFUlkgTUVTU0VEIFVQ
 IEhFUkUuIFBBUkFHUkFQSFMgQVJFIE1JU1NJTkcgQU5EIFBBUk
 FHUkFQSFMgQVJFIFJFUEVBVElORyIsImNyZWF0ZWQiOjE2MDE4
-MTM0Njc3Mzl9fSwiaGlzdG9yeSI6Wzc3NDYwNzYyLDEyMDIxNT
-g5OTEsLTI0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMzc0NDc4ODEx
-LC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwtMT
-Y3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQw
-MjYyNF19
+MTM0Njc3Mzl9fSwiaGlzdG9yeSI6WzIwNTM1OTY1NDgsMTIwMj
+E1ODk5MSwtMjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4
+MTEsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC
+0xNjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0
+NDAyNjI0XX0=
 -->
