@@ -268,6 +268,7 @@ A postmillennialist commitment presented as optimism in the overall direction of
 **FIX QUOTE!**
 
 > They [postmillennialists] often asserted that the tokens of that... history would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.^[Moorhead, Between Progress, 525.]
+> They often asserted that the tokens of that happy future would not be (at least not until the far-distant end of the world) graves supernaturally opened and Jesus returning on the clouds. History would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.^[Moorhead, Between Progress, 525.]
 
 American Protestants of many stripes believed the present world would be transformed into a society of perfect righteousness and peace through Christianity's triumph. In the first decades of the nineteenth century, the consensus was that this victorious outpouring would occur through the work of revivals. The middle decades of the century— during the Civil War and early parts of Reconstruction—tampered this faith, only to have it return in the Gilded Age as Americans headed into their Progressive Era. An optimism initially placed on the work of revivals was increasingly transferred to activities such as social reform. ^[Phillips, A Kingdom on Earth, 5-6.]
 
@@ -541,9 +542,9 @@ BhIHZlcmIuIEEgc3lub255bSAtIGVtZXJnZWQgb3IgbWF0ZXJp
 YWxpemVkXG5cbkJ1dCBJIHNob3VsZCBwcm9iYWJseSBjaGFuZ2
 UgaXQsIGJlY2F1c2UgaXQgY2FuIGJlIHJlYWQgZWFzaWx5IHRo
 ZSB3YXkgeW91IGRpZC4iLCJjcmVhdGVkIjoxNjAxODEyNTQ1Mj
-QxfX0sImhpc3RvcnkiOlsxMTc2Mzg0MTIsMTIwMjE1ODk5MSwt
-MjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNz
-g4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2
-OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0NDAyNjI0XX
-0=
+QxfX0sImhpc3RvcnkiOlsxMTAyNTYzMzgyLDEyMDIxNTg5OTEs
+LTI0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMzc0NDc4ODExLC02Mj
+c4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwtMTY3MDA3
+NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQwMjYyNF
+19
 -->
