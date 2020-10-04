@@ -390,6 +390,7 @@ With so many working toward a kingdom to be realized in their generation, or sho
 Taken together, a postmillennial commitment and an over-realized kingdom theology linked to American civilization led to a mission to Christianize and Americanize. The resulting eschatological framework can be referred to as a conditional manifest destiny that required American Protestants obedience to their God-given special role in the establishing this kingdom. When confronted by record-setting immigration at the turn of the century, this developed into an applied theology which conflated the promotion of American, Anglo-Saxon cultural ideals alongside the gospel. Some Protestants viewed immigration as a providential opportunity to promote Christianity and the American way of life through the arrival of so many from different cultures and religions. For others, however, the arrival of foreigners was a threat to the civilization they worked so hard to establish, and the mission was cast as one of protecting the developing kingdom of God.
 
 Hiebert is correct in his assessment concerning the period from 1880-1920 when he places it in his era of noncontextualization. What is more, these mission methods not only refused to contextualize the gospel in a manner that led to indigenous expressions of Christianity within other cultures, they actively attempted to supplant foreign culture for Americanism, equating American culture with the biblical ideal of the kingdom society. As Hiebert notes elsewhere, noncontextualization toward a different group's culture is, in fact, uncritical contextualization toward your own.^[Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in _MissionShift: Global Mission Issues in the Third Millennium_. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010. p.90.]
+
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIzS0l5bmtVMWRhU1VoZkJiIjp7In
 RleHQiOiI6Iiwic3RhcnQiOjk3NjIsImVuZCI6OTc2M30sIjg0
@@ -525,8 +526,8 @@ ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3JlYXRlZCI6MTYwMTYzNz
 k4MzMwN30sImgyRGdlMmFDNmlORW5FUlgiOnsiZGlzY3Vzc2lv
 bklkIjoiMjRzUlY0c3dlbkxKeXdSNyIsInN1YiI6ImdoOjcxMj
 kzOTg3IiwidGV4dCI6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQi
-OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6Wy0xMzc0NDc4OD
-ExLC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwt
-MTY3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzND
-QwMjYyNF19
+OjE2MDE2MzgwNDI3NjJ9fSwiaGlzdG9yeSI6Wy0yODU1OTE3OD
+ksLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0x
+ODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMj
+UyNzkyNCwtNDM0NDAyNjI0XX0=
 -->
