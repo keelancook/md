@@ -295,7 +295,7 @@ American Protestants, with few exceptions, adopted an eschatological framework t
 
 For many, this was a naturalistic event, guided by the impersonal wheels of evolutionary science. However, Protestant Americans embraced a conditional variety of the doctrine that based success upon the continued obedience of the American people to the directives of God in his plan for history. Wendy Deichmann Edwards uses this term conditional manifest destiny to describe Josiah Strong's work  _Our Country._  Deichmann Edwards notes Strong was not the first to suggest a conditional understanding of manifest destiny, but that his work provides a seminal understanding of the concept for American Protestants during the Gilded Age and into the turn of the century.^[Deichmann Edwards, 175-176.]
 
-In 1885, Josiah Strong published  _Our Country: It's Possible Future and Its Present Crisis_. The year prior, the American Home Missionary Society commissioned him to revise a former missionary tract by the same name. Building off the previous version of  _Our Country_, Strong recast and amplified its appeal for home missions in light of current events. The result would become one of the most popular books in the United States for the following decades, selling over 175,000 copies.^[Deichmann Edwards, 174, 191.] Strong uses the front matter of his book to build up the grand destiny of the American Protestant, specifically Anglo-Saxon, people and their divine role in God's plan for creating the kingdom of God. He explicitly claims that his present age is a pivotal moment in this plan and uses historical proofs to ground his claim. After establishing this privileged role, Strong then espouses the conditional nature of this manifest destiny. It was contingent upon American Protestants obediently seizing the moment and overcoming a series of perils that threaten to squash their moment in history and delay the coming kingdom by hundreds of years. The remainder of the book outlines these certain perils to the Christian mission and the American establishment. Strong writes,
+In 1885, Josiah Strong published  _Our Country: Its Possible Future and Its Present Crisis_. The year prior, the American Home Missionary Society commissioned him to revise a former missionary tract by the same name. Building off the previous version of  _Our Country_, Strong recast and amplified its appeal for home missions in light of current events. The result would become one of the most popular books in the United States for the following decades, selling over 175,000 copies.^[Deichmann Edwards, 174, 191.] Strong uses the front matter of his book to build up the grand destiny of the American Protestant, specifically Anglo-Saxon, people and their divine role in God's plan for creating the kingdom of God. He explicitly claims that his present age is a pivotal moment in this plan and uses historical proofs to ground his claim. After establishing this privileged role, Strong then espouses the conditional nature of this manifest destiny. It was contingent upon American Protestants obediently seizing the moment and overcoming a series of perils that threaten to squash their moment in history and delay the coming kingdom by hundreds of years. The remainder of the book outlines these certain perils to the Christian mission and the American establishment. Strong writes,
 
 > I cannot think our civilization will perish; but I believe it is fully in the hands of Christians in the United States, during the next fifteen or twenty years, to hasten or retard the coming of Christ's kingdom in the world by hundreds, and perhaps thousands, of years. We of this generation and nation occupy the Gibraltar of the ages which commands the world’s future.^[Strong, Our Country, 180.]
 
@@ -550,11 +550,11 @@ kwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaXNjdXNzaW9u
 SWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoiZ2g6NzEyOT
 M5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG9pbiBiZSBj
 YXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMwOTI0MTgyfX
-0sImhpc3RvcnkiOlstOTcxMTQ0MDEwLC03OTQ0MDg5MjIsLTE2
-NTMxMzYzOTEsMTQ1MjIwMzMyNSwzMzk4OTMzOTQsLTE5OTY4Mz
-AxMjMsMjA1MzI5MTUwMyw2MjE5NjY5MTMsMTEyOTY3OTY3Mywx
-MjAyMTU4OTkxLC0yNDE4ODA2MjgsMTUzNDU2ODU3NSwtMTM3ND
-Q3ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1ODcsLTE4NTE1MjEx
-ODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMywyMDAyNTI3OTI0LC
-00MzQ0MDI2MjRdfQ==
+0sImhpc3RvcnkiOlstMTYyMDM1NTY3MywtNzk0NDA4OTIyLC0x
+NjUzMTM2MzkxLDE0NTIyMDMzMjUsMzM5ODkzMzk0LC0xOTk2OD
+MwMTIzLDIwNTMyOTE1MDMsNjIxOTY2OTEzLDExMjk2Nzk2NzMs
+MTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNz
+Q0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIx
+MTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNC
+wtNDM0NDAyNjI0XX0=
 -->
