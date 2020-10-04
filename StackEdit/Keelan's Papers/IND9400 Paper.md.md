@@ -155,7 +155,7 @@ The pinnacle of Ritschl's theology is found in his conception of the kingdom of 
 
 `I still need direct quotes from Ritschl. I can get those out of Stuckenberg. But, I also need to sprinkle in other sources on Ritschl's theology.`
 
-Building off of Ritschl's thought, von Harnack made a lasting impact on Protestant conceptions of the early Christian church. Harnack, like many other liberal German theologians of the era, was convinced the essence of Christianty was to be found in the teachings of Jesus and that the later teachings of the New Testament had reinterpreted these. Von Harnack warned against an overemphasis by the Western church on the teachings of Paul and created a wedge between the earlier teachings of Jesus and the later teachings of Paul.^[Evans, Social Gospel in American Religion, 61.] As Evans writes,
+Building off of Ritschl's thought, von Harnack made a lasting impact on Protestant conceptions of the early Christian church. Von Harnack, like many other liberal German theologians of the era, was convinced the essence of Christianty was to be found in the teachings of Jesus and that the later teachings of the New Testament had reinterpreted these. Von Harnack warned against an overemphasis by the Western church on the teachings of Paul and created a wedge between the earlier teachings of Jesus and the later teachings of Paul.^[Evans, Social Gospel in American Religion, 61.] As Evans writes,
 
 > Both Ritschl and von Harnack's understanding of Christianity shifted the interpretation of the New Testament away from an otherworldly understanding of Jesus's message. instead emphasizing the significance of his teachings the realization of a new kingdom in this world.^[Evans, Social Gospel in American Religion, 61.]
 
@@ -363,35 +363,35 @@ UwfSwia1hHOHY4cTZJeGFtdEFWZCI6eyJ0ZXh0IjoidGVsb3Mi
 LCJzdGFydCI6NDgyMzMsImVuZCI6NDgyMzh9LCI1WElKQnpRTn
 hwUGc1THZ0Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo0
 ODg5MiwiZW5kIjo0ODkwMH0sInR1NlFOdDF1bmY1UUpmQmgiOn
-sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU4ODQzLCJl
-bmQiOjU4ODU0fSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0Ij
-oiY2l0ZSIsInN0YXJ0Ijo3MDIzNiwiZW5kIjo3MDI0MH0sImZ6
+sidGV4dCI6InZvbiBIYXJuYWNrIiwic3RhcnQiOjU4ODQ3LCJl
+bmQiOjU4ODU4fSwiZDQyc0ZRQ0NXZFlOQmRrZCI6eyJ0ZXh0Ij
+oiY2l0ZSIsInN0YXJ0Ijo3MDI0MCwiZW5kIjo3MDI0NH0sImZ6
 ZFFKZEptMzhzYmI2V2kiOnsidGV4dCI6InByb3Rlc3RhbnQiLC
-JzdGFydCI6NzA0NjAsImVuZCI6NzA0NzB9LCIyNHNSVjRzd2Vu
+JzdGFydCI6NzA0NjQsImVuZCI6NzA0NzR9LCIyNHNSVjRzd2Vu
 TEp5d1I3Ijp7InRleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3Nz
-Q4MywiZW5kIjo3NzQ5MX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
+Q4NywiZW5kIjo3NzQ5NX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsi
 dGV4dCI6IkEgcG9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudC
 BwcmVzZW50ZWQgYXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwg
-ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzgxODUsImVuZCI6Nz
-gyNzR9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3NjY5
-NywiZW5kIjo3NjczOCwidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
+ZGlyZWN0aW9uIG/igKYiLCJzdGFydCI6NzgxODksImVuZCI6Nz
+gyNzh9LCJYSzZWdEtUclQ1V1ducW1JIjp7InN0YXJ0Ijo3Njcw
+MSwiZW5kIjo3Njc0MiwidGV4dCI6IkNvbnNkZXIgc3R1ZmZpbm
 cgdGhpcyB3aXRoIG90aGVyIHNvdXJjZXMifSwia25IQzRaQ1FF
-Q21YUEdwSyI6eyJzdGFydCI6NzYwNzUsImVuZCI6NzYyMDUsIn
+Q21YUEdwSyI6eyJzdGFydCI6NzYwNzksImVuZCI6NzYyMDksIn
 RleHQiOiJUaGVzZSBmaXJzdCB0d28gZm9vdG5vdGVzIG1heSBu
 ZWVkIHRvIGNhcnJ5IGEgZ29vZCBiaXQgb2YgcmVzZWFyY2ggb2
 4gdGhlIHNvY2lh4oCmIn0sIlFMUkNoaDNES3FBcG9CVEciOnsi
-c3RhcnQiOjY0MTUyLCJlbmQiOjY0MjAxLCJ0ZXh0IjoiZmluZC
+c3RhcnQiOjY0MTU2LCJlbmQiOjY0MjA1LCJ0ZXh0IjoiZmluZC
 B0aGUgZXhhY3QgcGFnZS4uLiBhZnRlciB5b3UgZmluZCB0aGUg
 c291cmNlISJ9LCI3dWZYZnJNazYzMHM3Tm5NIjp7InN0YXJ0Ij
-o2MjI3OCwiZW5kIjo2MjMxMSwidGV4dCI6ImZpbmQgb3JpZ2lu
+o2MjI4MiwiZW5kIjo2MjMxNSwidGV4dCI6ImZpbmQgb3JpZ2lu
 YWwgc291cmNlIGluIFBoaWxsaXBzLiJ9LCIxQ09VdW9XS1dVMU
-5hcEFGIjp7InN0YXJ0Ijo1ODU4MSwiZW5kIjo1ODcyNywidGV4
+5hcEFGIjp7InN0YXJ0Ijo1ODU4NSwiZW5kIjo1ODczMSwidGV4
 dCI6ImBJIHN0aWxsIG5lZWQgZGlyZWN0IHF1b3RlcyBmcm9tIF
 JpdHNjaGwuIEkgY2FuIGdldCB0aG9zZSBvdXQgb2YgU3R1Y2tl
 bmJlcmcuIELigKYifSwiN0lNNlBsbmdLUVYwbVh4YiI6eyJzdG
-FydCI6NTY4ODUsImVuZCI6NTY5MTUsInRleHQiOiJGSU5EIFRI
+FydCI6NTY4ODksImVuZCI6NTY5MTksInRleHQiOiJGSU5EIFRI
 RSBSSUdIVCBTT1VSQ0UgRk9SIFRISVMifSwieDc5YnZZZHpxVW
-xkQzZ6RiI6eyJzdGFydCI6NTY2ODksImVuZCI6NTY4ODQsInRl
+xkQzZ6RiI6eyJzdGFydCI6NTY2OTMsImVuZCI6NTY4ODgsInRl
 eHQiOiJJbiB0aGUgUml0c2NobGlhbiBzY2hvb2wsIEFtZXJpY2
 FuIFByb3Rlc3RhbnRzIHdvdWxkIGZpbmQgYSB0aGVvbG9naWNh
 bCBmb3VuZGF04oCmIn0sIlQ3aUtTQ01ycXNlWmVoRGYiOnsic3
@@ -543,7 +543,7 @@ VkIjoxNjAxODE1MzE1MjkyfSwiUGF4b2JZbEFCNllvTm41ZyI6
 eyJkaXNjdXNzaW9uSWQiOiI1eWVxYmY2bmp3U0hLaHJrIiwic3
 ViIjoiZ2g6MzcwNDA4NDEiLCJ0ZXh0IjoiTVVTVCBIQVBQRU4i
 LCJjcmVhdGVkIjoxNjAxODE1NTM5NjkyfX0sImhpc3RvcnkiOl
-stNDg4NzIxNDczLDYyMTk2NjkxMywxMTI5Njc5NjczLDEyMDIx
+syMDUzMjkxNTAzLDYyMTk2NjkxMywxMTI5Njc5NjczLDEyMDIx
 NTg5OTEsLTI0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMzc0NDc4OD
 ExLC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwt
 MTY3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzND
