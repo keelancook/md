@@ -328,7 +328,7 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
 
 # Conclusion
-Eschatology shapes missiology. One's convictions concerning the goal of creation ultimately influence their beliefs about the missions methods required to see it through. The period from 1880 to 1920 in the United States provides a clear demonstration of this relationship at play. The majority of American Protestants held views on the millennium and the kingdom of God that proved determinative in their understanding of the Christian mission in relation to record-setting immigration during the era. These theological presuppositions caused American Protestants to conflate gospel proclamation with cultural promotion, resulting in an applied theology of Christianize and Americanize.
+Eschatology shapes missiology. One's convictions concerning the goal of creation ultimately influence their beliefs about the missions methods required to see it through. The period from 1880 to 1920 in the United States provides a clear demonstration of this relationship at play. The majority of American Protestants held views on the millennium and the kingdom of God that proved determinative in their understanding of the Christian mission in relation to record-setting immigration during the era. These theological presuppositions caused American Protestants to conflate gospel proclamation with cultural promotion, resulting in an applied theology of "Christianize and Americanize."
 
 Postmillennialism long held sway among American Protestants. From the first settlers forward, a clear thread of millennial expectations runs through the nation. Though a minority report exists throughout American history that remained convinced of a premillennial understanding of the end of time, by the Gilded Age American Protestants were largely captivated by the expectation of a gradual blossoming of the millennium. For many at the end of the nineteenth century, that day was fast at hand. This commitment produced an overall optimism as Protestants worked hard to realize the kingdom they awaited, and it allowed the wheels of history to be viewed through the lens of progress as a spiritual law guiding its establishment.
 
@@ -555,11 +555,11 @@ LCJjcmVhdGVkIjoxNjAxODMwOTI0MTgyfSwiU05CQk9sUXAxMT
 J2cGlTSSI6eyJkaXNjdXNzaW9uSWQiOiJIUll2bko4V1UyRkNR
 SzlHIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG8gdG
 hpcyIsImNyZWF0ZWQiOjE2MDE4MzE3NzQ2MzN9fSwiaGlzdG9y
-eSI6WzEzNDY3MTI1NSwtMTM1ODU1NDcwNSwtMTYyMDM1NTY3My
-wtNzk0NDA4OTIyLC0xNjUzMTM2MzkxLDE0NTIyMDMzMjUsMzM5
-ODkzMzk0LC0xOTk2ODMwMTIzLDIwNTMyOTE1MDMsNjIxOTY2OT
-EzLDExMjk2Nzk2NzMsMTIwMjE1ODk5MSwtMjQxODgwNjI4LDE1
-MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MT
-M2NTg3LC0xODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1
-MjNdfQ==
+eSI6Wy04MDQ0MzI5LC0xMzU4NTU0NzA1LC0xNjIwMzU1NjczLC
+03OTQ0MDg5MjIsLTE2NTMxMzYzOTEsMTQ1MjIwMzMyNSwzMzk4
+OTMzOTQsLTE5OTY4MzAxMjMsMjA1MzI5MTUwMyw2MjE5NjY5MT
+MsMTEyOTY3OTY3MywxMjAyMTU4OTkxLC0yNDE4ODA2MjgsMTUz
+NDU2ODU3NSwtMTM3NDQ3ODgxMSwtNjI3ODgyNTg5LC04NzQxMz
+Y1ODcsLTE4NTE1MjExODksLTE2NzAwNzY5MzQsLTc2ODU0ODUy
+M119
 -->
