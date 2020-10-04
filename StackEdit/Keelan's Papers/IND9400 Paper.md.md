@@ -143,7 +143,7 @@ Talk of the millennium required talk of the kingdom of God in some sense. The ve
 
 A generation prior to the Gilded Age, Alexander Campbell demonstrated the natural relationship between millennialism and a progressive kingdom theology. Speaking to Campbell's conception of the kingdom, Danner writes, "For Campbell, the world was getting better; scriptures were being spread; science, education, agriculture, commerce, and nature all were combining to bring on a better day. A new political, moral, and religious revolution was fast advancing..."^[Danner, Dan G. (1999)] In the introductory prospectus to his journal,  _The Millennial Harbringer_, Campbell provides his purpose for starting it. He writes, "It shall have for its object the developement [sic], and introduction of that political and religious order of society called THE MILLENNIUM [sic], which will be the consummation of that ultimate amelioration of society proposed in the Christian Scriptures."^[Campbell, Alexander, and Charles Louis Loos. The Millennial Harbinger. Bethany, VA: W.K. Pendleton, 1830, xv.] In his writings, Campbell was as concerned about espousing a theology of the kingdom as he was on persuading toard a particular timeline for the millennium. Tuveson notes that Campbell went further than most millennialists in his time by transferring the focus of redemption onto the world rather than the individual.^[Tuveson, Redeemer Nation, 81.] In this regard, Campbell's understanding of the kingdom was a precursor to the view that would become popular after Harris at the turn of the century.
 
-The reverse concern was also true. For Harris to promote his view of the kingdom, it required a postmillennial commitment. We see this in the prominence he gives to defending the postmillennial position. In the introduction to his defense of postmillennialism, Harris writes, "The millenarian [premillennial] error is essentially this : The dispensation of the Spirit under which we live is not intended to secure the gradual extension and ultimate triumph of the kingdom; the preaching of the gospel to every creature is not intended to convert the world , but to be a witness to all nations.."^[Harris, Kingdom of Christ, 220.] In essence, Harris claims the primary foible of the millenarian position is that it does not adhere to the viion of kingdom theology he espouses. The majority American Protestant understanding of postmillennialism and a kingdom theology that was progressive and optimistic were intrinsically linked; however, they were not the same doctrine.
+The reverse concern was also true. For Harris to promote his view of the kingdom, it required a postmillennial commitment. We see this in the prominence he gives to defending the postmillennial position. In the introduction to his defense of postmillennialism, Harris writes, "The millenarian [premillennial] error is essentially this : The dispensation of the Spirit under which we live is not intended to secure the gradual extension and ultimate triumph of the kingdom; the preaching of the gospel to every creature is not intended to convert the world , but to be a witness to all nations.."^[Harris, Kingdom of Christ, 220.] In essence, Harris claims the primary foible of the millenarian position is that it does not adhere to the vision of kingdom theology he espouses. The majority American Protestant understanding of postmillennialism and a kingdom theology that was progressive and optimistic were intrinsically linked; however, they were not the same doctrine.
 
 Despite the large amount of overlapping territory between the doctrine of the millennium and the doctrine of the kingdom, sufficient distinction exists to consider them separate aspects of a system. Postmillennialism and the kingdom of God accomplished different but compliementary roles in a holistic view of eschatology, and hence of mission, for the majority view among Protestant Americans. Kingdom theology essentially filled in the container provided by postmillennialism. If the latter provided a telos, or end goal, then the former filled in the details of that goal. The kingdom of God spoke to the nature of their goal, what they were working to achieve, and the means to their goal, through what kind of initiative it could be accomplished. This eschatological system, comprised of mutually reinforcing commitments to postmillennialism and a particular theology of the kingdom, played a major role in shaping the applied theology for mission.^[Handy, A Christian America, 85 notes this connection in Harris concerning the kingdom and his millennial expectations, and he also underscores the significance of postmillennialism for the broader Protestant American wordldview.]
 
@@ -406,40 +406,40 @@ R3REWnZERmVFcmQiOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6ND
 I5NjEsImVuZCI6NDI5NjV9LCJmR2d6elFjcm5aR1pQVlFpIjp7
 InRleHQiOiJGSU5EIiwic3RhcnQiOjQ2MzIwLCJlbmQiOjQ2Mz
 I0fSwia2xWRnE4Y2dXV25qY29zWiI6eyJ0ZXh0IjoiSW4iLCJz
-dGFydCI6NDc0NTIsImVuZCI6NDc0NTR9LCJrWEc4djhxNkl4YW
-10QVZkIjp7InRleHQiOiJ0ZWxvcyIsInN0YXJ0Ijo0OTkzNywi
-ZW5kIjo0OTk0Mn0sIjVYSUpCelFOeHBQZzVMdnQiOnsidGV4dC
-I6IkNvbnNpZGVyIiwic3RhcnQiOjUwODk0LCJlbmQiOjUwOTAy
+dGFydCI6NDc0NTMsImVuZCI6NDc0NTV9LCJrWEc4djhxNkl4YW
+10QVZkIjp7InRleHQiOiJ0ZWxvcyIsInN0YXJ0Ijo0OTkzOCwi
+ZW5kIjo0OTk0M30sIjVYSUpCelFOeHBQZzVMdnQiOnsidGV4dC
+I6IkNvbnNpZGVyIiwic3RhcnQiOjUwODk1LCJlbmQiOjUwOTAz
 fSwidHU2UU50MXVuZjVRSmZCaCI6eyJ0ZXh0Ijoidm9uIEhhcm
-5hY2siLCJzdGFydCI6NjA4NDIsImVuZCI6NjA4NTN9LCJkNDJz
+5hY2siLCJzdGFydCI6NjA4NDMsImVuZCI6NjA4NTR9LCJkNDJz
 RlFDQ1dkWU5CZGtkIjp7InRleHQiOiJjaXRlIiwic3RhcnQiOj
-cyMjM1LCJlbmQiOjcyMjM5fSwiZnpkUUpkSm0zOHNiYjZXaSI6
-eyJ0ZXh0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo3MjQ1OSwiZW
-5kIjo3MjQ2OX0sIjI0c1JWNHN3ZW5MSnl3UjciOnsidGV4dCI6
-IkNvbnNpZGVyIiwic3RhcnQiOjc5NDgyLCJlbmQiOjc5NDkwfS
+cyMjM2LCJlbmQiOjcyMjQwfSwiZnpkUUpkSm0zOHNiYjZXaSI6
+eyJ0ZXh0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo3MjQ2MCwiZW
+5kIjo3MjQ3MH0sIjI0c1JWNHN3ZW5MSnl3UjciOnsidGV4dCI6
+IkNvbnNpZGVyIiwic3RhcnQiOjc5NDgzLCJlbmQiOjc5NDkxfS
 wid2lVZEd5RnRzcTg3NzZvZCI6eyJ0ZXh0IjoiQSBwb3N0bWls
 bGVubmlhbGlzdCBjb21taXRtZW50IHByZXNlbnRlZCBhcyBvcH
 RpbWlzbSBpbiB0aGUgb3ZlcmFsbCBkaXJlY3Rpb24gb+KApiIs
-InN0YXJ0Ijo4MDE4NCwiZW5kIjo4MDI3M30sIlhLNlZ0S1RyVD
-VXV25xbUkiOnsic3RhcnQiOjc4Njk2LCJlbmQiOjc4NzM3LCJ0
+InN0YXJ0Ijo4MDE4NSwiZW5kIjo4MDI3NH0sIlhLNlZ0S1RyVD
+VXV25xbUkiOnsic3RhcnQiOjc4Njk3LCJlbmQiOjc4NzM4LCJ0
 ZXh0IjoiQ29uc2RlciBzdHVmZmluZyB0aGlzIHdpdGggb3RoZX
 Igc291cmNlcyJ9LCJrbkhDNFpDUUVDbVhQR3BLIjp7InN0YXJ0
-Ijo3ODA3NCwiZW5kIjo3ODIwNCwidGV4dCI6IlRoZXNlIGZpcn
+Ijo3ODA3NSwiZW5kIjo3ODIwNSwidGV4dCI6IlRoZXNlIGZpcn
 N0IHR3byBmb290bm90ZXMgbWF5IG5lZWQgdG8gY2FycnkgYSBn
 b29kIGJpdCBvZiByZXNlYXJjaCBvbiB0aGUgc29jaWHigKYifS
-wiUUxSQ2hoM0RLcUFwb0JURyI6eyJzdGFydCI6NjYxNTEsImVu
-ZCI6NjYyMDAsInRleHQiOiJmaW5kIHRoZSBleGFjdCBwYWdlLi
+wiUUxSQ2hoM0RLcUFwb0JURyI6eyJzdGFydCI6NjYxNTIsImVu
+ZCI6NjYyMDEsInRleHQiOiJmaW5kIHRoZSBleGFjdCBwYWdlLi
 4uIGFmdGVyIHlvdSBmaW5kIHRoZSBzb3VyY2UhIn0sIjd1Zlhm
-ck1rNjMwczdObk0iOnsic3RhcnQiOjY0Mjc3LCJlbmQiOjY0Mz
-EwLCJ0ZXh0IjoiZmluZCBvcmlnaW5hbCBzb3VyY2UgaW4gUGhp
+ck1rNjMwczdObk0iOnsic3RhcnQiOjY0Mjc4LCJlbmQiOjY0Mz
+ExLCJ0ZXh0IjoiZmluZCBvcmlnaW5hbCBzb3VyY2UgaW4gUGhp
 bGxpcHMuIn0sIjFDT1V1b1dLV1UxTmFwQUYiOnsic3RhcnQiOj
-YwNTgwLCJlbmQiOjYwNzI2LCJ0ZXh0IjoiYEkgc3RpbGwgbmVl
+YwNTgxLCJlbmQiOjYwNzI3LCJ0ZXh0IjoiYEkgc3RpbGwgbmVl
 ZCBkaXJlY3QgcXVvdGVzIGZyb20gUml0c2NobC4gSSBjYW4gZ2
 V0IHRob3NlIG91dCBvZiBTdHVja2VuYmVyZy4gQuKApiJ9LCI3
-SU02UGxuZ0tRVjBtWHhiIjp7InN0YXJ0Ijo1ODg4NCwiZW5kIj
-o1ODkxNCwidGV4dCI6IkZJTkQgVEhFIFJJR0hUIFNPVVJDRSBG
+SU02UGxuZ0tRVjBtWHhiIjp7InN0YXJ0Ijo1ODg4NSwiZW5kIj
+o1ODkxNSwidGV4dCI6IkZJTkQgVEhFIFJJR0hUIFNPVVJDRSBG
 T1IgVEhJUyJ9LCJ4NzlidllkenFVbGRDNnpGIjp7InN0YXJ0Ij
-o1ODY4OCwiZW5kIjo1ODg4MywidGV4dCI6IkluIHRoZSBSaXRz
+o1ODY4OSwiZW5kIjo1ODg4NCwidGV4dCI6IkluIHRoZSBSaXRz
 Y2hsaWFuIHNjaG9vbCwgQW1lcmljYW4gUHJvdGVzdGFudHMgd2
 91bGQgZmluZCBhIHRoZW9sb2dpY2FsIGZvdW5kYXTigKYifX0s
 ImNvbW1lbnRzIjp7Inc4N0Z5ajgzQTgySE4xS2IiOnsiZGlzY3
@@ -556,9 +556,9 @@ NzlidllkenFVbGRDNnpGIiwic3ViIjoiZ2g6MzcwNDA4NDEiLC
 J0ZXh0IjoiU09NRVRISU5HIElTIFZFUlkgTUVTU0VEIFVQIEhF
 UkUuIFBBUkFHUkFQSFMgQVJFIE1JU1NJTkcgQU5EIFBBUkFHUk
 FQSFMgQVJFIFJFUEVBVElORyIsImNyZWF0ZWQiOjE2MDE4MTM0
-Njc3Mzl9fSwiaGlzdG9yeSI6WzEwOTI4OTE4MDQsMTIwMjE1OD
-k5MSwtMjQxODgwNjI4LDE1MzQ1Njg1NzUsLTEzNzQ0Nzg4MTEs
-LTYyNzg4MjU4OSwtODc0MTM2NTg3LC0xODUxNTIxMTg5LC0xNj
-cwMDc2OTM0LC03Njg1NDg1MjMsMjAwMjUyNzkyNCwtNDM0NDAy
-NjI0XX0=
+Njc3Mzl9fSwiaGlzdG9yeSI6Wy0xNzA5MTYxNzkwLDEyMDIxNT
+g5OTEsLTI0MTg4MDYyOCwxNTM0NTY4NTc1LC0xMzc0NDc4ODEx
+LC02Mjc4ODI1ODksLTg3NDEzNjU4NywtMTg1MTUyMTE4OSwtMT
+Y3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMDI1Mjc5MjQsLTQzNDQw
+MjYyNF19
 -->
