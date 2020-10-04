@@ -275,9 +275,9 @@ Postmillennialism always held to a gradual development of the kingdom of God; ho
 
 > "The notion of history as a process generally moving upwards by a series of majestic stages, culminating inevitably in some great, transforming event which is to solve the dilemmas of society–that is the concept destined to dominate "modern" thought. ^[Tuveson, Millennium and Utopia, 75.]
 
-As an example, Moorhead notes this influence as early as Harris' kingdom lectures. Moorhead writes,
+As an example, Moorhead notes this influence as early as Harris's kingdom lectures. Moorhead writes,
 
-> Firmly committed to the belief that progress was the law of time and believing that the United States was playing a special role in that improvement, he could tolerate no eschatology that suggested "a violent disruption of all the continuity of that history."Moorhead, Between Progress, 541.]
+> Firmly committed to the belief that progress was the law of time and believing that the United States was playing a special role in that improvement, he could tolerate no eschatology that suggested "a violent disruption of all the continuity of that history." ^[Moorhead, Between Progress, 541.]
 
 The wheels of progress, set in motion by God himself, would grind onward and upward establishing the kingdom in human civilization.
 
@@ -538,8 +538,8 @@ eHQiOiJmcmFnbWVudCIsImNyZWF0ZWQiOjE2MDE4MDk1OTE3OT
 V9LCJKU0pEajQ1djBybE9IZEU3Ijp7ImRpc2N1c3Npb25JZCI6
 IlhkUmNkd1pwMWRaWmE0ZTciLCJzdWIiOiJnaDo3MTI5Mzk4Ny
 IsInRleHQiOiJkbyB0aGlzIiwiY3JlYXRlZCI6MTYwMTgwOTYy
-ODU0N319LCJoaXN0b3J5IjpbNTExMzgzNjIzLDE1MzQ1Njg1Nz
-UsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0x
-ODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMj
-UyNzkyNCwtNDM0NDAyNjI0XX0=
+ODU0N319LCJoaXN0b3J5IjpbLTE5MTU0NDcwNTksMTUzNDU2OD
+U3NSwtMTM3NDQ3ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1ODcs
+LTE4NTE1MjExODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMywyMD
+AyNTI3OTI0LC00MzQ0MDI2MjRdfQ==
 -->
