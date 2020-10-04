@@ -287,9 +287,7 @@ As postmillennialism accommodated to varying degrees the evolving concepts from 
 
 Advocating for social and technological advance as agents of the kingdom were not new to the Gilded Age. ^[Lyman Beecher, A Plea for the West, 9-10 is often cited as an early example of one who promotes the social and technological advances of the United States as unique in God's plan for world evangelization and the final realization of the kingdom of God. Beecher writes, "But if it is by the march of revolution and civil liberty, that the way of the Lord is to be prepared, where shall the central energy be found, and from what nation shall the renovating power go forth? What nation is blessed with such experimental knowledge of free institutions, with such facilities and resources of communication, obstructed by so few obstacles, as our own?"] By the 1870s, though, calls to celebrate human progress, social institutions, and technological advance as true agents of the millennium were commonplace.^[Quandt, Religion and Social Thought, 392, notes that the most significant of these shifts was the convergence of millennial expectations with the celebration of civil institutions and technological developments and true agents in establishing the kingdom.] 
 
-Historically, divine agency and human initiative were the twin edges of the scissors concerning the development of the kingdom. The classic explanation of these means adjusted with the new kingdom theology. In his kingdom lectures, Harris devotes two complete lectures to the divine agency and human initiative, claiming both are essential for the full realization of the kingdom.^[
-
-Harris, Kingdom of Christ, lectures IV and VI take up the task of divine agency and human agency respectively in the establishment of the kingdom of Christ.]
+Historically, divine agency and human initiative were the twin edges of the scissors concerning the development of the kingdom. The classic explanation of these means adjusted with the new kingdom theology. In his kingdom lectures, Harris devotes two complete lectures to the divine agency and human initiative, claiming both are essential for the full realization of the kingdom.^[Harris, Kingdom of Christ, lectures IV and VI take up the task of divine agency and human agency respectively in the establishment of the kingdom of Christ.]
 
 Divine agency in advancing the kingdom, once primarily seen as the outpouring of the Holy Spirit through revival, was stretched to include the agency of God in establishing processes of progress. Harris speaks of the kingdom as a divine force. Harris writes,
 
@@ -536,7 +534,7 @@ eHQiOiJmcmFnbWVudCIsImNyZWF0ZWQiOjE2MDE4MDk1OTE3OT
 V9LCJKU0pEajQ1djBybE9IZEU3Ijp7ImRpc2N1c3Npb25JZCI6
 IlhkUmNkd1pwMWRaWmE0ZTciLCJzdWIiOiJnaDo3MTI5Mzk4Ny
 IsInRleHQiOiJkbyB0aGlzIiwiY3JlYXRlZCI6MTYwMTgwOTYy
-ODU0N319LCJoaXN0b3J5IjpbMTM0ODU4NTM4NCwxNTM0NTY4NT
+ODU0N319LCJoaXN0b3J5IjpbLTI0MTg4MDYyOCwxNTM0NTY4NT
 c1LC0xMzc0NDc4ODExLC02Mjc4ODI1ODksLTg3NDEzNjU4Nywt
 MTg1MTUyMTE4OSwtMTY3MDA3NjkzNCwtNzY4NTQ4NTIzLDIwMD
 I1Mjc5MjQsLTQzNDQwMjYyNF19
