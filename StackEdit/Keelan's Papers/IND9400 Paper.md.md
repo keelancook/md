@@ -269,11 +269,11 @@ A postmillennialist commitment presented as optimism in the overall direction of
 
 > They [postmillennialists] often asserted that the tokens of that... history would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.^[Moorhead, Between Progress, 525.]
 
-American Protestants of many stripes believed the present world would be transformed into a society of perfect righteousness and peace through Christianity's triumph. In the first decades of the nineteenth century, the consensus was that this victorious outpouring would occur through the work of revivals. The middle decades of the century, during the Civil War and early parts of Reconstruction tampered this faith, only to have it return in the Gilded Age as Americans headed into their Progressive Era. An optimism initially placed on the work of revivals was increasingly transferred to activities such as social reform.Phillips, A Kingdom on Earth, 5-6.]
+American Protestants of many stripes believed the present world would be transformed into a society of perfect righteousness and peace through Christianity's triumph. In the first decades of the nineteenth century, the consensus was that this victorious outpouring would occur through the work of revivals. The middle decades of the century— during the Civil War and early parts of Reconstruction—tampered this faith, only to have it return in the Gilded Age as Americans headed into their Progressive Era. An optimism initially placed on the work of revivals was increasingly transferred to activities such as social reform. ^[Phillips, A Kingdom on Earth, 5-6.]
 
 Postmillennialism always held to a gradual development of the kingdom of God; however, as the Gilded Age gave way to the Progressive Era, the spirit of the age weighed heavily on the Protestant American understanding of how this would unfold. Tuveson writes,
 
-> "The notion of history as a process generally moving upwards by a series of majestic stages, culminating inevitably in some great, transforming event which is to solve the dilemmas of society–that is the concept destined to dominate "modern" thought.Tuveson, Millennium and Utopia, 75.]
+> "The notion of history as a process generally moving upwards by a series of majestic stages, culminating inevitably in some great, transforming event which is to solve the dilemmas of society–that is the concept destined to dominate "modern" thought. ^[Tuveson, Millennium and Utopia, 75.]
 
 As an example, Moorhead notes this influence as early as Harris' kingdom lectures. Moorhead writes,
 
@@ -538,8 +538,8 @@ eHQiOiJmcmFnbWVudCIsImNyZWF0ZWQiOjE2MDE4MDk1OTE3OT
 V9LCJKU0pEajQ1djBybE9IZEU3Ijp7ImRpc2N1c3Npb25JZCI6
 IlhkUmNkd1pwMWRaWmE0ZTciLCJzdWIiOiJnaDo3MTI5Mzk4Ny
 IsInRleHQiOiJkbyB0aGlzIiwiY3JlYXRlZCI6MTYwMTgwOTYy
-ODU0N319LCJoaXN0b3J5IjpbLTEyMjU1NzkyMjUsMTUzNDU2OD
-U3NSwtMTM3NDQ3ODgxMSwtNjI3ODgyNTg5LC04NzQxMzY1ODcs
-LTE4NTE1MjExODksLTE2NzAwNzY5MzQsLTc2ODU0ODUyMywyMD
-AyNTI3OTI0LC00MzQ0MDI2MjRdfQ==
+ODU0N319LCJoaXN0b3J5IjpbNTExMzgzNjIzLDE1MzQ1Njg1Nz
+UsLTEzNzQ0Nzg4MTEsLTYyNzg4MjU4OSwtODc0MTM2NTg3LC0x
+ODUxNTIxMTg5LC0xNjcwMDc2OTM0LC03Njg1NDg1MjMsMjAwMj
+UyNzkyNCwtNDM0NDAyNjI0XX0=
 -->
