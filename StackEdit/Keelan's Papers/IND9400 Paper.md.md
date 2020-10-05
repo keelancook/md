@@ -160,9 +160,7 @@ In the Ritschlian school, American Protestants would find a theological foundati
 ## An American Adaptation
 An ocean away, Protestant ministers and theologians in the United States were in the midst of a similar conversation concerning the nature and means of the kingdom. While it must be noted that cultural and circumstantial similarities existed between European and American Protestants, it is insufficient to assign coincidence as the driving force behind the concurrence of dialogue about kingdom theology. These were not two separate but coincidental developments. A history of shared interaction on the nature of means of the kingdom demonstrates an American reliance on the European conversation.^[Phillips, A Kingdom on Earth, xxvi, 19, repeatedly references correspondence with or citation of European theologians concerning issues of social Christianity. On page 11, Phillips notes that many Americans went to Germany to study directly under Ritschl and von Harnack. See also Handy, A Christian America, 87, where he notes the number of Americans who studied in Germany under these men and Handy, Undermined Establishment, 59, where he generally asserts a strong reliance by American Protestants on Christian Socialism from England in developing the American Protestant versions of social Christianity.] A brief examination demonstrates the relationship between European scholarship and presuppositions developing in the United States among Protestants concerning the kingdom of God. As noted above, the majority of American Protestants were increasingly committed to a postmillennial eschatology. This prior commitment proved fertile ground for an optimistic and immanent vision of the kingdom that could be established through human initiative.
 
-Though American Protestants were less likely to use the term Christian Socialist, the ideas of F.D. Maurice plainly influenced the development of kingdom theology in the United States. A clear reliance on Maurice is evident for some of the most influential American Protestants during the end of the nineteenth century. Richard Ely, an Episcopal lay leader and economist, made a tremendous impact on the spread of social Christianity, and like many others, Ely was influenced by the parallel movement occurring in England.^[Handy, Undermined Establishment, 61-62.] Washington Gladden, a pivotal figurue in American social Christianity, wrote of Maurice, "Thy gentleness hath made me great."^[Phillips, A Kingdom on Earth, 18.  `find original source in Phillips.`]
-
-Perhaps none are so clearly tied to Maurice's influence, though, as Horace Bushnell, the noted Congregational minister and theologian. Bushnell shared Maurice's optimism concerning humanity, and believed morality was the result of social evolution.^[Phillips, A Kingdom on Earth, 5.] Like Maurice, Bushnell was a polarizing and often controversial figure. Phillips notes that both Maurice and Horace Bushnell were the targets of a good bit of controversy in their own generation, but both men seemed to enjoy a subsequent admiration of their thought in later decades. By the end of the nineteenth century, the Protestant mainstream more readily accepted their concepts concerning progress and the kingdom.^[Phillips, A Kingdom on Earth, 4-6.] While the influence of both had a liberalizing tendency on Protestantism, most who advocated for Bushnell, or Maurice, did not claim to be liberal Protestants. Their appeal was broader than purely liberal corners of Protestantism, and their ideas pervaded in the fabric of developing theology on the kingdom of God.^[Phillips, A Kingdom on Earth, 6, notes that many would defend Bushnell's conservative roots in order to advocate for his positions.]
+Though American Protestants were less likely to use the term Christian Socialist, the ideas of F.D. Maurice plainly influenced the development of kingdom theology in the United States. A clear reliance on Maurice is evident for some of the most influential American Protestants during the end of the nineteenth century. Richard Ely, an Episcopal lay leader and economist, made a tremendous impact on the spread of social Christianity, and like many others, Ely was influenced by the parallel movement occurring in England.^[Handy, Undermined Establishment, 61-62.] Perhaps none are so clearly tied to Maurice's influence, though, as Horace Bushnell, the noted Congregational minister and theologian. Bushnell shared Maurice's optimism concerning humanity, and believed morality was the result of social evolution.^[Phillips, A Kingdom on Earth, 5.] Like Maurice, Bushnell was a polarizing and often controversial figure. Phillips notes that both Maurice and Horace Bushnell were the targets of a good bit of controversy in their own generation, but both men seemed to enjoy a subsequent admiration of their thought in later decades. By the end of the nineteenth century, the Protestant mainstream more readily accepted their concepts concerning progress and the kingdom.^[Phillips, A Kingdom on Earth, 4-6.] While the influence of both had a liberalizing tendency on Protestantism, most who advocated for Bushnell, or Maurice, did not claim to be liberal Protestants. Their appeal was broader than purely liberal corners of Protestantism, and their ideas pervaded in the fabric of developing theology on the kingdom of God.^[Phillips, A Kingdom on Earth, 6, notes that many would defend Bushnell's conservative roots in order to advocate for his positions.]
 
 Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left its mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surfaced both earlier and broader than the social gospel movement.^[Handy, Robert. A History of the Churches in the United States and Canada (New York: Oxford University Press, 1976), 287.]
 
@@ -336,23 +334,23 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjgyOCwiZW5kIjo3
-NjgzNn0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjYyOCwiZW5kIjo3
+NjYzNn0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6Nzc1MzAsImVuZCI6Nzc2MTl9LCJYSzZW
+/igKYiLCJzdGFydCI6NzczMzAsImVuZCI6Nzc0MTl9LCJYSzZW
 dEtUclQ1V1ducW1JIjp7InRleHQiOiJDb25zZGVyIHN0dWZmaW
-5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc2
-MDQyLCJlbmQiOjc2MDgzfSwia25IQzRaQ1FFQ21YUEdwSyI6ey
+5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc1
+ODQyLCJlbmQiOjc1ODgzfSwia25IQzRaQ1FFQ21YUEdwSyI6ey
 J0ZXh0IjoiVGhlc2UgZmlyc3QgdHdvIGZvb3Rub3RlcyBtYXkg
 bmVlZCB0byBjYXJyeSBhIGdvb2QgYml0IG9mIHJlc2VhcmNoIG
-9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTQyMCwiZW5kIjo3
-NTU1MH0sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
+9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTIyMCwiZW5kIjo3
+NTM1MH0sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
 QgdGhlIGV4YWN0IHBhZ2UuLi4gYWZ0ZXIgeW91IGZpbmQgdGhl
-IHNvdXJjZSEiLCJzdGFydCI6NjM0NjEsImVuZCI6NjM1MTB9LC
+IHNvdXJjZSEiLCJzdGFydCI6NjMyNjEsImVuZCI6NjMzMTB9LC
 I3dWZYZnJNazYzMHM3Tm5NIjp7InRleHQiOiJmaW5kIG9yaWdp
-bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjE1OT
-ksImVuZCI6NjE2MjF9LCJjbDJPUDUwT2dDSzNYOHp3Ijp7InRl
+bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjE1Mz
+AsImVuZCI6NjE1MzB9LCJjbDJPUDUwT2dDSzNYOHp3Ijp7InRl
 eHQiOiJgQUREIFBBUkFHUkFQSCBcbnRoYXQgbm90ZXMgdGhlIH
 dvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaWMs
 IGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMDkzMSwiZW5kIjoyMT
@@ -361,23 +359,23 @@ YXJ5IGF0IHRoZSBlbmQgb2YgdGhpcyBwYXJhZ3JhcGggd2l0aC
 B0aGUgZ3V5IFNhbmRlZW4gcXVvdGVzIGdpdmluZyBhIGNvbmbi
 gKYiLCJzdGFydCI6MjYxODcsImVuZCI6MjYxODd9LCJaemtvWE
 NmcjZjUWlxakQ1Ijp7InRleHQiOiJEbyBJIGl0ZSBOR3JhbSBo
-ZXJlPyBJZiBzbywgaG93P2AiLCJzdGFydCI6Njk0NjQsImVuZC
-I6Njk0OTd9LCJuT2RtWHBqVUJQRm0xMm9yIjp7InRleHQiOiJE
-aXN0aW5jdGlvbnMiLCJzdGFydCI6ODg2MzMsImVuZCI6ODg2ND
+ZXJlPyBJZiBzbywgaG93P2AiLCJzdGFydCI6NjkyNjQsImVuZC
+I6NjkyOTd9LCJuT2RtWHBqVUJQRm0xMm9yIjp7InRleHQiOiJE
+aXN0aW5jdGlvbnMiLCJzdGFydCI6ODg0MzMsImVuZCI6ODg0ND
 V9LCJkUkMwU3JmRm5DVFY1akViIjp7InRleHQiOiJlcmEgb2Yg
-bm9uY29udGV4dHVhbGl6YXRpb24iLCJzdGFydCI6OTMxMTUsIm
-VuZCI6OTMxNDJ9LCI5Y3BSTDhtdmloeEhQdHVwIjp7InRleHQi
-OiJOZWVkIiwic3RhcnQiOjk0NzUzLCJlbmQiOjk0NzU3fSwiSk
+bm9uY29udGV4dHVhbGl6YXRpb24iLCJzdGFydCI6OTI5MTUsIm
+VuZCI6OTI5NDJ9LCI5Y3BSTDhtdmloeEhQdHVwIjp7InRleHQi
+OiJOZWVkIiwic3RhcnQiOjk0NTUzLCJlbmQiOjk0NTU3fSwiSk
 RaQU1jREp5dVp2cGdaViI6eyJ0ZXh0IjoiYnJpbWluaW5nIiwi
-c3RhcnQiOjk5MDU0LCJlbmQiOjk5MDYzfSwiY255bE8wR1ptbD
+c3RhcnQiOjk4ODU0LCJlbmQiOjk4ODYzfSwiY255bE8wR1ptbD
 Y1SkVRaSI6eyJ0ZXh0IjoiQ2hyaXN0aWFuaXR5IGFuZCBDaXZp
-bGl6YXRpb24iLCJzdGFydCI6OTkzNjksImVuZCI6OTkzOTh9LC
+bGl6YXRpb24iLCJzdGFydCI6OTkxNjksImVuZCI6OTkxOTh9LC
 JIUll2bko4V1UyRkNRSzlHIjp7InRleHQiOiJGSU5EIiwic3Rh
-cnQiOjExMzkwMSwiZW5kIjoxMTM5MDV9LCJZWFF5Zld5VWV6aj
+cnQiOjExMzcwMSwiZW5kIjoxMTM3MDV9LCJZWFF5Zld5VWV6aj
 R3ejcyIjp7InRleHQiOiJlcmEgb2Ygbm9uY29udGV4dHVhbGl6
-YXRpb24iLCJzdGFydCI6MTE3Mzc3LCJlbmQiOjExNzQwNH0sIn
+YXRpb24iLCJzdGFydCI6MTE3MTc3LCJlbmQiOjExNzIwNH0sIn
 JWeWhmYzcwaUlHeGpTV2oiOnsidGV4dCI6InByb3Rlc3RhbnQi
-LCJzdGFydCI6Njk2OTIsImVuZCI6Njk3MDJ9fSwiY29tbWVudH
+LCJzdGFydCI6Njk0OTIsImVuZCI6Njk1MDJ9fSwiY29tbWVudH
 MiOnsiaDJEZ2UyYUM2aU5FbkVSWCI6eyJkaXNjdXNzaW9uSWQi
 OiIyNHNSVjRzd2VuTEp5d1I3Iiwic3ViIjoiZ2g6NzEyOTM5OD
 ciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3JlYXRlZCI6MTYw
@@ -446,7 +444,7 @@ JlYXRlZCI6MTYwMTgzMjI1NTg5M30sIkt0MVhZUUZLcG1NeTEx
 U3EiOnsiZGlzY3Vzc2lvbklkIjoiclZ5aGZjNzBpSUd4alNXai
 IsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6InNob3VsZCB0
 aGlzIGJlIGNhcGl0YWxpemVkIiwiY3JlYXRlZCI6MTYwMTgzMj
-g5Nzg2M319LCJoaXN0b3J5IjpbMTg4MzQ0MjQyNyw4MDk1MzUz
+g5Nzg2M319LCJoaXN0b3J5IjpbMTQ2NTQ3ODE0MCw4MDk1MzUz
 MDAsLTkyMjE2NzMwMyw4MzM0ODY4MTQsLTE0MjE1NDA5NjIsMT
 A5NDQxNzYzNSwtNDI2NTYwMTU5LDY0MzYyNzI3MywxMjA4NTIy
 NDU0LC01NjIwMDYwMTAsLTE3OTAyMDkyNzcsOTIzMjY2Nzk2LC
