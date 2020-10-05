@@ -59,7 +59,10 @@ While it is widely accepted that the Protestant American missionary fervor found
 
 `ADD PARAGRAPH that notes the work of Ruth Boch, Visionary Republic, and her central thesis.In this paragraph, note her central thesis.Also point out that it was millennialism jumbled into pre-post confusion at this time._`
 
-Many American Protestants entered the revolutionary period longing to see the hand of providence orchestrating their millennial vision. Boch claims that it was millen Kling writes, "America's revolutionary and postrevolutionary period (1776-1800) - a dramatic time indeed - unleashed a torrent of millennialist predictions, some premillennial, others postmillennial."^[Kling, New Divinity, Loc. 316.] For many, America's short history proved fertile ground for millennial speculation. The establishment of the new world was, itself, seen as a sign of divine providence. In the wake of the war, American Protestants possessed the common sentiment that the results of the war were in fact a significant eschatological development.^[Noll, Mark A., The Search for Christian America (Westchester, Ill.: Crossway Books, 1983), 61-62 expounds upon a misplaced millennial expectation that was birthed out of the Puritan vision of Edwards and developed into support for the American Revolution.] De Jong writes, "Their country was regarded as the potential seat of Christ's rule in that era, and evangelicals were compared with Cromwell's Roundheads for their consciousness of being divine instruments in realizing that day."^[De Jong, As the Waters, 201-202.] American Protestants increasingly claimed a unique and elevated role in hastening the millennium.
+The form and the intensity of the millennial ideas varied considerably, both over time and among different religious and political groups. The basic millennial vision of future worldly petfrction was, however, malleable only to a point. Far from merely reflecting or transmitting other components of revolutionary ideology, millennialism provided the main structure of meaning through which contemporary events were linked to an exalted image of an ideal world.
+
+
+Many American Protestants entered the revolutionary period longing to see the hand of providence orchestrating their millennial vision. Boch claims millennialism served as the organizing narrative through which Americans during the era would assign meaning to events. Boch writes, "Far from merely reflecting or transmitting other components of revolutionary ideology, millennialism provided the main structure of meaning through which contemporary events were linked to an exalted image of an ideal world."^[Boch, Visionary Republi  Kling writes, "America's revolutionary and postrevolutionary period (1776-1800) - a dramatic time indeed - unleashed a torrent of millennialist predictions, some premillennial, others postmillennial."^[Kling, New Divinity, Loc. 316.] For many, America's short history proved fertile ground for millennial speculation. The establishment of the new world was, itself, seen as a sign of divine providence. In the wake of the war, American Protestants possessed the common sentiment that the results of the war were in fact a significant eschatological development.^[Noll, Mark A., The Search for Christian America (Westchester, Ill.: Crossway Books, 1983), 61-62 expounds upon a misplaced millennial expectation that was birthed out of the Puritan vision of Edwards and developed into support for the American Revolution.] De Jong writes, "Their country was regarded as the potential seat of Christ's rule in that era, and evangelicals were compared with Cromwell's Roundheads for their consciousness of being divine instruments in realizing that day."^[De Jong, As the Waters, 201-202.] American Protestants increasingly claimed a unique and elevated role in hastening the millennium.
 
 Already optimistic concerning the global spread of the gospel, Protestants in America were increasingly certain the millennium was fast approaching. Kling writes, "However, as revivals of the Second Great Awakening (ca. 1790-1835) advanced in both intensity and duration, a confidence grew that the millennium was an approaching reality. The apocalyptic element of millennial thought, which was associated with the destruction of the world prior to Christ's return, gave way to more hopeful millennial expectations."^[Kling, New Divinity, Loc. 316.] This optimism weighted opinions concerning the millennium toward a postmillennial perspective. Davidson writes,
 
@@ -339,7 +342,7 @@ IHdvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaW
 MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMTIwMiwiZW5kIjoy
 MTQyNX0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
 kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
-Ijo2OTUwOSwiZW5kIjo2OTU0Mn19LCJjb21tZW50cyI6eyJKSX
+Ijo3MDM0MCwiZW5kIjo3MDM3M319LCJjb21tZW50cyI6eyJKSX
 V2TUw4VGp2WEdNSFd4Ijp7ImRpc2N1c3Npb25JZCI6ImNsMk9Q
 NTBPZ0NLM1g4enciLCJzdWIiOiJnaDozNzA0MDg0MSIsInRleH
 QiOiJBREQgUEFSQUdSQVBIIE9OIFJVVEggQk9DSC4uLiBNQVlC
@@ -348,7 +351,7 @@ F0ZWQiOjE2MDE4MTQzNDYxNDN9LCIwQlBTS291dHB0RXlwczhR
 Ijp7ImRpc2N1c3Npb25JZCI6Ilp6a29YQ2ZyNmNRaXFqRDUiLC
 JzdWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJOR3JhbT8gWWVz
 IG9yIE5vPyIsImNyZWF0ZWQiOjE2MDE4MTYxMTcxNzF9fSwiaG
-lzdG9yeSI6WzEwNTMzODE3MTIsMjA3MTM1Mzc2MCw5MzM4NTMw
+lzdG9yeSI6WzIwMjg4NDY4ODIsMjA3MTM1Mzc2MCw5MzM4NTMw
 NTcsLTEyMTY4MDUwNCwtMzk0MDMxOTEsLTQzMjU0MjQ0NSwtMT
 g2NTUzMDk4MCwtMTM4NzYwNjQxMiwxNjEyNDU5MTc1LC0xNDg1
 NjcwNDUwLDE2OTQyMzYyNTcsMTQ2NTQ3ODE0MCw4MDk1MzUzMD
