@@ -321,6 +321,8 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 
 Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[FIND A BUNCH THAT CITE OR USE STRONG. Grose, Aliens or Americans?, and others.]
 
+
+
 # Conclusion
 Eschatology shapes missiology. One's convictions concerning the goal of creation ultimately influence their beliefs about the missions methods required to see it through. The period from 1880 to 1920 in the United States provides a clear demonstration of this relationship at play. The majority of American Protestants held views on the millennium and the kingdom of God that proved determinative in their understanding of the Christian mission in relation to record-setting immigration during the era. These theological presuppositions caused American Protestants to conflate gospel proclamation with cultural promotion, resulting in an applied theology of "Christianize and Americanize."
 
@@ -353,10 +355,11 @@ ZWF0ZWQiOjE2MDE4MTYxMTcxNzF9LCJTTkJCT2xRcDExMnZwaV
 NJIjp7ImRpc2N1c3Npb25JZCI6IkhSWXZuSjhXVTJGQ1FLOUci
 LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkbyB0aGlzIi
 wiY3JlYXRlZCI6MTYwMTgzMTc3NDYzM319LCJoaXN0b3J5Ijpb
-LTQzMjU0MjQ0NSwtMTg2NTUzMDk4MCwtMTM4NzYwNjQxMiwxNj
-EyNDU5MTc1LC0xNDg1NjcwNDUwLDE2OTQyMzYyNTcsMTQ2NTQ3
-ODE0MCw4MDk1MzUzMDAsLTkyMjE2NzMwMyw4MzM0ODY4MTQsLT
-E0MjE1NDA5NjIsMTA5NDQxNzYzNSwtNDI2NTYwMTU5LDY0MzYy
-NzI3MywxMjA4NTIyNDU0LC01NjIwMDYwMTAsLTE3OTAyMDkyNz
-csOTIzMjY2Nzk2LC0yMTQ0OTA3MDk1LDExNDM2NjA3NV19
+MTc1MDkyNTgwNywtNDMyNTQyNDQ1LC0xODY1NTMwOTgwLC0xMz
+g3NjA2NDEyLDE2MTI0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIz
+NjI1NywxNDY1NDc4MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLD
+gzMzQ4NjgxNCwtMTQyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1
+NjAxNTksNjQzNjI3MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMC
+wtMTc5MDIwOTI3Nyw5MjMyNjY3OTYsLTIxNDQ5MDcwOTVdfQ==
+
 -->
