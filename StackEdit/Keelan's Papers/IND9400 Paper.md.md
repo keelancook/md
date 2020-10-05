@@ -162,7 +162,7 @@ An ocean away, Protestant ministers and theologians in the United States were in
 
 Though American Protestants were less likely to use the term Christian Socialist, the ideas of F.D. Maurice plainly influenced the development of kingdom theology in the United States. A clear reliance on Maurice is evident for some of the most influential American Protestants during the end of the nineteenth century. Richard Ely, an Episcopal lay leader and economist, made a tremendous impact on the spread of social Christianity, and like many others, Ely was influenced by the parallel movement occurring in England.^[Handy, Undermined Establishment, 61-62.] Perhaps none are so clearly tied to Maurice's influence, though, as Horace Bushnell, the noted Congregational minister and theologian. Bushnell shared Maurice's optimism concerning humanity, and believed morality was the result of social evolution.^[Phillips, A Kingdom on Earth, 5.] Like Maurice, Bushnell was a polarizing and often controversial figure. Phillips notes that both Maurice and Horace Bushnell were the targets of a good bit of controversy in their own generation, but both men seemed to enjoy a subsequent admiration of their thought in later decades. By the end of the nineteenth century, the Protestant mainstream more readily accepted their concepts concerning progress and the kingdom.^[Phillips, A Kingdom on Earth, 4-6.] While the influence of both had a liberalizing tendency on Protestantism, most who advocated for Bushnell, or Maurice, did not claim to be liberal Protestants. Their appeal was broader than purely liberal corners of Protestantism, and their ideas pervaded in the fabric of developing theology on the kingdom of God.^[Phillips, A Kingdom on Earth, 6, notes that many would defend Bushnell's conservative roots in order to advocate for his positions.]
 
-Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left its mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122-32.  `find the exact page... after you find the source!`] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surfaced both earlier and broader than the social gospel movement.^[Handy, Robert. A History of the Churches in the United States and Canada (New York: Oxford University Press, 1976), 287.]
+Much like Maurice and the Christian Socialists of Britain, Ritschl's kingdom theology left its mark in the United States. Evans writes, "One particular concept that would increasingly fascinate American Protestants was Ritschl's stress on the kingdom of God as a means of understanding the historical mission of Christianity as a religious movement."^[Evans, Social Gospel in America, 60.] Ritschl's ideas were especially significant among American liberals. Hutchison claims Ritschl was the primary player in German influence on American Protestant theology after 1890.^[Hutchison, The Modernist Impulse in American Protestantism, 122] By the time the social gospel emerged as a full-blown movement, almost all of its leaders had leaned on Ritschl for aspects of their theology.^[Evans, Social Gospel in America, 61.] However, the effects of Ritschl on American kingdom theology surfaced both earlier and broader than the social gospel movement.^[Handy, Robert. A History of the Churches in the United States and Canada (New York: Oxford University Press, 1976), 287.]
 
 The widespread commitment to postmillennialism proved fertile ground for Ritschl's kingdom theology. Ritchl's explanation of the kingdom nested nicely into the framework of an immanently approaching millennium, though it required removing an emphasis on supernatural and apocalyptic elements of the millennium in favor of an ethical conception of the kingdom.^[Quandt, Jean, Religion and Social Thought: The Secularization of Postmillennialism, American Quarterly 25.4 (1973): 390–409. pg 391, demonstrates the adaptation of postmillennialism that occurred in the final decades of the nineteenth century to adjust both for modernist theology and social scientific developments during the era.] The kingdom became a present, ethical reality instead of a coming apocalyptic society. The postmillennial optimism adjusted further still to rest on laws of evolution and growth for a gradual advance of society into this moralized understanding of the kingdom.^[Moorhead, James H. “The Erosion of Postmillennialism in American Religious Thought, 1865-1925. Church Hist. 53.1 (1984), 66 notes the effects of Ritschl's expression of the kingdom on the American Protestant commitment to postmillennialism. He claims Ritschl was an outsized influence on the development of the doctrine in America around the turn of the century.]]
 
@@ -334,18 +334,18 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjYyOCwiZW5kIjo3
-NjYzNn0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjU3MSwiZW5kIjo3
+NjU3OX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6NzczMzAsImVuZCI6Nzc0MTl9LCJYSzZW
+/igKYiLCJzdGFydCI6NzcyNzMsImVuZCI6NzczNjJ9LCJYSzZW
 dEtUclQ1V1ducW1JIjp7InRleHQiOiJDb25zZGVyIHN0dWZmaW
 5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc1
-ODQyLCJlbmQiOjc1ODgzfSwia25IQzRaQ1FFQ21YUEdwSyI6ey
+Nzg1LCJlbmQiOjc1ODI2fSwia25IQzRaQ1FFQ21YUEdwSyI6ey
 J0ZXh0IjoiVGhlc2UgZmlyc3QgdHdvIGZvb3Rub3RlcyBtYXkg
 bmVlZCB0byBjYXJyeSBhIGdvb2QgYml0IG9mIHJlc2VhcmNoIG
-9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTIyMCwiZW5kIjo3
-NTM1MH0sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
+9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTE2MywiZW5kIjo3
+NTI5M30sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
 QgdGhlIGV4YWN0IHBhZ2UuLi4gYWZ0ZXIgeW91IGZpbmQgdGhl
 IHNvdXJjZSEiLCJzdGFydCI6NjMyNjEsImVuZCI6NjMzMTB9LC
 I3dWZYZnJNazYzMHM3Tm5NIjp7InRleHQiOiJmaW5kIG9yaWdp
@@ -359,23 +359,23 @@ YXJ5IGF0IHRoZSBlbmQgb2YgdGhpcyBwYXJhZ3JhcGggd2l0aC
 B0aGUgZ3V5IFNhbmRlZW4gcXVvdGVzIGdpdmluZyBhIGNvbmbi
 gKYiLCJzdGFydCI6MjYxODcsImVuZCI6MjYxODd9LCJaemtvWE
 NmcjZjUWlxakQ1Ijp7InRleHQiOiJEbyBJIGl0ZSBOR3JhbSBo
-ZXJlPyBJZiBzbywgaG93P2AiLCJzdGFydCI6NjkyNjQsImVuZC
-I6NjkyOTd9LCJuT2RtWHBqVUJQRm0xMm9yIjp7InRleHQiOiJE
-aXN0aW5jdGlvbnMiLCJzdGFydCI6ODg0MzMsImVuZCI6ODg0ND
-V9LCJkUkMwU3JmRm5DVFY1akViIjp7InRleHQiOiJlcmEgb2Yg
-bm9uY29udGV4dHVhbGl6YXRpb24iLCJzdGFydCI6OTI5MTUsIm
-VuZCI6OTI5NDJ9LCI5Y3BSTDhtdmloeEhQdHVwIjp7InRleHQi
-OiJOZWVkIiwic3RhcnQiOjk0NTUzLCJlbmQiOjk0NTU3fSwiSk
+ZXJlPyBJZiBzbywgaG93P2AiLCJzdGFydCI6NjkyMDcsImVuZC
+I6NjkyNDB9LCJuT2RtWHBqVUJQRm0xMm9yIjp7InRleHQiOiJE
+aXN0aW5jdGlvbnMiLCJzdGFydCI6ODgzNzYsImVuZCI6ODgzOD
+h9LCJkUkMwU3JmRm5DVFY1akViIjp7InRleHQiOiJlcmEgb2Yg
+bm9uY29udGV4dHVhbGl6YXRpb24iLCJzdGFydCI6OTI4NTgsIm
+VuZCI6OTI4ODV9LCI5Y3BSTDhtdmloeEhQdHVwIjp7InRleHQi
+OiJOZWVkIiwic3RhcnQiOjk0NDk2LCJlbmQiOjk0NTAwfSwiSk
 RaQU1jREp5dVp2cGdaViI6eyJ0ZXh0IjoiYnJpbWluaW5nIiwi
-c3RhcnQiOjk4ODU0LCJlbmQiOjk4ODYzfSwiY255bE8wR1ptbD
+c3RhcnQiOjk4Nzk3LCJlbmQiOjk4ODA2fSwiY255bE8wR1ptbD
 Y1SkVRaSI6eyJ0ZXh0IjoiQ2hyaXN0aWFuaXR5IGFuZCBDaXZp
-bGl6YXRpb24iLCJzdGFydCI6OTkxNjksImVuZCI6OTkxOTh9LC
+bGl6YXRpb24iLCJzdGFydCI6OTkxMTIsImVuZCI6OTkxNDF9LC
 JIUll2bko4V1UyRkNRSzlHIjp7InRleHQiOiJGSU5EIiwic3Rh
-cnQiOjExMzcwMSwiZW5kIjoxMTM3MDV9LCJZWFF5Zld5VWV6aj
+cnQiOjExMzY0NCwiZW5kIjoxMTM2NDh9LCJZWFF5Zld5VWV6aj
 R3ejcyIjp7InRleHQiOiJlcmEgb2Ygbm9uY29udGV4dHVhbGl6
-YXRpb24iLCJzdGFydCI6MTE3MTc3LCJlbmQiOjExNzIwNH0sIn
+YXRpb24iLCJzdGFydCI6MTE3MTIwLCJlbmQiOjExNzE0N30sIn
 JWeWhmYzcwaUlHeGpTV2oiOnsidGV4dCI6InByb3Rlc3RhbnQi
-LCJzdGFydCI6Njk0OTIsImVuZCI6Njk1MDJ9fSwiY29tbWVudH
+LCJzdGFydCI6Njk0MzUsImVuZCI6Njk0NDV9fSwiY29tbWVudH
 MiOnsiaDJEZ2UyYUM2aU5FbkVSWCI6eyJkaXNjdXNzaW9uSWQi
 OiIyNHNSVjRzd2VuTEp5d1I3Iiwic3ViIjoiZ2g6NzEyOTM5OD
 ciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3JlYXRlZCI6MTYw
@@ -444,11 +444,11 @@ JlYXRlZCI6MTYwMTgzMjI1NTg5M30sIkt0MVhZUUZLcG1NeTEx
 U3EiOnsiZGlzY3Vzc2lvbklkIjoiclZ5aGZjNzBpSUd4alNXai
 IsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6InNob3VsZCB0
 aGlzIGJlIGNhcGl0YWxpemVkIiwiY3JlYXRlZCI6MTYwMTgzMj
-g5Nzg2M319LCJoaXN0b3J5IjpbMTQ2NTQ3ODE0MCw4MDk1MzUz
-MDAsLTkyMjE2NzMwMyw4MzM0ODY4MTQsLTE0MjE1NDA5NjIsMT
-A5NDQxNzYzNSwtNDI2NTYwMTU5LDY0MzYyNzI3MywxMjA4NTIy
-NDU0LC01NjIwMDYwMTAsLTE3OTAyMDkyNzcsOTIzMjY2Nzk2LC
-0yMTQ0OTA3MDk1LDExNDM2NjA3NSwyMDM4OTIzNjQ2LDE1MDcx
-NzIyNDksODcxMjIyMTY4LDQ5MDU1OTQyLDE2MzAwMzA1NDAsMz
-kyNjA5OTU0XX0=
+g5Nzg2M319LCJoaXN0b3J5IjpbMTY5NDIzNjI1NywxNDY1NDc4
+MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLDgzMzQ4NjgxNCwtMT
+QyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1NjAxNTksNjQzNjI3
+MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5MDIwOTI3Ny
+w5MjMyNjY3OTYsLTIxNDQ5MDcwOTUsMTE0MzY2MDc1LDIwMzg5
+MjM2NDYsMTUwNzE3MjI0OSw4NzEyMjIxNjgsNDkwNTU5NDIsMT
+YzMDAzMDU0MF19
 -->
