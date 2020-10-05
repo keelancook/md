@@ -254,7 +254,7 @@ The United States as eschatological fulfillment was not a new concept in the Gil
 
 > The whole matter may. I think, be summed up by saying that Christianity is in fact understood to be, though not the legally established religion, yet the national religion... They deem the general acceptance of Christianity to be one of the main sources of their national prosperity, and their nation a special object of Divine favour[sic].^[Bryce, James. The American Commonwealth. Vol. 2. (London: Macmillan and Co., 1889), 576-77.]
 
-Distinctions between American civilization and a thoroughly Christian civilization were collapsed.
+Distinctions between American civilization and a thoroughly Christian civilization collapsed.
 
 Christopher Richmann refers to this as the New Jerusalem theme prevalent in American exceptionalism. The New Jerusalem theme serves as shorthand for God's special presence and a particular eschatological vision. In this way, it expects both a space and a time. Richmann writes, "The notion appears in every genre and style imaginable: poetry, songs, presidential speeches, novels, political pamphlets, sermons, and academic writings... it has been a powerful force in American self-understanding and motivation."^[Richmann, America as New Jersusalem, 150.] As noted above, the postmillennial presupposition had long roots back into the very formation of the republic. Long had Protestant Americans wound the fate of American civil affairs around the fate of the millennium. As far back as the period between the Revolution and 1800, expectations of the millennium soared.^[Noll, The Search for Christian America, 113.]
 
@@ -267,7 +267,7 @@ Rising to the level of structuring narrative, Protestants filtered the world aro
 When American civilization was equated with the kingdom, it had to be spread alongside the gospel. It also had to be defended from the threats of the kingdom of sin and Satan that would seek to overthrow the coming kingdom. The watch words of the modern missions movement for many were "Christianize and "Civilize."^[Bebbington, The Dominance of Evangelicalism, 141-142.] And while that might be true overseas, back at home, in the face of incoming millions, it quickly became "Christianize and Americanize." American Protestants saw their mission as both promoting and protecting the establishment of this new society, and the great wave of immigration proved both opportunity and threat.
 
 ## Missions Methods toward Immigrants from 1880-1920
-In 1987 Paul Hiebert penned an influential article titled  _Critical Contextualization_  in the International Bulletin on Missionary Research. In that article, Hiebert outlines a spectrum of contextualization methods through the history of the modern missions movement. Hiebert labels a period from 1800 to 1950 as the Era of Noncontextualization, arguing that a significant shift occurred in Protestant missions due to a change in theological, historical, and social scientific presupposition by Protestants during the era.^[Hiebert, Paul G. “Critical Contextualization.” International Bulletin of Missionary Research (1987): 104–12. pg 104.] This resulted in an approach to missions which required the complete deconstruction of a person's existing culture and a replacement with Western culture as part of the conversion to Christianity. Hiebert writes, "Consequently, the gospel was seen by the people as a foreign gospel. To become Christian one had to accept not only Christianity but also Western cultural ways."^[Hiebert, Critical Contextualization, 104.] The wave of immigration to the United States that occurred from 1880-1920 happened at the very height of Hiebert's era of noncontextualization. Though Hiebert's categories were intended to critique international missions practice in other countries, the same presuppositions which undergirded international missionary practice applied to home missions when it came to foreign immigrants.
+In 1987 Paul Hiebert penned an influential article titled  _Critical Contextualization_  in the International Bulletin on Missionary Research. In that article, Hiebert outlines a spectrum of contextualization methods through the history of the modern missions movement. Hiebert labels a period from 1800 to 1950 as the era of noncontextualization, arguing that a significant shift occurred in Protestant missions due to a change in theological, historical, and social scientific presupposition by Protestants during the era.^[Hiebert, Paul G. “Critical Contextualization.” International Bulletin of Missionary Research (1987): 104–12. pg 104.] This resulted in an approach to missions which required the complete deconstruction of a person's existing culture and a replacement with Western culture as part of the conversion to Christianity. Hiebert writes, "Consequently, the gospel was seen by the people as a foreign gospel. To become Christian one had to accept not only Christianity but also Western cultural ways."^[Hiebert, Critical Contextualization, 104.] The wave of immigration to the United States that occurred from 1880-1920 happened at the very height of Hiebert's era of noncontextualization. Though Hiebert's categories were intended to critique international missions practice in other countries, the same presuppositions which undergirded international missionary practice applied to home missions when it came to foreign immigrants.
 
 ### The Missionary Occasion
 
@@ -339,61 +339,49 @@ IHdvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaW
 MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMDkzMSwiZW5kIjoy
 MTE1NH0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
 kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
-Ijo2OTIwNywiZW5kIjo2OTI0MH0sIm5PZG1YcGpVQlBGbTEyb3
-IiOnsidGV4dCI6IkRpc3RpbmN0aW9ucyIsInN0YXJ0Ijo4ODc2
-MywiZW5kIjo4ODc3NX0sImRSQzBTcmZGbkNUVjVqRWIiOnsidG
-V4dCI6ImVyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIsInN0
-YXJ0Ijo5MzI0NSwiZW5kIjo5MzI3Mn0sIjljcFJMOG12aWh4SF
-B0dXAiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQ4ODMsImVu
-ZCI6OTQ4ODd9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleHQiOi
-JicmltaW5pbmciLCJzdGFydCI6OTkxODQsImVuZCI6OTkxOTN9
-LCJjbnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3RpYW
-5pdHkgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5OTQ5OSwi
-ZW5kIjo5OTUyOH0sIkhSWXZuSjhXVTJGQ1FLOUciOnsidGV4dC
-I6IkZJTkQiLCJzdGFydCI6MTE0MDMxLCJlbmQiOjExNDAzNX0s
-IllYUXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6ImVyYSBvZiBub2
-5jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTc1MDcsImVu
-ZCI6MTE3NTM0fX0sImNvbW1lbnRzIjp7IkpJdXZNTDhUanZYR0
-1IV3giOnsiZGlzY3Vzc2lvbklkIjoiY2wyT1A1ME9nQ0szWDh6
-dyIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IkFERCBQQV
-JBR1JBUEggT04gUlVUSCBCT0NILi4uIE1BWUJFLiBNYWtlIHN1
-cmUgSSBuZWVkIHRoaXMgZmlyc3QuIiwiY3JlYXRlZCI6MTYwMT
-gxNDM0NjE0M30sIjBCUFNLb3V0cHRFeXBzOFEiOnsiZGlzY3Vz
-c2lvbklkIjoiWnprb1hDZnI2Y1FpcWpENSIsInN1YiI6ImdoOj
-M3MDQwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMgb3IgTm8/Iiwi
-Y3JlYXRlZCI6MTYwMTgxNjExNzE3MX0sInRCZHU2Rkxhb2FZbH
-djUWEiOnsiZGlzY3Vzc2lvbklkIjoibk9kbVhwalVCUEZtMTJv
-ciIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6IndoYXQgcG
-FyYWdyYXBoIGRvZXMgdGhpcyBnbyB3aXRoPyIsImNyZWF0ZWQi
-OjE2MDE4Mjg5NDY4NDJ9LCIzUTVOaE5lNWI0U1RjUlBMIjp7Im
-Rpc2N1c3Npb25JZCI6ImRSQzBTcmZGbkNUVjVqRWIiLCJzdWIi
-OiJnaDo3MTI5Mzk4NyIsInRleHQiOiJzaG91bGQgdGhpcyBiZS
-B0aXRsZSBjYXNlIGxpa2UgaXQgaXMgYWJvdmU/IiwiY3JlYXRl
-ZCI6MTYwMTgyOTQ0NzM5OH0sInJVYUY5M3BhU3paczI2YUciOn
-siZGlzY3Vzc2lvbklkIjoiOWNwUkw4bXZpaHhIUHR1cCIsInN1
-YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvIHRoaXMiLCJjcm
-VhdGVkIjoxNjAxODMwMjQ1OTk0fSwiakFWVXdsb0loWGM4TTBV
-TSI6eyJkaXNjdXNzaW9uSWQiOiJKRFpBTWNESnl1WnZwZ1pWIi
-wic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiaXMgdGhpcyBz
-dXBwb3NlZCB0byBiZSBicmltbWluZz8iLCJjcmVhdGVkIjoxNj
-AxODMwODkwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaXNj
-dXNzaW9uSWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoiZ2
-g6NzEyOTM5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG9p
-biBiZSBjYXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMwOT
-I0MTgyfSwiU05CQk9sUXAxMTJ2cGlTSSI6eyJkaXNjdXNzaW9u
-SWQiOiJIUll2bko4V1UyRkNRSzlHIiwic3ViIjoiZ2g6NzEyOT
-M5ODciLCJ0ZXh0IjoiZG8gdGhpcyIsImNyZWF0ZWQiOjE2MDE4
-MzE3NzQ2MzN9LCJYODVka3VEZHJtdFJSVUFhIjp7ImRpc2N1c3
-Npb25JZCI6IllYUXlmV3lVZXpqNHd6NzIiLCJzdWIiOiJnaDo3
-MTI5Mzk4NyIsInRleHQiOiJkb2VzIHRoaXMgbmVlZCB0byBiZS
-B0aXRsZSBjYXNlPyBpdCBpcyB0aGUgZmlyc3QgaW5zdGFuY2Ug
-eW91IHVzZSBpdCBidXQgbm90IHRoZSBzZWNvbmQgb3IgdGhpcm
-QgdGltZSIsImNyZWF0ZWQiOjE2MDE4MzIyNTU4OTN9fSwiaGlz
-dG9yeSI6Wy0yNjk4ODYwMzYsLTEzODc2MDY0MTIsMTYxMjQ1OT
-E3NSwtMTQ4NTY3MDQ1MCwxNjk0MjM2MjU3LDE0NjU0NzgxNDAs
-ODA5NTM1MzAwLC05MjIxNjczMDMsODMzNDg2ODE0LC0xNDIxNT
-QwOTYyLDEwOTQ0MTc2MzUsLTQyNjU2MDE1OSw2NDM2MjcyNzMs
-MTIwODUyMjQ1NCwtNTYyMDA2MDEwLC0xNzkwMjA5Mjc3LDkyMz
-I2Njc5NiwtMjE0NDkwNzA5NSwxMTQzNjYwNzUsMjAzODkyMzY0
-Nl19
+Ijo2OTIwNywiZW5kIjo2OTI0MH0sIjljcFJMOG12aWh4SFB0dX
+AiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQ4NzgsImVuZCI6
+OTQ4ODJ9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleHQiOiJicm
+ltaW5pbmciLCJzdGFydCI6OTkxNzksImVuZCI6OTkxODh9LCJj
+bnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3RpYW5pdH
+kgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5OTQ5NCwiZW5k
+Ijo5OTUyM30sIkhSWXZuSjhXVTJGQ1FLOUciOnsidGV4dCI6Ik
+ZJTkQiLCJzdGFydCI6MTE0MDI2LCJlbmQiOjExNDAzMH0sIllY
+UXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6ImVyYSBvZiBub25jb2
+50ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTc1MDIsImVuZCI6
+MTE3NTI5fX0sImNvbW1lbnRzIjp7IkpJdXZNTDhUanZYR01IV3
+giOnsiZGlzY3Vzc2lvbklkIjoiY2wyT1A1ME9nQ0szWDh6dyIs
+InN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IkFERCBQQVJBR1
+JBUEggT04gUlVUSCBCT0NILi4uIE1BWUJFLiBNYWtlIHN1cmUg
+SSBuZWVkIHRoaXMgZmlyc3QuIiwiY3JlYXRlZCI6MTYwMTgxND
+M0NjE0M30sIjBCUFNLb3V0cHRFeXBzOFEiOnsiZGlzY3Vzc2lv
+bklkIjoiWnprb1hDZnI2Y1FpcWpENSIsInN1YiI6ImdoOjM3MD
+QwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMgb3IgTm8/IiwiY3Jl
+YXRlZCI6MTYwMTgxNjExNzE3MX0sInJVYUY5M3BhU3paczI2YU
+ciOnsiZGlzY3Vzc2lvbklkIjoiOWNwUkw4bXZpaHhIUHR1cCIs
+InN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvIHRoaXMiLC
+JjcmVhdGVkIjoxNjAxODMwMjQ1OTk0fSwiakFWVXdsb0loWGM4
+TTBVTSI6eyJkaXNjdXNzaW9uSWQiOiJKRFpBTWNESnl1WnZwZ1
+pWIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiaXMgdGhp
+cyBzdXBwb3NlZCB0byBiZSBicmltbWluZz8iLCJjcmVhdGVkIj
+oxNjAxODMwODkwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJk
+aXNjdXNzaW9uSWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIj
+oiZ2g6NzEyOTM5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXph
+dG9pbiBiZSBjYXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxOD
+MwOTI0MTgyfSwiU05CQk9sUXAxMTJ2cGlTSSI6eyJkaXNjdXNz
+aW9uSWQiOiJIUll2bko4V1UyRkNRSzlHIiwic3ViIjoiZ2g6Nz
+EyOTM5ODciLCJ0ZXh0IjoiZG8gdGhpcyIsImNyZWF0ZWQiOjE2
+MDE4MzE3NzQ2MzN9LCJYODVka3VEZHJtdFJSVUFhIjp7ImRpc2
+N1c3Npb25JZCI6IllYUXlmV3lVZXpqNHd6NzIiLCJzdWIiOiJn
+aDo3MTI5Mzk4NyIsInRleHQiOiJkb2VzIHRoaXMgbmVlZCB0by
+BiZSB0aXRsZSBjYXNlPyBpdCBpcyB0aGUgZmlyc3QgaW5zdGFu
+Y2UgeW91IHVzZSBpdCBidXQgbm90IHRoZSBzZWNvbmQgb3IgdG
+hpcmQgdGltZSIsImNyZWF0ZWQiOjE2MDE4MzIyNTU4OTN9fSwi
+aGlzdG9yeSI6Wy0xODY1NTMwOTgwLC0xMzg3NjA2NDEyLDE2MT
+I0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIzNjI1NywxNDY1NDc4
+MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLDgzMzQ4NjgxNCwtMT
+QyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1NjAxNTksNjQzNjI3
+MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5MDIwOTI3Ny
+w5MjMyNjY3OTYsLTIxNDQ5MDcwOTUsMTE0MzY2MDc1LDIwMzg5
+MjM2NDZdfQ==
 -->
