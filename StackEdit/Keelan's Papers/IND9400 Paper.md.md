@@ -319,7 +319,7 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 
 > So immense a foreign element must have a profound influence on our national life and character. Immigration brings unquestioned benefits, but these do not concern our argument. It complicates almost every home missionary problem and furnishes the soil which feeds the life of several of the most noxious growths of our civilization.^[Strong, Our Country, 40.]
 
-Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[Strong's influence on home missions during the four decades after *Our Country* was published was perhaps unrivaled. Grose, *Aliens or Americans?* would have Strong provide the introduction and give him billing on the title page. William Shriver, *See also, Brooks, Charles Alvin. _Christian Americanization: A Task for the Churches_. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919, 4; 
+Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[Strong's influence on home missions during the four decades after *Our Country* was published was perhaps unrivaled. Grose, *Aliens or Americans?* would have Strong provide the introduction and give him billing on the title page. William Shriver, *Immigrant Forces*, lists a home missions study course by Strong in the final appendix, referring to him as a leadring See also, Brooks, Charles Alvin. _Christian Americanization: A Task for the Churches_. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919, 4; 
 
 
 
@@ -359,7 +359,7 @@ ZWF0ZWQiOjE2MDE4MTYxMTcxNzF9LCJTTkJCT2xRcDExMnZwaV
 NJIjp7ImRpc2N1c3Npb25JZCI6IkhSWXZuSjhXVTJGQ1FLOUci
 LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkbyB0aGlzIi
 wiY3JlYXRlZCI6MTYwMTgzMTc3NDYzM319LCJoaXN0b3J5Ijpb
-OTA3MDc3NDE2LC0zOTQwMzE5MSwtNDMyNTQyNDQ1LC0xODY1NT
+MTc3Mjg4NDQ5LC0zOTQwMzE5MSwtNDMyNTQyNDQ1LC0xODY1NT
 MwOTgwLC0xMzg3NjA2NDEyLDE2MTI0NTkxNzUsLTE0ODU2NzA0
 NTAsMTY5NDIzNjI1NywxNDY1NDc4MTQwLDgwOTUzNTMwMCwtOT
 IyMTY3MzAzLDgzMzQ4NjgxNCwtMTQyMTU0MDk2MiwxMDk0NDE3
