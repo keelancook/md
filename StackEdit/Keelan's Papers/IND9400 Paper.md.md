@@ -57,12 +57,7 @@ While it was the natural laws of human civilization and progress that would brin
 
 While it is widely accepted that the Protestant American missionary fervor found it's early voice through the influence of New Divinity, so did the closely intertwined issue of eschatology. In many ways, millennialism was the basis for this missionary fervor.^[Kling,  New Divinity, 11. See also Frank Hugh Foster, A Genetic History of the New England Theology (Chicago: University of Chicago Press, 1907), 129; Oliver Elsbree, The Rise of the Missionary Spirit in America, 1790-1815 (Williamsport, Pa.: Williamsport Printing, 1928); William Sweet, Religion in the Development of American Culture, 1765-1840 (New York: Scribner, 1952), 231; Charles Chaney, The Birth of Missions in America (South Pasadena, Calif.: William Carey Library, 1976), 74-84, 188-89, 192-95, 269-74.] Samuel Hopkins, for instance, was one of Edwards's closest companions and disciples. Hopkins too was convinced of the imminent dawn of the millennium through the spread of the gospel.^[Hopkins, Samuel. _Sketches of the Life of the Late, Rev. Samuel Hopkins, D.D., Pastor of the First Congregational Church in Newport_. Hartford: Hudson and Goodwin, 1805, xvi.] De Jong writes, "For Hopkins missions would bring the millennium and the millennium would be characterized by heightened mission work."^[De Jong, As the Waters, 208.] This activist understanding of millennialism relied on human initiative to usher in the millennium, as opposed to either natural catastrophes or other impersonal events. Edwards was one of the first in the colonies to base millennial advance on human initiative, and the characteristic was continued through the influence of New Divinity men.^[Davidson, Logic, 270.] It would be the sacrificial spread of the gospel throughout the entire world that would finally bring to fruition the new kingdom of God.^[De Jong, As the Waters, 211.] By the second half of the eighteenth century, human activity under the providence of God became the agent through which the millennial kingdom would arrive; however, this activity was centered around the spread of the gospel, as opposed to other social means, to Christianize the world in preparation for the coming kingdom.
 
-`ADD PARAGRAPH that notes the work of Ruth Boch, Visionary Republic, and her central thesis.In this paragraph, note her central thesis.Also point out that it was millennialism jumbled into pre-post confusion at this time._`
-
-The form and the intensity of the millennial ideas varied considerably, both over time and among different religious and political groups. The basic millennial vision of future worldly petfrction was, however, malleable only to a point. Far from merely reflecting or transmitting other components of revolutionary ideology, millennialism provided the main structure of meaning through which contemporary events were linked to an exalted image of an ideal world.
-
-
-Many American Protestants entered the revolutionary period longing to see the hand of providence orchestrating their millennial vision. Boch claims millennialism served as the organizing narrative through which Americans during the era would assign meaning to events. Boch writes, "Far from merely reflecting or transmitting other components of revolutionary ideology, millennialism provided the main structure of meaning through which contemporary events were linked to an exalted image of an ideal world."^[Boch, Visionary Republic, xiii]  Kling writes, "America's revolutionary and postrevolutionary period (1776-1800) - a dramatic time indeed - unleashed a torrent of millennialist predictions, some premillennial, others postmillennial."^[Kling, New Divinity, Loc. 316.] For many, America's short history proved fertile ground for millennial speculation. The establishment of the new world was, itself, seen as a sign of divine providence. In the wake of the war, American Protestants possessed the common sentiment that the results of the war were in fact a significant eschatological development.^[Noll, Mark A., The Search for Christian America (Westchester, Ill.: Crossway Books, 1983), 61-62 expounds upon a misplaced millennial expectation that was birthed out of the Puritan vision of Edwards and developed into support for the American Revolution.] De Jong writes, "Their country was regarded as the potential seat of Christ's rule in that era, and evangelicals were compared with Cromwell's Roundheads for their consciousness of being divine instruments in realizing that day."^[De Jong, As the Waters, 201-202.] American Protestants increasingly claimed a unique and elevated role in hastening the millennium.
+Millennialism served as the organizing narrative through which Americans during the era would assign meaning to events. Boch writes, "Far from merely reflecting or transmitting other components of revolutionary ideology, millennialism provided the main structure of meaning through which contemporary events were linked to an exalted image of an ideal world."^[Boch, Visionary Republic, xiii] Many American Protestants entered the revolutionary period longing to see the hand of providence orchestrating their millennial vision.  Kling writes, "America's revolutionary and postrevolutionary period (1776-1800) - a dramatic time indeed - unleashed a torrent of millennialist predictions, some premillennial, others postmillennial."^[Kling, New Divinity, Loc. 316.] For many, America's short history proved fertile ground for millennial speculation. The establishment of the new world was, itself, seen as a sign of divine providence. In the wake of the war, American Protestants possessed the common sentiment that the results of the war were in fact a significant eschatological development.^[Noll, Mark A., The Search for Christian America (Westchester, Ill.: Crossway Books, 1983), 61-62 expounds upon a misplaced millennial expectation that was birthed out of the Puritan vision of Edwards and developed into support for the American Revolution.] De Jong writes, "Their country was regarded as the potential seat of Christ's rule in that era, and evangelicals were compared with Cromwell's Roundheads for their consciousness of being divine instruments in realizing that day."^[De Jong, As the Waters, 201-202.] American Protestants increasingly claimed a unique and elevated role in hastening the millennium.
 
 Already optimistic concerning the global spread of the gospel, Protestants in America were increasingly certain the millennium was fast approaching. Kling writes, "However, as revivals of the Second Great Awakening (ca. 1790-1835) advanced in both intensity and duration, a confidence grew that the millennium was an approaching reality. The apocalyptic element of millennial thought, which was associated with the destruction of the world prior to Christ's return, gave way to more hopeful millennial expectations."^[Kling, New Divinity, Loc. 316.] This optimism weighted opinions concerning the millennium toward a postmillennial perspective. Davidson writes,
 
@@ -336,26 +331,17 @@ Taken together, a postmillennial commitment and an over-realized kingdom theolog
 Hiebert is correct in his assessment concerning the period from 1880-1920 when he places it in his era of noncontextualization. What is more, these mission methods not only refused to contextualize the gospel in a manner that led to indigenous expressions of Christianity within other cultures, they actively attempted to supplant foreign culture for Americanism, equating American culture with the biblical ideal of the kingdom society. As Hiebert notes elsewhere, noncontextualization toward a different group's culture is, in fact, uncritical contextualization toward one's own.^[Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in _MissionShift: Global Mission Issues in the Third Millennium_. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010. p.90.]
 
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJjbDJPUDUwT2dDSzNYOHp3Ijp7In
-RleHQiOiJgQUREIFBBUkFHUkFQSCBcbnRoYXQgbm90ZXMgdGhl
-IHdvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaW
-MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMTIwMiwiZW5kIjoy
-MTQyNX0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
-kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
-Ijo3MDM0OCwiZW5kIjo3MDM4MX19LCJjb21tZW50cyI6eyJKSX
-V2TUw4VGp2WEdNSFd4Ijp7ImRpc2N1c3Npb25JZCI6ImNsMk9Q
-NTBPZ0NLM1g4enciLCJzdWIiOiJnaDozNzA0MDg0MSIsInRleH
-QiOiJBREQgUEFSQUdSQVBIIE9OIFJVVEggQk9DSC4uLiBNQVlC
-RS4gTWFrZSBzdXJlIEkgbmVlZCB0aGlzIGZpcnN0LiIsImNyZW
-F0ZWQiOjE2MDE4MTQzNDYxNDN9LCIwQlBTS291dHB0RXlwczhR
-Ijp7ImRpc2N1c3Npb25JZCI6Ilp6a29YQ2ZyNmNRaXFqRDUiLC
-JzdWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJOR3JhbT8gWWVz
-IG9yIE5vPyIsImNyZWF0ZWQiOjE2MDE4MTYxMTcxNzF9fSwiaG
-lzdG9yeSI6Wy0yMDQ4ODM1OTE4LDIwNzEzNTM3NjAsOTMzODUz
-MDU3LC0xMjE2ODA1MDQsLTM5NDAzMTkxLC00MzI1NDI0NDUsLT
-E4NjU1MzA5ODAsLTEzODc2MDY0MTIsMTYxMjQ1OTE3NSwtMTQ4
-NTY3MDQ1MCwxNjk0MjM2MjU3LDE0NjU0NzgxNDAsODA5NTM1Mz
-AwLC05MjIxNjczMDMsODMzNDg2ODE0LC0xNDIxNTQwOTYyLDEw
-OTQ0MTc2MzUsLTQyNjU2MDE1OSw2NDM2MjcyNzMsMTIwODUyMj
-Q1NF19
+eyJkaXNjdXNzaW9ucyI6eyJaemtvWENmcjZjUWlxakQ1Ijp7In
+RleHQiOiJEbyBJIGl0ZSBOR3JhbSBoZXJlPyBJZiBzbywgaG93
+P2AiLCJzdGFydCI6Njk2NDcsImVuZCI6Njk2ODB9fSwiY29tbW
+VudHMiOnsiMEJQU0tvdXRwdEV5cHM4USI6eyJkaXNjdXNzaW9u
+SWQiOiJaemtvWENmcjZjUWlxakQ1Iiwic3ViIjoiZ2g6MzcwND
+A4NDEiLCJ0ZXh0IjoiTkdyYW0/IFllcyBvciBObz8iLCJjcmVh
+dGVkIjoxNjAxODE2MTE3MTcxfX0sImhpc3RvcnkiOls2Njc3Mj
+U0MjUsLTIwNDg4MzU5MTgsMjA3MTM1Mzc2MCw5MzM4NTMwNTcs
+LTEyMTY4MDUwNCwtMzk0MDMxOTEsLTQzMjU0MjQ0NSwtMTg2NT
+UzMDk4MCwtMTM4NzYwNjQxMiwxNjEyNDU5MTc1LC0xNDg1Njcw
+NDUwLDE2OTQyMzYyNTcsMTQ2NTQ3ODE0MCw4MDk1MzUzMDAsLT
+kyMjE2NzMwMyw4MzM0ODY4MTQsLTE0MjE1NDA5NjIsMTA5NDQx
+NzYzNSwtNDI2NTYwMTU5LDY0MzYyNzI3M119
 -->
