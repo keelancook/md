@@ -305,7 +305,7 @@ At the height of immigration during the era, ships were bringing around a millio
 
 When viewed as an opportunity, these new foreign born residents, many Jewish and Catholic, presented a prime target from the promotion of Protestant Christianity wrapped in its American form.
 
-Several home mission manuals written between 1880 and 1920 approached the issue in a hopeful tone, encouraging a promoting mission. Notable among these were the works of Howard B. Grose. A Baptist minister and professor, Grose served as the editorial secretary for the American Baptist Home Missionary Society from 1904-1910 and authored two manuals addressing missions to immigrants:  _Incoming Millions_  and  _Aliens or Americans?_.^[Loftus, Danielle. “LibGuides: Howard B. Grose: Overview,” 11 February 2015.  [https://libguides.usd.edu/grose](https://libguides.usd.edu/grose).] In the preface to  _Aliens or Americans?_, Grose himself notes the tendency to cast the missionary occasion of immigration as either opportunity or threat, claiming it should be seen as a hopeful opportunity. He writes, "Immigration may be regarded as a peril or a providence, an ogre or an obligation...The author is a Christian optimist who believes God has a unique mission for Christian America, and that it will ultimately be fulfilled."^[Grose, Aliens or Americans?, 10.] In both books, Grose employs rhetoric in his attempt to persuade his reader not to view immigrants as a threat but an opportunity. His section titles suggest threat language, yet in each section he painstaking humanizes the immigrant. His works are titled provocatively, and include sections like "The Invading Army," but the army he describes is profoundly human and has no ill-will toward the United States. Instead, he goes to great lengths to tell immigrant stories and outline legitimate reasons for their arrival.^[Grose, Incoming Millions, 9, 22, 26, 27. See also Grose, Aliens or Americans?, 15, 193.] Grose also espoused a conditional manifest destiny. He writes, "The alien can be Americanized upward or downward."^[Grose, Incoming Millions, 82.] If Grose employs threat language, it is the threat of inactivity on the part of Christians that allows unsightly American vices to take hold on the immigrant after arrival. Grose continues,
+Several home mission manuals written between 1880 and 1920 approached the issue in a hopeful tone, encouraging a promoting mission. Notable among these were the works of Howard B. Grose. A Baptist minister and professor, Grose served as the editorial secretary for the American Baptist Home Missionary Society from 1904-1910 and authored two manuals addressing missions to immigrants:  _Incoming Millions_  and  _Aliens or Americans?_.^[Loftus, Danielle. “LibGuides: Howard B. Grose: Overview,” 11 February 2015. https://libguides.usd.edu/grose] In the preface to  _Aliens or Americans?_, Grose himself notes the tendency to cast the missionary occasion of immigration as either opportunity or threat, claiming it should be seen as a hopeful opportunity. He writes, "Immigration may be regarded as a peril or a providence, an ogre or an obligation...The author is a Christian optimist who believes God has a unique mission for Christian America, and that it will ultimately be fulfilled."^[Grose, Aliens or Americans?, 10.] In both books, Grose employs rhetoric in his attempt to persuade his reader not to view immigrants as a threat but an opportunity. His section titles suggest threat language, yet in each section he painstaking humanizes the immigrant. His works are titled provocatively, and include sections like "The Invading Army," but the army he describes is profoundly human and has no ill-will toward the United States. Instead, he goes to great lengths to tell immigrant stories and outline legitimate reasons for their arrival.^[Grose, Incoming Millions, 9, 22, 26, 27. See also Grose, Aliens or Americans?, 15, 193.] Grose also espoused a conditional manifest destiny. He writes, "The alien can be Americanized upward or downward."^[Grose, Incoming Millions, 82.] If Grose employs threat language, it is the threat of inactivity on the part of Christians that allows unsightly American vices to take hold on the immigrant after arrival. Grose continues,
 
 > How are these aliens being Americanized? For the most part the vote-buyer, the saloon keeper, the bribe-taker, the Jew sweater, the owner or agent of wretched and unsanitary tenements, are the ones who are teaching them what America is, what America stands for.^[Grose, Incoming Millions, 84.]
 
@@ -340,31 +340,23 @@ MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMDkzMSwiZW5kIjoy
 MTE1NH0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
 kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
 Ijo2OTIwNywiZW5kIjo2OTI0MH0sIkhSWXZuSjhXVTJGQ1FLOU
-ciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTEzOTkyLCJlbmQi
-OjExMzk5Nn0sIllYUXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6Im
-VyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0Ijox
-MTc0NjgsImVuZCI6MTE3NDk1fX0sImNvbW1lbnRzIjp7IkpJdX
-ZNTDhUanZYR01IV3giOnsiZGlzY3Vzc2lvbklkIjoiY2wyT1A1
-ME9nQ0szWDh6dyIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dC
-I6IkFERCBQQVJBR1JBUEggT04gUlVUSCBCT0NILi4uIE1BWUJF
-LiBNYWtlIHN1cmUgSSBuZWVkIHRoaXMgZmlyc3QuIiwiY3JlYX
-RlZCI6MTYwMTgxNDM0NjE0M30sIjBCUFNLb3V0cHRFeXBzOFEi
-OnsiZGlzY3Vzc2lvbklkIjoiWnprb1hDZnI2Y1FpcWpENSIsIn
-N1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMg
-b3IgTm8/IiwiY3JlYXRlZCI6MTYwMTgxNjExNzE3MX0sIlNOQk
-JPbFFwMTEydnBpU0kiOnsiZGlzY3Vzc2lvbklkIjoiSFJZdm5K
-OFdVMkZDUUs5RyIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dC
-I6ImRvIHRoaXMiLCJjcmVhdGVkIjoxNjAxODMxNzc0NjMzfSwi
-WDg1ZGt1RGRybXRSUlVBYSI6eyJkaXNjdXNzaW9uSWQiOiJZWF
-F5Zld5VWV6ajR3ejcyIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0
-ZXh0IjoiZG9lcyB0aGlzIG5lZWQgdG8gYmUgdGl0bGUgY2FzZT
-8gaXQgaXMgdGhlIGZpcnN0IGluc3RhbmNlIHlvdSB1c2UgaXQg
-YnV0IG5vdCB0aGUgc2Vjb25kIG9yIHRoaXJkIHRpbWUiLCJjcm
-VhdGVkIjoxNjAxODMyMjU1ODkzfX0sImhpc3RvcnkiOlstMjgz
-MzUxNDc0LC0xODY1NTMwOTgwLC0xMzg3NjA2NDEyLDE2MTI0NT
-kxNzUsLTE0ODU2NzA0NTAsMTY5NDIzNjI1NywxNDY1NDc4MTQw
-LDgwOTUzNTMwMCwtOTIyMTY3MzAzLDgzMzQ4NjgxNCwtMTQyMT
-U0MDk2MiwxMDk0NDE3NjM1LC00MjY1NjAxNTksNjQzNjI3Mjcz
-LDEyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5MDIwOTI3Nyw5Mj
-MyNjY3OTYsLTIxNDQ5MDcwOTUsMTE0MzY2MDc1XX0=
+ciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTEzOTU1LCJlbmQi
+OjExMzk1OX19LCJjb21tZW50cyI6eyJKSXV2TUw4VGp2WEdNSF
+d4Ijp7ImRpc2N1c3Npb25JZCI6ImNsMk9QNTBPZ0NLM1g4enci
+LCJzdWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJBREQgUEFSQU
+dSQVBIIE9OIFJVVEggQk9DSC4uLiBNQVlCRS4gTWFrZSBzdXJl
+IEkgbmVlZCB0aGlzIGZpcnN0LiIsImNyZWF0ZWQiOjE2MDE4MT
+QzNDYxNDN9LCIwQlBTS291dHB0RXlwczhRIjp7ImRpc2N1c3Np
+b25JZCI6Ilp6a29YQ2ZyNmNRaXFqRDUiLCJzdWIiOiJnaDozNz
+A0MDg0MSIsInRleHQiOiJOR3JhbT8gWWVzIG9yIE5vPyIsImNy
+ZWF0ZWQiOjE2MDE4MTYxMTcxNzF9LCJTTkJCT2xRcDExMnZwaV
+NJIjp7ImRpc2N1c3Npb25JZCI6IkhSWXZuSjhXVTJGQ1FLOUci
+LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkbyB0aGlzIi
+wiY3JlYXRlZCI6MTYwMTgzMTc3NDYzM319LCJoaXN0b3J5Ijpb
+LTQzMjU0MjQ0NSwtMTg2NTUzMDk4MCwtMTM4NzYwNjQxMiwxNj
+EyNDU5MTc1LC0xNDg1NjcwNDUwLDE2OTQyMzYyNTcsMTQ2NTQ3
+ODE0MCw4MDk1MzUzMDAsLTkyMjE2NzMwMyw4MzM0ODY4MTQsLT
+E0MjE1NDA5NjIsMTA5NDQxNzYzNSwtNDI2NTYwMTU5LDY0MzYy
+NzI3MywxMjA4NTIyNDU0LC01NjIwMDYwMTAsLTE3OTAyMDkyNz
+csOTIzMjY2Nzk2LC0yMTQ0OTA3MDk1LDExNDM2NjA3NV19
 -->
