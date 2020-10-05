@@ -185,7 +185,7 @@ Unlike England and other regions of Europe, the term Christian Socialist was not
 
 In  _The Social Gospel in America, 1870-1920_, Handy writes:
 
-> ... the designation most widely used was "social Christianity." The new term came to be applied chiefly to a particular kind of protestant social concern. There was, on the one hand, a social Christianity which was cast in a "conservative mold." Its exponents recognized social problems but sought to deal with them without sharply challenging the dominant individualism... At the other extreme were those who tended to reject existing social and economic institutions in favor of sweeping reconstruction.^[Handy, The Social Gospel in America, 5.]
+> ... the designation most widely used was "social Christianity." The new term came to be applied chiefly to a particular kind of Protestant social concern. There was, on the one hand, a social Christianity which was cast in a "conservative mold." Its exponents recognized social problems but sought to deal with them without sharply challenging the dominant individualism... At the other extreme were those who tended to reject existing social and economic institutions in favor of sweeping reconstruction.^[Handy, The Social Gospel in America, 5.]
 
 After the turn of the century, "social gospel" would increasingly become a watchword, and by the 1920s it would strain the fabric of Protestant America. However, the concepts of social Christianity were prior to and broader than the social gospel movement that it would produce and served as an umbrella for Protestant social concern. By the 1890s, Social Christianity played a significant role in the life of most major Protestant denominations.^[Handy, Undermined Establishment, 58-59.]
 
@@ -204,7 +204,7 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 Since it was too soon to speak of a liberal and evangelical divide, broad tenets of social Christianity developed into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hope at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 
 # Christianize and Americanize: Home Missions to the Immigrant
-The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. `consider stuffing. These first two footnotes may need to carry a good bit of research on the social setting, since I deal with it little in the paper` ] The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  `Consider stuffing this with other sources`] Exciting times are, however, tumultuous times. Industrialization, urbanization, and immigration brought with them poor labor conditions, unsanitary living conditions, and the threat of unknown culture and worldview. The 1880s would see protests and riots over labor concerns such as the 1886 Haymarket Riot, where a bomb was detonated in Chicago.^[Boyer, Urban Masses and Moral Order, 126.] Not only would the sheer volume of immigration incite concern, but the particular composition of the "new immigration" during the era was much more diverse, pulling from non-Protestant countries in Eastern Europe and elsewhere.^[Zolberg, Aristide, A Nation by Design, 205.  `Consder also adding Latourette or other sources on the makeup of immigration during this era and show they were largely Catholic, Jewish, or nothing.`]
+The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. See also `consider stuffing. These first two footnotes may need to carry a good bit of research on the social setting, since I deal with it little in the paper` ] The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  `Consider stuffing this with other sources`] Exciting times are, however, tumultuous times. Industrialization, urbanization, and immigration brought with them poor labor conditions, unsanitary living conditions, and the threat of unknown culture and worldview. The 1880s would see protests and riots over labor concerns such as the 1886 Haymarket Riot, where a bomb was detonated in Chicago.^[Boyer, Urban Masses and Moral Order, 126.] Not only would the sheer volume of immigration incite concern, but the particular composition of the "new immigration" during the era was much more diverse, pulling from non-Protestant countries in Eastern Europe and elsewhere.^[Zolberg, Aristide, A Nation by Design, 205.  `Consder also adding Latourette or other sources on the makeup of immigration during this era and show they were largely Catholic, Jewish, or nothing.`]
 
 From 1880 to 1920, many Protestant Americans viewed their country as a paradox of great promise and potential peril. Riding on the wings of the modern missions movement, Protestants of the Gilded Age approached the promise and peril firmly convinced of their central role in God's plan for history. This confidence was a shaping factor in their development of an applied theology and specific missionary methods. To this unique missionary occasion most American Protestants brought theological presuppositions concerning postmillennialism and an over-realized version of the kingdom of God.
 
@@ -334,102 +334,97 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjU3MSwiZW5kIjo3
-NjU3OX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjU4MCwiZW5kIjo3
+NjU4OH0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6NzcyNzMsImVuZCI6NzczNjJ9LCJYSzZW
+/igKYiLCJzdGFydCI6NzcyODIsImVuZCI6NzczNzF9LCJYSzZW
 dEtUclQ1V1ducW1JIjp7InRleHQiOiJDb25zZGVyIHN0dWZmaW
 5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc1
-Nzg1LCJlbmQiOjc1ODI2fSwia25IQzRaQ1FFQ21YUEdwSyI6ey
+Nzk0LCJlbmQiOjc1ODM1fSwia25IQzRaQ1FFQ21YUEdwSyI6ey
 J0ZXh0IjoiVGhlc2UgZmlyc3QgdHdvIGZvb3Rub3RlcyBtYXkg
 bmVlZCB0byBjYXJyeSBhIGdvb2QgYml0IG9mIHJlc2VhcmNoIG
 9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTE2MywiZW5kIjo3
-NTI5M30sImNsMk9QNTBPZ0NLM1g4enciOnsidGV4dCI6ImBBRE
+NTMwMn0sImNsMk9QNTBPZ0NLM1g4enciOnsidGV4dCI6ImBBRE
 QgUEFSQUdSQVBIIFxudGhhdCBub3RlcyB0aGUgd29yayBvZiBS
 dXRoIEJvY2gsIFZpc2lvbmFyeSBSZXB1YmxpYywgYW5kIGhlci
 Bj4oCmIiwic3RhcnQiOjIwOTMxLCJlbmQiOjIxMTU0fSwiWnpr
 b1hDZnI2Y1FpcWpENSI6eyJ0ZXh0IjoiRG8gSSBpdGUgTkdyYW
 0gaGVyZT8gSWYgc28sIGhvdz9gIiwic3RhcnQiOjY5MjA3LCJl
 bmQiOjY5MjQwfSwibk9kbVhwalVCUEZtMTJvciI6eyJ0ZXh0Ij
-oiRGlzdGluY3Rpb25zIiwic3RhcnQiOjg4Mzc2LCJlbmQiOjg4
-Mzg4fSwiZFJDMFNyZkZuQ1RWNWpFYiI6eyJ0ZXh0IjoiZXJhIG
-9mIG5vbmNvbnRleHR1YWxpemF0aW9uIiwic3RhcnQiOjkyODU4
-LCJlbmQiOjkyODg1fSwiOWNwUkw4bXZpaHhIUHR1cCI6eyJ0ZX
-h0IjoiTmVlZCIsInN0YXJ0Ijo5NDQ5NiwiZW5kIjo5NDUwMH0s
+oiRGlzdGluY3Rpb25zIiwic3RhcnQiOjg4Mzg1LCJlbmQiOjg4
+Mzk3fSwiZFJDMFNyZkZuQ1RWNWpFYiI6eyJ0ZXh0IjoiZXJhIG
+9mIG5vbmNvbnRleHR1YWxpemF0aW9uIiwic3RhcnQiOjkyODY3
+LCJlbmQiOjkyODk0fSwiOWNwUkw4bXZpaHhIUHR1cCI6eyJ0ZX
+h0IjoiTmVlZCIsInN0YXJ0Ijo5NDUwNSwiZW5kIjo5NDUwOX0s
 IkpEWkFNY0RKeXVadnBnWlYiOnsidGV4dCI6ImJyaW1pbmluZy
-IsInN0YXJ0Ijo5ODc5NywiZW5kIjo5ODgwNn0sImNueWxPMEda
+IsInN0YXJ0Ijo5ODgwNiwiZW5kIjo5ODgxNX0sImNueWxPMEda
 bWw2NUpFUWkiOnsidGV4dCI6IkNocmlzdGlhbml0eSBhbmQgQ2
-l2aWxpemF0aW9uIiwic3RhcnQiOjk5MTEyLCJlbmQiOjk5MTQx
+l2aWxpemF0aW9uIiwic3RhcnQiOjk5MTIxLCJlbmQiOjk5MTUw
 fSwiSFJZdm5KOFdVMkZDUUs5RyI6eyJ0ZXh0IjoiRklORCIsIn
-N0YXJ0IjoxMTM2NDQsImVuZCI6MTEzNjQ4fSwiWVhReWZXeVVl
+N0YXJ0IjoxMTM2NTMsImVuZCI6MTEzNjU3fSwiWVhReWZXeVVl
 emo0d3o3MiI6eyJ0ZXh0IjoiZXJhIG9mIG5vbmNvbnRleHR1YW
-xpemF0aW9uIiwic3RhcnQiOjExNzEyMCwiZW5kIjoxMTcxNDd9
-LCJyVnloZmM3MGlJR3hqU1dqIjp7InRleHQiOiJwcm90ZXN0YW
-50Iiwic3RhcnQiOjY5NDM1LCJlbmQiOjY5NDQ1fX0sImNvbW1l
-bnRzIjp7ImgyRGdlMmFDNmlORW5FUlgiOnsiZGlzY3Vzc2lvbk
-lkIjoiMjRzUlY0c3dlbkxKeXdSNyIsInN1YiI6ImdoOjcxMjkz
-OTg3IiwidGV4dCI6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQiOj
-E2MDE2MzgwNDI3NjJ9LCJiUUExNGljRzBCQUp5aGxlIjp7ImRp
-c2N1c3Npb25JZCI6IndpVWRHeUZ0c3E4Nzc2b2QiLCJzdWIiOi
-JnaDo3MTI5Mzk4NyIsInRleHQiOiJmcmFnbWVudCIsImNyZWF0
-ZWQiOjE2MDE4MDk1OTE3OTV9LCJ6QlBlejMzVXduZkxGYWNDIj
-p7ImRpc2N1c3Npb25JZCI6IndpVWRHeUZ0c3E4Nzc2b2QiLCJz
-dWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJJdCdzIG5vdCBpZi
-BwcmVzZW50ZWQgaXMgYSB2ZXJiLiBBIHN5bm9ueW0gLSBlbWVy
-Z2VkIG9yIG1hdGVyaWFsaXplZFxuXG5CdXQgSSBzaG91bGQgcH
-JvYmFibHkgY2hhbmdlIGl0LCBiZWNhdXNlIGl0IGNhbiBiZSBy
-ZWFkIGVhc2lseSB0aGUgd2F5IHlvdSBkaWQuIiwiY3JlYXRlZC
-I6MTYwMTgxMjU0NTI0MX0sIkxxa3VzVFQ3anRuQlVSdDMiOnsi
-ZGlzY3Vzc2lvbklkIjoiWEs2VnRLVHJUNVdXbnFtSSIsInN1Yi
-I6ImdoOjM3MDQwODQxIiwidGV4dCI6IkRvIHRoaXMuIiwiY3Jl
-YXRlZCI6MTYwMTgxMjg4NjkxMH0sIkswaUxGU2R3UkFhTFI2eE
-kiOnsiZGlzY3Vzc2lvbklkIjoia25IQzRaQ1FFQ21YUEdwSyIs
-InN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IkNvbnNpZGVyIi
-wiY3JlYXRlZCI6MTYwMTgxMjkyMTQ4NH0sIkpJdXZNTDhUanZY
-R01IV3giOnsiZGlzY3Vzc2lvbklkIjoiY2wyT1A1ME9nQ0szWD
-h6dyIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IkFERCBQ
-QVJBR1JBUEggT04gUlVUSCBCT0NILi4uIE1BWUJFLiBNYWtlIH
-N1cmUgSSBuZWVkIHRoaXMgZmlyc3QuIiwiY3JlYXRlZCI6MTYw
-MTgxNDM0NjE0M30sIjBCUFNLb3V0cHRFeXBzOFEiOnsiZGlzY3
-Vzc2lvbklkIjoiWnprb1hDZnI2Y1FpcWpENSIsInN1YiI6Imdo
-OjM3MDQwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMgb3IgTm8/Ii
-wiY3JlYXRlZCI6MTYwMTgxNjExNzE3MX0sInRCZHU2Rkxhb2FZ
-bHdjUWEiOnsiZGlzY3Vzc2lvbklkIjoibk9kbVhwalVCUEZtMT
-JvciIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6IndoYXQg
-cGFyYWdyYXBoIGRvZXMgdGhpcyBnbyB3aXRoPyIsImNyZWF0ZW
-QiOjE2MDE4Mjg5NDY4NDJ9LCIzUTVOaE5lNWI0U1RjUlBMIjp7
-ImRpc2N1c3Npb25JZCI6ImRSQzBTcmZGbkNUVjVqRWIiLCJzdW
-IiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJzaG91bGQgdGhpcyBi
-ZSB0aXRsZSBjYXNlIGxpa2UgaXQgaXMgYWJvdmU/IiwiY3JlYX
-RlZCI6MTYwMTgyOTQ0NzM5OH0sInJVYUY5M3BhU3paczI2YUci
-OnsiZGlzY3Vzc2lvbklkIjoiOWNwUkw4bXZpaHhIUHR1cCIsIn
-N1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvIHRoaXMiLCJj
-cmVhdGVkIjoxNjAxODMwMjQ1OTk0fSwiakFWVXdsb0loWGM4TT
-BVTSI6eyJkaXNjdXNzaW9uSWQiOiJKRFpBTWNESnl1WnZwZ1pW
-Iiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiaXMgdGhpcy
-BzdXBwb3NlZCB0byBiZSBicmltbWluZz8iLCJjcmVhdGVkIjox
-NjAxODMwODkwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaX
-NjdXNzaW9uSWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoi
-Z2g6NzEyOTM5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG
-9pbiBiZSBjYXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMw
-OTI0MTgyfSwiU05CQk9sUXAxMTJ2cGlTSSI6eyJkaXNjdXNzaW
-9uSWQiOiJIUll2bko4V1UyRkNRSzlHIiwic3ViIjoiZ2g6NzEy
-OTM5ODciLCJ0ZXh0IjoiZG8gdGhpcyIsImNyZWF0ZWQiOjE2MD
-E4MzE3NzQ2MzN9LCJYODVka3VEZHJtdFJSVUFhIjp7ImRpc2N1
-c3Npb25JZCI6IllYUXlmV3lVZXpqNHd6NzIiLCJzdWIiOiJnaD
-o3MTI5Mzk4NyIsInRleHQiOiJkb2VzIHRoaXMgbmVlZCB0byBi
-ZSB0aXRsZSBjYXNlPyBpdCBpcyB0aGUgZmlyc3QgaW5zdGFuY2
-UgeW91IHVzZSBpdCBidXQgbm90IHRoZSBzZWNvbmQgb3IgdGhp
-cmQgdGltZSIsImNyZWF0ZWQiOjE2MDE4MzIyNTU4OTN9LCJLdD
-FYWVFGS3BtTXkxMVNxIjp7ImRpc2N1c3Npb25JZCI6InJWeWhm
-YzcwaUlHeGpTV2oiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleH
-QiOiJzaG91bGQgdGhpcyBiZSBjYXBpdGFsaXplZCIsImNyZWF0
-ZWQiOjE2MDE4MzI4OTc4NjN9fSwiaGlzdG9yeSI6WzE1NjIxMD
-E0MzQsMTY5NDIzNjI1NywxNDY1NDc4MTQwLDgwOTUzNTMwMCwt
-OTIyMTY3MzAzLDgzMzQ4NjgxNCwtMTQyMTU0MDk2MiwxMDk0ND
-E3NjM1LC00MjY1NjAxNTksNjQzNjI3MjczLDEyMDg1MjI0NTQs
-LTU2MjAwNjAxMCwtMTc5MDIwOTI3Nyw5MjMyNjY3OTYsLTIxND
-Q5MDcwOTUsMTE0MzY2MDc1LDIwMzg5MjM2NDYsMTUwNzE3MjI0
-OSw4NzEyMjIxNjgsNDkwNTU5NDJdfQ==
+xpemF0aW9uIiwic3RhcnQiOjExNzEyOSwiZW5kIjoxMTcxNTZ9
+fSwiY29tbWVudHMiOnsiaDJEZ2UyYUM2aU5FbkVSWCI6eyJkaX
+NjdXNzaW9uSWQiOiIyNHNSVjRzd2VuTEp5d1I3Iiwic3ViIjoi
+Z2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9uJ3QgZm9yZ2V0IiwiY3
+JlYXRlZCI6MTYwMTYzODA0Mjc2Mn0sImJRQTE0aWNHMEJBSnlo
+bGUiOnsiZGlzY3Vzc2lvbklkIjoid2lVZEd5RnRzcTg3NzZvZC
+IsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImZyYWdtZW50
+IiwiY3JlYXRlZCI6MTYwMTgwOTU5MTc5NX0sInpCUGV6MzNVd2
+5mTEZhY0MiOnsiZGlzY3Vzc2lvbklkIjoid2lVZEd5RnRzcTg3
+NzZvZCIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6Ikl0J3
+Mgbm90IGlmIHByZXNlbnRlZCBpcyBhIHZlcmIuIEEgc3lub255
+bSAtIGVtZXJnZWQgb3IgbWF0ZXJpYWxpemVkXG5cbkJ1dCBJIH
+Nob3VsZCBwcm9iYWJseSBjaGFuZ2UgaXQsIGJlY2F1c2UgaXQg
+Y2FuIGJlIHJlYWQgZWFzaWx5IHRoZSB3YXkgeW91IGRpZC4iLC
+JjcmVhdGVkIjoxNjAxODEyNTQ1MjQxfSwiTHFrdXNUVDdqdG5C
+VVJ0MyI6eyJkaXNjdXNzaW9uSWQiOiJYSzZWdEtUclQ1V1ducW
+1JIiwic3ViIjoiZ2g6MzcwNDA4NDEiLCJ0ZXh0IjoiRG8gdGhp
+cy4iLCJjcmVhdGVkIjoxNjAxODEyODg2OTEwfSwiSzBpTEZTZH
+dSQWFMUjZ4SSI6eyJkaXNjdXNzaW9uSWQiOiJrbkhDNFpDUUVD
+bVhQR3BLIiwic3ViIjoiZ2g6MzcwNDA4NDEiLCJ0ZXh0IjoiQ2
+9uc2lkZXIiLCJjcmVhdGVkIjoxNjAxODEyOTIxNDg0fSwiSkl1
+dk1MOFRqdlhHTUhXeCI6eyJkaXNjdXNzaW9uSWQiOiJjbDJPUD
+UwT2dDSzNYOHp3Iiwic3ViIjoiZ2g6MzcwNDA4NDEiLCJ0ZXh0
+IjoiQUREIFBBUkFHUkFQSCBPTiBSVVRIIEJPQ0guLi4gTUFZQk
+UuIE1ha2Ugc3VyZSBJIG5lZWQgdGhpcyBmaXJzdC4iLCJjcmVh
+dGVkIjoxNjAxODE0MzQ2MTQzfSwiMEJQU0tvdXRwdEV5cHM4US
+I6eyJkaXNjdXNzaW9uSWQiOiJaemtvWENmcjZjUWlxakQ1Iiwi
+c3ViIjoiZ2g6MzcwNDA4NDEiLCJ0ZXh0IjoiTkdyYW0/IFllcy
+BvciBObz8iLCJjcmVhdGVkIjoxNjAxODE2MTE3MTcxfSwidEJk
+dTZGTGFvYVlsd2NRYSI6eyJkaXNjdXNzaW9uSWQiOiJuT2RtWH
+BqVUJQRm0xMm9yIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0
+Ijoid2hhdCBwYXJhZ3JhcGggZG9lcyB0aGlzIGdvIHdpdGg/Ii
+wiY3JlYXRlZCI6MTYwMTgyODk0Njg0Mn0sIjNRNU5oTmU1YjRT
+VGNSUEwiOnsiZGlzY3Vzc2lvbklkIjoiZFJDMFNyZkZuQ1RWNW
+pFYiIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6InNob3Vs
+ZCB0aGlzIGJlIHRpdGxlIGNhc2UgbGlrZSBpdCBpcyBhYm92ZT
+8iLCJjcmVhdGVkIjoxNjAxODI5NDQ3Mzk4fSwiclVhRjkzcGFT
+elpzMjZhRyI6eyJkaXNjdXNzaW9uSWQiOiI5Y3BSTDhtdmloeE
+hQdHVwIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG8g
+dGhpcyIsImNyZWF0ZWQiOjE2MDE4MzAyNDU5OTR9LCJqQVZVd2
+xvSWhYYzhNMFVNIjp7ImRpc2N1c3Npb25JZCI6IkpEWkFNY0RK
+eXVadnBnWlYiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOi
+JpcyB0aGlzIHN1cHBvc2VkIHRvIGJlIGJyaW1taW5nPyIsImNy
+ZWF0ZWQiOjE2MDE4MzA4OTA3MTd9LCJ3WFhXWTNLWGVTQmt3VX
+JvIjp7ImRpc2N1c3Npb25JZCI6ImNueWxPMEdabWw2NUpFUWki
+LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJzaG91bGQgY2
+l2aWxpemF0b2luIGJlIGNhcGl0YWxpemVkPyIsImNyZWF0ZWQi
+OjE2MDE4MzA5MjQxODJ9LCJTTkJCT2xRcDExMnZwaVNJIjp7Im
+Rpc2N1c3Npb25JZCI6IkhSWXZuSjhXVTJGQ1FLOUciLCJzdWIi
+OiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkbyB0aGlzIiwiY3JlYX
+RlZCI6MTYwMTgzMTc3NDYzM30sIlg4NWRrdURkcm10UlJVQWEi
+OnsiZGlzY3Vzc2lvbklkIjoiWVhReWZXeVVlemo0d3o3MiIsIn
+N1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvZXMgdGhpcyBu
+ZWVkIHRvIGJlIHRpdGxlIGNhc2U/IGl0IGlzIHRoZSBmaXJzdC
+BpbnN0YW5jZSB5b3UgdXNlIGl0IGJ1dCBub3QgdGhlIHNlY29u
+ZCBvciB0aGlyZCB0aW1lIiwiY3JlYXRlZCI6MTYwMTgzMjI1NT
+g5M319LCJoaXN0b3J5IjpbLTUyNTUwNTAzNywxNjk0MjM2MjU3
+LDE0NjU0NzgxNDAsODA5NTM1MzAwLC05MjIxNjczMDMsODMzND
+g2ODE0LC0xNDIxNTQwOTYyLDEwOTQ0MTc2MzUsLTQyNjU2MDE1
+OSw2NDM2MjcyNzMsMTIwODUyMjQ1NCwtNTYyMDA2MDEwLC0xNz
+kwMjA5Mjc3LDkyMzI2Njc5NiwtMjE0NDkwNzA5NSwxMTQzNjYw
+NzUsMjAzODkyMzY0NiwxNTA3MTcyMjQ5LDg3MTIyMjE2OCw0OT
+A1NTk0Ml19
 -->
