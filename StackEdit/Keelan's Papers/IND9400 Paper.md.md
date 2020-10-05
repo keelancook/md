@@ -179,7 +179,7 @@ Though not directly promoting a theologically liberal Protestant vision, Harris 
 For this understanding, Harris and other American Protestants were indebted to Ritschl and von Harnack.
 
 #### A Social Christianity to Build the Kingdom
-Unlike England and other regions of Europe, the term Christian Socialist was not widely and consistently received in the United States. Initially intended by Maurice as a specifically religious moniker, as opposed to creating ties toward a political philosophy, he eventually refuted the term himself. In the United States, the term fell largely out of favor with the majority of Protestants and became associated with a more radical fringe and carried a hint of militancy.^[Phillips, A Kingdom on Earth, xvi] Instead, the term social Christianity gained favor around the year 1880 and enjoyed increased usage through the turn of the century.^[`Do I ite NGram here? If so, how?`]
+Unlike England and other regions of Europe, the term Christian Socialist was not widely and consistently received in the United States. Initially intended by Maurice as a specifically religious moniker, as opposed to creating ties toward a political philosophy, he eventually refuted the term himself. In the United States, the term fell largely out of favor with the majority of Protestants and became associated with a more radical fringe and carried a hint of militancy.^[Phillips, A Kingdom on Earth, xvi] Instead, the term social Christianity gained favor around the year 1880 and enjoyed increased usage through the turn of the century.
 
 In  _The Social Gospel in America, 1870-1920_, Handy writes:
 
@@ -331,17 +331,11 @@ Taken together, a postmillennial commitment and an over-realized kingdom theolog
 Hiebert is correct in his assessment concerning the period from 1880-1920 when he places it in his era of noncontextualization. What is more, these mission methods not only refused to contextualize the gospel in a manner that led to indigenous expressions of Christianity within other cultures, they actively attempted to supplant foreign culture for Americanism, equating American culture with the biblical ideal of the kingdom society. As Hiebert notes elsewhere, noncontextualization toward a different group's culture is, in fact, uncritical contextualization toward one's own.^[Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in _MissionShift: Global Mission Issues in the Third Millennium_. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010. p.90.]
 
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJaemtvWENmcjZjUWlxakQ1Ijp7In
-RleHQiOiJEbyBJIGl0ZSBOR3JhbSBoZXJlPyBJZiBzbywgaG93
-P2AiLCJzdGFydCI6Njk2NDcsImVuZCI6Njk2ODB9fSwiY29tbW
-VudHMiOnsiMEJQU0tvdXRwdEV5cHM4USI6eyJkaXNjdXNzaW9u
-SWQiOiJaemtvWENmcjZjUWlxakQ1Iiwic3ViIjoiZ2g6MzcwND
-A4NDEiLCJ0ZXh0IjoiTkdyYW0/IFllcyBvciBObz8iLCJjcmVh
-dGVkIjoxNjAxODE2MTE3MTcxfX0sImhpc3RvcnkiOls2Njc3Mj
-U0MjUsLTIwNDg4MzU5MTgsMjA3MTM1Mzc2MCw5MzM4NTMwNTcs
-LTEyMTY4MDUwNCwtMzk0MDMxOTEsLTQzMjU0MjQ0NSwtMTg2NT
-UzMDk4MCwtMTM4NzYwNjQxMiwxNjEyNDU5MTc1LC0xNDg1Njcw
-NDUwLDE2OTQyMzYyNTcsMTQ2NTQ3ODE0MCw4MDk1MzUzMDAsLT
-kyMjE2NzMwMyw4MzM0ODY4MTQsLTE0MjE1NDA5NjIsMTA5NDQx
-NzYzNSwtNDI2NTYwMTU5LDY0MzYyNzI3M119
+eyJoaXN0b3J5IjpbNzYyMzAyNzMzLDY2NzcyNTQyNSwtMjA0OD
+gzNTkxOCwyMDcxMzUzNzYwLDkzMzg1MzA1NywtMTIxNjgwNTA0
+LC0zOTQwMzE5MSwtNDMyNTQyNDQ1LC0xODY1NTMwOTgwLC0xMz
+g3NjA2NDEyLDE2MTI0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIz
+NjI1NywxNDY1NDc4MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLD
+gzMzQ4NjgxNCwtMTQyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1
+NjAxNTldfQ==
 -->
