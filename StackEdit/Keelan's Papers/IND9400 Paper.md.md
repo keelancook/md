@@ -204,18 +204,13 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 Since it was too soon to speak of a liberal and evangelical divide, broad tenets of social Christianity developed into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hope at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 
 # Christianize and Americanize: Home Missions to the Immigrant
-The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. See also Foner, Nancy. _From Ellis Island to JFK: New York's Two Great Waves of Immigration_. New Haven: Yale University Press, 2002 for an at length treatment of immigration to New York from 1880-1920] The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  See also Ward, David. _Cities and Immigrants: A Geography of Change in Nineteenth-Century America_. London: Oxford University Press, 1971; Bodnar, John. _The Transplanted: A History of Immigrants in Urban America_. Edition Unstated edition. Bloomington: Indiana University Press, 1987; Higham, John. _Strangers in the Land_. New Brunswick: Rutgers University Press, 1955, 87-106
-
-
-
-
-`Consider stuffing this with other sources`] Exciting times are, however, tumultuous times. Industrialization, urbanization, and immigration brought with them poor labor conditions, unsanitary living conditions, and the threat of unknown culture and worldview. The 1880s would see protests and riots over labor concerns such as the 1886 Haymarket Riot, where a bomb was detonated in Chicago.^[Boyer, Urban Masses and Moral Order, 126.] Not only would the sheer volume of immigration incite concern, but the particular composition of the "new immigration" during the era was much more diverse, pulling from non-Protestant countries in Eastern Europe and elsewhere.^[Zolberg, Aristide, A Nation by Design, 205.  `Consder also adding Latourette or other sources on the makeup of immigration during this era and show they were largely Catholic, Jewish, or nothing.`]
+The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. See also Foner, Nancy. _From Ellis Island to JFK: New York's Two Great Waves of Immigration_. New Haven: Yale University Press, 2002 for an at length treatment of immigration to New York from 1880-1920] The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  See also Ward, David. _Cities and Immigrants: A Geography of Change in Nineteenth-Century America_. London: Oxford University Press, 1971; Bodnar, John. _The Transplanted: A History of Immigrants in Urban America_. Edition Unstated edition. Bloomington: Indiana University Press, 1987; Higham, John. _Strangers in the Land_. New Brunswick: Rutgers University Press, 1955, 87-106] Exciting times are, however, tumultuous times. Industrialization, urbanization, and immigration brought with them poor labor conditions, unsanitary living conditions, and the threat of unknown culture and worldview. The 1880s would see protests and riots over labor concerns such as the 1886 Haymarket Riot, where a bomb was detonated in Chicago.^[Boyer, Urban Masses and Moral Order, 126.] Not only would the sheer volume of immigration incite concern, but the particular composition of the "new immigration" during the era was much more diverse, pulling from non-Protestant countries in Eastern Europe and elsewhere.^[Zolberg, Aristide, A Nation by Design, 205.  `Consder also adding Latourette or other sources on the makeup of immigration during this era and show they were largely Catholic, Jewish, or nothing.`]
 
 From 1880 to 1920, many Protestant Americans viewed their country as a paradox of great promise and potential peril. Riding on the wings of the modern missions movement, Protestants of the Gilded Age approached the promise and peril firmly convinced of their central role in God's plan for history. This confidence was a shaping factor in their development of an applied theology and specific missionary methods. To this unique missionary occasion most American Protestants brought theological presuppositions concerning postmillennialism and an over-realized version of the kingdom of God.
 
 ## A Postmilliennial Commitment
 
-A postmillennialist commitment presented as optimism in the overall direction of society. For most Protestants things were getting better, even if the current perils evidenced a momentary or potential setback in the war against the kingdom of sin. Moorhead writes,
+A postmillennialist commitment materialized as optimism in the overall direction of society. For most Protestants things were getting better, even if the current perils evidenced a momentary or potential setback in the war against the kingdom of sin. Moorhead writes,
 
 > They often asserted that the tokens of that happy future would not be (at least not until the far-distant end of the world) graves supernaturally opened and Jesus returning on the clouds. History would spiral upward by the orderly continuation of the same forces that had promoted revivals, made America the model republic, and increased material prosperity.^[Moorhead, Between Progress, 525.]
 
@@ -338,85 +333,67 @@ Taken together, a postmillennial commitment and an over-realized kingdom theolog
 Hiebert is correct in his assessment concerning the period from 1880-1920 when he places it in his era of noncontextualization. What is more, these mission methods not only refused to contextualize the gospel in a manner that led to indigenous expressions of Christianity within other cultures, they actively attempted to supplant foreign culture for Americanism, equating American culture with the biblical ideal of the kingdom society. As Hiebert notes elsewhere, noncontextualization toward a different group's culture is, in fact, uncritical contextualization toward one's own.^[Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in _MissionShift: Global Mission Issues in the Third Millennium_. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010. p.90.]
 
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NzAwMywiZW5kIjo3
-NzAxMX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
-9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
-YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6Nzc3MDUsImVuZCI6Nzc3OTR9LCJjbDJP
-UDUwT2dDSzNYOHp3Ijp7InRleHQiOiJgQUREIFBBUkFHUkFQSC
-BcbnRoYXQgbm90ZXMgdGhlIHdvcmsgb2YgUnV0aCBCb2NoLCBW
-aXNpb25hcnkgUmVwdWJsaWMsIGFuZCBoZXIgY+KApiIsInN0YX
-J0IjoyMDkzMSwiZW5kIjoyMTE1NH0sIlp6a29YQ2ZyNmNRaXFq
-RDUiOnsidGV4dCI6IkRvIEkgaXRlIE5HcmFtIGhlcmU/IElmIH
-NvLCBob3c/YCIsInN0YXJ0Ijo2OTIwNywiZW5kIjo2OTI0MH0s
-Im5PZG1YcGpVQlBGbTEyb3IiOnsidGV4dCI6IkRpc3RpbmN0aW
-9ucyIsInN0YXJ0Ijo4ODgwOCwiZW5kIjo4ODgyMH0sImRSQzBT
-cmZGbkNUVjVqRWIiOnsidGV4dCI6ImVyYSBvZiBub25jb250ZX
-h0dWFsaXphdGlvbiIsInN0YXJ0Ijo5MzI5MCwiZW5kIjo5MzMx
-N30sIjljcFJMOG12aWh4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLC
-JzdGFydCI6OTQ5MjgsImVuZCI6OTQ5MzJ9LCJKRFpBTWNESnl1
-WnZwZ1pWIjp7InRleHQiOiJicmltaW5pbmciLCJzdGFydCI6OT
-kyMjksImVuZCI6OTkyMzh9LCJjbnlsTzBHWm1sNjVKRVFpIjp7
-InRleHQiOiJDaHJpc3RpYW5pdHkgYW5kIENpdmlsaXphdGlvbi
-IsInN0YXJ0Ijo5OTU0NCwiZW5kIjo5OTU3M30sIkhSWXZuSjhX
-VTJGQ1FLOUciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTE0MD
-c2LCJlbmQiOjExNDA4MH0sIllYUXlmV3lVZXpqNHd6NzIiOnsi
-dGV4dCI6ImVyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIsIn
-N0YXJ0IjoxMTc1NTIsImVuZCI6MTE3NTc5fX0sImNvbW1lbnRz
-Ijp7ImgyRGdlMmFDNmlORW5FUlgiOnsiZGlzY3Vzc2lvbklkIj
-oiMjRzUlY0c3dlbkxKeXdSNyIsInN1YiI6ImdoOjcxMjkzOTg3
-IiwidGV4dCI6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQiOjE2MD
-E2MzgwNDI3NjJ9LCJiUUExNGljRzBCQUp5aGxlIjp7ImRpc2N1
-c3Npb25JZCI6IndpVWRHeUZ0c3E4Nzc2b2QiLCJzdWIiOiJnaD
-o3MTI5Mzk4NyIsInRleHQiOiJmcmFnbWVudCIsImNyZWF0ZWQi
-OjE2MDE4MDk1OTE3OTV9LCJ6QlBlejMzVXduZkxGYWNDIjp7Im
-Rpc2N1c3Npb25JZCI6IndpVWRHeUZ0c3E4Nzc2b2QiLCJzdWIi
-OiJnaDozNzA0MDg0MSIsInRleHQiOiJJdCdzIG5vdCBpZiBwcm
-VzZW50ZWQgaXMgYSB2ZXJiLiBBIHN5bm9ueW0gLSBlbWVyZ2Vk
-IG9yIG1hdGVyaWFsaXplZFxuXG5CdXQgSSBzaG91bGQgcHJvYm
-FibHkgY2hhbmdlIGl0LCBiZWNhdXNlIGl0IGNhbiBiZSByZWFk
-IGVhc2lseSB0aGUgd2F5IHlvdSBkaWQuIiwiY3JlYXRlZCI6MT
-YwMTgxMjU0NTI0MX0sIkpJdXZNTDhUanZYR01IV3giOnsiZGlz
-Y3Vzc2lvbklkIjoiY2wyT1A1ME9nQ0szWDh6dyIsInN1YiI6Im
-doOjM3MDQwODQxIiwidGV4dCI6IkFERCBQQVJBR1JBUEggT04g
-UlVUSCBCT0NILi4uIE1BWUJFLiBNYWtlIHN1cmUgSSBuZWVkIH
-RoaXMgZmlyc3QuIiwiY3JlYXRlZCI6MTYwMTgxNDM0NjE0M30s
-IjBCUFNLb3V0cHRFeXBzOFEiOnsiZGlzY3Vzc2lvbklkIjoiWn
-prb1hDZnI2Y1FpcWpENSIsInN1YiI6ImdoOjM3MDQwODQxIiwi
-dGV4dCI6Ik5HcmFtPyBZZXMgb3IgTm8/IiwiY3JlYXRlZCI6MT
-YwMTgxNjExNzE3MX0sInRCZHU2Rkxhb2FZbHdjUWEiOnsiZGlz
-Y3Vzc2lvbklkIjoibk9kbVhwalVCUEZtMTJvciIsInN1YiI6Im
-doOjcxMjkzOTg3IiwidGV4dCI6IndoYXQgcGFyYWdyYXBoIGRv
-ZXMgdGhpcyBnbyB3aXRoPyIsImNyZWF0ZWQiOjE2MDE4Mjg5ND
-Y4NDJ9LCIzUTVOaE5lNWI0U1RjUlBMIjp7ImRpc2N1c3Npb25J
-ZCI6ImRSQzBTcmZGbkNUVjVqRWIiLCJzdWIiOiJnaDo3MTI5Mz
-k4NyIsInRleHQiOiJzaG91bGQgdGhpcyBiZSB0aXRsZSBjYXNl
-IGxpa2UgaXQgaXMgYWJvdmU/IiwiY3JlYXRlZCI6MTYwMTgyOT
-Q0NzM5OH0sInJVYUY5M3BhU3paczI2YUciOnsiZGlzY3Vzc2lv
-bklkIjoiOWNwUkw4bXZpaHhIUHR1cCIsInN1YiI6ImdoOjcxMj
-kzOTg3IiwidGV4dCI6ImRvIHRoaXMiLCJjcmVhdGVkIjoxNjAx
-ODMwMjQ1OTk0fSwiakFWVXdsb0loWGM4TTBVTSI6eyJkaXNjdX
-NzaW9uSWQiOiJKRFpBTWNESnl1WnZwZ1pWIiwic3ViIjoiZ2g6
-NzEyOTM5ODciLCJ0ZXh0IjoiaXMgdGhpcyBzdXBwb3NlZCB0by
-BiZSBicmltbWluZz8iLCJjcmVhdGVkIjoxNjAxODMwODkwNzE3
-fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaXNjdXNzaW9uSWQiOi
-JjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoiZ2g6NzEyOTM5ODci
-LCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG9pbiBiZSBjYXBpdG
-FsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMwOTI0MTgyfSwiU05C
-Qk9sUXAxMTJ2cGlTSSI6eyJkaXNjdXNzaW9uSWQiOiJIUll2bk
-o4V1UyRkNRSzlHIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0
-IjoiZG8gdGhpcyIsImNyZWF0ZWQiOjE2MDE4MzE3NzQ2MzN9LC
-JYODVka3VEZHJtdFJSVUFhIjp7ImRpc2N1c3Npb25JZCI6IllY
-UXlmV3lVZXpqNHd6NzIiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsIn
-RleHQiOiJkb2VzIHRoaXMgbmVlZCB0byBiZSB0aXRsZSBjYXNl
-PyBpdCBpcyB0aGUgZmlyc3QgaW5zdGFuY2UgeW91IHVzZSBpdC
-BidXQgbm90IHRoZSBzZWNvbmQgb3IgdGhpcmQgdGltZSIsImNy
-ZWF0ZWQiOjE2MDE4MzIyNTU4OTN9fSwiaGlzdG9yeSI6Wy01MD
-UyNDM4OTIsLTEzODc2MDY0MTIsMTYxMjQ1OTE3NSwtMTQ4NTY3
-MDQ1MCwxNjk0MjM2MjU3LDE0NjU0NzgxNDAsODA5NTM1MzAwLC
-05MjIxNjczMDMsODMzNDg2ODE0LC0xNDIxNTQwOTYyLDEwOTQ0
-MTc2MzUsLTQyNjU2MDE1OSw2NDM2MjcyNzMsMTIwODUyMjQ1NC
-wtNTYyMDA2MDEwLC0xNzkwMjA5Mjc3LDkyMzI2Njc5NiwtMjE0
-NDkwNzA5NSwxMTQzNjYwNzUsMjAzODkyMzY0Nl19
+eyJkaXNjdXNzaW9ucyI6eyJjbDJPUDUwT2dDSzNYOHp3Ijp7In
+RleHQiOiJgQUREIFBBUkFHUkFQSCBcbnRoYXQgbm90ZXMgdGhl
+IHdvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaW
+MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMDkzMSwiZW5kIjoy
+MTE1NH0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
+kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
+Ijo2OTIwNywiZW5kIjo2OTI0MH0sIm5PZG1YcGpVQlBGbTEyb3
+IiOnsidGV4dCI6IkRpc3RpbmN0aW9ucyIsInN0YXJ0Ijo4ODc2
+MywiZW5kIjo4ODc3NX0sImRSQzBTcmZGbkNUVjVqRWIiOnsidG
+V4dCI6ImVyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIsInN0
+YXJ0Ijo5MzI0NSwiZW5kIjo5MzI3Mn0sIjljcFJMOG12aWh4SF
+B0dXAiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQ4ODMsImVu
+ZCI6OTQ4ODd9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleHQiOi
+JicmltaW5pbmciLCJzdGFydCI6OTkxODQsImVuZCI6OTkxOTN9
+LCJjbnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3RpYW
+5pdHkgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5OTQ5OSwi
+ZW5kIjo5OTUyOH0sIkhSWXZuSjhXVTJGQ1FLOUciOnsidGV4dC
+I6IkZJTkQiLCJzdGFydCI6MTE0MDMxLCJlbmQiOjExNDAzNX0s
+IllYUXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6ImVyYSBvZiBub2
+5jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTc1MDcsImVu
+ZCI6MTE3NTM0fX0sImNvbW1lbnRzIjp7IkpJdXZNTDhUanZYR0
+1IV3giOnsiZGlzY3Vzc2lvbklkIjoiY2wyT1A1ME9nQ0szWDh6
+dyIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IkFERCBQQV
+JBR1JBUEggT04gUlVUSCBCT0NILi4uIE1BWUJFLiBNYWtlIHN1
+cmUgSSBuZWVkIHRoaXMgZmlyc3QuIiwiY3JlYXRlZCI6MTYwMT
+gxNDM0NjE0M30sIjBCUFNLb3V0cHRFeXBzOFEiOnsiZGlzY3Vz
+c2lvbklkIjoiWnprb1hDZnI2Y1FpcWpENSIsInN1YiI6ImdoOj
+M3MDQwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMgb3IgTm8/Iiwi
+Y3JlYXRlZCI6MTYwMTgxNjExNzE3MX0sInRCZHU2Rkxhb2FZbH
+djUWEiOnsiZGlzY3Vzc2lvbklkIjoibk9kbVhwalVCUEZtMTJv
+ciIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6IndoYXQgcG
+FyYWdyYXBoIGRvZXMgdGhpcyBnbyB3aXRoPyIsImNyZWF0ZWQi
+OjE2MDE4Mjg5NDY4NDJ9LCIzUTVOaE5lNWI0U1RjUlBMIjp7Im
+Rpc2N1c3Npb25JZCI6ImRSQzBTcmZGbkNUVjVqRWIiLCJzdWIi
+OiJnaDo3MTI5Mzk4NyIsInRleHQiOiJzaG91bGQgdGhpcyBiZS
+B0aXRsZSBjYXNlIGxpa2UgaXQgaXMgYWJvdmU/IiwiY3JlYXRl
+ZCI6MTYwMTgyOTQ0NzM5OH0sInJVYUY5M3BhU3paczI2YUciOn
+siZGlzY3Vzc2lvbklkIjoiOWNwUkw4bXZpaHhIUHR1cCIsInN1
+YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvIHRoaXMiLCJjcm
+VhdGVkIjoxNjAxODMwMjQ1OTk0fSwiakFWVXdsb0loWGM4TTBV
+TSI6eyJkaXNjdXNzaW9uSWQiOiJKRFpBTWNESnl1WnZwZ1pWIi
+wic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiaXMgdGhpcyBz
+dXBwb3NlZCB0byBiZSBicmltbWluZz8iLCJjcmVhdGVkIjoxNj
+AxODMwODkwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJkaXNj
+dXNzaW9uSWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIjoiZ2
+g6NzEyOTM5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXphdG9p
+biBiZSBjYXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxODMwOT
+I0MTgyfSwiU05CQk9sUXAxMTJ2cGlTSSI6eyJkaXNjdXNzaW9u
+SWQiOiJIUll2bko4V1UyRkNRSzlHIiwic3ViIjoiZ2g6NzEyOT
+M5ODciLCJ0ZXh0IjoiZG8gdGhpcyIsImNyZWF0ZWQiOjE2MDE4
+MzE3NzQ2MzN9LCJYODVka3VEZHJtdFJSVUFhIjp7ImRpc2N1c3
+Npb25JZCI6IllYUXlmV3lVZXpqNHd6NzIiLCJzdWIiOiJnaDo3
+MTI5Mzk4NyIsInRleHQiOiJkb2VzIHRoaXMgbmVlZCB0byBiZS
+B0aXRsZSBjYXNlPyBpdCBpcyB0aGUgZmlyc3QgaW5zdGFuY2Ug
+eW91IHVzZSBpdCBidXQgbm90IHRoZSBzZWNvbmQgb3IgdGhpcm
+QgdGltZSIsImNyZWF0ZWQiOjE2MDE4MzIyNTU4OTN9fSwiaGlz
+dG9yeSI6Wy0yNjk4ODYwMzYsLTEzODc2MDY0MTIsMTYxMjQ1OT
+E3NSwtMTQ4NTY3MDQ1MCwxNjk0MjM2MjU3LDE0NjU0NzgxNDAs
+ODA5NTM1MzAwLC05MjIxNjczMDMsODMzNDg2ODE0LC0xNDIxNT
+QwOTYyLDEwOTQ0MTc2MzUsLTQyNjU2MDE1OSw2NDM2MjcyNzMs
+MTIwODUyMjQ1NCwtNTYyMDA2MDEwLC0xNzkwMjA5Mjc3LDkyMz
+I2Njc5NiwtMjE0NDkwNzA5NSwxMTQzNjYwNzUsMjAzODkyMzY0
+Nl19
 -->
