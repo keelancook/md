@@ -319,13 +319,7 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 
 > So immense a foreign element must have a profound influence on our national life and character. Immigration brings unquestioned benefits, but these do not concern our argument. It complicates almost every home missionary problem and furnishes the soil which feeds the life of several of the most noxious growths of our civilization.^[Strong, Our Country, 40.]
 
-Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[Strong's influence on home missions during the four decades after *Our Country* was published was perhaps unrivaled. Grose, *Aliens or Americans?* would have Strong provide the introduction and give him billing on the title page. William Shriver, *Immigrant Forces*, lists a home missions study course by Strong in the final appendix, referring to him as a leading authority. See also, Brooks, Charles Alvin. _Christian Americanization: A Task for the Churches_. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919, 4; Gladden, Washington. _Applied Christianity: Moral Aspects of Social Questions_. Boston: Houghton, Mifflin, 1886, 106; 
-
-
-
-Grose, Aliens or Americans,  and others.]
-
-
+Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[Strong's influence on home missions during the four decades after *Our Country* was published was perhaps unrivaled. Grose, *Aliens or Americans?* would have Strong provide the introduction and give him billing on the title page. William Shriver, *Immigrant Forces*, lists a home missions study course by Strong in the final appendix, referring to him as a leading authority. See also, Brooks, Charles Alvin. _Christian Americanization: A Task for the Churches_. Council of Women for Home Missions & Missionary Education Movement of the United States and Canada, 1919, 4; Gladden, Washington. _Applied Christianity: Moral Aspects of Social Questions_. Boston: Houghton, Mifflin, 1886, 106; McCash, Isaac Newton. _Horizon of American Missions_. New York: Fleming H. Revell company, 1913, cites Strong in the bibliography as referenced throughout the work.]
 
 # Conclusion
 Eschatology shapes missiology. One's convictions concerning the goal of creation ultimately influence their beliefs about the missions methods required to see it through. The period from 1880 to 1920 in the United States provides a clear demonstration of this relationship at play. The majority of American Protestants held views on the millennium and the kingdom of God that proved determinative in their understanding of the Christian mission in relation to record-setting immigration during the era. These theological presuppositions caused American Protestants to conflate gospel proclamation with cultural promotion, resulting in an applied theology of "Christianize and Americanize."
@@ -345,24 +339,20 @@ IHdvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaW
 MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMDkzMSwiZW5kIjoy
 MTE1NH0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
 kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
-Ijo2OTIwNywiZW5kIjo2OTI0MH0sIkhSWXZuSjhXVTJGQ1FLOU
-ciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTEzOTU1LCJlbmQi
-OjExMzk1OX19LCJjb21tZW50cyI6eyJKSXV2TUw4VGp2WEdNSF
-d4Ijp7ImRpc2N1c3Npb25JZCI6ImNsMk9QNTBPZ0NLM1g4enci
-LCJzdWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJBREQgUEFSQU
-dSQVBIIE9OIFJVVEggQk9DSC4uLiBNQVlCRS4gTWFrZSBzdXJl
-IEkgbmVlZCB0aGlzIGZpcnN0LiIsImNyZWF0ZWQiOjE2MDE4MT
-QzNDYxNDN9LCIwQlBTS291dHB0RXlwczhRIjp7ImRpc2N1c3Np
-b25JZCI6Ilp6a29YQ2ZyNmNRaXFqRDUiLCJzdWIiOiJnaDozNz
-A0MDg0MSIsInRleHQiOiJOR3JhbT8gWWVzIG9yIE5vPyIsImNy
-ZWF0ZWQiOjE2MDE4MTYxMTcxNzF9LCJTTkJCT2xRcDExMnZwaV
-NJIjp7ImRpc2N1c3Npb25JZCI6IkhSWXZuSjhXVTJGQ1FLOUci
-LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkbyB0aGlzIi
-wiY3JlYXRlZCI6MTYwMTgzMTc3NDYzM319LCJoaXN0b3J5Ijpb
-LTk5MDM4MjY4MSwtMTIxNjgwNTA0LC0zOTQwMzE5MSwtNDMyNT
-QyNDQ1LC0xODY1NTMwOTgwLC0xMzg3NjA2NDEyLDE2MTI0NTkx
-NzUsLTE0ODU2NzA0NTAsMTY5NDIzNjI1NywxNDY1NDc4MTQwLD
-gwOTUzNTMwMCwtOTIyMTY3MzAzLDgzMzQ4NjgxNCwtMTQyMTU0
-MDk2MiwxMDk0NDE3NjM1LC00MjY1NjAxNTksNjQzNjI3MjczLD
-EyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5MDIwOTI3N119
+Ijo2OTIwNywiZW5kIjo2OTI0MH19LCJjb21tZW50cyI6eyJKSX
+V2TUw4VGp2WEdNSFd4Ijp7ImRpc2N1c3Npb25JZCI6ImNsMk9Q
+NTBPZ0NLM1g4enciLCJzdWIiOiJnaDozNzA0MDg0MSIsInRleH
+QiOiJBREQgUEFSQUdSQVBIIE9OIFJVVEggQk9DSC4uLiBNQVlC
+RS4gTWFrZSBzdXJlIEkgbmVlZCB0aGlzIGZpcnN0LiIsImNyZW
+F0ZWQiOjE2MDE4MTQzNDYxNDN9LCIwQlBTS291dHB0RXlwczhR
+Ijp7ImRpc2N1c3Npb25JZCI6Ilp6a29YQ2ZyNmNRaXFqRDUiLC
+JzdWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJOR3JhbT8gWWVz
+IG9yIE5vPyIsImNyZWF0ZWQiOjE2MDE4MTYxMTcxNzF9fSwiaG
+lzdG9yeSI6WzkzMzg1MzA1NywtMTIxNjgwNTA0LC0zOTQwMzE5
+MSwtNDMyNTQyNDQ1LC0xODY1NTMwOTgwLC0xMzg3NjA2NDEyLD
+E2MTI0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIzNjI1NywxNDY1
+NDc4MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLDgzMzQ4NjgxNC
+wtMTQyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1NjAxNTksNjQz
+NjI3MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5MDIwOT
+I3N119
 -->
