@@ -146,7 +146,7 @@ Ritschl (1822-89) taught systematic theology at Göttingen, influencing many sub
 
 Ritschl's school of thought was essentially a rejection of Hegelian rationalism.^[Phillips, A Kingdom on Earth, 11.] In his early instruction, Ritschl was heavily influenced by the Tubingen school, studying under Baur, but his tenure in this school of thought was short lived. Becoming convinced their basis in speculation was false, he refuted their position in his own scholarship.^[Stuckenberg, J. H. W. “The Theology of Albrecht Ritschl.” The American Journal of Theology 2.2 (1898): 271.] Instead, Ritschl stressed an immanent, experiential, and pragmatic concept of Christianity. Much like Schleiermacher before him, Ritschl placed weight on religious experience as the test of Christianity's authenticity.^[Evans, Social Gospel in American Religion, 60.] Furthermore, he rejected any attempts at rationalistic proofs of Christianity.^[Ritschl, Albrecht. _The Christian Doctrine of Justification and Reconciliation: The Positive Development of the Doctrine_. T. & T. Clark, 1900., 5.] These convictions led Ritschl and his associates to focus on ethical and moral experience in their understanding of theology in general and the kingdom of God in specific.
 
-The result of Ritschl's thought was a total reconstruction of the orthodox doctrines of Christology, soteriology, ecclesiology, anthropology, and ultimately eschatology. Ritschl redefines the divine relationship of Christ to God the Father as one not of substance but disposition.^[Stuckenberg, 278.] Ritschl writes, "Least of all can we discover in Christ's own words a doctrine of His Godhead."^[Ritschl, Jusitification and Reconciliation, 400.] In this way, Christ's position as the one to usher in the kingdom makes him unique, but his moral character is attainable by all humanity and all can obtain this same kind of divinity.^[Stuckenberg, 279.] Ritschl denies original sin, claiming that our nature does not make sin inevitable.^[Ritschl, Justification and Reconciliation, 328. See also Stuckenberg, 284.] Therefore, the doctrine of atonement is no longer necessary.^[Stuckenberg, 280.] Though sin is not inherited, it appears universal. Humanity's real problem is ignorance of the good. In this way, the kingdom of sin reigns. Christ, in his selflfessness reveals a better way, and humanity's salvation is found in their selfless subjugation of their will to the divine will. In this way can humanity usher in the kingdom of God.^[Ritschl, Justification and Reconciliation, 504. Stuckenberg, 284.] The pinnacle of Ritschl's theology is found in his conception of the kingdom of God. The kingdom is the highest good; the hub around which the spokes of Ritshl's theology are anchored. The kingdom is not the church, though both are necessary. Each occupies a different sphere for Ritschl, and each has distinct functions. The church is the sphere of worship, while the kingdom is the sphere of Christian moral action.^[Stuckenberg, 288.]
+The result of Ritschl's thought was a total reconstruction of the orthodox doctrines of Christology, soteriology, ecclesiology, anthropology, and ultimately eschatology. Ritschl redefines the divine relationship of Christ to God the Father as one not of substance but disposition.^[Stuckenberg, 278.] Ritschl writes, "Least of all can we discover in Christ's own words a doctrine of His Godhead."^[Ritschl, Jusitification and Reconciliation, 400.] In this way, Christ's position as the one to usher in the kingdom makes him unique, but his moral character is attainable by all humanity and all can obtain this same kind of divinity.^[Stuckenberg, 279.] Ritschl denies original sin, claiming that our nature does not make sin inevitable.^[Ritschl, Justification and Reconciliation, 328. See also Stuckenberg, 284.] Therefore, the doctrine of atonement is no longer necessary.^[Stuckenberg, 280.] Though sin is not inherited, it appears universal. Humanity's real problem is ignorance of the good. In this way, the kingdom of sin reigns. Christ, in his selflfessness reveals a better way, and humanity's salvation is found in their selfless subjugation of their will to the divine will. In this way can humanity usher in the kingdom of God.^[Ritschl, Justification and Reconciliation, 504. Stuckenberg, 284.] The pinnacle of Ritschl's theology is found in his conception of the kingdom of God. Ritschl writes, The kingdom is the highest good; the hub around which the spokes of Ritshl's theology are anchored. The kingdom is not the church, though both are necessary. Each occupies a different sphere for Ritschl, and each has distinct functions. The church is the sphere of worship, while the kingdom is the sphere of Christian moral action.^[Stuckenberg, 288.]
 
 Building off of Ritschl's thought, von Harnack made a lasting impact on Protestant conceptions of the early Christian church. Von Harnack, like many other liberal German theologians of the era, was convinced the essence of Christianty was to be found in the teachings of Jesus and that the later teachings of the New Testament had reinterpreted these. Von Harnack warned against an overemphasis by the Western church on the teachings of Paul and created a wedge between the earlier teachings of Jesus and the later teachings of Paul.^[Evans, Social Gospel in American Religion, 61.] As Evans writes,
 
@@ -333,27 +333,27 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjQ5NywiZW5kIjo3
-NjUwNX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjUxMywiZW5kIjo3
+NjUyMX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6NzcxOTksImVuZCI6NzcyODh9LCJYSzZW
+/igKYiLCJzdGFydCI6NzcyMTUsImVuZCI6NzczMDR9LCJYSzZW
 dEtUclQ1V1ducW1JIjp7InRleHQiOiJDb25zZGVyIHN0dWZmaW
 5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc1
-NzExLCJlbmQiOjc1NzUyfSwia25IQzRaQ1FFQ21YUEdwSyI6ey
+NzI3LCJlbmQiOjc1NzY4fSwia25IQzRaQ1FFQ21YUEdwSyI6ey
 J0ZXh0IjoiVGhlc2UgZmlyc3QgdHdvIGZvb3Rub3RlcyBtYXkg
 bmVlZCB0byBjYXJyeSBhIGdvb2QgYml0IG9mIHJlc2VhcmNoIG
-9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTA4OSwiZW5kIjo3
-NTIxOX0sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
+9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTEwNSwiZW5kIjo3
+NTIzNX0sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
 QgdGhlIGV4YWN0IHBhZ2UuLi4gYWZ0ZXIgeW91IGZpbmQgdGhl
-IHNvdXJjZSEiLCJzdGFydCI6NjMxMzAsImVuZCI6NjMxNzl9LC
+IHNvdXJjZSEiLCJzdGFydCI6NjMxNDYsImVuZCI6NjMxOTV9LC
 I3dWZYZnJNazYzMHM3Tm5NIjp7InRleHQiOiJmaW5kIG9yaWdp
-bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjEyNT
-csImVuZCI6NjEyOTB9LCIxQ09VdW9XS1dVMU5hcEFGIjp7InRl
+bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjEyNz
+MsImVuZCI6NjEzMDZ9LCIxQ09VdW9XS1dVMU5hcEFGIjp7InRl
 eHQiOiJgSSBzdGlsbCBuZWVkIGRpcmVjdCBxdW90ZXMgZnJvbS
 BSaXRzY2hsLiBJIGNhbiBnZXQgdGhvc2Ugb3V0IG9mIFN0dWNr
-ZW5iZXJnLiBC4oCmIiwic3RhcnQiOjU4ODMwLCJlbmQiOjU4OD
-MwfSwiY2wyT1A1ME9nQ0szWDh6dyI6eyJ0ZXh0IjoiYEFERCBQ
+ZW5iZXJnLiBC4oCmIiwic3RhcnQiOjU4ODQ2LCJlbmQiOjU4OD
+Q2fSwiY2wyT1A1ME9nQ0szWDh6dyI6eyJ0ZXh0IjoiYEFERCBQ
 QVJBR1JBUEggXG50aGF0IG5vdGVzIHRoZSB3b3JrIG9mIFJ1dG
 ggQm9jaCwgVmlzaW9uYXJ5IFJlcHVibGljLCBhbmQgaGVyIGPi
 gKYiLCJzdGFydCI6MjA5MzEsImVuZCI6MjExNTR9LCJtVTgxST
@@ -363,26 +363,26 @@ ZW5kIG9mIHRoaXMgcGFyYWdyYXBoIHdpdGggdGhlIGd1eSBTYW
 OjI2MTg3LCJlbmQiOjI2MTg3fSwiNXllcWJmNm5qd1NIS2hyay
 I6eyJ0ZXh0IjoiYEkgc3RpbGwgbmVlZCBkaXJlY3QgcXVvdGVz
 IGZyb20gUml0c2NobC4gSSBjYW4gZ2V0IHRob3NlIG91dCBvZi
-BTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NzcxMCwiZW5k
-Ijo1NzgxNX0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6Ik
+BTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NzcyNiwiZW5k
+Ijo1NzgzMX0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6Ik
 RvIEkgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0
-YXJ0Ijo2OTEzMywiZW5kIjo2OTE2Nn0sIm5PZG1YcGpVQlBGbT
+YXJ0Ijo2OTE0OSwiZW5kIjo2OTE4Mn0sIm5PZG1YcGpVQlBGbT
 Eyb3IiOnsidGV4dCI6IkRpc3RpbmN0aW9ucyIsInN0YXJ0Ijo4
-ODMwMiwiZW5kIjo4ODMxNH0sImRSQzBTcmZGbkNUVjVqRWIiOn
+ODMxOCwiZW5kIjo4ODMzMH0sImRSQzBTcmZGbkNUVjVqRWIiOn
 sidGV4dCI6ImVyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIs
-InN0YXJ0Ijo5Mjc4NCwiZW5kIjo5MjgxMX0sIjljcFJMOG12aW
-h4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQ0MjIs
-ImVuZCI6OTQ0MjZ9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleH
-QiOiJicmltaW5pbmciLCJzdGFydCI6OTg3MjMsImVuZCI6OTg3
-MzJ9LCJjbnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3
-RpYW5pdHkgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5OTAz
-OCwiZW5kIjo5OTA2N30sIkhSWXZuSjhXVTJGQ1FLOUciOnsidG
-V4dCI6IkZJTkQiLCJzdGFydCI6MTEzNTcwLCJlbmQiOjExMzU3
-NH0sIllYUXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6ImVyYSBvZi
-Bub25jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTcwNDYs
-ImVuZCI6MTE3MDczfSwiclZ5aGZjNzBpSUd4alNXaiI6eyJ0ZX
-h0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo2OTM2MSwiZW5kIjo2
-OTM3MX19LCJjb21tZW50cyI6eyJoMkRnZTJhQzZpTkVuRVJYIj
+InN0YXJ0Ijo5MjgwMCwiZW5kIjo5MjgyN30sIjljcFJMOG12aW
+h4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQ0Mzgs
+ImVuZCI6OTQ0NDJ9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleH
+QiOiJicmltaW5pbmciLCJzdGFydCI6OTg3MzksImVuZCI6OTg3
+NDh9LCJjbnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3
+RpYW5pdHkgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5OTA1
+NCwiZW5kIjo5OTA4M30sIkhSWXZuSjhXVTJGQ1FLOUciOnsidG
+V4dCI6IkZJTkQiLCJzdGFydCI6MTEzNTg2LCJlbmQiOjExMzU5
+MH0sIllYUXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6ImVyYSBvZi
+Bub25jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTcwNjIs
+ImVuZCI6MTE3MDg5fSwiclZ5aGZjNzBpSUd4alNXaiI6eyJ0ZX
+h0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo2OTM3NywiZW5kIjo2
+OTM4N319LCJjb21tZW50cyI6eyJoMkRnZTJhQzZpTkVuRVJYIj
 p7ImRpc2N1c3Npb25JZCI6IjI0c1JWNHN3ZW5MSnl3UjciLCJz
 dWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkb24ndCBmb3JnZX
 QiLCJjcmVhdGVkIjoxNjAxNjM4MDQyNzYyfSwiYlFBMTRpY0cw
@@ -457,11 +457,11 @@ E4MzIyNTU4OTN9LCJLdDFYWVFGS3BtTXkxMVNxIjp7ImRpc2N1
 c3Npb25JZCI6InJWeWhmYzcwaUlHeGpTV2oiLCJzdWIiOiJnaD
 o3MTI5Mzk4NyIsInRleHQiOiJzaG91bGQgdGhpcyBiZSBjYXBp
 dGFsaXplZCIsImNyZWF0ZWQiOjE2MDE4MzI4OTc4NjN9fSwiaG
-lzdG9yeSI6Wy05MjIxNjczMDMsODMzNDg2ODE0LC0xNDIxNTQw
-OTYyLDEwOTQ0MTc2MzUsLTQyNjU2MDE1OSw2NDM2MjcyNzMsMT
-IwODUyMjQ1NCwtNTYyMDA2MDEwLC0xNzkwMjA5Mjc3LDkyMzI2
-Njc5NiwtMjE0NDkwNzA5NSwxMTQzNjYwNzUsMjAzODkyMzY0Ni
-wxNTA3MTcyMjQ5LDg3MTIyMjE2OCw0OTA1NTk0MiwxNjMwMDMw
-NTQwLDM5MjYwOTk1NCwtMTU3Nzg2MDM2OSwxNzI0MzI4NzI2XX
-0=
+lzdG9yeSI6Wy0xMTIyODU1NTQxLC05MjIxNjczMDMsODMzNDg2
+ODE0LC0xNDIxNTQwOTYyLDEwOTQ0MTc2MzUsLTQyNjU2MDE1OS
+w2NDM2MjcyNzMsMTIwODUyMjQ1NCwtNTYyMDA2MDEwLC0xNzkw
+MjA5Mjc3LDkyMzI2Njc5NiwtMjE0NDkwNzA5NSwxMTQzNjYwNz
+UsMjAzODkyMzY0NiwxNTA3MTcyMjQ5LDg3MTIyMjE2OCw0OTA1
+NTk0MiwxNjMwMDMwNTQwLDM5MjYwOTk1NCwtMTU3Nzg2MDM2OV
+19
 -->
