@@ -16,7 +16,7 @@ In 1911, Volume III of *A Dictionary of the Bible* included an article defining 
 
 > "A name suggested by the period of 1000 years described in Rev 20:4-7, during which Satan is confined in the abyss, and the martyr saints reign with Christ. Hence variously understood, according to the interpretation put upon the passage, either as (1) the period, present or future, definite or indefinite, 'during which the kingdom of Christ will be established upon earth, and will dominate over all other authority' (Cent. Diet.); or more specially (2) as the period in which 'Christ will reign in bodily presence on earth for a thousand years' (Oxf. Eng. Dict. s. 'Chiliasm')."^[Brown, Millennium, Dictionary, 370.]
 
-Brown's definition serves as a typical explanation of the millennium from his era, and in the article, he makes two significant points concerning the prevailing eschatological views of Protestant Americans at that time. First, Brown rather quickly dismisses premillennialism. While noting its continued existence, Brown states that the position lives at the margins of opinion and had ultimately failed to garner the support of the Protestant church. Brown writes, "Pre-millenarian views have, indeed, been revived from time to time, now in grosser, now in more spiritual form, and have never been without their advocates in the Church; but they have failed to win general acceptance." ^[Brown, Millennium, Dictionary, 373.] Second, Brown notes the prominence of Amillennialism and especially Postmillennialism. He continues, "The Church as a whole, Protestant as well as Catholic, has either adopted Augustine's identification of the Millennium with the Church militant, or else looks for a future period of prosperity, preceding the second advent of Christ."^[Brown,  Millennium, Dictionary, 373.] 
+Brown's definition serves as a typical explanation of the millennium from his era, and in the article, he makes two significant points concerning the prevailing eschatological views of Protestant Americans at that time. First, Brown rather quickly dismisses premillennialism. While noting its continued existence, Brown states that the position lives at the margins of opinion and had ultimately failed to garner the support of the Protestant church. Brown writes, "Pre-millenarian views have, indeed, been revived from time to time, now in grosser, now in more spiritual form, and have never been without their advocates in the Church; but they have failed to win general acceptance." ^[Brown, Millennium, Dictionary, 373.] Second, Brown notes the prominence of Amillennialism and especially Postmillennialism. He continues, "The Church as a whole, Protestant as well as Catholic, has either adopted Augustine's identification of the Millennium with the Church militant, or else looks for a future period of prosperity, preceding the second advent of Christ."^[Brown,  Millennium, Dictionary, 373.] As Ruth Boch notes, "The belief in the millennium is one of the oldest and most enduring patterns of thought in Western civilization.^[Bloch, Ruth H. _Visionary Republic: Millennial Themes in American Thought, 1756-1800_. Cambridge: Cambridge University Press, 1988, xi]
 
 ## Postmillennialism: The Majority View
 Brown's assertion concerning the prominence of the postmillennial position in the Gilded Age and beginning of the Progressive era enjoys wide support.^[Numerous sources confirm the prevalence, and even ubiquity, of the postmillennial position in the United States throughout the nineteenth and early twentieth centuries. See Smith, Gary Scott. Heaven in the American Imagination. Oxford University Press, 2011, 128; Utzinger, Yet Saints Their Watch are Keeping, 111; Ahlstrom, A Religious History of the American People, 845; Moorhead, Between Progress, 525-526.] Sydney Ahlstrom writes that the American of this era was "characteristically a 'postmillennialist.'"^[Ahlstrom,  A Religious History of the American People, 845.] James Moorhead records that clergymen of the nineteenth century referred to postmillennialism as "the commonly received doctrine."^[Moorhead, Between Progress, 525.] As Brown notes, it would be an overstatement to insist that every American Protestant adhered to a postmillennial eschatology, bbut it was certainly the majority perspective for at least a century. This perspective did much to impact both the fabric of American culture and the missionary methods of those Protestants. Moorhead writes,
@@ -336,10 +336,10 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 eyJkaXNjdXNzaW9ucyI6eyJjbDJPUDUwT2dDSzNYOHp3Ijp7In
 RleHQiOiJgQUREIFBBUkFHUkFQSCBcbnRoYXQgbm90ZXMgdGhl
 IHdvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaW
-MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMDkzMiwiZW5kIjoy
-MTE1NX0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
+MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMTIwMiwiZW5kIjoy
+MTQyNX0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
 kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
-Ijo2OTIwOCwiZW5kIjo2OTI0MX19LCJjb21tZW50cyI6eyJKSX
+Ijo2OTQ3OCwiZW5kIjo2OTUxMX19LCJjb21tZW50cyI6eyJKSX
 V2TUw4VGp2WEdNSFd4Ijp7ImRpc2N1c3Npb25JZCI6ImNsMk9Q
 NTBPZ0NLM1g4enciLCJzdWIiOiJnaDozNzA0MDg0MSIsInRleH
 QiOiJBREQgUEFSQUdSQVBIIE9OIFJVVEggQk9DSC4uLiBNQVlC
@@ -348,7 +348,7 @@ F0ZWQiOjE2MDE4MTQzNDYxNDN9LCIwQlBTS291dHB0RXlwczhR
 Ijp7ImRpc2N1c3Npb25JZCI6Ilp6a29YQ2ZyNmNRaXFqRDUiLC
 JzdWIiOiJnaDozNzA0MDg0MSIsInRleHQiOiJOR3JhbT8gWWVz
 IG9yIE5vPyIsImNyZWF0ZWQiOjE2MDE4MTYxMTcxNzF9fSwiaG
-lzdG9yeSI6WzE5NTIxNzYwODcsOTMzODUzMDU3LC0xMjE2ODA1
+lzdG9yeSI6WzIwNzEzNTM3NjAsOTMzODUzMDU3LC0xMjE2ODA1
 MDQsLTM5NDAzMTkxLC00MzI1NDI0NDUsLTE4NjU1MzA5ODAsLT
 EzODc2MDY0MTIsMTYxMjQ1OTE3NSwtMTQ4NTY3MDQ1MCwxNjk0
 MjM2MjU3LDE0NjU0NzgxNDAsODA5NTM1MzAwLC05MjIxNjczMD
