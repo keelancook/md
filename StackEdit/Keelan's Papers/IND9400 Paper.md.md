@@ -271,7 +271,7 @@ In 1987 Paul Hiebert penned an influential article titled  _Critical Contextuali
 
 ### The Missionary Occasion
 
-The swell of immigration straddling the turn of the nineteenth century produced an obvious missionary occasion for Protestant Americans. In the years between 1881 and 1910, immigration brought more than 17.7 million people to American shores.^[Roger Daniels, Coming to America: A History of Immigration and Ethnicity in American Life (New York: Harper Collins, 1990), 124.] The peak crested in 1907 as 1.29 million immigrants landed on American shores.^[Rasenberger, America, 1908, 17.] Furthermore, unlike previous decades of immigration, this new wave brought with it an increasing number of peoples from different cultural and religious backgrounds. Many new immigrants arrived from southern and eastern Europe, and their reception was not as warm. By this time, urbanization had transformed the American landscape and its major cities were in the fastest growth swing they would ever see. Immigrants disproportionately landed in these cities, clustering in residential areas around industrial centers. Cultural barriers were greater for this new wave, and therefore, their presence presented a more jarring impact on the American social fabric.^[Dublin, Thomas. Immigrant Voices: New Lives in America, 1773-1986 (University of Illinois Press, 1993), 12.] Furthermore, a much larger number of these immigrants were not Protestant.^[Need to Cite that they were Jewish and Catholic from some source.] This occasion, or crisis as many would claim, gave rise to missionary methods based on their theological presuppositions concerning their role in building the kingdom.
+The swell of immigration straddling the turn of the nineteenth century produced an obvious missionary occasion for Protestant Americans. In the years between 1881 and 1910, immigration brought more than 17.7 million people to American shores.^[Roger Daniels, Coming to America: A History of Immigration and Ethnicity in American Life (New York: Harper Collins, 1990), 124.] The peak crested in 1907 as 1.29 million immigrants landed on American shores.^[Rasenberger, America, 1908, 17.] Furthermore, unlike previous decades of immigration, this new wave brought with it an increasing number of peoples from different cultural and religious backgrounds. Many new immigrants arrived from southern and eastern Europe, and their reception was not as warm. By this time, urbanization had transformed the American landscape and its major cities were in the fastest growth swing they would ever see. Immigrants disproportionately landed in these cities, clustering in residential areas around industrial centers. Cultural barriers were greater for this new wave, and therefore, their presence presented a more jarring impact on the American social fabric.^[Dublin, Thomas. Immigrant Voices: New Lives in America, 1773-1986 (University of Illinois Press, 1993), 12.] Furthermore, a much larger number of these immigrants were not Protestant.^[Ward, Cities and Immigrants, 71.] This occasion, or crisis as many would claim, gave rise to missionary methods based on their theological presuppositions concerning their role in building the kingdom.
 
 ### Americanization as Part of the Biblical Mission
 
@@ -281,7 +281,7 @@ Noll claims it was the transfer of religious fervor to national ideals that lead
 
 American Protestants across the theological spectrum were concerned about the perfecting of society into the kingdom of God, namely the full Christianization of America. Handy writes, "Claiming that their nation's civilization was rooted in the premises of Protestant Christianity, its leaders aimed to make that civilization more fully Christian."^[Handy, Undermined Establishment, 11.] Harlan Douglass, in his manual  _The New Home Missions_, concludes with a chapter concerning the "social realization of Christianity in America" and the civil practices which can be undertaken by Christians to ensure the country becomes completely Christianized.^[Douglass, Harlan Paul. The New Home Missions: An Account of Their Social Redirection (New York: Missionary Education Movement of the United States and Canada, 1914), 225.] However, the reverse can also be said. American Protestants were broadly convinced of the importance of the Americanization of Christianity. Joseph Ernest McAfee speaks of God's "most eternally important use" for the American people, and warns against any egotism that could be resultant.^[McAfee, Missions Striking, 112.]
 
-Americans widely held to the conviction that God had a specific, divine plan for the United States, an idea encapsulated in the term manifest destiny. Sandeen writes, "The eschatology of United States Protestants, reflecting their brimining optimism and hope, was expressed most frequently as a blending of millennialism and American nationalism."^[Sandeen, Roots, 43.] Furthermore, this blended eschatology placed American activity at the very center of God's plan for the rest of the world. God ordained the spread of their particular brand of Christianity and Civilization.^[Tuveson, Redeemer Nation, 76. See also Handy, Undermined Establishment, 8; Alhstrom, A Religious History, 845.] Ahlstrom writes, "To mainstream Protestants a denial of America's manifest destiny bordered on treason."^[Ahlstrom, A Religious History, 845.] For most American Protestants at the end of the nineteenth century, it was America's burden to Christianize and civilize the world, God's newest agent of the millennium. However, the success of this mission was contingent on their obedience to God in their given obligation.
+Americans widely held to the conviction that God had a specific, divine plan for the United States, an idea encapsulated in the term manifest destiny. Sandeen writes, "The eschatology of United States Protestants, reflecting their brimming optimism and hope, was expressed most frequently as a blending of millennialism and American nationalism."^[Sandeen, Roots, 43.] Furthermore, this blended eschatology placed American activity at the very center of God's plan for the rest of the world. God ordained the spread of their particular brand of Christianity and civilization.^[Tuveson, Redeemer Nation, 76. See also Handy, Undermined Establishment, 8; Alhstrom, A Religious History, 845.] Ahlstrom writes, "To mainstream Protestants a denial of America's manifest destiny bordered on treason."^[Ahlstrom, A Religious History, 845.] For most American Protestants at the end of the nineteenth century, it was America's burden to Christianize and civilize the world, God's newest agent of the millennium. However, the success of this mission was contingent on their obedience to God in their given obligation.
 
 American Protestants, with few exceptions, adopted an eschatological framework that can be referred to as a conditional manifest destiny. Americans possessed a long-held belief in the manifest destiny of the United States in its westward, and eventually global, expansion.^[Horsman, Reginald. Race and Manifest Destiny (Cambridge: Harvard University Press, 1981), 219-221, the phrase manifest destiny was coined by John O'Sullivan in 1845 to describe the westward expansion of the United States, in specific the annexation of Texas.] This destiny, most often attributed to God, was conceived as part opportunity and part obligation. McAfee concluded his home mission manual saying,
 
@@ -339,49 +339,32 @@ IHdvcmsgb2YgUnV0aCBCb2NoLCBWaXNpb25hcnkgUmVwdWJsaW
 MsIGFuZCBoZXIgY+KApiIsInN0YXJ0IjoyMDkzMSwiZW5kIjoy
 MTE1NH0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6IkRvIE
 kgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0YXJ0
-Ijo2OTIwNywiZW5kIjo2OTI0MH0sIjljcFJMOG12aWh4SFB0dX
-AiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQ4NzgsImVuZCI6
-OTQ4ODJ9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleHQiOiJicm
-ltaW5pbmciLCJzdGFydCI6OTkxNzksImVuZCI6OTkxODh9LCJj
-bnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3RpYW5pdH
-kgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5OTQ5NCwiZW5k
-Ijo5OTUyM30sIkhSWXZuSjhXVTJGQ1FLOUciOnsidGV4dCI6Ik
-ZJTkQiLCJzdGFydCI6MTE0MDI2LCJlbmQiOjExNDAzMH0sIllY
-UXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6ImVyYSBvZiBub25jb2
-50ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTc1MDIsImVuZCI6
-MTE3NTI5fX0sImNvbW1lbnRzIjp7IkpJdXZNTDhUanZYR01IV3
-giOnsiZGlzY3Vzc2lvbklkIjoiY2wyT1A1ME9nQ0szWDh6dyIs
-InN1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6IkFERCBQQVJBR1
-JBUEggT04gUlVUSCBCT0NILi4uIE1BWUJFLiBNYWtlIHN1cmUg
-SSBuZWVkIHRoaXMgZmlyc3QuIiwiY3JlYXRlZCI6MTYwMTgxND
-M0NjE0M30sIjBCUFNLb3V0cHRFeXBzOFEiOnsiZGlzY3Vzc2lv
-bklkIjoiWnprb1hDZnI2Y1FpcWpENSIsInN1YiI6ImdoOjM3MD
-QwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMgb3IgTm8/IiwiY3Jl
-YXRlZCI6MTYwMTgxNjExNzE3MX0sInJVYUY5M3BhU3paczI2YU
-ciOnsiZGlzY3Vzc2lvbklkIjoiOWNwUkw4bXZpaHhIUHR1cCIs
-InN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dCI6ImRvIHRoaXMiLC
-JjcmVhdGVkIjoxNjAxODMwMjQ1OTk0fSwiakFWVXdsb0loWGM4
-TTBVTSI6eyJkaXNjdXNzaW9uSWQiOiJKRFpBTWNESnl1WnZwZ1
-pWIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiaXMgdGhp
-cyBzdXBwb3NlZCB0byBiZSBicmltbWluZz8iLCJjcmVhdGVkIj
-oxNjAxODMwODkwNzE3fSwid1hYV1kzS1hlU0Jrd1VybyI6eyJk
-aXNjdXNzaW9uSWQiOiJjbnlsTzBHWm1sNjVKRVFpIiwic3ViIj
-oiZ2g6NzEyOTM5ODciLCJ0ZXh0Ijoic2hvdWxkIGNpdmlsaXph
-dG9pbiBiZSBjYXBpdGFsaXplZD8iLCJjcmVhdGVkIjoxNjAxOD
-MwOTI0MTgyfSwiU05CQk9sUXAxMTJ2cGlTSSI6eyJkaXNjdXNz
-aW9uSWQiOiJIUll2bko4V1UyRkNRSzlHIiwic3ViIjoiZ2g6Nz
-EyOTM5ODciLCJ0ZXh0IjoiZG8gdGhpcyIsImNyZWF0ZWQiOjE2
-MDE4MzE3NzQ2MzN9LCJYODVka3VEZHJtdFJSVUFhIjp7ImRpc2
-N1c3Npb25JZCI6IllYUXlmV3lVZXpqNHd6NzIiLCJzdWIiOiJn
-aDo3MTI5Mzk4NyIsInRleHQiOiJkb2VzIHRoaXMgbmVlZCB0by
-BiZSB0aXRsZSBjYXNlPyBpdCBpcyB0aGUgZmlyc3QgaW5zdGFu
-Y2UgeW91IHVzZSBpdCBidXQgbm90IHRoZSBzZWNvbmQgb3IgdG
-hpcmQgdGltZSIsImNyZWF0ZWQiOjE2MDE4MzIyNTU4OTN9fSwi
-aGlzdG9yeSI6Wy0xODY1NTMwOTgwLC0xMzg3NjA2NDEyLDE2MT
-I0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIzNjI1NywxNDY1NDc4
-MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLDgzMzQ4NjgxNCwtMT
-QyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1NjAxNTksNjQzNjI3
-MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5MDIwOTI3Ny
-w5MjMyNjY3OTYsLTIxNDQ5MDcwOTUsMTE0MzY2MDc1LDIwMzg5
-MjM2NDZdfQ==
+Ijo2OTIwNywiZW5kIjo2OTI0MH0sIkhSWXZuSjhXVTJGQ1FLOU
+ciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTEzOTkyLCJlbmQi
+OjExMzk5Nn0sIllYUXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6Im
+VyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0Ijox
+MTc0NjgsImVuZCI6MTE3NDk1fX0sImNvbW1lbnRzIjp7IkpJdX
+ZNTDhUanZYR01IV3giOnsiZGlzY3Vzc2lvbklkIjoiY2wyT1A1
+ME9nQ0szWDh6dyIsInN1YiI6ImdoOjM3MDQwODQxIiwidGV4dC
+I6IkFERCBQQVJBR1JBUEggT04gUlVUSCBCT0NILi4uIE1BWUJF
+LiBNYWtlIHN1cmUgSSBuZWVkIHRoaXMgZmlyc3QuIiwiY3JlYX
+RlZCI6MTYwMTgxNDM0NjE0M30sIjBCUFNLb3V0cHRFeXBzOFEi
+OnsiZGlzY3Vzc2lvbklkIjoiWnprb1hDZnI2Y1FpcWpENSIsIn
+N1YiI6ImdoOjM3MDQwODQxIiwidGV4dCI6Ik5HcmFtPyBZZXMg
+b3IgTm8/IiwiY3JlYXRlZCI6MTYwMTgxNjExNzE3MX0sIlNOQk
+JPbFFwMTEydnBpU0kiOnsiZGlzY3Vzc2lvbklkIjoiSFJZdm5K
+OFdVMkZDUUs5RyIsInN1YiI6ImdoOjcxMjkzOTg3IiwidGV4dC
+I6ImRvIHRoaXMiLCJjcmVhdGVkIjoxNjAxODMxNzc0NjMzfSwi
+WDg1ZGt1RGRybXRSUlVBYSI6eyJkaXNjdXNzaW9uSWQiOiJZWF
+F5Zld5VWV6ajR3ejcyIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0
+ZXh0IjoiZG9lcyB0aGlzIG5lZWQgdG8gYmUgdGl0bGUgY2FzZT
+8gaXQgaXMgdGhlIGZpcnN0IGluc3RhbmNlIHlvdSB1c2UgaXQg
+YnV0IG5vdCB0aGUgc2Vjb25kIG9yIHRoaXJkIHRpbWUiLCJjcm
+VhdGVkIjoxNjAxODMyMjU1ODkzfX0sImhpc3RvcnkiOlstMjgz
+MzUxNDc0LC0xODY1NTMwOTgwLC0xMzg3NjA2NDEyLDE2MTI0NT
+kxNzUsLTE0ODU2NzA0NTAsMTY5NDIzNjI1NywxNDY1NDc4MTQw
+LDgwOTUzNTMwMCwtOTIyMTY3MzAzLDgzMzQ4NjgxNCwtMTQyMT
+U0MDk2MiwxMDk0NDE3NjM1LC00MjY1NjAxNTksNjQzNjI3Mjcz
+LDEyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5MDIwOTI3Nyw5Mj
+MyNjY3OTYsLTIxNDQ5MDcwOTUsMTE0MzY2MDc1XX0=
 -->
