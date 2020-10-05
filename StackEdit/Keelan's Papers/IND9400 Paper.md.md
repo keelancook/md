@@ -108,7 +108,12 @@ Harris's kingdom lectures serve as a prime example concerning theological presup
 ## A Preoccupation with the Kingdom
 As with millennial speculation, talk of the kingdom was a frequent occurrence during the last half of the nineteenth century.^[Evans, Social Gospel in American Religion, 6, 60. See also Handy, A Christian America, 87.] In his opening remarks, Harris points to the regularity with which the kingdom was addressed, saying, "The idea of his kingdom on earth, and the expectation of its progress and triumph in fulfillment of the prophecy and promise of the gospel, have become familiar elements of human thought..."^[Harris, Kingdom of Christ, 2.] The kingdom was truly a favorite topic of conversation, and with postmillennial optimism as the mainstream, questions of progress and triumph were central to the concerns of Gilded Age kingdom theology. Belief that Americans were living at the dawn of the kingdom of Christ on earth incited much discussion about the nature and means of that kingdom and became the foundation for the development of particular missionary methods in the decades to come.
 
-Talk of the millennium required talk of the kingdom of God in some sense. The very same periodicals filled with millennial speculation necessarily had to speak of its nature.^[See Millennial Harbinger. `AND FIND OTHERS... there were several examples with millennial even in the title`] This was true regardless of one's stance on the millennium, whether premillennial or postmillennial. However, the ideas concerning the kingdom and how it was to come about varied greatly depending on one's convictions concerning the timing of the millennium.^[Tuveson, Redeemer Nation, 34-35.] While adherents to premilliennial eschatology were generally pessimistic regarding the trajectory of society, the majority American Protestant commitment toward postmillennialism lended naturally toward a progressive, optimistic kingdom theology.^[Danner, Dan G. (1999)]
+Talk of the millennium required talk of the kingdom of God in some sense. The very same periodicals, tracts, and treatises filled with millennial speculation necessarily had to speak of its nature.^[See Livermore, Harriet. _Millennial Tidings_. Philadelphia: Harriet Livermore, 1831; Campbell, Alexander, and Charles Louis Loos. _The Millennial Harbinger_. Bethany, VA: W.K. Pendleton, 1830; 
+
+
+
+
+Millennial Harbinger. `AND FIND OTHERS... there were several examples with millennial even in the title`] This was true regardless of one's stance on the millennium, whether premillennial or postmillennial. However, the ideas concerning the kingdom and how it was to come about varied greatly depending on one's convictions concerning the timing of the millennium.^[Tuveson, Redeemer Nation, 34-35.] While adherents to premilliennial eschatology were generally pessimistic regarding the trajectory of society, the majority American Protestant commitment toward postmillennialism lended naturally toward a progressive, optimistic kingdom theology.^[Danner, Dan G. (1999)]
 
 A generation prior to the Gilded Age, Alexander Campbell demonstrated the natural relationship between millennialism and a progressive kingdom theology. Speaking to Campbell's conception of the kingdom, Danner writes, "For Campbell, the world was getting better; scriptures were being spread; science, education, agriculture, commerce, and nature all were combining to bring on a better day. A new political, moral, and religious revolution was fast advancing..."^[Danner, Dan G. (1999)] In the introductory prospectus to his journal,  _The Millennial Harbringer_, Campbell provides his purpose for starting it. He writes, "It shall have for its object the developement [sic], and introduction of that political and religious order of society called THE MILLENNIUM [sic], which will be the consummation of that ultimate amelioration of society proposed in the Christian Scriptures."^[Campbell, Alexander, and Charles Louis Loos. The Millennial Harbinger. Bethany, VA: W.K. Pendleton, 1830, xv.] In his writings, Campbell was as concerned about espousing a theology of the kingdom as he was on persuading toard a particular timeline for the millennium. Tuveson notes that Campbell went further than most millennialists in his time by transferring the focus of redemption onto the world rather than the individual.^[Tuveson, Redeemer Nation, 81.] In this regard, Campbell's understanding of the kingdom was a precursor to the view that would become popular after Harris at the turn of the century.
 
@@ -337,30 +342,30 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJrbFZGcThjZ1dXbmpjb3NaIjp7In
-RleHQiOiJJbiIsInN0YXJ0Ijo0NjMxOSwiZW5kIjo0NjMyMX0s
+RleHQiOiJJbiIsInN0YXJ0Ijo0NjUzNiwiZW5kIjo0NjUzOH0s
 IjVYSUpCelFOeHBQZzVMdnQiOnsidGV4dCI6IkNvbnNpZGVyIi
-wic3RhcnQiOjQ5NDYzLCJlbmQiOjQ5NDcxfSwiMjRzUlY0c3dl
+wic3RhcnQiOjQ5NjgwLCJlbmQiOjQ5Njg4fSwiMjRzUlY0c3dl
 bkxKeXdSNyI6eyJ0ZXh0IjoiQ29uc2lkZXIiLCJzdGFydCI6Nz
-UxMjcsImVuZCI6NzUxMzV9LCJ3aVVkR3lGdHNxODc3Nm9kIjp7
+UzNDQsImVuZCI6NzUzNTJ9LCJ3aVVkR3lGdHNxODc3Nm9kIjp7
 InRleHQiOiJBIHBvc3RtaWxsZW5uaWFsaXN0IGNvbW1pdG1lbn
 QgcHJlc2VudGVkIGFzIG9wdGltaXNtIGluIHRoZSBvdmVyYWxs
-IGRpcmVjdGlvbiBv4oCmIiwic3RhcnQiOjc1ODI5LCJlbmQiOj
-c1OTE4fSwiWEs2VnRLVHJUNVdXbnFtSSI6eyJ0ZXh0IjoiQ29u
+IGRpcmVjdGlvbiBv4oCmIiwic3RhcnQiOjc2MDQ2LCJlbmQiOj
+c2MTM1fSwiWEs2VnRLVHJUNVdXbnFtSSI6eyJ0ZXh0IjoiQ29u
 c2RlciBzdHVmZmluZyB0aGlzIHdpdGggb3RoZXIgc291cmNlcy
-IsInN0YXJ0Ijo3NDM0MSwiZW5kIjo3NDM4Mn0sImtuSEM0WkNR
+IsInN0YXJ0Ijo3NDU1OCwiZW5kIjo3NDU5OX0sImtuSEM0WkNR
 RUNtWFBHcEsiOnsidGV4dCI6IlRoZXNlIGZpcnN0IHR3byBmb2
 90bm90ZXMgbWF5IG5lZWQgdG8gY2FycnkgYSBnb29kIGJpdCBv
 ZiByZXNlYXJjaCBvbiB0aGUgc29jaWHigKYiLCJzdGFydCI6Nz
-M3MTksImVuZCI6NzM4NDl9LCJRTFJDaGgzREtxQXBvQlRHIjp7
+M5MzYsImVuZCI6NzQwNjZ9LCJRTFJDaGgzREtxQXBvQlRHIjp7
 InRleHQiOiJmaW5kIHRoZSBleGFjdCBwYWdlLi4uIGFmdGVyIH
-lvdSBmaW5kIHRoZSBzb3VyY2UhIiwic3RhcnQiOjYxNzYwLCJl
-bmQiOjYxODA5fSwiN3VmWGZyTWs2MzBzN05uTSI6eyJ0ZXh0Ij
+lvdSBmaW5kIHRoZSBzb3VyY2UhIiwic3RhcnQiOjYxOTc3LCJl
+bmQiOjYyMDI2fSwiN3VmWGZyTWs2MzBzN05uTSI6eyJ0ZXh0Ij
 oiZmluZCBvcmlnaW5hbCBzb3VyY2UgaW4gUGhpbGxpcHMuIiwi
-c3RhcnQiOjU5ODg3LCJlbmQiOjU5OTIwfSwiMUNPVXVvV0tXVT
+c3RhcnQiOjYwMTA0LCJlbmQiOjYwMTM3fSwiMUNPVXVvV0tXVT
 FOYXBBRiI6eyJ0ZXh0IjoiYEkgc3RpbGwgbmVlZCBkaXJlY3Qg
 cXVvdGVzIGZyb20gUml0c2NobC4gSSBjYW4gZ2V0IHRob3NlIG
-91dCBvZiBTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NzQ2
-MCwiZW5kIjo1NzQ2MH0sImNsMk9QNTBPZ0NLM1g4enciOnsidG
+91dCBvZiBTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NzY3
+NywiZW5kIjo1NzY3N30sImNsMk9QNTBPZ0NLM1g4enciOnsidG
 V4dCI6ImBBREQgUEFSQUdSQVBIIFxudGhhdCBub3RlcyB0aGUg
 d29yayBvZiBSdXRoIEJvY2gsIFZpc2lvbmFyeSBSZXB1YmxpYy
 wgYW5kIGhlciBj4oCmIiwic3RhcnQiOjIwOTMxLCJlbmQiOjIx
@@ -371,38 +376,38 @@ KApiIsInN0YXJ0IjoyNjE4NywiZW5kIjoyNjE4N30sIkdTRUM1
 UjNrdm5VTmxOYlQiOnsidGV4dCI6IkFORCBGSU5EIE9USEVSUy
 4uLiB0aGVyZSB3ZXJlIHNldmVyYWwgZXhhbXBsZXMgd2l0aCBt
 aWxsZW5uaWFsIGV2ZW4gaW4gdGhlIHRpdGxlIiwic3RhcnQiOj
-QzMzU2LCJlbmQiOjQzNDM2fSwiVHE0TkJlMTQzS3d4WkNMQyI6
+QzMzU2LCJlbmQiOjQzNDU5fSwiVHE0TkJlMTQzS3d4WkNMQyI6
 eyJ0ZXh0IjoiYFBhcmFncmFwaDogXG5RdW90ZXMgZnJvbSBNYX
 VyaWNlIGRlbW9uc3RyYXRpbmcgdGhlIGFib3ZlIHBhcmFncmFw
-aC5JIHByb2JhYmx5IG7igKYiLCJzdGFydCI6NTEzNDIsImVuZC
-I6NTE1NDJ9LCI1eWVxYmY2bmp3U0hLaHJrIjp7InRleHQiOiJg
+aC5JIHByb2JhYmx5IG7igKYiLCJzdGFydCI6NTE1NTksImVuZC
+I6NTE3NTl9LCI1eWVxYmY2bmp3U0hLaHJrIjp7InRleHQiOiJg
 SSBzdGlsbCBuZWVkIGRpcmVjdCBxdW90ZXMgZnJvbSBSaXRzY2
 hsLiBJIGNhbiBnZXQgdGhvc2Ugb3V0IG9mIFN0dWNrZW5iZXJn
-LiBC4oCmIiwic3RhcnQiOjU2MTkxLCJlbmQiOjU2MzM4fSwiZk
+LiBC4oCmIiwic3RhcnQiOjU2NDA4LCJlbmQiOjU2NTU1fSwiZk
 9qUnJJcGVtV29zNnhhQyI6eyJ0ZXh0IjoiRklORCBUSEUgUklH
-SFQgU09VUkNFIEZPUiBUSElTIiwic3RhcnQiOjU0NDg5LCJlbm
-QiOjU0NTE5fSwiWnprb1hDZnI2Y1FpcWpENSI6eyJ0ZXh0Ijoi
+SFQgU09VUkNFIEZPUiBUSElTIiwic3RhcnQiOjU0NzA2LCJlbm
+QiOjU0NzM2fSwiWnprb1hDZnI2Y1FpcWpENSI6eyJ0ZXh0Ijoi
 RG8gSSBpdGUgTkdyYW0gaGVyZT8gSWYgc28sIGhvdz9gIiwic3
-RhcnQiOjY3NzYzLCJlbmQiOjY3Nzk2fSwibk9kbVhwalVCUEZt
+RhcnQiOjY3OTgwLCJlbmQiOjY4MDEzfSwibk9kbVhwalVCUEZt
 MTJvciI6eyJ0ZXh0IjoiRGlzdGluY3Rpb25zIiwic3RhcnQiOj
-g2OTMyLCJlbmQiOjg2OTQ0fSwiZFJDMFNyZkZuQ1RWNWpFYiI6
+g3MTQ5LCJlbmQiOjg3MTYxfSwiZFJDMFNyZkZuQ1RWNWpFYiI6
 eyJ0ZXh0IjoiZXJhIG9mIG5vbmNvbnRleHR1YWxpemF0aW9uIi
-wic3RhcnQiOjkxNDE0LCJlbmQiOjkxNDQxfSwiOWNwUkw4bXZp
-aHhIUHR1cCI6eyJ0ZXh0IjoiTmVlZCIsInN0YXJ0Ijo5MzA1Mi
-wiZW5kIjo5MzA1Nn0sIkpEWkFNY0RKeXVadnBnWlYiOnsidGV4
-dCI6ImJyaW1pbmluZyIsInN0YXJ0Ijo5NzM1MywiZW5kIjo5Nz
-M2Mn0sImNueWxPMEdabWw2NUpFUWkiOnsidGV4dCI6IkNocmlz
-dGlhbml0eSBhbmQgQ2l2aWxpemF0aW9uIiwic3RhcnQiOjk3Nj
-Y4LCJlbmQiOjk3Njk3fSwiSFJZdm5KOFdVMkZDUUs5RyI6eyJ0
-ZXh0IjoiRklORCIsInN0YXJ0IjoxMTIyMDAsImVuZCI6MTEyMj
-A0fSwiWVhReWZXeVVlemo0d3o3MiI6eyJ0ZXh0IjoiZXJhIG9m
-IG5vbmNvbnRleHR1YWxpemF0aW9uIiwic3RhcnQiOjExNTY3Ni
-wiZW5kIjoxMTU3MDN9LCJyVnloZmM3MGlJR3hqU1dqIjp7InRl
-eHQiOiJwcm90ZXN0YW50Iiwic3RhcnQiOjY3OTkxLCJlbmQiOj
-Y4MDAxfSwiTTBnRVhYYjVIT1M2T0ZObyI6eyJ0ZXh0IjoiVGhl
+wic3RhcnQiOjkxNjMxLCJlbmQiOjkxNjU4fSwiOWNwUkw4bXZp
+aHhIUHR1cCI6eyJ0ZXh0IjoiTmVlZCIsInN0YXJ0Ijo5MzI2OS
+wiZW5kIjo5MzI3M30sIkpEWkFNY0RKeXVadnBnWlYiOnsidGV4
+dCI6ImJyaW1pbmluZyIsInN0YXJ0Ijo5NzU3MCwiZW5kIjo5Nz
+U3OX0sImNueWxPMEdabWw2NUpFUWkiOnsidGV4dCI6IkNocmlz
+dGlhbml0eSBhbmQgQ2l2aWxpemF0aW9uIiwic3RhcnQiOjk3OD
+g1LCJlbmQiOjk3OTE0fSwiSFJZdm5KOFdVMkZDUUs5RyI6eyJ0
+ZXh0IjoiRklORCIsInN0YXJ0IjoxMTI0MTcsImVuZCI6MTEyND
+IxfSwiWVhReWZXeVVlemo0d3o3MiI6eyJ0ZXh0IjoiZXJhIG9m
+IG5vbmNvbnRleHR1YWxpemF0aW9uIiwic3RhcnQiOjExNTg5My
+wiZW5kIjoxMTU5MjB9LCJyVnloZmM3MGlJR3hqU1dqIjp7InRl
+eHQiOiJwcm90ZXN0YW50Iiwic3RhcnQiOjY4MjA4LCJlbmQiOj
+Y4MjE4fSwiTTBnRVhYYjVIT1M2T0ZObyI6eyJ0ZXh0IjoiVGhl
 IG1pbGxlbmFyaWFuIFtwcmVtaWxsZW5uaWFsXSBlcnJvciBpcy
 Blc3NlbnRpYWxseSB0aGlzOiBUaGUgZGlzcGVuc2F0aW9uIG9m
-4oCmIiwic3RhcnQiOjQ1Nzc5LCJlbmQiOjQ2MTMwfX0sImNvbW
+4oCmIiwic3RhcnQiOjQ1OTk2LCJlbmQiOjQ2MzQ3fX0sImNvbW
 1lbnRzIjp7IlRDYWdpbnA3NzJwRHRiSUIiOnsiZGlzY3Vzc2lv
 bklkIjoia2xWRnE4Y2dXV25qY29zWiIsInN1YiI6ImdoOjcxMj
 kzOTg3IiwidGV4dCI6InNob3VsZCB0aGlzIGJlIGEgbmV3IHBh
@@ -519,11 +524,11 @@ RleHQiOiJJdCBkZXBlbmRzIG9uIGhvdyBtYW55IGxpbmVzIGl0
 IHRha2VzIHVwLiBJcyBpdCB0aHJlZSBvciBmaXZlIGZvciBhIG
 Jsb2NrIHF1b3RlPyBBbmQsIHdlIG1heSBoYXZlIHRvIHdhaXQg
 dW50aWwgd2UgZ2V0IGl0IGludG8gTGFUZXggdG8ga25vdy4iLC
-JjcmVhdGVkIjoxNjAxODM0Mjk2OTA0fX0sImhpc3RvcnkiOlsx
-MTQzNjYwNzUsMjAzODkyMzY0NiwxNTA3MTcyMjQ5LDg3MTIyMj
-E2OCw0OTA1NTk0MiwxNjMwMDMwNTQwLDM5MjYwOTk1NCwtMTU3
-Nzg2MDM2OSwxNzI0MzI4NzI2LDMxMjczNTg1OCwtMjA0MzY2ND
-Y2NCwxNzM2OTQzODYyLDIwNDUzNzY5NDQsMTM0MjkzODU0OSwt
-MTAxNjYwMTM4MCwtMTM1ODU1NDcwNSwtMTYyMDM1NTY3MywtNz
-k0NDA4OTIyLC0xNjUzMTM2MzkxLDE0NTIyMDMzMjVdfQ==
+JjcmVhdGVkIjoxNjAxODM0Mjk2OTA0fX0sImhpc3RvcnkiOlst
+MjE0NDkwNzA5NSwxMTQzNjYwNzUsMjAzODkyMzY0NiwxNTA3MT
+cyMjQ5LDg3MTIyMjE2OCw0OTA1NTk0MiwxNjMwMDMwNTQwLDM5
+MjYwOTk1NCwtMTU3Nzg2MDM2OSwxNzI0MzI4NzI2LDMxMjczNT
+g1OCwtMjA0MzY2NDY2NCwxNzM2OTQzODYyLDIwNDUzNzY5NDQs
+MTM0MjkzODU0OSwtMTAxNjYwMTM4MCwtMTM1ODU1NDcwNSwtMT
+YyMDM1NTY3MywtNzk0NDA4OTIyLC0xNjUzMTM2MzkxXX0=
 -->
