@@ -128,21 +128,9 @@ Maurice's initial work on the topic,  _Kingdom of Christ_, was published in 1838
 > The Kingdom was the community of righteousness about to be established upon earth.  It was not an idealized target never fully to be attained in this life but rather a real, living, and fully functioning community that would be realized through the social application of Christ's teachings.  According to Social Christians, the historical completion of the Christianizing of communities was imminent. It was the expression of God's mission to humanity, the fulfillment of the Incarnation.'^[Phillips, A Kingdom on Earth, 1.]
 
 For Maurice, the social perfection of the kingdom was an attainable goal, and one that could be accomplished though socially attainable means. Maurice refutes the concept of the kingdom as a new work. Speaking against the idea of the kingdom as a new age, Maurice writes,
->The wretched notion of a private selfish Heaven, where compensation shall be made for troubles incurred, and prizes given for duties performed in this lower sphere - this unnatural notion, clothing itself in the language of Scripture and of other days of the Church, but severing that language from the idea with which it was always impregnated, and connecting it with our low, grovelling, mercantile habits of feeling, had infused itself into our popular teachings and our theological books.
-`Paragraph: 
-Quotes from Maurice demonstrating the above paragraph.I probably need to grab some original source quotes from Maurice's book. If I need to, I can find page numbers in Phillips to do so.`
+>The wretched notion of a private selfish Heaven, where compensation shall be made for troubles incurred, and prizes given for duties performed in this lower sphere - this unnatural notion... had infused itself into our popular teachings and our theological books.^[Maurice, Frederick Denison. _The Kingdom of Christ: Or, Hints Respecting the Principles, Constitution, and Ordinances of the Catholic Church_. 2nd ed. Vol. 2. London: Gilbert & Rivington Printers, 1842., 443]
 
-
-
-
-
-
-
-
-
-^[Maurice, Frederick Denison. _The Kingdom of Christ: Or, Hints Respecting the Principles, Constitution, and Ordinances of the Catholic Church_. 2nd ed. Vol. 2. London: Gilbert & Rivington Printers, 1842.]
-
-
+He continues, 
 
 
 
@@ -352,27 +340,27 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjI1MiwiZW5kIjo3
-NjI2MH0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NTgzMSwiZW5kIjo3
+NTgzOX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6NzY5NTQsImVuZCI6NzcwNDN9LCJYSzZW
+/igKYiLCJzdGFydCI6NzY1MzMsImVuZCI6NzY2MjJ9LCJYSzZW
 dEtUclQ1V1ducW1JIjp7InRleHQiOiJDb25zZGVyIHN0dWZmaW
 5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc1
-NDY2LCJlbmQiOjc1NTA3fSwia25IQzRaQ1FFQ21YUEdwSyI6ey
+MDQ1LCJlbmQiOjc1MDg2fSwia25IQzRaQ1FFQ21YUEdwSyI6ey
 J0ZXh0IjoiVGhlc2UgZmlyc3QgdHdvIGZvb3Rub3RlcyBtYXkg
 bmVlZCB0byBjYXJyeSBhIGdvb2QgYml0IG9mIHJlc2VhcmNoIG
-9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NDg0NCwiZW5kIjo3
-NDk3NH0sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
+9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NDQyMywiZW5kIjo3
+NDU1M30sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
 QgdGhlIGV4YWN0IHBhZ2UuLi4gYWZ0ZXIgeW91IGZpbmQgdGhl
-IHNvdXJjZSEiLCJzdGFydCI6NjI4ODUsImVuZCI6NjI5MzR9LC
+IHNvdXJjZSEiLCJzdGFydCI6NjI0NjQsImVuZCI6NjI1MTN9LC
 I3dWZYZnJNazYzMHM3Tm5NIjp7InRleHQiOiJmaW5kIG9yaWdp
-bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjEwMT
-IsImVuZCI6NjEwNDV9LCIxQ09VdW9XS1dVMU5hcEFGIjp7InRl
+bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjA1OT
+EsImVuZCI6NjA2MjR9LCIxQ09VdW9XS1dVMU5hcEFGIjp7InRl
 eHQiOiJgSSBzdGlsbCBuZWVkIGRpcmVjdCBxdW90ZXMgZnJvbS
 BSaXRzY2hsLiBJIGNhbiBnZXQgdGhvc2Ugb3V0IG9mIFN0dWNr
-ZW5iZXJnLiBC4oCmIiwic3RhcnQiOjU4NTg1LCJlbmQiOjU4NT
-g1fSwiY2wyT1A1ME9nQ0szWDh6dyI6eyJ0ZXh0IjoiYEFERCBQ
+ZW5iZXJnLiBC4oCmIiwic3RhcnQiOjU4MTY0LCJlbmQiOjU4MT
+Y0fSwiY2wyT1A1ME9nQ0szWDh6dyI6eyJ0ZXh0IjoiYEFERCBQ
 QVJBR1JBUEggXG50aGF0IG5vdGVzIHRoZSB3b3JrIG9mIFJ1dG
 ggQm9jaCwgVmlzaW9uYXJ5IFJlcHVibGljLCBhbmQgaGVyIGPi
 gKYiLCJzdGFydCI6MjA5MzEsImVuZCI6MjExNTR9LCJtVTgxST
@@ -382,28 +370,28 @@ ZW5kIG9mIHRoaXMgcGFyYWdyYXBoIHdpdGggdGhlIGd1eSBTYW
 OjI2MTg3LCJlbmQiOjI2MTg3fSwiNXllcWJmNm5qd1NIS2hyay
 I6eyJ0ZXh0IjoiYEkgc3RpbGwgbmVlZCBkaXJlY3QgcXVvdGVz
 IGZyb20gUml0c2NobC4gSSBjYW4gZ2V0IHRob3NlIG91dCBvZi
-BTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NzMxNiwiZW5k
-Ijo1NzQ2M30sImZPalJySXBlbVdvczZ4YUMiOnsidGV4dCI6Ik
+BTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1Njg5NSwiZW5k
+Ijo1NzA0Mn0sImZPalJySXBlbVdvczZ4YUMiOnsidGV4dCI6Ik
 ZJTkQgVEhFIFJJR0hUIFNPVVJDRSBGT1IgVEhJUyIsInN0YXJ0
-Ijo1NTYxNCwiZW5kIjo1NTY0NH0sIlp6a29YQ2ZyNmNRaXFqRD
+Ijo1NTE5MywiZW5kIjo1NTIyM30sIlp6a29YQ2ZyNmNRaXFqRD
 UiOnsidGV4dCI6IkRvIEkgaXRlIE5HcmFtIGhlcmU/IElmIHNv
-LCBob3c/YCIsInN0YXJ0Ijo2ODg4OCwiZW5kIjo2ODkyMX0sIm
+LCBob3c/YCIsInN0YXJ0Ijo2ODQ2NywiZW5kIjo2ODUwMH0sIm
 5PZG1YcGpVQlBGbTEyb3IiOnsidGV4dCI6IkRpc3RpbmN0aW9u
-cyIsInN0YXJ0Ijo4ODA1NywiZW5kIjo4ODA2OX0sImRSQzBTcm
+cyIsInN0YXJ0Ijo4NzYzNiwiZW5kIjo4NzY0OH0sImRSQzBTcm
 ZGbkNUVjVqRWIiOnsidGV4dCI6ImVyYSBvZiBub25jb250ZXh0
-dWFsaXphdGlvbiIsInN0YXJ0Ijo5MjUzOSwiZW5kIjo5MjU2Nn
+dWFsaXphdGlvbiIsInN0YXJ0Ijo5MjExOCwiZW5kIjo5MjE0NX
 0sIjljcFJMOG12aWh4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLCJz
-dGFydCI6OTQxNzcsImVuZCI6OTQxODF9LCJKRFpBTWNESnl1Wn
-ZwZ1pWIjp7InRleHQiOiJicmltaW5pbmciLCJzdGFydCI6OTg0
-NzgsImVuZCI6OTg0ODd9LCJjbnlsTzBHWm1sNjVKRVFpIjp7In
+dGFydCI6OTM3NTYsImVuZCI6OTM3NjB9LCJKRFpBTWNESnl1Wn
+ZwZ1pWIjp7InRleHQiOiJicmltaW5pbmciLCJzdGFydCI6OTgw
+NTcsImVuZCI6OTgwNjZ9LCJjbnlsTzBHWm1sNjVKRVFpIjp7In
 RleHQiOiJDaHJpc3RpYW5pdHkgYW5kIENpdmlsaXphdGlvbiIs
-InN0YXJ0Ijo5ODc5MywiZW5kIjo5ODgyMn0sIkhSWXZuSjhXVT
-JGQ1FLOUciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTEzMzI1
-LCJlbmQiOjExMzMyOX0sIllYUXlmV3lVZXpqNHd6NzIiOnsidG
+InN0YXJ0Ijo5ODM3MiwiZW5kIjo5ODQwMX0sIkhSWXZuSjhXVT
+JGQ1FLOUciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTEyOTA0
+LCJlbmQiOjExMjkwOH0sIllYUXlmV3lVZXpqNHd6NzIiOnsidG
 V4dCI6ImVyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIsInN0
-YXJ0IjoxMTY4MDEsImVuZCI6MTE2ODI4fSwiclZ5aGZjNzBpSU
+YXJ0IjoxMTYzODAsImVuZCI6MTE2NDA3fSwiclZ5aGZjNzBpSU
 d4alNXaiI6eyJ0ZXh0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo2
-OTExNiwiZW5kIjo2OTEyNn19LCJjb21tZW50cyI6eyJoMkRnZT
+ODY5NSwiZW5kIjo2ODcwNX19LCJjb21tZW50cyI6eyJoMkRnZT
 JhQzZpTkVuRVJYIjp7ImRpc2N1c3Npb25JZCI6IjI0c1JWNHN3
 ZW5MSnl3UjciLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOi
 Jkb24ndCBmb3JnZXQiLCJjcmVhdGVkIjoxNjAxNjM4MDQyNzYy
@@ -481,11 +469,11 @@ dGltZSIsImNyZWF0ZWQiOjE2MDE4MzIyNTU4OTN9LCJLdDFYWV
 FGS3BtTXkxMVNxIjp7ImRpc2N1c3Npb25JZCI6InJWeWhmYzcw
 aUlHeGpTV2oiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOi
 JzaG91bGQgdGhpcyBiZSBjYXBpdGFsaXplZCIsImNyZWF0ZWQi
-OjE2MDE4MzI4OTc4NjN9fSwiaGlzdG9yeSI6WzE3NTY5ODk4NT
-UsNjQzNjI3MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMCwtMTc5
-MDIwOTI3Nyw5MjMyNjY3OTYsLTIxNDQ5MDcwOTUsMTE0MzY2MD
-c1LDIwMzg5MjM2NDYsMTUwNzE3MjI0OSw4NzEyMjIxNjgsNDkw
-NTU5NDIsMTYzMDAzMDU0MCwzOTI2MDk5NTQsLTE1Nzc4NjAzNj
-ksMTcyNDMyODcyNiwzMTI3MzU4NTgsLTIwNDM2NjQ2NjQsMTcz
-Njk0Mzg2MiwyMDQ1Mzc2OTQ0XX0=
+OjE2MDE4MzI4OTc4NjN9fSwiaGlzdG9yeSI6WzQzMTA4NzAxOC
+w2NDM2MjcyNzMsMTIwODUyMjQ1NCwtNTYyMDA2MDEwLC0xNzkw
+MjA5Mjc3LDkyMzI2Njc5NiwtMjE0NDkwNzA5NSwxMTQzNjYwNz
+UsMjAzODkyMzY0NiwxNTA3MTcyMjQ5LDg3MTIyMjE2OCw0OTA1
+NTk0MiwxNjMwMDMwNTQwLDM5MjYwOTk1NCwtMTU3Nzg2MDM2OS
+wxNzI0MzI4NzI2LDMxMjczNTg1OCwtMjA0MzY2NDY2NCwxNzM2
+OTQzODYyLDIwNDUzNzY5NDRdfQ==
 -->
