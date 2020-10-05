@@ -204,7 +204,7 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 Since it was too soon to speak of a liberal and evangelical divide, broad tenets of social Christianity developed into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hope at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 
 # Christianize and Americanize: Home Missions to the Immigrant
-The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. See also Foner, Nancy. _From Ellis Island to JFK: New York's Two Great Waves of Immigration_. New Haven: Yale University Press, 2002 for an at length treatment of immigration to New York from 1880-1920] The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  See also Ward, David. _Cities and Immigrants: A Geography of Change in Nineteenth-Century America_. London: Oxford University Press, 1971; Bodnar, John. _The Transplanted: A History of Immigrants in Urban America_. Edition Unstated edition. Bloomington: Indiana University Press, 1987; 
+The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. See also Foner, Nancy. _From Ellis Island to JFK: New York's Two Great Waves of Immigration_. New Haven: Yale University Press, 2002 for an at length treatment of immigration to New York from 1880-1920] The Westward expansion of the United States was in full swing, and beginning in the 1880s a swelling wave of immigration landed on American shores, only cresting after the turn of the century.^[Zolberg, Aristide, A Nation by Design: Immigration Policy in the Fashioning of America (Cambridge: Harvard University Press, 2006), 204-205 notes that the United States was the global leader in immigration during the era, receiving six times as many immigrants as the next highest recipient.  See also Ward, David. _Cities and Immigrants: A Geography of Change in Nineteenth-Century America_. London: Oxford University Press, 1971; Bodnar, John. _The Transplanted: A History of Immigrants in Urban America_. Edition Unstated edition. Bloomington: Indiana University Press, 1987; Higham, John. _Strangers in the Land_. New Brunswick: Rutgers University Press, 1955, 87-106
 
 
 
@@ -339,11 +339,11 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjkxMSwiZW5kIjo3
-NjkxOX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NzAwMywiZW5kIjo3
+NzAxMX0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6Nzc2MTMsImVuZCI6Nzc3MDJ9LCJjbDJP
+/igKYiLCJzdGFydCI6Nzc3MDUsImVuZCI6Nzc3OTR9LCJjbDJP
 UDUwT2dDSzNYOHp3Ijp7InRleHQiOiJgQUREIFBBUkFHUkFQSC
 BcbnRoYXQgbm90ZXMgdGhlIHdvcmsgb2YgUnV0aCBCb2NoLCBW
 aXNpb25hcnkgUmVwdWJsaWMsIGFuZCBoZXIgY+KApiIsInN0YX
@@ -351,19 +351,19 @@ J0IjoyMDkzMSwiZW5kIjoyMTE1NH0sIlp6a29YQ2ZyNmNRaXFq
 RDUiOnsidGV4dCI6IkRvIEkgaXRlIE5HcmFtIGhlcmU/IElmIH
 NvLCBob3c/YCIsInN0YXJ0Ijo2OTIwNywiZW5kIjo2OTI0MH0s
 Im5PZG1YcGpVQlBGbTEyb3IiOnsidGV4dCI6IkRpc3RpbmN0aW
-9ucyIsInN0YXJ0Ijo4ODcxNiwiZW5kIjo4ODcyOH0sImRSQzBT
+9ucyIsInN0YXJ0Ijo4ODgwOCwiZW5kIjo4ODgyMH0sImRSQzBT
 cmZGbkNUVjVqRWIiOnsidGV4dCI6ImVyYSBvZiBub25jb250ZX
-h0dWFsaXphdGlvbiIsInN0YXJ0Ijo5MzE5OCwiZW5kIjo5MzIy
-NX0sIjljcFJMOG12aWh4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLC
-JzdGFydCI6OTQ4MzYsImVuZCI6OTQ4NDB9LCJKRFpBTWNESnl1
+h0dWFsaXphdGlvbiIsInN0YXJ0Ijo5MzI5MCwiZW5kIjo5MzMx
+N30sIjljcFJMOG12aWh4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLC
+JzdGFydCI6OTQ5MjgsImVuZCI6OTQ5MzJ9LCJKRFpBTWNESnl1
 WnZwZ1pWIjp7InRleHQiOiJicmltaW5pbmciLCJzdGFydCI6OT
-kxMzcsImVuZCI6OTkxNDZ9LCJjbnlsTzBHWm1sNjVKRVFpIjp7
+kyMjksImVuZCI6OTkyMzh9LCJjbnlsTzBHWm1sNjVKRVFpIjp7
 InRleHQiOiJDaHJpc3RpYW5pdHkgYW5kIENpdmlsaXphdGlvbi
-IsInN0YXJ0Ijo5OTQ1MiwiZW5kIjo5OTQ4MX0sIkhSWXZuSjhX
-VTJGQ1FLOUciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTEzOT
-g0LCJlbmQiOjExMzk4OH0sIllYUXlmV3lVZXpqNHd6NzIiOnsi
+IsInN0YXJ0Ijo5OTU0NCwiZW5kIjo5OTU3M30sIkhSWXZuSjhX
+VTJGQ1FLOUciOnsidGV4dCI6IkZJTkQiLCJzdGFydCI6MTE0MD
+c2LCJlbmQiOjExNDA4MH0sIllYUXlmV3lVZXpqNHd6NzIiOnsi
 dGV4dCI6ImVyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIsIn
-N0YXJ0IjoxMTc0NjAsImVuZCI6MTE3NDg3fX0sImNvbW1lbnRz
+N0YXJ0IjoxMTc1NTIsImVuZCI6MTE3NTc5fX0sImNvbW1lbnRz
 Ijp7ImgyRGdlMmFDNmlORW5FUlgiOnsiZGlzY3Vzc2lvbklkIj
 oiMjRzUlY0c3dlbkxKeXdSNyIsInN1YiI6ImdoOjcxMjkzOTg3
 IiwidGV4dCI6ImRvbid0IGZvcmdldCIsImNyZWF0ZWQiOjE2MD
@@ -412,11 +412,11 @@ UXlmV3lVZXpqNHd6NzIiLCJzdWIiOiJnaDo3MTI5Mzk4NyIsIn
 RleHQiOiJkb2VzIHRoaXMgbmVlZCB0byBiZSB0aXRsZSBjYXNl
 PyBpdCBpcyB0aGUgZmlyc3QgaW5zdGFuY2UgeW91IHVzZSBpdC
 BidXQgbm90IHRoZSBzZWNvbmQgb3IgdGhpcmQgdGltZSIsImNy
-ZWF0ZWQiOjE2MDE4MzIyNTU4OTN9fSwiaGlzdG9yeSI6Wy0xMz
-g3NjA2NDEyLDE2MTI0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIz
-NjI1NywxNDY1NDc4MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLD
-gzMzQ4NjgxNCwtMTQyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1
-NjAxNTksNjQzNjI3MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMC
-wtMTc5MDIwOTI3Nyw5MjMyNjY3OTYsLTIxNDQ5MDcwOTUsMTE0
-MzY2MDc1LDIwMzg5MjM2NDYsMTUwNzE3MjI0OV19
+ZWF0ZWQiOjE2MDE4MzIyNTU4OTN9fSwiaGlzdG9yeSI6Wy01MD
+UyNDM4OTIsLTEzODc2MDY0MTIsMTYxMjQ1OTE3NSwtMTQ4NTY3
+MDQ1MCwxNjk0MjM2MjU3LDE0NjU0NzgxNDAsODA5NTM1MzAwLC
+05MjIxNjczMDMsODMzNDg2ODE0LC0xNDIxNTQwOTYyLDEwOTQ0
+MTc2MzUsLTQyNjU2MDE1OSw2NDM2MjcyNzMsMTIwODUyMjQ1NC
+wtNTYyMDA2MDEwLC0xNzkwMjA5Mjc3LDkyMzI2Njc5NiwtMjE0
+NDkwNzA5NSwxMTQzNjYwNzUsMjAzODkyMzY0Nl19
 -->
