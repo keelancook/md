@@ -204,7 +204,7 @@ From the 1880s onward, social Christianity worked its way into the fabric of Ame
 Since it was too soon to speak of a liberal and evangelical divide, broad tenets of social Christianity developed into a presupposition for most American Protestants. The uptick in social Christianity during the era was a major factor in the way churches related to the state. There was an increased sense of significance among American Protestant church people concerning public issues that make this period in church history unique.^[Handy, Undermined Establishment, 10.] Even those that May would list as conservative evangelical members of the social Christian movement claimed hope at the Christianization of America.^[May, Protestant Churches and Industrial America, 165, details the positions of Joseph Cook, who popularized the phrase, "Only the Golden Rule can bring the golden age." Cook was speaking of the need for voluntary Christianization instead of governmental or policy action to address situations concerning wealth disparity. See also, Cook, Labor, 241.] Furthermore, the Americanization of Christianity was of concern to both conservative evangelicals and adherents of the social gospel alike.
 
 # Christianize and Americanize: Home Missions to the Immigrant
-The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. See also Foner, Nancy. _From Ellis Island to JFK: New York`s Two Great Waves of Immigration_. New Haven: Yale University Press, 2002 for a 
+The final two decades of the nineteenth century proved an exciting and tumultuous time in American history. On the heels of an industrial revolution, urbanization was in full swing and populations began to explode. By 1900, in New York City alone, the population was the same size as the total urban population of the country in 1850 at 3.4 million people. ^[Boyer, Paul, Urban Masses and Moral Order in America, 1820-1920 (Boston: Harvard University Press, 2009), 123. See also Foner, Nancy. _From Ellis Island to JFK: New York`s Two Great Waves of Immigration_. New Haven: Yale University Press, 2002 for an at length treatment of immigration to New York from 1880-1920.
 
 
 
@@ -340,14 +340,14 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjcxNiwiZW5kIjo3
-NjcyNH0sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3Njc3OSwiZW5kIjo3
+Njc4N30sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6Nzc0MTgsImVuZCI6Nzc1MDd9LCJYSzZW
+/igKYiLCJzdGFydCI6Nzc0ODEsImVuZCI6Nzc1NzB9LCJYSzZW
 dEtUclQ1V1ducW1JIjp7InRleHQiOiJDb25zZGVyIHN0dWZmaW
 5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc1
-OTMwLCJlbmQiOjc1OTcxfSwiY2wyT1A1ME9nQ0szWDh6dyI6ey
+OTkzLCJlbmQiOjc2MDM0fSwiY2wyT1A1ME9nQ0szWDh6dyI6ey
 J0ZXh0IjoiYEFERCBQQVJBR1JBUEggXG50aGF0IG5vdGVzIHRo
 ZSB3b3JrIG9mIFJ1dGggQm9jaCwgVmlzaW9uYXJ5IFJlcHVibG
 ljLCBhbmQgaGVyIGPigKYiLCJzdGFydCI6MjA5MzEsImVuZCI6
@@ -355,19 +355,19 @@ MjExNTR9LCJaemtvWENmcjZjUWlxakQ1Ijp7InRleHQiOiJEby
 BJIGl0ZSBOR3JhbSBoZXJlPyBJZiBzbywgaG93P2AiLCJzdGFy
 dCI6NjkyMDcsImVuZCI6NjkyNDB9LCJuT2RtWHBqVUJQRm0xMm
 9yIjp7InRleHQiOiJEaXN0aW5jdGlvbnMiLCJzdGFydCI6ODg1
-MjEsImVuZCI6ODg1MzN9LCJkUkMwU3JmRm5DVFY1akViIjp7In
+ODQsImVuZCI6ODg1OTZ9LCJkUkMwU3JmRm5DVFY1akViIjp7In
 RleHQiOiJlcmEgb2Ygbm9uY29udGV4dHVhbGl6YXRpb24iLCJz
-dGFydCI6OTMwMDMsImVuZCI6OTMwMzB9LCI5Y3BSTDhtdmloeE
-hQdHVwIjp7InRleHQiOiJOZWVkIiwic3RhcnQiOjk0NjQxLCJl
-bmQiOjk0NjQ1fSwiSkRaQU1jREp5dVp2cGdaViI6eyJ0ZXh0Ij
-oiYnJpbWluaW5nIiwic3RhcnQiOjk4OTQyLCJlbmQiOjk4OTUx
+dGFydCI6OTMwNjYsImVuZCI6OTMwOTN9LCI5Y3BSTDhtdmloeE
+hQdHVwIjp7InRleHQiOiJOZWVkIiwic3RhcnQiOjk0NzA0LCJl
+bmQiOjk0NzA4fSwiSkRaQU1jREp5dVp2cGdaViI6eyJ0ZXh0Ij
+oiYnJpbWluaW5nIiwic3RhcnQiOjk5MDA1LCJlbmQiOjk5MDE0
 fSwiY255bE8wR1ptbDY1SkVRaSI6eyJ0ZXh0IjoiQ2hyaXN0aW
-FuaXR5IGFuZCBDaXZpbGl6YXRpb24iLCJzdGFydCI6OTkyNTcs
-ImVuZCI6OTkyODZ9LCJIUll2bko4V1UyRkNRSzlHIjp7InRleH
-QiOiJGSU5EIiwic3RhcnQiOjExMzc4OSwiZW5kIjoxMTM3OTN9
+FuaXR5IGFuZCBDaXZpbGl6YXRpb24iLCJzdGFydCI6OTkzMjAs
+ImVuZCI6OTkzNDl9LCJIUll2bko4V1UyRkNRSzlHIjp7InRleH
+QiOiJGSU5EIiwic3RhcnQiOjExMzg1MiwiZW5kIjoxMTM4NTZ9
 LCJZWFF5Zld5VWV6ajR3ejcyIjp7InRleHQiOiJlcmEgb2Ygbm
-9uY29udGV4dHVhbGl6YXRpb24iLCJzdGFydCI6MTE3MjY1LCJl
-bmQiOjExNzI5Mn19LCJjb21tZW50cyI6eyJoMkRnZTJhQzZpTk
+9uY29udGV4dHVhbGl6YXRpb24iLCJzdGFydCI6MTE3MzI4LCJl
+bmQiOjExNzM1NX19LCJjb21tZW50cyI6eyJoMkRnZTJhQzZpTk
 VuRVJYIjp7ImRpc2N1c3Npb25JZCI6IjI0c1JWNHN3ZW5MSnl3
 UjciLCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkb24ndC
 Bmb3JnZXQiLCJjcmVhdGVkIjoxNjAxNjM4MDQyNzYyfSwiYlFB
@@ -419,7 +419,7 @@ ejcyIiwic3ViIjoiZ2g6NzEyOTM5ODciLCJ0ZXh0IjoiZG9lcy
 B0aGlzIG5lZWQgdG8gYmUgdGl0bGUgY2FzZT8gaXQgaXMgdGhl
 IGZpcnN0IGluc3RhbmNlIHlvdSB1c2UgaXQgYnV0IG5vdCB0aG
 Ugc2Vjb25kIG9yIHRoaXJkIHRpbWUiLCJjcmVhdGVkIjoxNjAx
-ODMyMjU1ODkzfX0sImhpc3RvcnkiOlstMjA1MjAyMzA3MCwxNj
+ODMyMjU1ODkzfX0sImhpc3RvcnkiOlstMTQ4NTY3MDQ1MCwxNj
 k0MjM2MjU3LDE0NjU0NzgxNDAsODA5NTM1MzAwLC05MjIxNjcz
 MDMsODMzNDg2ODE0LC0xNDIxNTQwOTYyLDEwOTQ0MTc2MzUsLT
 QyNjU2MDE1OSw2NDM2MjcyNzMsMTIwODUyMjQ1NCwtNTYyMDA2
