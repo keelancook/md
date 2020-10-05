@@ -319,7 +319,7 @@ The threat language is perhaps most clear in the writing of Josiah Strong. Signi
 
 > So immense a foreign element must have a profound influence on our national life and character. Immigration brings unquestioned benefits, but these do not concern our argument. It complicates almost every home missionary problem and furnishes the soil which feeds the life of several of the most noxious growths of our civilization.^[Strong, Our Country, 40.]
 
-Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[Strong's influence on home missions during the four decades after O
+Strong's perils were directed as much, or more, toward threats to the Anglo-American way of life. Deichmann Edwards writes, "In all of this, he virtually equated the U.S. republican institutions which he perceived to be endangered by the seven perils with the foundations of Christian civilization."^[Deichman Edwards, 178.] As noted above, Strong's  _Our Country_  was one of the most influential treatments of home missions for decades to come. It was published at the beginning of the era and became an often-cited source in subsequent manuals.^[Strong's influence on home missions during the four decades after *Our Country* was published was perhaps unrivaled. Grose, *Aliens or Americans?* would have Strong provide the introduction and give him billing on the title page. See also, 
 
 
 
@@ -359,11 +359,10 @@ ZWF0ZWQiOjE2MDE4MTYxMTcxNzF9LCJTTkJCT2xRcDExMnZwaV
 NJIjp7ImRpc2N1c3Npb25JZCI6IkhSWXZuSjhXVTJGQ1FLOUci
 LCJzdWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkbyB0aGlzIi
 wiY3JlYXRlZCI6MTYwMTgzMTc3NDYzM319LCJoaXN0b3J5Ijpb
-MTM5MTQ1MzkxNiwtNDMyNTQyNDQ1LC0xODY1NTMwOTgwLC0xMz
-g3NjA2NDEyLDE2MTI0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIz
-NjI1NywxNDY1NDc4MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLD
-gzMzQ4NjgxNCwtMTQyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1
-NjAxNTksNjQzNjI3MjczLDEyMDg1MjI0NTQsLTU2MjAwNjAxMC
-wtMTc5MDIwOTI3Nyw5MjMyNjY3OTYsLTIxNDQ5MDcwOTVdfQ==
-
+LTM5NDAzMTkxLC00MzI1NDI0NDUsLTE4NjU1MzA5ODAsLTEzOD
+c2MDY0MTIsMTYxMjQ1OTE3NSwtMTQ4NTY3MDQ1MCwxNjk0MjM2
+MjU3LDE0NjU0NzgxNDAsODA5NTM1MzAwLC05MjIxNjczMDMsOD
+MzNDg2ODE0LC0xNDIxNTQwOTYyLDEwOTQ0MTc2MzUsLTQyNjU2
+MDE1OSw2NDM2MjcyNzMsMTIwODUyMjQ1NCwtNTYyMDA2MDEwLC
+0xNzkwMjA5Mjc3LDkyMzI2Njc5NiwtMjE0NDkwNzA5NV19
 -->
