@@ -146,7 +146,7 @@ Ritschl (1822-89) taught systematic theology at Göttingen, influencing many sub
 
 Ritschl's school of thought was essentially a rejection of Hegelian rationalism.^[Phillips, A Kingdom on Earth, 11.] In his early instruction, Ritschl was heavily influenced by the Tubingen school, studying under Baur, but his tenure in this school of thought was short lived. Becoming convinced their basis in speculation was false, he refuted their position in his own scholarship.^[Stuckenberg, J. H. W. “The Theology of Albrecht Ritschl.” The American Journal of Theology 2.2 (1898): 271.] Instead, Ritschl stressed an immanent, experiential, and pragmatic concept of Christianity. Much like Schleiermacher before him, Ritschl placed weight on religious experience as the test of Christianity's authenticity.^[Evans, Social Gospel in American Religion, 60.] Furthermore, he rejected any attempts at rationalistic proofs of Christianity.^[Ritschl, Albrecht. _The Christian Doctrine of Justification and Reconciliation: The Positive Development of the Doctrine_. T. & T. Clark, 1900., 5.] These convictions led Ritschl and his associates to focus on ethical and moral experience in their understanding of theology in general and the kingdom of God in specific.
 
-The result of Ritschl's thought was a total reconstruction of the orthodox doctrines of Christology, soteriology, ecclesiology, anthropology, and ultimately eschatology. Ritschl redefines the divine relationship of Christ to God the Father as one not of substance but disposition.^[Stuckenberg, 278.] In this way, Christ's position as the one to usher in the kingdom makes him unique, but his moral character is attainable by all humanity and all can obtain this same kind of divinity.^[Stuckenberg, 279.] Ritschl denies original sin, claiming that our nature does not make sin inevitable.^[Stuckenberg, 284.] Therefore, the doctrine of atonement is no longer necessary.^[Stuckenberg, 280.] Though sin is not inherited, it appears universal. Humanity's real problem is ignorance of the good. In this way, the kingdom of sin reigns. Christ, in his selflfessness reveals a better way, and humanity's salvation is found in their selfless subjugation of their will to the divine will. In this way can humanity usher in the kingdom of God.^[Stuckenberg, 284.]
+The result of Ritschl's thought was a total reconstruction of the orthodox doctrines of Christology, soteriology, ecclesiology, anthropology, and ultimately eschatology. Ritschl redefines the divine relationship of Christ to God the Father as one not of substance but disposition.^[Stuckenberg, 278.] Ritschl writes, "Least of all In this way, Christ's position as the one to usher in the kingdom makes him unique, but his moral character is attainable by all humanity and all can obtain this same kind of divinity.^[Stuckenberg, 279.] Ritschl denies original sin, claiming that our nature does not make sin inevitable.^[Stuckenberg, 284.] Therefore, the doctrine of atonement is no longer necessary.^[Stuckenberg, 280.] Though sin is not inherited, it appears universal. Humanity's real problem is ignorance of the good. In this way, the kingdom of sin reigns. Christ, in his selflfessness reveals a better way, and humanity's salvation is found in their selfless subjugation of their will to the divine will. In this way can humanity usher in the kingdom of God.^[Stuckenberg, 284.]
 
 The pinnacle of Ritschl's theology is found in his conception of the kingdom of God. The kingdom is the highest good; the hub around which the spokes of Ritshl's theology are anchored. The kingdom is not the church, though both are necessary. Each occupies a different sphere for Ritschl, and each has distinct functions. The church is the sphere of worship, while the kingdom is the sphere of Christian moral action.^[Stuckenberg, 288.]
 
@@ -337,27 +337,27 @@ Hiebert is correct in his assessment concerning the period from 1880-1920 when h
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyIyNHNSVjRzd2VuTEp5d1I3Ijp7In
-RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjM5NSwiZW5kIjo3
-NjQwM30sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
+RleHQiOiJDb25zaWRlciIsInN0YXJ0Ijo3NjQyNSwiZW5kIjo3
+NjQzM30sIndpVWRHeUZ0c3E4Nzc2b2QiOnsidGV4dCI6IkEgcG
 9zdG1pbGxlbm5pYWxpc3QgY29tbWl0bWVudCBwcmVzZW50ZWQg
 YXMgb3B0aW1pc20gaW4gdGhlIG92ZXJhbGwgZGlyZWN0aW9uIG
-/igKYiLCJzdGFydCI6NzcwOTcsImVuZCI6NzcxODZ9LCJYSzZW
+/igKYiLCJzdGFydCI6NzcxMjcsImVuZCI6NzcyMTZ9LCJYSzZW
 dEtUclQ1V1ducW1JIjp7InRleHQiOiJDb25zZGVyIHN0dWZmaW
 5nIHRoaXMgd2l0aCBvdGhlciBzb3VyY2VzIiwic3RhcnQiOjc1
-NjA5LCJlbmQiOjc1NjUwfSwia25IQzRaQ1FFQ21YUEdwSyI6ey
+NjM5LCJlbmQiOjc1NjgwfSwia25IQzRaQ1FFQ21YUEdwSyI6ey
 J0ZXh0IjoiVGhlc2UgZmlyc3QgdHdvIGZvb3Rub3RlcyBtYXkg
 bmVlZCB0byBjYXJyeSBhIGdvb2QgYml0IG9mIHJlc2VhcmNoIG
-9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NDk4NywiZW5kIjo3
-NTExN30sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
+9uIHRoZSBzb2NpYeKApiIsInN0YXJ0Ijo3NTAxNywiZW5kIjo3
+NTE0N30sIlFMUkNoaDNES3FBcG9CVEciOnsidGV4dCI6ImZpbm
 QgdGhlIGV4YWN0IHBhZ2UuLi4gYWZ0ZXIgeW91IGZpbmQgdGhl
-IHNvdXJjZSEiLCJzdGFydCI6NjMwMjgsImVuZCI6NjMwNzd9LC
+IHNvdXJjZSEiLCJzdGFydCI6NjMwNTgsImVuZCI6NjMxMDd9LC
 I3dWZYZnJNazYzMHM3Tm5NIjp7InRleHQiOiJmaW5kIG9yaWdp
-bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjExNT
-UsImVuZCI6NjExODh9LCIxQ09VdW9XS1dVMU5hcEFGIjp7InRl
+bmFsIHNvdXJjZSBpbiBQaGlsbGlwcy4iLCJzdGFydCI6NjExOD
+UsImVuZCI6NjEyMTh9LCIxQ09VdW9XS1dVMU5hcEFGIjp7InRl
 eHQiOiJgSSBzdGlsbCBuZWVkIGRpcmVjdCBxdW90ZXMgZnJvbS
 BSaXRzY2hsLiBJIGNhbiBnZXQgdGhvc2Ugb3V0IG9mIFN0dWNr
-ZW5iZXJnLiBC4oCmIiwic3RhcnQiOjU4NzI4LCJlbmQiOjU4Nz
-I4fSwiY2wyT1A1ME9nQ0szWDh6dyI6eyJ0ZXh0IjoiYEFERCBQ
+ZW5iZXJnLiBC4oCmIiwic3RhcnQiOjU4NzU4LCJlbmQiOjU4Nz
+U4fSwiY2wyT1A1ME9nQ0szWDh6dyI6eyJ0ZXh0IjoiYEFERCBQ
 QVJBR1JBUEggXG50aGF0IG5vdGVzIHRoZSB3b3JrIG9mIFJ1dG
 ggQm9jaCwgVmlzaW9uYXJ5IFJlcHVibGljLCBhbmQgaGVyIGPi
 gKYiLCJzdGFydCI6MjA5MzEsImVuZCI6MjExNTR9LCJtVTgxST
@@ -367,26 +367,26 @@ ZW5kIG9mIHRoaXMgcGFyYWdyYXBoIHdpdGggdGhlIGd1eSBTYW
 OjI2MTg3LCJlbmQiOjI2MTg3fSwiNXllcWJmNm5qd1NIS2hyay
 I6eyJ0ZXh0IjoiYEkgc3RpbGwgbmVlZCBkaXJlY3QgcXVvdGVz
 IGZyb20gUml0c2NobC4gSSBjYW4gZ2V0IHRob3NlIG91dCBvZi
-BTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NzQ1OSwiZW5k
-Ijo1NzYwNn0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6Ik
+BTdHVja2VuYmVyZy4gQuKApiIsInN0YXJ0Ijo1NzQ4OSwiZW5k
+Ijo1NzYzNn0sIlp6a29YQ2ZyNmNRaXFqRDUiOnsidGV4dCI6Ik
 RvIEkgaXRlIE5HcmFtIGhlcmU/IElmIHNvLCBob3c/YCIsInN0
-YXJ0Ijo2OTAzMSwiZW5kIjo2OTA2NH0sIm5PZG1YcGpVQlBGbT
+YXJ0Ijo2OTA2MSwiZW5kIjo2OTA5NH0sIm5PZG1YcGpVQlBGbT
 Eyb3IiOnsidGV4dCI6IkRpc3RpbmN0aW9ucyIsInN0YXJ0Ijo4
-ODIwMCwiZW5kIjo4ODIxMn0sImRSQzBTcmZGbkNUVjVqRWIiOn
+ODIzMCwiZW5kIjo4ODI0Mn0sImRSQzBTcmZGbkNUVjVqRWIiOn
 sidGV4dCI6ImVyYSBvZiBub25jb250ZXh0dWFsaXphdGlvbiIs
-InN0YXJ0Ijo5MjY4MiwiZW5kIjo5MjcwOX0sIjljcFJMOG12aW
-h4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQzMjAs
-ImVuZCI6OTQzMjR9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleH
-QiOiJicmltaW5pbmciLCJzdGFydCI6OTg2MjEsImVuZCI6OTg2
-MzB9LCJjbnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3
-RpYW5pdHkgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5ODkz
-NiwiZW5kIjo5ODk2NX0sIkhSWXZuSjhXVTJGQ1FLOUciOnsidG
-V4dCI6IkZJTkQiLCJzdGFydCI6MTEzNDY4LCJlbmQiOjExMzQ3
+InN0YXJ0Ijo5MjcxMiwiZW5kIjo5MjczOX0sIjljcFJMOG12aW
+h4SFB0dXAiOnsidGV4dCI6Ik5lZWQiLCJzdGFydCI6OTQzNTAs
+ImVuZCI6OTQzNTR9LCJKRFpBTWNESnl1WnZwZ1pWIjp7InRleH
+QiOiJicmltaW5pbmciLCJzdGFydCI6OTg2NTEsImVuZCI6OTg2
+NjB9LCJjbnlsTzBHWm1sNjVKRVFpIjp7InRleHQiOiJDaHJpc3
+RpYW5pdHkgYW5kIENpdmlsaXphdGlvbiIsInN0YXJ0Ijo5ODk2
+NiwiZW5kIjo5ODk5NX0sIkhSWXZuSjhXVTJGQ1FLOUciOnsidG
+V4dCI6IkZJTkQiLCJzdGFydCI6MTEzNDk4LCJlbmQiOjExMzUw
 Mn0sIllYUXlmV3lVZXpqNHd6NzIiOnsidGV4dCI6ImVyYSBvZi
-Bub25jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTY5NDQs
-ImVuZCI6MTE2OTcxfSwiclZ5aGZjNzBpSUd4alNXaiI6eyJ0ZX
-h0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo2OTI1OSwiZW5kIjo2
-OTI2OX19LCJjb21tZW50cyI6eyJoMkRnZTJhQzZpTkVuRVJYIj
+Bub25jb250ZXh0dWFsaXphdGlvbiIsInN0YXJ0IjoxMTY5NzQs
+ImVuZCI6MTE3MDAxfSwiclZ5aGZjNzBpSUd4alNXaiI6eyJ0ZX
+h0IjoicHJvdGVzdGFudCIsInN0YXJ0Ijo2OTI4OSwiZW5kIjo2
+OTI5OX19LCJjb21tZW50cyI6eyJoMkRnZTJhQzZpTkVuRVJYIj
 p7ImRpc2N1c3Npb25JZCI6IjI0c1JWNHN3ZW5MSnl3UjciLCJz
 dWIiOiJnaDo3MTI5Mzk4NyIsInRleHQiOiJkb24ndCBmb3JnZX
 QiLCJjcmVhdGVkIjoxNjAxNjM4MDQyNzYyfSwiYlFBMTRpY0cw
@@ -461,11 +461,11 @@ E4MzIyNTU4OTN9LCJLdDFYWVFGS3BtTXkxMVNxIjp7ImRpc2N1
 c3Npb25JZCI6InJWeWhmYzcwaUlHeGpTV2oiLCJzdWIiOiJnaD
 o3MTI5Mzk4NyIsInRleHQiOiJzaG91bGQgdGhpcyBiZSBjYXBp
 dGFsaXplZCIsImNyZWF0ZWQiOjE2MDE4MzI4OTc4NjN9fSwiaG
-lzdG9yeSI6WzEwOTQ0MTc2MzUsLTQyNjU2MDE1OSw2NDM2Mjcy
-NzMsMTIwODUyMjQ1NCwtNTYyMDA2MDEwLC0xNzkwMjA5Mjc3LD
-kyMzI2Njc5NiwtMjE0NDkwNzA5NSwxMTQzNjYwNzUsMjAzODky
-MzY0NiwxNTA3MTcyMjQ5LDg3MTIyMjE2OCw0OTA1NTk0MiwxNj
-MwMDMwNTQwLDM5MjYwOTk1NCwtMTU3Nzg2MDM2OSwxNzI0MzI4
-NzI2LDMxMjczNTg1OCwtMjA0MzY2NDY2NCwxNzM2OTQzODYyXX
-0=
+lzdG9yeSI6Wy0xMzU4MTEwOTA2LDEwOTQ0MTc2MzUsLTQyNjU2
+MDE1OSw2NDM2MjcyNzMsMTIwODUyMjQ1NCwtNTYyMDA2MDEwLC
+0xNzkwMjA5Mjc3LDkyMzI2Njc5NiwtMjE0NDkwNzA5NSwxMTQz
+NjYwNzUsMjAzODkyMzY0NiwxNTA3MTcyMjQ5LDg3MTIyMjE2OC
+w0OTA1NTk0MiwxNjMwMDMwNTQwLDM5MjYwOTk1NCwtMTU3Nzg2
+MDM2OSwxNzI0MzI4NzI2LDMxMjczNTg1OCwtMjA0MzY2NDY2NF
+19
 -->
