@@ -145,6 +145,7 @@ Ritschl (1822-89) taught systematic theology at Göttingen, influencing many sub
 Ritschl's school of thought was essentially a rejection of Hegelian rationalism.^[Phillips, A Kingdom on Earth, 11.] In his early instruction, Ritschl was heavily influenced by the Tubingen school, studying under Baur, but his tenure in this school of thought was short lived. Becoming convinced their basis in speculation was false, he refuted their position in his own scholarship.^[Stuckenberg, J. H. W. “The Theology of Albrecht Ritschl.” The American Journal of Theology 2.2 (1898): 271.] Instead, Ritschl stressed an immanent, experiential, and pragmatic concept of Christianity. Much like Schleiermacher before him, Ritschl placed weight on religious experience as the test of Christianity's authenticity.^[Evans, Social Gospel in American Religion, 60.] Furthermore, he rejected any attempts at rationalistic proofs of Christianity.^[Ritschl, Albrecht. _The Christian Doctrine of Justification and Reconciliation: The Positive Development of the Doctrine_. T. & T. Clark, 1900., 5.] These convictions led Ritschl and his associates to focus on ethical and moral experience in their understanding of theology in general and the kingdom of God in specific.
 
 The result of Ritschl's thought was a total reconstruction of the orthodox doctrines of Christology, soteriology, ecclesiology, anthropology, and ultimately eschatology. Ritschl redefines the divine relationship of Christ to God the Father as one not of substance but disposition.^[Stuckenberg, 278.] Ritschl writes, "Least of all can we discover in Christ's own words a doctrine of His Godhead."^[Ritschl, Jusitification and Reconciliation, 400.] In this way, Christ's position as the one to usher in the kingdom makes him unique, but his moral character is attainable by all humanity and all can obtain this same kind of divinity.^[Stuckenberg, 279.] Ritschl denies original sin, claiming that our nature does not make sin inevitable.^[Ritschl, Justification and Reconciliation, 328. See also Stuckenberg, 284.] Therefore, the doctrine of atonement is no longer necessary.^[Stuckenberg, 280.] Though sin is not inherited, it appears universal. Humanity's real problem is ignorance of the good. In this way, the kingdom of sin reigns. Christ, in his selflfessness reveals a better way, and humanity's salvation is found in their selfless subjugation of their will to the divine will. In this way can humanity usher in the kingdom of God.^[Ritschl, Justification and Reconciliation, 504. Stuckenberg, 284.] The pinnacle of Ritschl's theology is found in his conception of the kingdom of God. Ritschl writes, 
+
 >In Christianity, however, the idea of the universally human, moral Kingdom of God is posited as the final end of the world in such a way that all the natural and particular conditions of human fellowship are transcended, and humanity is raised above the world as a spiritual totality.^[Ritschl, Justifican and Reconiliation, 503.]
 
 The kingdom is the highest good; the hub around which the spokes of Ritshl's theology are anchored. The kingdom is not the church, though both are necessary. Each occupies a different sphere for Ritschl, and each has distinct functions. The church is the sphere of worship, while the kingdom is the sphere of Christian moral action.^[Stuckenberg, 288.]
@@ -331,11 +332,11 @@ Taken together, a postmillennial commitment and an over-realized kingdom theolog
 Hiebert is correct in his assessment concerning the period from 1880-1920 when he places it in his era of noncontextualization. What is more, these mission methods not only refused to contextualize the gospel in a manner that led to indigenous expressions of Christianity within other cultures, they actively attempted to supplant foreign culture for Americanism, equating American culture with the biblical ideal of the kingdom society. As Hiebert notes elsewhere, noncontextualization toward a different group's culture is, in fact, uncritical contextualization toward one's own.^[Hiebert, Paul. “The Gospel in Human Contexts: Changing Perceptions of Contextualization.” Pages 82–102 in _MissionShift: Global Mission Issues in the Third Millennium_. Edited by David Hesselgrave and Ed Stetzer. Nashville, Tenn: B&H Academic, 2010. p.90.]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMzAyNzMzLDY2NzcyNTQyNSwtMjA0OD
-gzNTkxOCwyMDcxMzUzNzYwLDkzMzg1MzA1NywtMTIxNjgwNTA0
-LC0zOTQwMzE5MSwtNDMyNTQyNDQ1LC0xODY1NTMwOTgwLC0xMz
-g3NjA2NDEyLDE2MTI0NTkxNzUsLTE0ODU2NzA0NTAsMTY5NDIz
-NjI1NywxNDY1NDc4MTQwLDgwOTUzNTMwMCwtOTIyMTY3MzAzLD
-gzMzQ4NjgxNCwtMTQyMTU0MDk2MiwxMDk0NDE3NjM1LC00MjY1
-NjAxNTldfQ==
+eyJoaXN0b3J5IjpbMTc2NzI2Njk3NSw3NjIzMDI3MzMsNjY3Nz
+I1NDI1LC0yMDQ4ODM1OTE4LDIwNzEzNTM3NjAsOTMzODUzMDU3
+LC0xMjE2ODA1MDQsLTM5NDAzMTkxLC00MzI1NDI0NDUsLTE4Nj
+U1MzA5ODAsLTEzODc2MDY0MTIsMTYxMjQ1OTE3NSwtMTQ4NTY3
+MDQ1MCwxNjk0MjM2MjU3LDE0NjU0NzgxNDAsODA5NTM1MzAwLC
+05MjIxNjczMDMsODMzNDg2ODE0LC0xNDIxNTQwOTYyLDEwOTQ0
+MTc2MzVdfQ==
 -->
