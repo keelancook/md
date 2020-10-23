@@ -31,9 +31,7 @@ This is what I want you to hear today:
 
 For the rest of the sermon, I want us to unpack that statement.
 
-The Mission Will Not Fail
--------------------------
-
+## The Mission Will Not Fail
 Before we get into the particulars of that mission, I want us to look at that last statement I made. That the mission will not fail. That's a bold claim. How can we even know that is true?
 
 Let me give you two quick reasons.
@@ -86,7 +84,7 @@ The Great Commission is not telling us to just do life and if we stumble into ma
 
 So, we go, and we go to the nations. We're not supposed to sit around and wait on them to come to us.
 
-## on a global missions...
+## on a global mission...
 
 Jesus sends his church, and he sends us on a global mission.
 
@@ -96,7 +94,7 @@ Let me be clear though, it most definitely involves going overseas too. A church
 
 Think about it this way: if it wasn't for a missionary, you wouldn't be a Christian. The gospel didn't start in the Americas or even Europe. It also didn't start in Africa or South or East Asia. Unless you can trace your family tree back to the first church in Jerusalem, if you're a Christian, it's because of a missionary somewhere at some point.
 
-#### Christianity is bigger than we think.
+### Christianity is bigger than we think.
 
 Look, Christianity is way bigger than we think. I think sometimes, we here in our typical American church think we're the typical Christian. That couldn't be further from the truth.
 
@@ -104,7 +102,7 @@ Christianity is the most diverse movement in the history of humanity. The name o
 
 Christianity was a thing long before America was, and it will be a thing long after America is gone. The gospel is held captive by no culture, no language, no nation. It does not respect the boundaries of man, and those boundaries have no power over its spread.
 
-#### The need for the gospel is bigger than we think.
+### The need for the gospel is bigger than we think.
 
 But not only is Christianity bigger than we think, the need to make the gospel known is so much bigger than we realize. There are way too many people with no access to the gospel.
 
@@ -116,7 +114,7 @@ Thousands come here from the places least-reached with the gospel. Has it ever c
 
 So Jesus sends us on a global mission to proclaim his glory.
 
-### to proclaim his glory... 
+## to proclaim his glory... 
 
 That's why we go, that's why we cross boundaries to others. But, how do we proclaim his glory? He tells us right here: by making disciples.
 
@@ -130,7 +128,7 @@ But, making disciples is more than reaching. It's also teaching them to obey all
 
 So, Jesus sends his church to proclaim his glory by making disciples.
 
-### to those who are different than us.
+## to those who are different than us.
 
 But I want to press us here. You see, the Great Commission is a call to cross barriers. It calls us to those who are different than us.
 
@@ -172,5 +170,5 @@ So again, I challenge you to ask yourself, how am I doing these things? Talk tog
 
 You see, the Great Commission was Jesus's final words to his church before he ascended to heaven. Final words are important words. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzI2NTM3NSwtNzc3ODI4ODI0XX0=
+eyJoaXN0b3J5IjpbLTgxNTMxODU5NywtNzc3ODI4ODI0XX0=
 -->
