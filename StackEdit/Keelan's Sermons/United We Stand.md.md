@@ -56,9 +56,7 @@ Now that's a vision! In the end, after this world is no more and creation moves 
 
 But it's more than that. Looking at that crowd, John sees people from all tribes, speaking all languages. The global mission has gathered people from all nations, and the result is a diverse mosaic of nationalities and cultures represented around the throne of God, and they are all worshiping the Lamb that was slain for them.
 
-Because God loves all nations.
-------------------------------
-
+## Because God loves all nations.
 Why? Because God loves all nations.
 
 When Christ, in his commission, says "all nations" that means no one is left out of our disciple-making mission. There is no room for preference or discrimination, regardless of current religion, culture, or nationality. That includes those who are in our neighborhoods and those who are on the other side of the world. We have the responsibility to cross both streets and oceans with the gospel. God commissions us, as the church, to take the gospel to people who are different than us.
@@ -71,9 +69,7 @@ All nations means we have a responsibility to those who are different than us, n
 
 All nations means we cannot just have a preoccupation with what is familiar. What is comfortable. All nations means we are required to cross some boundaries.
 
-Jesus sends his church...
---------------------------
-
+## Jesus sends his church...
 And because God loves all nations, Jesus sends his church...
 
 There is a reason the Great Commission starts with the word **go**.
@@ -90,7 +86,7 @@ The Great Commission is not telling us to just do life and if we stumble into ma
 
 So, we go, and we go to the nations. We're not supposed to sit around and wait on them to come to us.
 
-### on a global missions...
+## on a global missions...
 
 Jesus sends his church, and he sends us on a global mission.
 
@@ -176,5 +172,5 @@ So again, I challenge you to ask yourself, how am I doing these things? Talk tog
 
 You see, the Great Commission was Jesus's final words to his church before he ascended to heaven. Final words are important words. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzgyODgyNF19
+eyJoaXN0b3J5IjpbMTE2NzI2NTM3NSwtNzc3ODI4ODI0XX0=
 -->
