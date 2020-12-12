@@ -20,8 +20,18 @@ The first semester of the Pathways: IMB cohort engages the participant in the fi
 -   Financial work (Financial peace?)
 -   Consultation with Member Care/Somer
 -   Develop Advocacy Team
+-   EV logs (after EV training)
+
 
 ## IMB Paperwork
+-   Medical Records Authorizaiton
+-   GDRP Consent Form
+-   Q1
+-   Q2
+-   Financial statement
+-   Autobiography
+-   Background Check (expense?)
+-   THA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3OTQ2NzA3LC0zNjY3NjgxODFdfQ==
+eyJoaXN0b3J5IjpbLTE4NTk1NDg2MDksLTM2Njc2ODE4MV19
 -->
