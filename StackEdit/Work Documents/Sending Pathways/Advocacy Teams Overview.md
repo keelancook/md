@@ -9,19 +9,16 @@ Simply put, an advocate team is a group of people who deeply love and care for t
 
 There are two major roles of an Advocacy Team: care and representation. The success of an advocate team depends on its ability to accomplish these two goals from the time that the missionary prepares to leave for the field until his or her return.
 
-Care
-
+### Care
 Many missionaries live in physically challenging environments. Some are raising children far from extended family. Others struggle with cultural adjustments and language barriers. Most significantly, all serve on the front lines of spiritual warfare. For survival and spiritual health, missionaries need the assurance that they are not alone, that there are others in the body of Christ who love them and are committed to their welfare and also to the success of their work. missionaries need empathetic listeners— compassionate, caring friends who are not in a supervisory role. The Advocacy Team can consistently provide that kind of spiritual and emotional care. Caring also involves identifying specific needs which the team can meet or organize others in our church to meet.
 
-Representation
-
+### Representation
 The Advocacy Team also champions the missionary and his or her work to our church body and advocates for ongoing participation in that missionaries’ ministry even when he or she is far away. Thanks to the efforts of the Advocate Team, our church feels an ongoing sense of connection to our workers.
 
   
   
 
-What Does An Advocacy Team Look Like?
-
+## What Does An Advocacy Team Look Like?
 We have intentionally kept the structure of our Advocacy Teams simple. The foundation of each Advocacy Team is the team leader. He/She is the one who has the main connection with the missionary and leads the team in all aspects. The team leader either already knows the missionary deeply or commits to build a deep relationship. The rest of the team is built under the leadership of this committed person.
 
 Each Advocacy Team will look different. Some will have a team leader with 6-8 additional people on the team while others will have a leader with just one or two additional people on the team. Both types of teams can serve as great care networks for our missionaries.
@@ -30,21 +27,12 @@ Depending on the team members’ season of life, people may need to step out of 
 
   
 
-What Does An Advocate Team Do?
+## What Does An Advocate Team Do?
 
-Meet Monthly
-
-Teams can meet at anytime and anywhere, we just ask that each team meet once a month to fulfill their role as advocates.
-
-Pray
-
-The main role of an Advocacy Team is to pray monthly as a team and on an individual basis. We also ask that you hold your missionary accountable to update their prayer requests monthly on Google docs.
-
-Stay Connected
-
-Ask any missionary and they will tell you that they rarely stay connected with their friends and church family back home. Part of providing care to missionaries is the commitment to stay connected. Your missionary should here from you at least once a month. This can happen through emails, Skype, handwritten letters or any number of creative ways. Make sure this is part of your team meeting.
-
-Send Care Packages
+ - **Meet Monthly** - Teams can meet at anytime and anywhere, we just ask that each team meet once a month to fulfill their role as advocates.
+- **Pray** - The main role of an Advocacy Team is to pray monthly as a team and on an individual basis. We also ask that you hold your missionary accountable to update their prayer requests monthly on Google docs.
+- **Stay Connected** - Ask any missionary and they will tell you that they rarely stay connected with their friends and church family back home. Part of providing care to missionaries is the commitment to stay connected. Your missionary should here from you at least once a month. This can happen through emails, Skype, handwritten letters or any number of creative ways. Make sure this is part of your team meeting.
+- **Send Care Packages
 
 Nothing says I love you to a missionary quite like a box full of ranch dressing mix, chocolate and a few good books! Advocacy Teams will send at least two care packages a year to their missionary.
 
@@ -170,5 +158,5 @@ This Document was prepared by Imago Dei Church, but developed from resources by 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTM3OTk1OV19
+eyJoaXN0b3J5IjpbLTkwMTA1MDcyMl19
 -->
