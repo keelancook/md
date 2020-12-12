@@ -67,49 +67,25 @@ What are some specific things Advocacy Teams can do to care for their missionari
 -   Understand that life on the field is just as full (if not more so) than life in the U.S., and that you may not immediately hear back from them. If they don't get back with you within a week or so, try again. If they continue to be non-responsive, contact the mission leadership within the church.
 
 ### Represent:
--   The team leader should relate pertinent information on the missionary’s life and service (including prayer requests, updates, needs, concerns, etc.) to the mission leadership on a regular basis
+-   The team leader should relate pertinent information on the missionary’s life and service (including prayer requests, updates, needs, concerns, etc.) to the mission leadership on a regular basis.
 
-  
-
-Provide:
-
+### Provide:
 -   Ask if they need assistance in areas of personal business, such as preparing taxes or registering for absentee ballots during elections.
-    
 -   If they will be coming home on furlough, ask them whether or not they need assistance finding housing or a vehicle.
-    
 -   Help clean the missionaries’ residence before they return.
-    
 -   Coordinate meals and/or childcare for them the first week of their arrival.
-    
 
-  
-
-Departure and Arrival:
-
+### Departure and Arrival:
 -   While they are in pre-field training, meet together once a month for prayer and encouragement.
-    
 -   As the departure date draws near, assist in packing, moving, shopping, and/or childcare (while the parents take care of the above).
-    
 -   If possible, send them off at the airport when they depart.
-    
 -   Read a book on re-entry to prepare for their homecoming. (Suggestion: The Re-entry Team by Neal Pirolo)
-    
 -   If needed, assist in securing housing and a vehicle before they return.
-    
 -   If possible, meet them at the airport when they return.
-    
 -   When they come home, schedule time with them to ask questions, see pictures and talk about life in their host country.
-    
 -   After they return, pray with them about their host country, including their friends/contacts in the host country.
-    
 
-  
-  
-  
-
-This Document was prepared by Imago Dei Church, but developed from resources by Sojourn Community Church and Austin Stone Community Church.
-
-> Written with [StackEdit](https://stackedit.io/).
+`This Document was prepared by Imago Dei Church, but developed from resources by Sojourn Community Church and Austin Stone Community Church.`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDAzODgyNl19
+eyJoaXN0b3J5IjpbNjYxMjc1MDkwXX0=
 -->
