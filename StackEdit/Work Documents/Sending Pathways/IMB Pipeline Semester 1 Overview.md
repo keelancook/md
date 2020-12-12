@@ -8,7 +8,7 @@ The first semester of the Pathways: IMB cohort engages the participant in the fi
 
 ## Pathways Cohort
 -   Month 1: Abiding in Christ  
-	   Spiritual Formation/ Character as Stewardship
+	-  Spiritual Formation/ Character as Stewardship
 -   Month 2: Entry
 -   Month 3: Evangelism
 -   Month 4: Disciple-making
@@ -34,5 +34,5 @@ The first semester of the Pathways: IMB cohort engages the participant in the fi
 -   Background Check (expense?)
 -   THA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDUxMzg4NCwtMzY2NzY4MTgxXX0=
+eyJoaXN0b3J5IjpbLTE1OTk3MzE5ODMsLTM2Njc2ODE4MV19
 -->
