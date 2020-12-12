@@ -32,42 +32,18 @@ Depending on the team members’ season of life, people may need to step out of 
  - **Meet Monthly** - Teams can meet at anytime and anywhere, we just ask that each team meet once a month to fulfill their role as advocates.
 - **Pray** - The main role of an Advocacy Team is to pray monthly as a team and on an individual basis. We also ask that you hold your missionary accountable to update their prayer requests monthly on Google docs.
 - **Stay Connected** - Ask any missionary and they will tell you that they rarely stay connected with their friends and church family back home. Part of providing care to missionaries is the commitment to stay connected. Your missionary should here from you at least once a month. This can happen through emails, Skype, handwritten letters or any number of creative ways. Make sure this is part of your team meeting.
-- **Send Care Packages
+- **Send Care Packages** - Nothing says I love you to a missionary quite like a box full of ranch dressing mix, chocolate and a few good books! Advocacy Teams will send at least two care packages a year to their missionary.
+- **Help with Departure and Arrival** - Some of the hardest times for your missionary will be preparing to leave for the field and returning home for a stateside visit. There are a thousand things that need to be done and we ask that your team jump in and help as much as possible.
 
-Nothing says I love you to a missionary quite like a box full of ranch dressing mix, chocolate and a few good books! Advocacy Teams will send at least two care packages a year to their missionary.
-
-  
-
-Help with Departure and Arrival
-
-Some of the hardest times for your missionary will be preparing to leave for the field and returning home for a stateside visit. There are a thousand things that need to be done and we ask that your team jump in and help as much as possible.
-
-  
-
-How Do We Get Started?
-
+## How Do We Get Started?
 Here are three things to do to get your Advocacy Team started:
+1. **Email the Team** - Once the team leader is in place, he/she can email others on the team or start recruiting for the team. Get everyone on an email list and start communicating with one another.
+2. **Email your Missionary** - The team leader needs to email the missionary and let them know their Advocacy Team is forming. Ask for prayer requests and invite the missionary to the first meeting via Skype.
+3. **Meet as a Team** - Set a date for your first meeting. Pick a home to meet in and share a meal with one another. During this meeting make sure you get to know each other, pray for the missionary and if possible talk to your missionary on Skype. Also make sure you set up a regular time and place to meet.
 
-Email the Team
-
-Once the team leader is in place, he/she can email others on the team or start recruiting for the team. Get everyone on an email list and start communicating with one another.
-
-Email your Missionary
-
-The team leader needs to email the missionary and let them know their Advocacy Team is forming. Ask for prayer requests and invite the missionary to the first meeting via Skype.
-
-Meet as a Team
-
-Set a date for your first meeting. Pick a home to meet in and share a meal with one another. During this meeting make sure you get to know each other, pray for the missionary and if possible talk to your missionary on Skype. Also make sure you set up a regular time and place to meet.
-
-  
-
-Helpful Hints for Advocacy Teams
-
+## Helpful Hints for Advocacy Teams
 What are some specific things Advocacy Teams can do to care for their missionaries well?
-
-Educate:
-
+- **Educate:
 -   Spend time with them and their families prior to their departure. Get to know the missionaries and their kids on a personal level.
     
 -   Ask specific questions about their lives in the host country: What kind of work are they doing? What does a typical day look like? What are their living arrangements? What is transportation like? What is it like to shop for food, or cook there? What is the climate and how does it affect them? How are they treated by the locals? How are their children treated by the locals? Do they work on a team? If so, how are the relationships within the team?
@@ -158,5 +134,5 @@ This Document was prepared by Imago Dei Church, but developed from resources by 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTA1MDcyMl19
+eyJoaXN0b3J5IjpbLTg2OTk0ODYxMV19
 -->
