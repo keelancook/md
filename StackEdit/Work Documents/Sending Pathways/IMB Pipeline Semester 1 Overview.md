@@ -1,9 +1,10 @@
 # Pathways: IMB Semester 1
 
 ## Description
-The first semester of the Pathways: IMB cohort engages the participant in 
+The first semester of the Pathways: IMB cohort engages the participant in the first three phases of the Core Missionary Task (LINK).  
 
 ## Required Reading
+- Foundations Manual - 
 
 ## Pathways Cohort
 
@@ -11,5 +12,5 @@ The first semester of the Pathways: IMB cohort engages the participant in
 
 ## IMB Paperwork
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTcyNjc0M119
+eyJoaXN0b3J5IjpbLTM2Njc2ODE4MV19
 -->
