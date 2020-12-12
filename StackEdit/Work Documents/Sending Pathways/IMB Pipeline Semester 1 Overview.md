@@ -7,15 +7,21 @@ The first semester of the Pathways: IMB cohort engages the participant in the fi
 - Foundations Manual - 
 
 ## Pathways Cohort
-
 -   Month 1: Abiding in Christ  
     Spiritual Formation/ Character as Stewardship
 -   Month 2: Entry
 -   Month 3: Evangelism
 -   Month 4: Disciple-making
+
 ## Personal Growth Plan
+-   [Deepen Discpleship](https://imb.pathwright.com/library/deepen-discipleship-055f43a0/about/)
+-   Purity Module
+-   BMI work
+-   Financial work (Financial peace?)
+-   Consultation with Member Care/Somer
+-   Develop Advocacy Team
 
 ## IMB Paperwork
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY1MTk4MzEsLTM2Njc2ODE4MV19
+eyJoaXN0b3J5IjpbNzI3OTQ2NzA3LC0zNjY3NjgxODFdfQ==
 -->
