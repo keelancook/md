@@ -43,54 +43,31 @@ Here are three things to do to get your Advocacy Team started:
 
 ## Helpful Hints for Advocacy Teams
 What are some specific things Advocacy Teams can do to care for their missionaries well?
-- **Educate:
+### Educate:
 -   Spend time with them and their families prior to their departure. Get to know the missionaries and their kids on a personal level.
-    
 -   Ask specific questions about their lives in the host country: What kind of work are they doing? What does a typical day look like? What are their living arrangements? What is transportation like? What is it like to shop for food, or cook there? What is the climate and how does it affect them? How are they treated by the locals? How are their children treated by the locals? Do they work on a team? If so, how are the relationships within the team?
-    
 -   Ask specific questions about the culture/environment of the host country: What is the host culture's attitude toward time: slow or fast-paced? Do locals tend to be more task-oriented or people-oriented? Are the locals generally open to interacting with foreigners? What is their attitude toward Americans? How welcoming are the national and local governments to foreigners like themselves? What is the level of risk in operating in the host country? If a high level of risk is involved, what kinds of precautions do they take to do their work? What is/are the prevailing beliefs in the area? What is the level of oppression, including outright demonic activity in the area? How does this affect them and their family? How healthy is the local body? What kind of interaction do they have with the local body?
-    
 -   Ask specific questions about their projects (if possible, in light of security precautions): What are their objectives? How are they pursuing those objectives? What obstacles have they run into? What are some encouraging aspects of the work going on there? What are some discouraging aspects of the work?
-    
 -   Read up on current events in their country and/or region, and ask how these events affect their lives and/or ministry.
-    
 -   If the means are available, visit them on the field!
-    
 
-  
-
-Pray:
+### Pray:
 
 -   Beginning six months before their departure, meet with the missionaries once a month for prayer.
-    
--   After their departure, communicate regularly to develop a working prayer list. Use the list to pray individually for them and once a month, gather as a group to pray for them together.
-    
+-   After their departure, communicate regularly to develop a working prayer list. Use the list to pray individually for them and once a month, gather as a group to pray for them together.    
 -   Pray for your missionary in your community group, with your family and in your own prayer time.
-    
 
-  
-
-Communicate:
+### Communicate:
 
 -   Write an email, connect on Facebook, make a Skype call, or connect in some other way with at least once a month.
-    
 -   Send birthday cards, anniversary cards or Christmas cards.
-    
 -   Ask if they have any practical needs that the Advocacy Team and/or the church body could help with.
-    
 -   Ask questions about their physical, emotional and spiritual health.
-    
 -   Inform them of recent happenings with the church and happenings in your own life.
-    
 -   Understand that life on the field is just as full (if not more so) than life in the U.S., and that you may not immediately hear back from them. If they don't get back with you within a week or so, try again. If they continue to be non-responsive, contact the mission leadership within the church.
-    
 
-  
-
-Represent:
-
+### Represent:
 -   The team leader should relate pertinent information on the missionary’s life and service (including prayer requests, updates, needs, concerns, etc.) to the mission leadership on a regular basis
-    
 
   
 
@@ -134,5 +111,5 @@ This Document was prepared by Imago Dei Church, but developed from resources by 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTk0ODYxMV19
+eyJoaXN0b3J5IjpbMTI3MDAzODgyNl19
 -->
